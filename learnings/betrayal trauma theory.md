@@ -11,8 +11,7 @@ When the betraying party is someone you can't afford to lose — a parent, a par
 The result can look like minimizing the harm, defending the person who caused it, self-blame, confusion about your own perceptions, or a kind of dissociation from what you actually experienced.
 
 **Institutional betrayal**
-
-Freyd and her colleague Jennifer Gomez extended the theory to institutions — organizations, workplaces, universities, churches, medical systems. Institutional betrayal happens when a system that promotes values like trust, safety, or fairness instead:
+Institutional betrayal happens when a system that promotes values like trust, safety, or fairness instead:
 
 - fails to prevent harm to someone within it
 - covers up or dismisses harm when reported

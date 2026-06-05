@@ -2,15 +2,15 @@
   "title": "Sleepy Meow",
   "folders": [
     {
-      "name": "bullshit",
+      "name": "learnings",
       "files": [
         {
           "name": "institutional betrayal",
-          "path": "bullshit/institutional betrayal.md"
+          "path": "learnings/institutional betrayal.md"
         },
         {
           "name": "moral injury",
-          "path": "bullshit/moral injury.md"
+          "path": "learnings/moral injury.md"
         }
       ]
     }

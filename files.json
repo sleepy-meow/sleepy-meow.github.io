@@ -5,6 +5,10 @@
       "name": "learnings",
       "files": [
         {
+          "name": "darvo",
+          "path": "learnings/darvo.md"
+        },
+        {
           "name": "institutional betrayal",
           "path": "learnings/institutional betrayal.md"
         },

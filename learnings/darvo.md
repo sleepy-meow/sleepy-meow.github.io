@@ -45,16 +45,7 @@ A useful tell: after the conversation, the person who raised a legitimate concer
 
 ## Institutional DARVO
 
-The same pattern at the level of an organization: when a harm is reported, the institution denies it happened, attacks the reporter's motives or stability, and frames itself as the aggrieved party. Freyd's example: police charging rape victims with lying. In a workplace it looks like a company that, on receiving a complaint, questions the reporter's record and casts the organization as the real victim of a "disgruntled" employee.
-
----
-
-## What the research found
-
-- **Harsey, Zurbriggen & Freyd (2017):** the three DARVO components correlate; higher exposure during a confrontation was associated with **increased self-blame** in the person confronting.
-- **Harsey & Freyd (2020):** exposure to DARVO led observers to believe the victim less and blame them more — but **simply naming and explaining the pattern ("DARVO education") reduced the effect.**
-- **Harsey & Freyd (2023):** DARVO led observers to distrust victims and view perpetrators less harshly — a likely driver of victim-blaming and low reporting.
-- **Harsey, Adams-Clark & Freyd (2024):** DARVO *use* was significantly associated with sexual-harassment perpetration and rape-myth acceptance.
+The same pattern at the level of an organization: when a harm is reported, the institution denies it happened, attacks the reporter's motives or stability, and frames itself as the aggrieved party. In a workplace it looks like a company that, on receiving a complaint, questions the reporter's record and casts the organization as the real victim of a "disgruntled" employee.
 
 ---
 

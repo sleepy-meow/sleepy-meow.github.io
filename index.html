@@ -140,6 +140,10 @@
   .md th, .md td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
   .md th { background: var(--bg-soft); }
   .md img { max-width: 100%; border-radius: var(--radius); }
+  .md mark {
+    background: color-mix(in srgb, var(--accent) 38%, transparent);
+    color: inherit; padding: .05em .25em; border-radius: 4px;
+  }
   .md ul, .md ol { padding-left: 1.4em; }
   .md li { margin: .3em 0; }
 
@@ -201,6 +205,22 @@ marked.setOptions({
     } catch { return code; }
   }
 });
+
+// Obsidian-style ==highlight== → <mark>highlight</mark>
+marked.use({ extensions: [{
+  name: 'mark',
+  level: 'inline',
+  start(src) { return src.indexOf('=='); },
+  tokenizer(src) {
+    const m = /^==(?=\S)([\s\S]*?\S)==/.exec(src);
+    if (m) return {
+      type: 'mark',
+      raw: m[0],
+      tokens: this.lexer.inlineTokens(m[1])
+    };
+  },
+  renderer(token) { return '<mark>' + this.parser.parseInline(token.tokens) + '</mark>'; }
+}]});
 
 function closeNav() { body.classList.remove('nav-open'); }
 document.getElementById('menu-toggle').onclick = () => body.classList.toggle('nav-open');

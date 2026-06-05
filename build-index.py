@@ -12,8 +12,8 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 
 # Folders we never want to publish / index.
 IGNORE_DIRS = {".git", ".obsidian", ".github", "node_modules"}
-# Files we never want to list.
-IGNORE_FILES = {"README.md"}
+# Files we never want to list (meta / config, not site content).
+IGNORE_FILES = {"README.md", "CLAUDE.md"}
 
 
 def title_from(name: str) -> str:

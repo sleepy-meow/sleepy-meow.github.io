@@ -5,20 +5,12 @@
       "name": "bullshit",
       "files": [
         {
-          "name": "fearing the truth",
-          "path": "bullshit/fearing the truth.md"
-        },
-        {
           "name": "institutional betrayal",
           "path": "bullshit/institutional betrayal.md"
         },
         {
           "name": "moral injury",
           "path": "bullshit/moral injury.md"
-        },
-        {
-          "name": "no explanation",
-          "path": "bullshit/no explanation.md"
         }
       ]
     }

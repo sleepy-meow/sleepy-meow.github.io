@@ -232,6 +232,15 @@ function setActive(path) {
     a.classList.toggle('active', a.dataset.path === path));
 }
 
+function titleFor(path) {
+  for (const folder of manifest.folders)
+    for (const file of folder.files)
+      if (file.path === path) return file.name;
+  // Fallback: derive from the filename.
+  const base = path.split('/').pop().replace(/\.md$/i, '');
+  return base.replace(/[-_]/g, ' ').trim();
+}
+
 async function loadFile(path) {
   setActive(path);
   closeNav();
@@ -240,7 +249,11 @@ async function loadFile(path) {
     const res = await fetch(encodeURI(path), { cache: 'no-cache' });
     if (!res.ok) throw new Error(res.status);
     const raw = await res.text();
-    const html = DOMPurify.sanitize(marked.parse(raw));
+    const title = titleFor(path);
+    document.title = title + ' · ' + (manifest.title || 'Notes');
+    const heading = '<h1 class="page-title">' +
+      title.replace(/&/g, '&amp;').replace(/</g, '&lt;') + '</h1>';
+    const html = heading + DOMPurify.sanitize(marked.parse(raw));
     content.innerHTML = html;
     content.querySelectorAll('pre code').forEach(b => hljs.highlightElement(b));
     // External links open in a new tab.
@@ -255,6 +268,7 @@ async function loadFile(path) {
 }
 
 function showWelcome() {
+  document.title = manifest.title || 'Notes';
   const count = manifest.folders.reduce((n, f) => n + f.files.length, 0);
   content.innerHTML =
     '<div class="welcome">' +

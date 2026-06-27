@@ -33,11 +33,6 @@
           ]
         },
         {
-          "name": "user experience of tools",
-          "path": "practical tools/user experience of tools.md",
-          "tags": []
-        },
-        {
           "name": "effective feedback model",
           "path": "practical tools/effective feedback model.md",
           "tags": []
@@ -73,16 +68,6 @@
           "tags": []
         },
         {
-          "name": "lines of communication",
-          "path": "learnings/lines of communication.md",
-          "tags": []
-        },
-        {
-          "name": "attention",
-          "path": "learnings/attention.md",
-          "tags": []
-        },
-        {
           "name": "feedback",
           "path": "learnings/feedback.md",
           "tags": []
@@ -90,11 +75,6 @@
         {
           "name": "the fat cat syndrome",
           "path": "learnings/the fat cat syndrome.md",
-          "tags": []
-        },
-        {
-          "name": "limited brain capacity",
-          "path": "learnings/limited brain capacity.md",
           "tags": []
         }
       ]

@@ -144,6 +144,10 @@
     justify-content: center;
     padding: 56px 48px 45vh;   /* generous bottom space, like Obsidian */
   }
+  /* Landing page: top-aligned, but offset a bit further down the window. */
+  body.is-welcome main {
+    padding-top: 16vh;
+  }
   #content {
     width: 100%;
     max-width: 40rem;
@@ -155,16 +159,17 @@
   .md h1, .md h2, .md h3, .md h4, .md h5, .md h6 {
     line-height: 1.3; margin: 1.9em 0 .7em;
   }
-  .md h1, .md .page-title { font-size: 1.7rem; font-weight: 700; color: #b6b2b2; }
+  .md h1, .md .page-title { font-size: 1.7rem; font-weight: 700; color: var(--text); }
   /* Only the page title (and a note's very first element) hugs the top. */
   .md .page-title, .md > :first-child { margin-top: 0; }
-  .md .page-title { color: var(--text); font-size: 2rem; padding: .5em 0 .9em; }
-  .md h2 { font-size: 1.5rem; font-weight: 700; color: #b6b2b2;
+  .md .page-title { color: var(--text); font-size: 2rem; padding: .5em 0 0; margin-bottom: 0; }
+  .md .page-title + * { margin-top: .2em; }
+  .md h2 { font-size: 1.5rem; font-weight: 700; color: var(--text);
            border-bottom: 2px solid var(--border); padding-bottom: 3px; }
-  .md h3 { font-size: 1.2rem; font-weight: 600; color: #b6b2b2; }
-  .md h4 { font-size: 1.1rem; font-weight: 500; color: #b6b2b2; }
-  .md h5 { font-size: 1rem;   font-weight: 500; color: #b6b2b2; }
-  .md h6 { font-size: .9rem;  font-weight: 400; color: #b6b2b2; }
+  .md h3 { font-size: 1.2rem; font-weight: 600; color: var(--text); }
+  .md h4 { font-size: 1.1rem; font-weight: 500; color: var(--text); }
+  .md h5 { font-size: 1rem;   font-weight: 500; color: var(--text); }
+  .md h6 { font-size: .9rem;  font-weight: 400; color: var(--text); }
   .md p, .md li { color: var(--text); }
   .md strong { color: var(--pink); font-weight: 700; }
   .md em { color: var(--pink); }
@@ -255,6 +260,18 @@
       color: hsl(var(--th) 60% 38%);
     }
     .md a.tag:hover, .tag-list .tag:hover { background: hsl(var(--th) 65% 50% / .26); }
+  }
+  /* Inline tags inside a note are grayscale (sidebar keeps per-tag colour),
+     with a little breathing room above/below the tag row. */
+  .md a.tag {
+    margin: .7em 0;
+    background: hsl(0 0% 55% / .16);
+    color: var(--muted);
+  }
+  .md a.tag:hover { background: hsl(0 0% 60% / .3); color: var(--text); }
+  @media (prefers-color-scheme: light) {
+    .md a.tag { background: hsl(0 0% 45% / .12); color: var(--muted); }
+    .md a.tag:hover { background: hsl(0 0% 45% / .22); color: var(--text); }
   }
   .tag-count { opacity: .55; font-size: .85em; font-variant-numeric: tabular-nums; }
 
@@ -539,6 +556,7 @@ function titleFor(path) {
 async function loadFile(path) {
   setActive(path);
   closeNav();
+  body.classList.remove('is-welcome');
   content.innerHTML = '<div class="welcome"><h1>Loading…</h1></div>';
   try {
     const res = await fetch(encodeURI(path), { cache: 'no-cache' });
@@ -569,6 +587,7 @@ async function loadFile(path) {
 async function showWelcome() {
   document.title = manifest.title || 'Notes';
   setActive(null);
+  body.classList.add('is-welcome');
   const titleHtml = '<h1>' +
     (manifest.title || 'Notes').replace(/&/g, '&amp;').replace(/</g, '&lt;') + '</h1>';
 
@@ -667,6 +686,24 @@ function route() {
   if (path) loadFile(path); else showWelcome();
 }
 window.addEventListener('hashchange', route);
+
+// Re-read the manifest when the tab regains focus, so changes made by the
+// sync (renames, new/removed notes, reordering) show up without a reload.
+async function refreshManifest() {
+  try {
+    const res = await fetch('files.json', { cache: 'no-cache' });
+    const next = await res.json();
+    if (JSON.stringify(next) === JSON.stringify(manifest)) return;
+    manifest = next;
+    document.title = manifest.title || 'Notes';
+    document.getElementById('brand-title').textContent = manifest.title || 'Notes';
+    buildNav(manifest.folders);
+    buildTags(manifest.folders);
+    applyFilter();
+    setActive(decodeURIComponent(location.hash.slice(1)) || null);
+  } catch {}
+}
+window.addEventListener('focus', refreshManifest);
 
 (async function init() {
   try {

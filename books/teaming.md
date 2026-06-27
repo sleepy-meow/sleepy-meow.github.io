@@ -1,3 +1,10 @@
+*quote*
+#book
+# why it was worth the read
+
+
+# what
+
 > *One old formula emphasizes group composition-find out what everyone's personal style and competence is and fit the parts together. The most obvious limitation to this formula is that the changing nature of complex tasks makes it difficult to decide ahead of time what personal style and competency set to measure.*
 
 Many organizations still rely on the top-down, command-and-control approaches that fueled growth and profitability in the industrial era. Some of the most basic tenets of this management style- ensuring control, eliminating variance, and rewarding conformance-inhibit collaboration and organizational learning.

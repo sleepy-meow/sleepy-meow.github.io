@@ -3,6 +3,7 @@
 
 *"Clear is kind. Unclear is unkind. Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind. Talking about people rather than to them is unkind."*
 
+# the cheap seats
 Anonymous feedback is structurally unclear. You can't give anonymous feedback without talking about people.
 
 You can't act on it, can't ask follow-up questions, you can't understand what to do with it. So instead of changing a behavior, the only direction for it is to turn inwards. Instead of "i did something wrong", it can turn into "i am wrong".

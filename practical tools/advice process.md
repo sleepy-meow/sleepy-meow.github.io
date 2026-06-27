@@ -1,4 +1,4 @@
-*Advice process - a simple process for distributed decision making*
+*A simple process for distributed decision making*
 #decision-making #methods
 
 # why
@@ -18,7 +18,7 @@ Sometimes it's useful to include in the first group people who have different pe
 
 Anyone can make any decision, after seeking advice. Advice must be taken seriously, but it's only advice. No one, however senior, can tell the decision-maker what to decide.
 
-Ownership of the issue stays clearly with one person: the decision maker. Convinced of having made the best possible decision, they can see things through and accept responsibility for mistakes.
+*Ownership of the issue stays clearly with one person: the decision maker.* Convinced of having made the best possible decision, they can see things through and accept responsibility for mistakes.
 
 
 # more info

@@ -1,3 +1,8 @@
+*quote*
+#book
+
+# why it was worth the read
+
 It's a common misconception to think that when a company grows or becomes successful, it is just inevitable that enshittification will happen.
 
 It's not, it just doesn't happen by itself. 

@@ -1,3 +1,7 @@
+*quote*
+#book
+# why it was worth the read
+
 
 # what's the point
 

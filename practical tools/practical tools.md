@@ -1,4 +1,4 @@
-[[decision making]]
+[[advice process]]
 [[decision log]]
 [[fostering psychological safety]]
 [[facilitation methods]]

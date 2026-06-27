@@ -1,7 +1,12 @@
-*""change begins in a shift in narrative"*
+*"change begins in a shift in narrative"*
+#facilitation
 
+# why
+why these specific methods?
+
+# what
 - 6 conversations
-- open space
+- open space 
 
 
 # consultants

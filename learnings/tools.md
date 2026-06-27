@@ -6,6 +6,6 @@
 
 [[lines of communication]]
 [[attention]]
-[[cheap seat feedback]]
+[[feedback]]
 
 [[the fat cat syndrome]]

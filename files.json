@@ -5,8 +5,8 @@
       "name": "practical tools",
       "files": [
         {
-          "name": "decision making",
-          "path": "practical tools/decision making.md",
+          "name": "advice process",
+          "path": "practical tools/advice process.md",
           "tags": [
             "decision-making",
             "methods"
@@ -28,7 +28,9 @@
         {
           "name": "facilitation methods",
           "path": "practical tools/facilitation methods.md",
-          "tags": []
+          "tags": [
+            "facilitation"
+          ]
         },
         {
           "name": "user experience of tools",
@@ -81,8 +83,8 @@
           "tags": []
         },
         {
-          "name": "cheap seat feedback",
-          "path": "learnings/cheap seat feedback.md",
+          "name": "feedback",
+          "path": "learnings/feedback.md",
           "tags": []
         },
         {
@@ -103,37 +105,51 @@
         {
           "name": "dare to lead",
           "path": "books/dare to lead.md",
-          "tags": []
+          "tags": [
+            "book"
+          ]
         },
         {
           "name": "incorruptible",
           "path": "books/incorruptible.md",
-          "tags": []
+          "tags": [
+            "book"
+          ]
         },
         {
           "name": "leaders eat last",
           "path": "books/leaders eat last.md",
-          "tags": []
+          "tags": [
+            "book"
+          ]
         },
         {
           "name": "reinventing organizations",
           "path": "books/reinventing organizations.md",
-          "tags": []
+          "tags": [
+            "book"
+          ]
         },
         {
           "name": "team of teams",
           "path": "books/team of teams.md",
-          "tags": []
+          "tags": [
+            "book"
+          ]
         },
         {
           "name": "teaming",
           "path": "books/teaming.md",
-          "tags": []
+          "tags": [
+            "book"
+          ]
         },
         {
           "name": "up down up",
           "path": "books/up down up.md",
-          "tags": []
+          "tags": [
+            "book"
+          ]
         }
       ]
     }

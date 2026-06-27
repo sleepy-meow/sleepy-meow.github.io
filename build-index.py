@@ -17,6 +17,8 @@ IGNORE_DIRS = {".git", ".obsidian", ".github", "node_modules"}
 IGNORE_FILES = {"README.md", "CLAUDE.md"}
 # This note is rendered as the landing/welcome page, not listed as a note.
 LANDING_FILE = "landing page.md"
+# Sidebar category order (by lowercase name); anything else follows, sorted.
+CATEGORY_ORDER = ["practical tools", "learnings", "books"]
 
 # Obsidian inline tag: "#" + tag, where the tag starts with a letter and may
 # contain word chars, "-", "_" and "/" (nested tags). Must not follow a word
@@ -86,6 +88,42 @@ def extract_tags(path: str) -> list:
     return tags
 
 
+def folder_note_order(path: str):
+    """If `path` is a folder note (its non-empty lines are all wikilinks),
+    return the ordered list of linked note names (lowercased). Else None.
+    """
+    try:
+        with open(path, encoding="utf-8") as fh:
+            text = fh.read()
+    except (OSError, UnicodeDecodeError):
+        return None
+
+    targets, has_prose = [], False
+    for line in text.splitlines():
+        s = line.strip()
+        if not s or s.startswith("#") or s.startswith("%%"):
+            continue
+        links = re.findall(r"\[\[([^\]|#]+)", s)
+        for l in links:
+            targets.append(l.strip().lower())
+        # Whatever remains after removing links and list markers — if there's
+        # real text, this isn't a pure index/folder note.
+        rest = re.sub(r"\[\[[^\]]*\]\]", "", s)
+        rest = re.sub(r"^[-*+]|\d+[.)]", "", rest).strip()
+        if rest:
+            has_prose = True
+    return targets if targets and not has_prose else None
+
+
+def order_files(files: list, order: list) -> None:
+    """Sort `files` by the order list (matched on lowercased name); names not
+    listed keep to the end, alphabetically."""
+    def key(f):
+        name = f["name"].lower()
+        return (order.index(name) if name in order else len(order), name)
+    files.sort(key=key)
+
+
 def main() -> None:
     folders = []
     landing = None
@@ -95,23 +133,35 @@ def main() -> None:
             continue
 
         files = []
+        order = None
         for dirpath, dirnames, filenames in os.walk(full):
             dirnames[:] = [d for d in dirnames if d not in IGNORE_DIRS and not d.startswith(".")]
             for fn in sorted(filenames):
                 if not fn.endswith(".md") or fn in IGNORE_FILES:
                     continue
-                rel = os.path.relpath(os.path.join(dirpath, fn), ROOT)
+                fpath = os.path.join(dirpath, fn)
+                rel = os.path.relpath(fpath, ROOT)
                 if fn == LANDING_FILE:
                     landing = rel.replace(os.sep, "/")
                     continue
+                # A folder note (an all-wikilinks index) at the category root
+                # defines note order and is itself hidden from the list.
+                if order is None and dirpath == full:
+                    fn_order = folder_note_order(fpath)
+                    if fn_order is not None:
+                        order = fn_order
+                        continue
                 files.append({
                     "name": title_from(fn),
                     "path": rel.replace(os.sep, "/"),
-                    "tags": extract_tags(os.path.join(dirpath, fn)),
+                    "tags": extract_tags(fpath),
                 })
 
         if files:
-            files.sort(key=lambda f: f["name"].lower())
+            if order:
+                order_files(files, order)
+            else:
+                files.sort(key=lambda f: f["name"].lower())
             folders.append({"name": title_from(entry), "files": files})
 
     # Also pick up any top-level markdown files (outside a subfolder).
@@ -128,6 +178,14 @@ def main() -> None:
             })
     if loose:
         folders.insert(0, {"name": "Notes", "files": loose})
+
+    # Order categories: those in CATEGORY_ORDER first (in that order), rest A–Z.
+    def cat_key(folder):
+        name = folder["name"].lower()
+        rank = CATEGORY_ORDER.index(name) if name in CATEGORY_ORDER else len(CATEGORY_ORDER)
+        return (rank, name)
+
+    folders.sort(key=cat_key)
 
     manifest = {"title": "lauras learnings", "folders": folders}
     if landing:

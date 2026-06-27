@@ -1,0 +1,6 @@
+[[decision making]]
+[[decision log]]
+[[fostering psychological safety]]
+[[facilitation methods]]
+[[user experience of tools]]
+[[effective feedback model]]

@@ -5,10 +5,11 @@
 
 Anonymous feedback is structurally unclear. You can't give anonymous feedback without talking about people.
 
-You can't act on it, can't ask follow-up questions, you can't understand what to do with it. So instead of changing a behavior, the only direction for it is to turn inwards. Instead of "i did something wrong" (guilt), it can turn into "i am wrong" (shame).
+You can't act on it, can't ask follow-up questions, you can't understand what to do with it. So instead of changing a behavior, the only direction for it is to turn inwards. Instead of "i did something wrong", it can turn into "i am wrong".
 
 *"If you're criticizing from a place where you're not also putting yourself on the line, I'm not interested in what you have to say."*
 
+# the invisible army
 
 We can also use *the invisible army*: "*We* don't want to change course," or "*We* don't like the direction you're taking the project." I hate the invisible army, and if you use it with me I will drill you down on exactly who makes up your *we*. … Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.
 

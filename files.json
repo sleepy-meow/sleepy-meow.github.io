@@ -2,45 +2,137 @@
   "title": "lauras learnings",
   "folders": [
     {
-      "name": "learnings",
+      "name": "practical tools",
       "files": [
         {
-          "name": "cheap seats",
-          "path": "learnings/cheap seats.md",
-          "tags": []
-        },
-        {
-          "name": "decision log",
-          "path": "learnings/decision log.md",
-          "tags": [
-            "methods",
-            "decision-making"
-          ]
-        },
-        {
           "name": "decision making",
-          "path": "learnings/decision making.md",
+          "path": "practical tools/decision making.md",
           "tags": [
             "decision-making",
             "methods"
           ]
         },
         {
-          "name": "effective feedback model",
-          "path": "learnings/effective feedback model.md",
-          "tags": []
-        },
-        {
-          "name": "free flow of information",
-          "path": "learnings/free flow of information.md",
+          "name": "decision log",
+          "path": "practical tools/decision log.md",
           "tags": [
             "methods",
             "decision-making"
           ]
         },
         {
+          "name": "fostering psychological safety",
+          "path": "practical tools/fostering psychological safety.md",
+          "tags": []
+        },
+        {
+          "name": "facilitation methods",
+          "path": "practical tools/facilitation methods.md",
+          "tags": []
+        },
+        {
+          "name": "user experience of tools",
+          "path": "practical tools/user experience of tools.md",
+          "tags": []
+        },
+        {
+          "name": "effective feedback model",
+          "path": "practical tools/effective feedback model.md",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "name": "learnings",
+      "files": [
+        {
+          "name": "the goal of leadership",
+          "path": "learnings/the goal of leadership.md",
+          "tags": []
+        },
+        {
           "name": "psychological safety",
           "path": "learnings/psychological safety.md",
+          "tags": []
+        },
+        {
+          "name": "purpose",
+          "path": "learnings/purpose.md",
+          "tags": []
+        },
+        {
+          "name": "free flow of information",
+          "path": "learnings/free flow of information.md",
+          "tags": []
+        },
+        {
+          "name": "trust & interdependence",
+          "path": "learnings/trust & interdependence.md",
+          "tags": []
+        },
+        {
+          "name": "lines of communication",
+          "path": "learnings/lines of communication.md",
+          "tags": []
+        },
+        {
+          "name": "attention",
+          "path": "learnings/attention.md",
+          "tags": []
+        },
+        {
+          "name": "cheap seat feedback",
+          "path": "learnings/cheap seat feedback.md",
+          "tags": []
+        },
+        {
+          "name": "the fat cat syndrome",
+          "path": "learnings/the fat cat syndrome.md",
+          "tags": []
+        },
+        {
+          "name": "limited brain capacity",
+          "path": "learnings/limited brain capacity.md",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "name": "books",
+      "files": [
+        {
+          "name": "dare to lead",
+          "path": "books/dare to lead.md",
+          "tags": []
+        },
+        {
+          "name": "incorruptible",
+          "path": "books/incorruptible.md",
+          "tags": []
+        },
+        {
+          "name": "leaders eat last",
+          "path": "books/leaders eat last.md",
+          "tags": []
+        },
+        {
+          "name": "reinventing organizations",
+          "path": "books/reinventing organizations.md",
+          "tags": []
+        },
+        {
+          "name": "team of teams",
+          "path": "books/team of teams.md",
+          "tags": []
+        },
+        {
+          "name": "teaming",
+          "path": "books/teaming.md",
+          "tags": []
+        },
+        {
+          "name": "up down up",
+          "path": "books/up down up.md",
           "tags": []
         }
       ]

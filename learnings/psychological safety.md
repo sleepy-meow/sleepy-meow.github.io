@@ -9,10 +9,14 @@ short explanation: [youtube: amy edmondson](https://www.youtube.com/watch?v=eP6g
 - You can't be healthy, trusting, or feel you belong while marinating in cortisol.
 - Fear also uses up a lot of brain capacity.
 
+> *It is not the demands of the job that cause the most stress, but the degree of control workers feel they have throughout their day.*
+
 # the leaders impact
 Usually the biggest interpersonal risk at work is to be fired, which your boss has the power to do, so that's why they also have the biggest impact on psychological safety. 
 
 Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear - fear of not hitting targets, fear of losing bonuses, fear of failing.
+
+In psychologically safe environments, engaging in meaningful dialogue requires neither profound courage nor extraordinary encouragement. I argue that leaders, especially those leading complex operations, have a responsibility to work hard to create a climate where voice is welcomed.
 
 # when there is a gap
 *Speaking up is only the first step. The true test is how leaders respond when people actually do speak*
@@ -22,7 +26,13 @@ Power can cause leaders to become overly obsessed with outcomes and control, ina
 **The dangerous gap — you feel safer than you actually are.** False safety. The belief says "speak up," you do, and then you get punished. This is the more corrosive version, because it only takes one or two betrayals to teach a whole group the real lesson. 
 
 
+# image risks at work
+The four following concerns powerfully shape our willingness to speak up:
 
+- ﻿﻿**Being seen as ignorant**: When individuals ask questions or seek information, they run the risk of being seen as ignorant. Most of us can think of a time when we hesitated to ask a question because it seemed that no one else was asking, or perhaps we believed the information was something we were already expected to know.
+- ﻿﻿**Being seen as incompetent**: When admitting mistakes, asking for help, or accepting the high probability of failure that comes with experimenting, people risk being seen as incompetent. For example, if you admit that something you tried didn't work as expected, it could possibly signal to others that you're not skilled or smart enough to reliably perform your job.
+- ﻿﻿**Being seen as negative**: To learn and improve, it's essential to critically evaluate current and past activities and performance. The risk of being seen as negative, however, often stops people from providing critical assessments. People often believe that critiquing others' performance will make them appear overly critical or hard to work with. In addition, it is well known that bad news rarely travels well up the hierarchy.
+- ﻿﻿**Being seen as disruptive**: Fearful of disrupting or imposing upon others' time, people avoid seeking feedback, information, or help.° In particular, individuals are often reluctant to seek feedback about their performance, despite the personal gains that can be obtained from feedback. Although this reluctance can be attributed to the possibility of hearing something negative, it also stems from a wish not to be seen as intrusive or lacking in self-sufficiency.
 
 
 

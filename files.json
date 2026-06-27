@@ -1,0 +1,50 @@
+{
+  "title": "lauras learnings",
+  "folders": [
+    {
+      "name": "learnings",
+      "files": [
+        {
+          "name": "cheap seats",
+          "path": "learnings/cheap seats.md",
+          "tags": []
+        },
+        {
+          "name": "decision log",
+          "path": "learnings/decision log.md",
+          "tags": [
+            "methods",
+            "decision-making"
+          ]
+        },
+        {
+          "name": "decision making",
+          "path": "learnings/decision making.md",
+          "tags": [
+            "decision-making",
+            "methods"
+          ]
+        },
+        {
+          "name": "effective feedback model",
+          "path": "learnings/effective feedback model.md",
+          "tags": []
+        },
+        {
+          "name": "free flow of information",
+          "path": "learnings/free flow of information.md",
+          "tags": [
+            "methods",
+            "decision-making"
+          ]
+        },
+        {
+          "name": "psychological safety",
+          "path": "learnings/psychological safety.md",
+          "tags": []
+        }
+      ]
+    }
+  ],
+  "landing": "learnings/landing page.md"
+}

@@ -1,5 +1,14 @@
 *"the goal of leadership is to produce more leaders, not followers"*
 
+something about
+- its a skill that often isn't taught
+- 
+- commitment vs compliance
+- responsibility being proportional to power
+
+
+%%
+
 You don't have to be the boss to be a leader. The leader's job is to create and nurture the culture we all need to do our best work — and anytime you play a role in doing that, you are exercising leadership. It's not a title, and it's not some mystical quality that some have and others do not.
 
 **Responsibility is proportional to power.** The acts below are open to anyone. But the more power you hold, the more each one weighs — you control consequences, your reactions carry outsized weight, and the power gradient runs through you. A peer's bad reaction stings; the boss's bad reaction teaches the whole team to go quiet. Some of these moves simply take power to make.

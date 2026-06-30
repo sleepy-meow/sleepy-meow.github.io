@@ -34,8 +34,6 @@ The more creativity and innovation are required to achieve a goal, the more this
 
 # armored vs. daring
 
-This is the diagnostic underneath everything above — the daring column *is* the list. Being a Learner is "ask good questions instead of showing off"; Modeling Clarity is "clear is kind"; Acknowledging and Normalizing Fear is "naming the hard truth in uncertainty"; Power With / To / Within is flattening the gradient.
-
 | Armored                                                          | Daring                                                                    |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | Driving Perfectionism and Fostering Fear of Failure              | Modeling and Encouraging Healthy Striving, Empathy, and Self-Compassion   |

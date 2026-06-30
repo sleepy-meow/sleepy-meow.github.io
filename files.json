@@ -15,8 +15,8 @@
           "tags": []
         },
         {
-          "name": "leadership approaches",
-          "path": "learnings/leadership approaches.md",
+          "name": "different approaches",
+          "path": "learnings/different approaches.md",
           "tags": []
         }
       ]
@@ -70,6 +70,21 @@
       "name": "misc",
       "files": [
         {
+          "name": "free flow of information",
+          "path": "learnings/free flow of information.md",
+          "tags": []
+        },
+        {
+          "name": "psychological safety",
+          "path": "learnings/psychological safety.md",
+          "tags": []
+        },
+        {
+          "name": "motivation",
+          "path": "learnings/motivation.md",
+          "tags": []
+        },
+        {
           "name": "group flow",
           "path": "learnings/group flow.md",
           "tags": []
@@ -87,16 +102,6 @@
         {
           "name": "lines of communication",
           "path": "learnings/lines of communication.md",
-          "tags": []
-        },
-        {
-          "name": "psychological safety",
-          "path": "learnings/psychological safety.md",
-          "tags": []
-        },
-        {
-          "name": "free flow of information",
-          "path": "learnings/free flow of information.md",
           "tags": []
         },
         {

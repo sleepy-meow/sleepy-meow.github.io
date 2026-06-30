@@ -1,7 +1,7 @@
 # intro
 [[hope is not an emotion]]
 [[the goal of leadership]]
-[[leadership approaches]]
+[[different approaches]]
 # practical tools
 [[advice process]]
 [[logging decisions]]
@@ -12,12 +12,13 @@
 [[asking the right questions]]
 [[lowering the bar for participation]]
 # misc
+[[free flow of information]]
+[[psychological safety]]
+[[motivation]]
 [[group flow]]
 [[courage is contagious]]
 [[curiosity gap]]
 [[lines of communication]]
-[[psychological safety]]
-[[free flow of information]]
 [[the fat cat syndrome]]
 # how to human
 [[universal human needs]]

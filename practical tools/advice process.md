@@ -1,5 +1,4 @@
 *A simple process for distributed decision making*
-#decision-making #methods
 
 # why
 - Supports distributed decision-making
@@ -23,13 +22,7 @@ Anyone can make any decision, after seeking advice. Advice must be taken serious
 
 # more info
 [https://reinventingorganizationswiki.com/en/theory/decision-making/](https://reinventingorganizationswiki.com/en/theory/decision-making/#:~:text=In%20Practice)
-
-
-> [Advice process - A simple tool for group decision making](https://medium.com/enspiral-tales/use-advice-process-to-work-better-together-4cb127c83a39)
-> a good overview
-
-> [Introducing the Advice Process](https://dev.alchemi.co.uk/adviceprocess/#/page/5cf823717fb0de42f3aeddfc)
-> short summary & key points
+[Advice process - A simple tool for group decision making](https://medium.com/enspiral-tales/use-advice-process-to-work-better-together-4cb127c83a39)
 
 
 

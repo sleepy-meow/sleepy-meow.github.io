@@ -1,4 +1,4 @@
-*"Choose courage over comfort. Choose whole hearts over armor. And choose the great adventure of being brave and afraid at the exact same time."*
+*"Courage is contagious."*
 #book
 # why it was worth the read
 

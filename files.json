@@ -2,23 +2,37 @@
   "title": "lauras learnings",
   "folders": [
     {
+      "name": "intro",
+      "files": [
+        {
+          "name": "hope is not an emotion",
+          "path": "learnings/hope is not an emotion.md",
+          "tags": []
+        },
+        {
+          "name": "the goal of leadership",
+          "path": "learnings/the goal of leadership.md",
+          "tags": []
+        },
+        {
+          "name": "leadership approaches",
+          "path": "learnings/leadership approaches.md",
+          "tags": []
+        }
+      ]
+    },
+    {
       "name": "practical tools",
       "files": [
         {
           "name": "advice process",
           "path": "practical tools/advice process.md",
-          "tags": [
-            "decision-making",
-            "methods"
-          ]
+          "tags": []
         },
         {
-          "name": "decision log",
-          "path": "practical tools/decision log.md",
-          "tags": [
-            "methods",
-            "decision-making"
-          ]
+          "name": "logging decisions",
+          "path": "practical tools/logging decisions.md",
+          "tags": []
         },
         {
           "name": "fostering psychological safety",
@@ -26,25 +40,53 @@
           "tags": []
         },
         {
-          "name": "facilitation methods",
-          "path": "practical tools/facilitation methods.md",
-          "tags": [
-            "facilitation"
-          ]
+          "name": "emergent facilitation methods",
+          "path": "practical tools/emergent facilitation methods.md",
+          "tags": []
         },
         {
           "name": "effective feedback model",
           "path": "practical tools/effective feedback model.md",
           "tags": []
+        },
+        {
+          "name": "lean ux canvas",
+          "path": "practical tools/lean ux canvas.md",
+          "tags": []
+        },
+        {
+          "name": "asking the right questions",
+          "path": "learnings/asking the right questions.md",
+          "tags": []
+        },
+        {
+          "name": "lowering the bar for participation",
+          "path": "learnings/lowering the bar for participation.md",
+          "tags": []
         }
       ]
     },
     {
-      "name": "learnings",
+      "name": "misc",
       "files": [
         {
-          "name": "the goal of leadership",
-          "path": "learnings/the goal of leadership.md",
+          "name": "group flow",
+          "path": "learnings/group flow.md",
+          "tags": []
+        },
+        {
+          "name": "courage is contagious",
+          "path": "learnings/courage is contagious.md",
+          "tags": []
+        },
+        {
+          "name": "curiosity gap",
+          "path": "learnings/curiosity gap.md",
+          "tags": []
+        },
+        {
+          "name": "lines of communication",
+          "path": "learnings/lines of communication.md",
           "tags": []
         },
         {
@@ -53,23 +95,8 @@
           "tags": []
         },
         {
-          "name": "purpose",
-          "path": "learnings/purpose.md",
-          "tags": []
-        },
-        {
           "name": "free flow of information",
           "path": "learnings/free flow of information.md",
-          "tags": []
-        },
-        {
-          "name": "trust & interdependence",
-          "path": "learnings/trust & interdependence.md",
-          "tags": []
-        },
-        {
-          "name": "feedback",
-          "path": "learnings/feedback.md",
           "tags": []
         },
         {
@@ -80,56 +107,12 @@
       ]
     },
     {
-      "name": "books",
+      "name": "how to human",
       "files": [
         {
-          "name": "dare to lead",
-          "path": "books/dare to lead.md",
-          "tags": [
-            "book"
-          ]
-        },
-        {
-          "name": "incorruptible",
-          "path": "books/incorruptible.md",
-          "tags": [
-            "book"
-          ]
-        },
-        {
-          "name": "leaders eat last",
-          "path": "books/leaders eat last.md",
-          "tags": [
-            "book"
-          ]
-        },
-        {
-          "name": "reinventing organizations",
-          "path": "books/reinventing organizations.md",
-          "tags": [
-            "book"
-          ]
-        },
-        {
-          "name": "team of teams",
-          "path": "books/team of teams.md",
-          "tags": [
-            "book"
-          ]
-        },
-        {
-          "name": "teaming",
-          "path": "books/teaming.md",
-          "tags": [
-            "book"
-          ]
-        },
-        {
-          "name": "up down up",
-          "path": "books/up down up.md",
-          "tags": [
-            "book"
-          ]
+          "name": "universal human needs",
+          "path": "learnings/universal human needs.md",
+          "tags": []
         }
       ]
     }

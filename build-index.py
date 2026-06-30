@@ -17,7 +17,11 @@ IGNORE_DIRS = {".git", ".obsidian", ".github", "node_modules"}
 IGNORE_FILES = {"README.md", "CLAUDE.md"}
 # This note is rendered as the landing/welcome page, not listed as a note.
 LANDING_FILE = "landing page.md"
+# If present, this note defines the whole sidebar: each "# heading" is a
+# category and the [[wikilinks]] under it are that category's pages, in order.
+INDEX_FILE = "page index.md"
 # Sidebar category order (by lowercase name); anything else follows, sorted.
+# Only used for the folder-based fallback when there's no INDEX_FILE.
 CATEGORY_ORDER = ["practical tools", "learnings", "books"]
 
 # Obsidian inline tag: "#" + tag, where the tag starts with a letter and may
@@ -124,9 +128,87 @@ def order_files(files: list, order: list) -> None:
     files.sort(key=key)
 
 
+def strip_comments(text: str) -> str:
+    """Remove Obsidian %%comments%% — paired, and an unclosed %% to the end."""
+    text = re.sub(r"%%[\s\S]*?%%", "", text)
+    return re.sub(r"%%[\s\S]*$", "", text)
+
+
+def find_note_index():
+    """Build a map of every publishable note: lowercased name -> info dict.
+
+    Excludes meta files, the landing page, and the index note itself. Notes in
+    the wip/ folder aren't copied to the site, so they won't appear here.
+    """
+    notes = {}
+    for dirpath, dirnames, filenames in os.walk(ROOT):
+        dirnames[:] = [d for d in dirnames if d not in IGNORE_DIRS and not d.startswith(".")]
+        for fn in filenames:
+            if not fn.endswith(".md") or fn in IGNORE_FILES:
+                continue
+            if fn in (LANDING_FILE, INDEX_FILE):
+                continue
+            fpath = os.path.join(dirpath, fn)
+            rel = os.path.relpath(fpath, ROOT).replace(os.sep, "/")
+            notes[title_from(fn).lower()] = {
+                "name": title_from(fn),
+                "path": rel,
+                "tags": extract_tags(fpath),
+            }
+    return notes
+
+
+def folders_from_index(index_path: str, notes: dict):
+    """Parse the page-index note into ordered categories.
+
+    "# heading" lines start a category; [[wikilinks]] beneath become its pages
+    (resolved against `notes`, unresolved links skipped). Returns None if the
+    file can't be read.
+    """
+    try:
+        with open(index_path, encoding="utf-8") as fh:
+            text = strip_comments(fh.read())
+    except (OSError, UnicodeDecodeError):
+        return None
+
+    folders, current = [], None
+    for line in text.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        h = re.match(r"#{1,6}\s+(.+)$", s)
+        if h:
+            current = {"name": h.group(1).strip(), "files": []}
+            folders.append(current)
+            continue
+        for target in re.findall(r"\[\[([^\]|#]+)", s):
+            note = notes.get(target.strip().lower())
+            if note and current is not None and note not in current["files"]:
+                current["files"].append(note)
+    return [f for f in folders if f["files"]]
+
+
+def find_special(name: str):
+    """Return the site-relative path of a special note (landing/index), or None."""
+    for dirpath, dirnames, filenames in os.walk(ROOT):
+        dirnames[:] = [d for d in dirnames if d not in IGNORE_DIRS and not d.startswith(".")]
+        if name in filenames:
+            return os.path.relpath(os.path.join(dirpath, name), ROOT).replace(os.sep, "/")
+    return None
+
+
 def main() -> None:
+    landing = find_special(LANDING_FILE)
+
+    # Preferred: build the sidebar from the page-index note, if present.
+    index_path = find_special(INDEX_FILE)
+    if index_path:
+        folders = folders_from_index(os.path.join(ROOT, index_path), find_note_index())
+        write_manifest(folders, landing)
+        return
+
+    # Fallback: derive categories from the folder structure.
     folders = []
-    landing = None
     for entry in sorted(os.listdir(ROOT)):
         full = os.path.join(ROOT, entry)
         if not os.path.isdir(full) or entry in IGNORE_DIRS or entry.startswith("."):
@@ -187,6 +269,10 @@ def main() -> None:
 
     folders.sort(key=cat_key)
 
+    write_manifest(folders, landing)
+
+
+def write_manifest(folders, landing) -> None:
     manifest = {"title": "lauras learnings", "folders": folders}
     if landing:
         manifest["landing"] = landing

@@ -1,15 +1,15 @@
-*quote*
+*a practical guide for collaboration*
 #book
 # why it was worth the read
 
 
-# what
-
-> *One old formula emphasizes group composition-find out what everyone's personal style and competence is and fit the parts together. The most obvious limitation to this formula is that the changing nature of complex tasks makes it difficult to decide ahead of time what personal style and competency set to measure.*
+# a comparison of management practices
 
 Many organizations still rely on the top-down, command-and-control approaches that fueled growth and profitability in the industrial era. Some of the most basic tenets of this management style- ensuring control, eliminating variance, and rewarding conformance-inhibit collaboration and organizational learning.
 
 Management techniques and messages that work brilliantly in the factory would cripple the discovery process in the laboratory just as managing a factory like a lab might have disastrous results for productivity.
+
+> *One old formula emphasizes group composition-find out what everyone's personal style and competence is and fit the parts together. The most obvious limitation to this formula is that the changing nature of complex tasks makes it difficult to decide ahead of time what personal style and competency set to measure.*
 
 routine operations -> complex operations -> innovation operations
 -> uncertainty ->
@@ -31,18 +31,8 @@ the managerial mindset that enables efficient execution inhibits an organization
 
 
 
-
-
-
-
-
 # reframing for learning
-when people frame a task as a
-
-"performance situation" they are more risk averse and less willing to persist through obstacles than when the same task is framed as a "learning situation."®
-
-people with a performance frame engage in less experimentation and innovation and are less likely to formulate new strategies in difficult situations.
-
+when people frame a task as a "performance situation" they are more risk averse and less willing to persist through obstacles than when the same task is framed as a "learning situation." People with a performance frame engage in less experimentation and innovation and are less likely to formulate new strategies in difficult situations.
 
 | Execution-as-Efficiency                            | Execution-as-Learning                                                       |
 | -------------------------------------------------- | --------------------------------------------------------------------------- |

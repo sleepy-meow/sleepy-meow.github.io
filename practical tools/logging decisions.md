@@ -1,28 +1,21 @@
-*logging decisions*
-#methods #decision-making 
+*Rarely do you see any documentation of why*
 
-# why
 - Constraints that shaped a decision get lost over time. A good log captures what was decided, who decided, when, and why.
 - To avoid re-deciding what was already decided, or drifting to "we've always done it that way" with no one able to say why.
-- Logging decisions transparently prevents informal hierarchy emerging
-- Easier to learn from mistakes
+- Transparency prevents behind the scenes decision making
+- Improves problem solving, learning from mistakes, and future decisions
 
-# what
-In its simplest form, it can just be a version controlled text file
+# how
+In its simplest form, it can just be a text file like this. As long as the edit history is preserved and is accessible for everyone, the format doesn't really matter.
 
 ```
 /*  =Decision Note
 
     What: navigation pattern
-
     Who:  John McDecisonguy
-
     When: Jan. 2, 2012
-
     Why: we want one navigation pattern across all of our content sites in order for our users to have an instantly recognizable way to find what they are looking for.
-    
-    Context: links to whatever
-
+    Context or links:
 */
 ```
 

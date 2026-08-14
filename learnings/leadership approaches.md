@@ -1,0 +1,100 @@
+*a comparison of different approaches*
+
+> [!tip] amy edmondson - teaming
+
+> Many organizations still rely on the top-down, command-and-control approaches that fueled growth and profitability in the industrial era. Some of the most basic tenets of this management style- ensuring control, eliminating variance, and rewarding conformance-inhibit collaboration and organizational learning.
+
+The hierarchical approach may work just fine when managing an assembly plant factory line (that's already well optimized, as long as nothing breaks down or any changes need to be made).
+
+But the more creativity and innovation are required to achieve a goal, the less effective it will be. Here is a definition of innovation:
+
+> "Innovation is the multi-stage process whereby organizations transform ideas into new/improved products, service or processes, in order to advance, compete and differentiate themselves successfully in their marketplace"
+
+Innovation is, by definition, messy and unpredictable.
+
+
+| Management Approach         | Organizing to Execute                                                             | Organizing to Learn                  |
+| --------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
+| Hiring                      | Conformers, rule followers.                                                       | Problem solvers, experimenters.      |
+| Training                    | Learning before doing.                                                            | Learning from doing.                 |
+| Measuring performance       | Did YOU do it right?                                                              | Did WE learn?                        |
+| Structuring work            | Separate expertise.                                                               | Integrate expertise.                 |
+| Employee discretion allowed | Choose among options.                                                             | Experiment through trial and error.  |
+| Empowerment means           | Employees can deviate from the script if special circumstances make it necessary. | There is no script. Improvise!       |
+| Process goal                | Drive out variance.                                                               | Use variance to analyze and improve. |
+| Watercooler conversation    | About the weather                                                                 | About the work                       |
+| Business goal               | Make money now.                                                                   | Make money later.                    |
+| Works when                  | Path forward is clear.                                                            | Path forward is not clear.           |
+
+The more creativity and innovation are required to achieve a goal, the more this reframe is needed:
+
+| dimension                | default frame                                                        | reframe                                                                                                      |
+| ------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| the boss has…            | the answers                                                          | direction to set — but not all the answers (the work is uncertain)                                           |
+| the boss's job           | to give orders / direct                                              | to set direction, then invite input to clarify and improve it, and create conditions for continuous learning |
+| stance toward the work   | to assess whether orders were executed well (judge)                  | to enable excellence through learning                                                                        |
+| others (non-bosses) are… | subordinates, expected to do as they're told                         | valued contributors — people with crucial knowledge and insight                                              |
+| why people speak up      | they don't — fear is sensible; think carefully about what you reveal | because it improves decision-making and execution                                                            |
+| result                   | interpersonal fear is rational → silence                             | psychological safety becomes necessary → voice                                                               |
+
+or as brene brown puts it:
+> No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple.
+
+> [!tip] brene brown - dare to lead
+
+| Armored                                                          | Daring                                                                    |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Driving Perfectionism and Fostering Fear of Failure              | Modeling and Encouraging Healthy Striving, Empathy, and Self-Compassion   |
+| Working from Scarcity (withholding recognition)                  | Practicing Gratitude and Celebrating Milestones and Victories             |
+| Being a Knower and Being Right                                   | Being a Learner and Getting It Right                                      |
+| Hiding Behind Cynicism (sarcasm)                                 | Modeling Clarity, Kindness, and Hope                                      |
+| Using Criticism as Self-Protection ("invisible army," nostalgia) | Making Contributions and Taking Risks                                     |
+| Using Power Over                                                 | Using Power With, Power To, and Power Within                              |
+| Leading for Compliance and Control                               | Cultivating Commitment and Shared Purpose                                 |
+| Weaponizing Fear and Uncertainty                                 | Acknowledging, Naming, and Normalizing Collective Fear and Uncertainty    |
+| Tolerating Discrimination and a "Fitting-In" Culture             | Cultivating a Culture of Belonging, Inclusivity, and Diverse Perspectives |
+| Zigzagging and Avoiding                                          | Talking Straight and Taking Action                                        |
+| Leading from Hurt                                                | Leading from Heart                                                        |
+
+
+
+
+
+---
+%%
+If you have a single, well-defined goal, the work is stable enough to be done the same way repeatedly, coordination can be planned in advance because little is likely to change, the work stays within one discipline that already shares a common language, and if the information involved is simple and routine enough to flow through established procedures at a steady pace, (i.e. an assembly plant), 
+
+But if you don't have all the answers, people don't have all the knowledge and skills needed in advance or know exactly what should be done, if there aren't clear existing processes or they can't be expected to remain relatively fixed for a significant amount of time because of the changing nature of the work, or if reaching your goal requires creativity and innovation, 
+
+
+
+If reaching your goal involves:
+- Pursuing a single, well-defined objective under clear oversight
+- Performing the same stable task repeatedly, where coordination is pre-established and little ongoing communication is needed
+- Working within a single discipline, with shared expertise and a common language.
+- Collaborating co-located, in one fixed place
+- Coordination can be planned in advance, because the work is stable and predictable (handled through routines, schedules, and standard procedures)
+- Simple, routine information handled through established procedures at a steady, predictable pace
+
+
+
+but predictable execution, 
+
+- control, eliminating variance, conformance
+- collaboration and organizational learning
+
+
+- ownership & commitment
+- compliance & alignment
+
+
+- Juggling multiple objectives with minimal oversight.
+- ﻿﻿To shift from one situation to another while maintaining high levels of communication and tight coordination.
+- ﻿﻿Integrating perspectives from different disciplines.
+- Collaborating across dispersed locations.
+- ﻿﻿When pre-planned coordination is impossible or unrealistic due to the changing nature of the work.
+- ﻿﻿Complex information must be processed, synthesized, and put to good use quickly.
+
+
+
+

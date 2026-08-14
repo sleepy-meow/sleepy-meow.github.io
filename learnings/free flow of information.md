@@ -1,31 +1,25 @@
-> “Give away everything you know, and more will come back to you. – If you give away everything, you are left with nothing. This forces you to look, to be aware, to replenish.”
-# why it matters
-Free flow of information is one of the fundamental prerequisites for self-management of organizations. Freely sharing information helps to build and maintain trust within the organization.
+Free flow of information is also one of the fundamental prerequisites for self-management of organizations. 
 
-Signals that people are treated as capable, trusted adults, which increases psychological safety. Boosts engagement, ownership, and intrinsic motivation
+Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. Boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
 
-**Decision quality** - Pooling information across members leads to more optimal decisions 
+**decision quality** - pooling information across members leads to more optimal decisions
 
-**Innovation through unexpected connections** — Ideas often emerge when information from one domain meets a person working in another. 
+**decision speed** - raw data is useful, curated data is slow and loses context
 
-**Accountability**
-Transparency makes it easier for people to hold themselves and each other accountable, because actions and reasoning are visible.
+**innovation through unexpected connections** - Ideas often emerge when information from one domain meets a person working in another. 
 
-It also reduces single points of failure, and prevents reinventing the wheel, etc
+**accountability** - Transparency makes it easier for people to hold themselves and each other accountable, because actions and reasoning are visible.
 
-# a safeguard for informal hierarchies
-Self-serving behavior depends on opacity. A lead terrorizing a teammate rarely happens in broad daylight. Transparency reduces the likelihood that informal hierarchies will emerge.
+> _"If you empower people but don´t give them information, they just fumble in the dark."_
 
-The tricky thing about low psychological safety is that it makes us want to withdraw even more, which then makes more space for informal hierarchies to emerge. 
-
-
-
+Self-serving behavior depends on opacity, transparency reduces the likelihood that informal hierarchies will emerge.
 
 # information without context
 > _“in the absence of data we will always make up stories - it’s how our brains function."_
 
-_"If you empower people but don´t give them information, they just fumble in the dark."_
+I came across a counter argument to radical transparency by Rachel Botsman. In a presentation she argues that too much transparency reduces trust. But she leaves out an important piece of context that she does mention in her book, that the context was about micromanagement. (Overall the book also 100% ignores the role of power dynamics, and manages to oversimplify 20 different topics, it's not my favorite book)
 
+> “Give away everything you know, and more will come back to you. – If you give away everything, you are left with nothing. This forces you to look, to be aware, to replenish.”
 # links
 https://reinventingorganizationswiki.com/en/theory/information-flow/
 https://fs.blog/information-without-context/

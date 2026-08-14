@@ -1,11 +1,11 @@
 *A simple process for distributed decision making*
 
-# why
+# the advice process
 - Supports distributed decision-making
 - Very simple
 - works well in even more ambiguous situations
 
-**Better decisions**: chances of reaching the best decision are greater than under conventional top-down approaches. The decision maker has the advantage of being closer to the issue and has to live with responsibility for the consequences of the decision. Advice provides diverse input, uncovering important issues and new perspectives.
+**Better decisions**: chances of reaching the best decision are greater than under conventional approaches. The decision maker has the advantage of being closer to the issue and has to live with responsibility for the consequences of the decision. Advice provides diverse input, uncovering important issues and new perspectives.
 
 # summary
 any person can make any decision after seeking advice from

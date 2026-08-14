@@ -5,8 +5,38 @@
       "name": "intro",
       "files": [
         {
+          "name": "introduction",
+          "path": "learnings/introduction.md",
+          "tags": []
+        },
+        {
           "name": "hope is not an emotion",
           "path": "learnings/hope is not an emotion.md",
+          "tags": []
+        },
+        {
+          "name": "how to come up with big ideas",
+          "path": "learnings/how to come up with big ideas.md",
+          "tags": []
+        },
+        {
+          "name": "how to culture",
+          "path": "learnings/how to culture.md",
+          "tags": []
+        },
+        {
+          "name": "how to choose courage over comfort",
+          "path": "learnings/how to choose courage over comfort.md",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "name": "asdf",
+      "files": [
+        {
+          "name": "free flow of information",
+          "path": "learnings/free flow of information.md",
           "tags": []
         },
         {
@@ -15,8 +45,13 @@
           "tags": []
         },
         {
-          "name": "different approaches",
-          "path": "learnings/different approaches.md",
+          "name": "leadership approaches",
+          "path": "learnings/leadership approaches.md",
+          "tags": []
+        },
+        {
+          "name": "connecting teams",
+          "path": "learnings/connecting teams.md",
           "tags": []
         }
       ]
@@ -25,58 +60,68 @@
       "name": "practical tools",
       "files": [
         {
-          "name": "advice process",
-          "path": "practical tools/advice process.md",
+          "name": "how to make decisions",
+          "path": "practical tools/how to make decisions.md",
           "tags": []
         },
         {
-          "name": "logging decisions",
-          "path": "practical tools/logging decisions.md",
+          "name": "how to remember decisions",
+          "path": "practical tools/how to remember decisions.md",
           "tags": []
         },
         {
-          "name": "fostering psychological safety",
-          "path": "practical tools/fostering psychological safety.md",
-          "tags": []
-        },
-        {
-          "name": "emergent facilitation methods",
-          "path": "practical tools/emergent facilitation methods.md",
-          "tags": []
-        },
-        {
-          "name": "effective feedback model",
-          "path": "practical tools/effective feedback model.md",
-          "tags": []
-        },
-        {
-          "name": "lean ux canvas",
-          "path": "practical tools/lean ux canvas.md",
-          "tags": []
-        },
-        {
-          "name": "asking the right questions",
-          "path": "learnings/asking the right questions.md",
-          "tags": []
-        },
-        {
-          "name": "lowering the bar for participation",
-          "path": "learnings/lowering the bar for participation.md",
+          "name": "how to psychological safety",
+          "path": "practical tools/how to psychological safety.md",
           "tags": []
         }
       ]
     },
     {
-      "name": "misc",
+      "name": "feedback",
       "files": [
         {
-          "name": "free flow of information",
-          "path": "learnings/free flow of information.md",
+          "name": "giving feedback",
+          "path": "practical tools/giving feedback.md",
           "tags": []
         },
         {
-          "name": "psychological safety",
-          "path": "learnings/psychological safety.md",
+          "name": "receiving feedback",
+          "path": "practical tools/receiving feedback.md",
+          "tags": []
+        },
+        {
+          "name": "anonymous feedback",
+          "path": "learnings/anonymous feedback.md",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "name": "other",
+      "files": [
+        {
+          "name": "how to ask the right questions",
+          "path": "learnings/how to ask the right questions.md",
+          "tags": []
+        },
+        {
+          "name": "how to lower the bar for participation",
+          "path": "learnings/how to lower the bar for participation.md",
+          "tags": []
+        },
+        {
+          "name": "how to listen",
+          "path": "practical tools/how to listen.md",
+          "tags": []
+        },
+        {
+          "name": "how to empathy",
+          "path": "learnings/how to empathy.md",
+          "tags": []
+        },
+        {
+          "name": "emergent facilitation",
+          "path": "practical tools/emergent facilitation.md",
           "tags": []
         },
         {
@@ -90,13 +135,38 @@
           "tags": []
         },
         {
-          "name": "courage is contagious",
-          "path": "learnings/courage is contagious.md",
+          "name": "cognitive biases",
+          "path": "practical tools/cognitive biases.md",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "name": "useful lists",
+      "files": [
+        {
+          "name": "useful links",
+          "path": "learnings/useful links.md",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "name": "pitfalls",
+      "files": [
+        {
+          "name": "why not to shoot the messenger",
+          "path": "learnings/why not to shoot the messenger.md",
           "tags": []
         },
         {
-          "name": "curiosity gap",
-          "path": "learnings/curiosity gap.md",
+          "name": "bad advice books",
+          "path": "learnings/bad advice books.md",
+          "tags": []
+        },
+        {
+          "name": "the fat cat syndrome",
+          "path": "learnings/the fat cat syndrome.md",
           "tags": []
         },
         {
@@ -105,14 +175,14 @@
           "tags": []
         },
         {
-          "name": "the fat cat syndrome",
-          "path": "learnings/the fat cat syndrome.md",
+          "name": "commitment vs compliance",
+          "path": "learnings/commitment vs compliance.md",
           "tags": []
         }
       ]
     },
     {
-      "name": "how to human",
+      "name": "misc",
       "files": [
         {
           "name": "universal human needs",

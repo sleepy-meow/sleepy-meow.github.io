@@ -1,0 +1,10 @@
+a teammate raises a concern, but then find themselves in a situtation like this:
+
+![[Pasted image 20260813060053.png]]
+
+this doesn't just hurt the person, but everyone who witnesses it. and this is the kind of thing that draws attention. 
+
+it may just take one or two cases to teach the entire group the lesson that it's not safe to disagree with the boss. people start painting a rosey picture of what's really going on, making nice looking presentations, while the real problems start accumulating under the surface.
+
+> "many organizational leaders genuinely believe that "no news" means that things are going well. What many people do not realize is that motivation by fear is indeed highly effective - effective at creating the illusion that goals are being achieved."
+

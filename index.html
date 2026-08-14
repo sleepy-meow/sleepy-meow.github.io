@@ -42,6 +42,7 @@
     --green:        #3eb4bf;  /* blockquote / quoted text   */
     --quote-bar:    #4d8ce6;  /* blockquote left bar        */
     --red:          #e83e3e;  /* H5                         */
+    --orange:       #d19a66;  /* **bold** inside code blocks */
     --code-bg:      #282c34;
     --highlight:    rgba(255, 208, 0, .4);
     --radius:       8px;
@@ -67,6 +68,7 @@
       --green:        #2db7b5;
       --quote-bar:    #4d8ce6;
       --red:          #c83232;
+      --orange:       #b06000;
       --code-bg:      #f6f7f8;
       --highlight:    rgba(255, 208, 0, .4);
     }
@@ -194,13 +196,22 @@
     display: flex; align-items: center; gap: .5em;
     font-weight: 700; color: hsl(var(--cl) 75% 68%);
   }
+  .md .callout-title .callout-sub {
+    font-weight: 400; color: hsl(var(--cl) 45% 55%);
+  }
   .md .callout-icon { width: 1.1em; height: 1.1em; flex: 0 0 auto; }
   .md .callout-body { margin-top: .4em; }
   .md .callout-body > :first-child { margin-top: 0; }
   .md .callout-body > :last-child { margin-bottom: 0; }
+  /* Example callouts hold links — tint them with the callout's own purple. */
+  .md .callout[data-callout="example"] a:not(.tag) { color: hsl(var(--cl) 75% 72%); }
+  .md .callout[data-callout="example"] a:not(.tag):hover { color: hsl(var(--cl) 85% 82%); }
   @media (prefers-color-scheme: light) {
     .md .callout { background: hsl(var(--cl) 65% 48% / .08); border-color: hsl(var(--cl) 60% 45% / .25); }
     .md .callout-title { color: hsl(var(--cl) 60% 40%); }
+    .md .callout-title .callout-sub { color: hsl(var(--cl) 35% 32%); }
+    .md .callout[data-callout="example"] a:not(.tag) { color: hsl(var(--cl) 60% 45%); }
+    .md .callout[data-callout="example"] a:not(.tag):hover { color: hsl(var(--cl) 65% 35%); }
   }
   .md hr { border: none; border-top: 1px solid var(--border); margin: 2em 0; }
   .md blockquote {
@@ -220,9 +231,16 @@
   }
   .md pre {
     background: var(--code-bg); border: 1px solid var(--border);
-    padding: 16px; border-radius: var(--radius); overflow-x: auto;
+    padding: 16px; border-radius: var(--radius);
   }
-  .md pre code { background: none; padding: 0; }
+  .md pre code {
+    background: none; padding: 0;
+    white-space: pre-wrap; overflow-wrap: anywhere;
+  }
+  /* **bold** and "1." list markers inside a fence (markdown isn't parsed
+     there) → orange. */
+  .md pre .code-strong, .md pre .code-strong *,
+  .md pre .code-num { color: var(--orange); }
   .md table { border-collapse: collapse; width: 100%; margin: 1.2em 0; }
   .md th, .md td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
   .md th { background: var(--bg-soft); }
@@ -347,13 +365,7 @@ function resolveNote(target) {
 
 marked.setOptions({
   breaks: true,   /* Obsidian treats a single newline as a line break */
-  gfm: true,
-  highlight: (code, lang) => {
-    try {
-      if (lang && hljs.getLanguage(lang)) return hljs.highlight(code, { language: lang }).value;
-      return hljs.highlightAuto(code).value;
-    } catch { return code; }
-  }
+  gfm: true
 });
 
 // Obsidian callout types → { hue, lucide-style icon path(s), default label }.
@@ -371,15 +383,18 @@ const CALLOUT_ICONS = {
   list:   '<path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/>',
   quote:  '<path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V20c0 1 0 1 1 1Z"/><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1Z"/>',
   clipboard:'<rect width="8" height="4" x="8" y="2" rx="1"/><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/>',
+  book:   '<path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"/>',
+  phones: '<path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"/>',
+  link:   '<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>',
 };
 const CALLOUTS = {
   note:      { hue: 217, icon: 'pencil',    label: 'Note' },
   abstract:  { hue: 168, icon: 'clipboard', label: 'Abstract' },
   summary:   { hue: 168, icon: 'clipboard', label: 'Summary' },
   tldr:      { hue: 168, icon: 'clipboard', label: 'Tldr' },
-  info:      { hue: 217, icon: 'info',      label: 'Info' },
+  info:      { hue: 217, icon: 'phones',    label: 'Info' },
   todo:      { hue: 217, icon: 'check',     label: 'Todo' },
-  tip:       { hue: 168, icon: 'flame',     label: 'Tip' },
+  tip:       { hue: 168, icon: 'book',      label: 'Tip' },
   hint:      { hue: 168, icon: 'flame',     label: 'Hint' },
   important: { hue: 168, icon: 'flame',     label: 'Important' },
   success:   { hue: 135, icon: 'check',     label: 'Success' },
@@ -397,14 +412,30 @@ const CALLOUTS = {
   danger:    { hue: 2,   icon: 'zap',       label: 'Danger' },
   error:     { hue: 2,   icon: 'zap',       label: 'Error' },
   bug:       { hue: 2,   icon: 'bug',       label: 'Bug' },
-  example:   { hue: 267, icon: 'list',      label: 'Example' },
+  example:   { hue: 267, icon: 'link',      label: 'Example' },
   quote:     { hue: 220, icon: 'quote',     label: 'Quote' },
   cite:      { hue: 220, icon: 'quote',     label: 'Quote' },
 };
+// A "(…)" aside in a callout title is a subtitle — chapter, source, note —
+// so it reads unbolded and dimmer. Tags are matched first by the alternation
+// so parentheses inside an href or attribute are left alone.
+function dimParens(html) {
+  return html.replace(/(<[^>]+>)|(\([^()]*\))/g,
+    (m, tag, paren) => tag || '<span class="callout-sub">' + paren + '</span>');
+}
+
 function calloutIconSvg(name) {
   return '<svg class="callout-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" ' +
     'stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
     (CALLOUT_ICONS[name] || CALLOUT_ICONS.pencil) + '</svg>';
+}
+
+// Markdown isn't parsed inside a code fence, so **bold** and numbered-list
+// markers stay literal there. Colour both orange (and drop the asterisks).
+function styleCodeText(block) {
+  block.innerHTML = block.innerHTML
+    .replace(/^([ \t]*)(\d+\.)/gm, '$1<span class="code-num">$2</span>')
+    .replace(/\*\*([^*][\s\S]*?)\*\*/g, '<span class="code-strong">$1</span>');
 }
 
 // Obsidian-style ==highlight== → <mark>highlight</mark>
@@ -422,16 +453,21 @@ marked.use({ extensions: [
     const m = /^[ \t]*>[ \t]*\[!(\w+)\][+-]?[ \t]*([^\n]*)(?:\n|$)((?:[ \t]*>[^\n]*(?:\n|$))*)/.exec(src);
     if (!m) return;
     const body = m[3].replace(/^[ \t]*>[ \t]?/gm, '').replace(/\s+$/, '');
+    const title = m[2].trim();
     const token = {
       type: 'callout', raw: m[0],
-      kind: m[1].toLowerCase(), title: m[2].trim(), tokens: [],
+      kind: m[1].toLowerCase(), title, tokens: [],
+      // Titles carry markdown too — links, bold, wikilinks.
+      titleTokens: title ? this.lexer.inlineTokens(title) : null,
     };
     this.lexer.blockTokens(body, token.tokens);
     return token;
   },
   renderer(token) {
     const meta = CALLOUTS[token.kind] || CALLOUTS.note;
-    const titleText = (token.title || meta.label).replace(/&/g, '&amp;').replace(/</g, '&lt;');
+    const titleText = token.titleTokens
+      ? dimParens(this.parser.parseInline(token.titleTokens))
+      : meta.label;
     const body = this.parser.parse(token.tokens);
     return '<div class="callout" data-callout="' + token.kind + '" style="--cl:' + meta.hue + '">' +
       '<div class="callout-title">' + calloutIconSvg(meta.icon) +
@@ -568,7 +604,12 @@ async function loadFile(path) {
       title.replace(/&/g, '&amp;').replace(/</g, '&lt;') + '</h1>';
     const html = heading + DOMPurify.sanitize(marked.parse(stripComments(raw)));
     content.innerHTML = html;
-    content.querySelectorAll('pre code').forEach(b => hljs.highlightElement(b));
+    // Fences in these notes hold prose, not code, so only highlight the ones
+    // that explicitly name a language — auto-detection colours random words.
+    content.querySelectorAll('pre code').forEach(b => {
+      if (/\blanguage-\S+/.test(b.className)) hljs.highlightElement(b);
+      styleCodeText(b);
+    });
     // External links open in a new tab.
     content.querySelectorAll('a[href^="http"]').forEach(a => {
       a.target = '_blank'; a.rel = 'noopener noreferrer';
@@ -599,6 +640,7 @@ async function showWelcome() {
         const raw = await res.text();
         content.innerHTML = '<div class="welcome">' +
           DOMPurify.sanitize(marked.parse(stripComments(raw))) + '</div>';
+        content.querySelectorAll('pre code').forEach(styleCodeText);
         content.querySelectorAll('a[href^="http"]').forEach(a => {
           a.target = '_blank'; a.rel = 'noopener noreferrer';
         });

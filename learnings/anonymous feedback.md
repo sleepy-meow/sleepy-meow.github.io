@@ -1,0 +1,65 @@
+> [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
+> 
+
+> [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
+
+https://www.corporate-rebels.com/blog/annual-performance-reviews
+
+> Clear is kind. Unclear is unkind...Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind. Talking about people rather than to them is unkind.
+
+Anonymous feedback is structurally unclear, and you can't give anonymous feedback without talking about people. 
+
+You can't act on it, you can't ask follow-up questions, you can't understand what to do with it. So instead of changing a behavior, the only direction for it is to turn inwards. guilt = I did something bad; shame = I am bad. Guilt is the productive one — it needs a specific behaviour, a specific person, a specific moment.
+
+But those are exactly the details that identify a sender. Protect the giver and you usually lose the specificity: what survives is a trait claim. "Can be dismissive." "Doesn't listen." That's shame-shaped by construction. And shame works like a zoom lens — all we see is our flawed self, alone and struggling. Which is a terrible engine for accountability. It drives hiding and defensiveness, not repair.
+
+The other tax: you will try to work out who. Almost involuntarily. Which means one anonymous line quietly redistributes suspicion across five colleagues while you re-read old interactions looking for the tell. That corrodes trust in precisely the way the anonymity was meant to protect — and it burns the energy that should have gone into what do I do differently.
+
+Here's what brene has to say about anonymous feedback specifically:
+
+> If you're criticizing from a place where you're not also putting yourself on the line, I'm not interested in what you have to say.
+
+
+
+
+
+# the invisible army
+
+It's also all too easy to incorporate "the invisible army" into anonymous feedback:
+
+> "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.
+
+All feedback must be a conversation. You can't give or receive feedback well if the other person is not in the room.
+
+# accountability
+
+accountability is: "You own your mistakes, apologize, and make amends." Anonymous feedback lets you do the first. It structurally forbids the other two. You cannot apologize to someone whose name is withheld. You cannot ask what it cost them, or check whether your fix actually landed for the person who was hurt.
+
+## questions to ask yourself
+
+1. The content — is there something true here I need to act on?
+2. The channel — what did I, or the system I'm part of, do that made anonymity the safest available option?
+
+The second is the more important one and the harder one to sit with. Edmondson's whole point is that silence has a rational logic: the cost of speaking is immediate and personal, the benefit diffuse and future. When there's a power gradient — you hold their review, their contract, their renewal — anonymity may be the only reason the information reached you at all. In Teaming, blameless reporting and the Good Catch Log were deliberately anonymous as a transitional device, to surface information in a system where naming carried too much risk. That's what anonymity is genuinely good for. It's a scaffold and a symptom, not a destination.
+
+The most accountable response to an anonymous note is not to solve the mystery. It's to ask why the front door was shut.
+
+## What accountability can actually look like here
+
+- Run the receiving questions anyway (good-feedback-checklist.md): truthful? specific? actionable? right time for me? Then notice which ones you cannot answer — intent, the giver's standing, whether it was delivered with care. That's a real epistemic loss. Hold the feedback with more uncertainty, not less. Anonymity is neither a reason to accept it nor a reason to discard it.
+- Treat it as a hypothesis, not a verdict — then go get named data. "I've been wondering whether I cut people off in design reviews. Have you seen me do that?" Asked non-defensively of two or three people, that converts an unfalsifiable claim into something checkable — without the whodunnit.
+- Make the amends general and public, since you can't make them private and specific. "I've heard that I run these meetings too tight and people don't get to finish. Here's what I'm changing. Tell me if it's working." That's the closest available substitute for repair — and it reopens the front door in the process. It's Brown's circle-back ("I wish I'd shown up differently — can I try again?"), addressed to a room instead of a person.
+- Don't punish the channel. The commonest failure is the receiver who says "I just wish they'd come to me directly." It's true. Said in the wrong tone, it also confirms exactly why they didn't. If you want fewer anonymous notes next time, make the named version cheap — don't make the anonymous one feel unwelcome.
+
+# The uncomfortable symmetry
+
+Some anonymous feedback really is cheap-seat behaviour — Brown's invisible army, criticism from someone not in the arena, with no plan and no skin in the game. You're allowed to notice that anonymity removes accountability from the giver entirely.
+
+But you don't get to know which kind you received. The same envelope holds the person protecting themselves from genuine risk and the person taking a free shot. Since you can't tell them apart: treat the content as if it came from the first, and treat the system as if it produced both.
+
+%%
+
+responsibility is proportional to power
+
+https://psychsafety.com/ambiguity-predictability-and-psychological-safety/
+

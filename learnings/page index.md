@@ -1,38 +1,70 @@
 # intro
+[[introduction]]
 [[hope is not an emotion]]
-[[the goal of leadership]]
-[[different approaches]]
-# practical tools
-[[advice process]]
-[[logging decisions]]
-[[fostering psychological safety]]
-[[emergent facilitation methods]]
-[[effective feedback model]]
-[[lean ux canvas]]
-[[asking the right questions]]
-[[lowering the bar for participation]]
-# misc
+[[how to come up with big ideas]]
+[[how to culture]]
+[[how to choose courage over comfort]]
+
+# asdf
 [[free flow of information]]
-[[psychological safety]]
+[[the goal of leadership]]
+[[leadership approaches]]
+[[connecting teams]]
+
+
+# practical tools
+
+[[how to make decisions]]
+[[how to remember decisions]]
+[[how to psychological safety]]
+%%[[the leaders impact on psychological safety]]%%
+
+# feedback
+[[giving feedback]]
+[[receiving feedback]]
+[[anonymous feedback]]
+# other
+
+[[how to ask the right questions]]
+[[how to lower the bar for participation]]
+[[how to listen]]
+[[how to empathy]]
+[[emergent facilitation]]
 [[motivation]]
 [[group flow]]
-[[courage is contagious]]
-[[curiosity gap]]
-[[lines of communication]]
+[[cognitive biases]]
+
+# useful lists
+[[useful links]]
+# pitfalls
+[[why not to shoot the messenger]]
+[[bad advice books]]
 [[the fat cat syndrome]]
-# how to human
+[[lines of communication]]
+[[commitment vs compliance]]
+
+
+
+
+
+# misc
+
 [[universal human needs]]
+
+
+
 %%
+
+[[psychological safety & predictability]]
+[[hope is not an emotion]]
+[[the goal of leadership2]]
+[[leadership approaches]]
+[[introduction]]
+[[connecting teams]]
 # books
 
 # stuff
-[[the goal of leadership]]
-[[self-organizing]]
-[[psychological safety]]
-[[motivation]]
 [[trust & interdependence]]
 [[attention]]
-[[feedback]]
-[[motivation]]
-[[the fat cat syndrome]]
+[[feedback2]]
 

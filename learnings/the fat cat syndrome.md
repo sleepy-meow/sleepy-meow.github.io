@@ -8,6 +8,8 @@ The more successful / large a company becomes, the more pressure there is for le
 # consequences
 > _“When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside.”_
 
+![[Pasted image 20260701203622.png|336]]
+
 Over a certain group size it becomes statistically unlikely for everyone to posess the self-restraint needed. Unchecked power also literally [reduces the ability to feel empathy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10461512/#:~:text=2%2E3%2E%20Power%20decreases%20empathy%20and%20compassion). This generally doesn't improve over time, the person affected may become blind to it themselves, and interestingly, others [may also become blind to it](https://www.goodreads.com/en/book/show/16234073-blind-to-betrayal).
 
 Lowering psychological safety also inhibits people from speaking up / bad news from traveling upwards, so problems often only become apparent when a bigger shit hits the fan for the first time.

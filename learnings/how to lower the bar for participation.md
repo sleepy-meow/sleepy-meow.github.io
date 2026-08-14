@@ -43,41 +43,41 @@ Lowering the bar to participation is not lowering the bar on standards. The bar 
 # things to avoid
 Silence already wins unless you actively counter it. So the first way to keep the bar high is simply to do nothing and assume "no news is good news."
 
-**Act like you already have the answers**
-- Run a "culture of telling" — broadcast your view, ask few real questions. "In a culture of telling, asking gets short shrift."
-- Be the knower (Brown's armor): be quick with answers, never say "I don't know." People won't impose ideas "when the boss appears to think he or she knows everything."
-- Project certainty and control. Dan Cable's warning (which Edmondson cites): power makes leaders "overly obsessed with outcomes and control," which "ramps up people's fear."
+**Acting like you already have the answers**
+- Running a "culture of telling" — broadcasting your view, asking few real questions.
+- Being the knower: being quick with answers, never saying "I don't know." People won't impose ideas "when the boss appears to think he or she knows everything."
+- Projecting certainty and control ramps up people's fear.
 
-**Ask fake questions**
+**Asking fake questions**
 - Rhetorical ones ("Don't we all agree this is right?") — they announce a conclusion.
 - Leading ones ("You're on board, right?") — they signal the "correct" answer.
 - Gotcha / interrogation ("Why didn't you catch this?") — triggers self-protection and blame.
 - Yes/No closers ("Any questions?" "Are we good?") — the easiest answer is silence.
 
-**Respond badly when someone does speak (the biggest one)**
+**Responding badly when someone does speak (the biggest one)**
 Speaking up is only the first step; the response decides everything.
 - Anger, disdain, or impatience — "if a boss responds with anger or disdain… the safety will quickly evaporate."
-- Shoot the messenger / make bad news unpleasant to deliver — "the primary result of responding to failures in a negative way is that you don't hear about them."
-- Blame the person, not the system (fundamental attribution error) — teaches everyone to hide problems.
-- Argue with or pick apart the first concern offered — kills the next ten.
-- Treat all failure as blameworthy (she found managers treat 70–90% as blameworthy when only ~1–4% are).
+- Shooting the messenger / making bad news unpleasant to deliver — "the primary result of responding to failures in a negative way is that you don't hear about them."
+- Blaming the person, not the system (fundamental attribution error) — teaches everyone to hide problems.
+- Arguing with or picking apart the first concern offered — kills the next ten.
+- Treating all failure as blameworthy (managers treat 70–90% as blameworthy when only ~1–4% are).
 
-**Make hierarchy and status loud**
-- Let only senior/tenured voices count ("not your place," "not senior enough") — her example of the 20-year veteran expected to stay quiet for six months.
-- Reinforce the implicit theories of voice: don't go over your boss's head, don't speak when the boss's boss is present, don't criticize something the boss built.
-- Make your own status salient when you ask — Rodney Rocha said he "couldn't" speak when hierarchy loomed; the Tenerife co-pilot didn't say "wait for clearance."
+**Making hierarchy and status loud**
+- Letting only senior/tenured voices count ("not your place," "not senior enough").
+- *Reinforcing the implicit theories of voice*: don't go over your boss's head, don't speak when the boss's boss is present, don't criticize something the boss built.
+- Making your own status salient when you ask.
 
-**Set the entry requirements too high**
-- Demand proof/data before anyone may speak ("you'd better have evidence").
-- Demand polish — only finished, defensible proposals welcome (so rough, early ideas — the lifeblood of creative work — never surface).
-- Require people to be brave: free-for-all meetings where you must fight for airtime, interrupt, or be the lone dissenter.
+**Setting the entry requirements too high**
+- Demanding proof/data before anyone may speak ("you'd better have evidence").
+- Demanding polish — only finished, defensible proposals welcome (so rough, early ideas — the lifeblood of creative work — never surface).
+- Requiring people to be brave: free-for-all meetings where you must fight for airtime, interrupt, or be the lone dissenter.
 
-**Invite input, then ignore it**
-- The Cassandra culture: people speak up and warnings go unheeded (Boisjoly's O-rings). Asking for concerns and then doing nothing is worse than not asking — it proves voice is pointless and breeds the "why bother?" futility.
+**Inviting input, then ignoring it**
+- The Cassandra culture: people speak up and warnings go unheeded. *Asking for concerns and then doing nothing is worse than not asking* — it proves voice is pointless and breeds the "why bother?" futility.
 - "My door is always open" with no structure behind it — a vague, passive invitation that puts all the effort on the employee.
 
-**Let the structures themselves raise the bar**
-- Clunky, surveilling, or distrusted reporting tools/surveys (your tool-usability thread) — they signal invitation while collecting silence.
+**Letting the structures themselves raise the bar**
+- Clunky, surveilling, or distrusted reporting tools/surveys signal invitation while collecting silence.
 - No recurring forums, so speaking up is always an exceptional, high-stakes one-off rather than routine.
 
 **Small behaviors that quietly raise it**

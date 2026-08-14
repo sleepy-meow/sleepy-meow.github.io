@@ -1,6 +1,17 @@
 *Group flow is the shared, energized state where a team becomes so absorbed in a task together that ideas and actions click effortlessly, the group performs at its peak, and members lose track of self and time.*
 
-# examples
+# flow state
+_“The flow state is an optimal state of intrinsic motivation, where the person is fully immersed in what they are doing.“_
+
+Conditions:
+- knowing what to do
+- *knowing how to do it*
+- knowing how well you are doing
+- *knowing where to go*
+- *room for risk (it’s ok fail & experiment)*
+- *confidence in skills & challenges*
+- freedom from distractions
+# group flow
 **A jazz ensemble improvising** — musicians riffing off each other, no one leading, the music seeming to play itself
 **A sports team "in the zone"** — a basketball team on a fast break where passes land without anyone looking, everyone anticipating the next move.
 **A surgical or emergency team working a crisis** in tight, wordless coordination, each person moving as the situation demands.

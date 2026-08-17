@@ -190,6 +190,11 @@
           "tags": []
         },
         {
+          "name": "context switching",
+          "path": "learnings/context switching.md",
+          "tags": []
+        },
+        {
           "name": "commitment vs compliance",
           "path": "learnings/commitment vs compliance.md",
           "tags": []

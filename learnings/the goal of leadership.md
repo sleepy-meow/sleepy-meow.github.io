@@ -15,8 +15,6 @@ Whilst there are certainly some managers out there who enjoy ruling by fear and
 This is a very difficult thing to unlearn. And it takes time – none of us start our careers as already excellent leaders.
 
 
-
-
 This approach is incredibly inefficient, for one simple reason:
 
 An organization is basically a [complex adaptive system](https://en.wikipedia.org/wiki/Complex_adaptive_system)
@@ -51,10 +49,20 @@ Innovation is, by definition, messy and unpredictable.
 
 
 
+# requirements
+Requirement for lead = to care
+
+- unchecked power can reduce empathy
+    - Can be avoided by
+        - Self restraint
+        - Making yourself accountable 
+        - safeguards that make you accountable
+- Some people have low empathy to begin with
+    - only relying on 1&2 = disaster
+
 
 ---
 
-*"No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple."*
 
 # links
 

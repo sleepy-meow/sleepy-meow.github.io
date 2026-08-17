@@ -1,23 +1,23 @@
 # intro
 [[introduction]]
-[[hope is not an emotion]]
+[[hope is not an emotion]] ?
 [[how to come up with big ideas]]
 [[how to culture]]
-[[how to choose courage over comfort]]
-[[common misconceptions]]
-# asdf
+[[how to choose courage over comfort]] ?
+[[common misconceptions]] ?
+# stuff
 [[free flow of information]]
-[[the goal of leadership]]
+[[the goal of leadership]] ?
 [[leadership approaches]]
 [[connecting teams]]
-[[curiosity gap]]
+[[curiosity gap]] ?
 
 # practical tools
 
 [[how to make decisions]]
 [[how to remember decisions]]
 [[how to psychological safety]]
-%%[[the leaders impact on psychological safety]]%%
+[[the leaders impact on psychological safety]] ?
 
 # feedback
 [[feedback checklists]]
@@ -27,24 +27,25 @@
 
 [[how to ask the right questions]]
 [[how to lower the bar for participation]]
-[[how to listen]]
-[[how to empathy]]
+[[how to listen]] ?
+[[how to empathy]] ?
 [[emergent facilitation]]
-[[motivation]]
-[[group flow]]
+[[motivation]] ?
+[[group flow]] ?
 [[how to question your own thinking]]
-[[tech art learnings]]
+[[tech art learnings]] ?
 # useful lists
-[[useful links]]
+[[links & resources]]
 # pitfalls
 [[why not to shoot the messenger]]
 [[bad advice books]]
 [[the fat cat syndrome]]
 [[lines of communication]]
 [[context switching]]
-[[commitment vs compliance]]
-[[why to build safeguards]]
-[[trust & interdependence]]
+[[commitment vs compliance]] ?
+[[why to build safeguards]] ?
+[[trust & interdependence]] ?
+[[pitfalls of growing teams]]
 
 
 

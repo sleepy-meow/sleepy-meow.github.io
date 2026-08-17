@@ -7,9 +7,4 @@ https://www.corporate-rebels.com/company-productivity-how-to-improve-it
 https://explore.psychsafety.com/
 
 psychsafety behaviors
-
-
-
-- 
-- facilitation methods
-- 
+facilitation methods

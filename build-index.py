@@ -162,8 +162,9 @@ def folders_from_index(index_path: str, notes: dict):
     """Parse the page-index note into ordered categories.
 
     "# heading" lines start a category; [[wikilinks]] beneath become its pages
-    (resolved against `notes`, unresolved links skipped). Returns None if the
-    file can't be read.
+    (resolved against `notes`, unresolved links skipped). A link followed by
+    "?" is marked "draft": true — the site hides those unless asked. Returns
+    None if the file can't be read.
     """
     try:
         with open(index_path, encoding="utf-8") as fh:
@@ -181,10 +182,15 @@ def folders_from_index(index_path: str, notes: dict):
             current = {"name": h.group(1).strip(), "files": []}
             folders.append(current)
             continue
-        for target in re.findall(r"\[\[([^\]|#]+)", s):
-            note = notes.get(target.strip().lower())
-            if note and current is not None and note not in current["files"]:
-                current["files"].append(note)
+        for m in re.finditer(r"\[\[([^\]|#]+)[^\]]*\]\][ \t]*(\?)?", s):
+            note = notes.get(m.group(1).strip().lower())
+            if not note or current is None:
+                continue
+            entry = dict(note)          # copy: a note may be listed twice
+            if m.group(2):
+                entry["draft"] = True
+            if entry not in current["files"]:
+                current["files"].append(entry)
     return [f for f in folders if f["files"]]
 
 

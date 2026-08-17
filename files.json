@@ -12,7 +12,8 @@
         {
           "name": "hope is not an emotion",
           "path": "learnings/hope is not an emotion.md",
-          "tags": []
+          "tags": [],
+          "draft": true
         },
         {
           "name": "how to come up with big ideas",
@@ -27,17 +28,19 @@
         {
           "name": "how to choose courage over comfort",
           "path": "learnings/how to choose courage over comfort.md",
-          "tags": []
+          "tags": [],
+          "draft": true
         },
         {
           "name": "common misconceptions",
           "path": "learnings/common misconceptions.md",
-          "tags": []
+          "tags": [],
+          "draft": true
         }
       ]
     },
     {
-      "name": "asdf",
+      "name": "stuff",
       "files": [
         {
           "name": "free flow of information",
@@ -47,7 +50,8 @@
         {
           "name": "the goal of leadership",
           "path": "learnings/the goal of leadership.md",
-          "tags": []
+          "tags": [],
+          "draft": true
         },
         {
           "name": "leadership approaches",
@@ -62,7 +66,8 @@
         {
           "name": "curiosity gap",
           "path": "learnings/curiosity gap.md",
-          "tags": []
+          "tags": [],
+          "draft": true
         }
       ]
     },
@@ -83,6 +88,12 @@
           "name": "how to psychological safety",
           "path": "practical tools/how to psychological safety.md",
           "tags": []
+        },
+        {
+          "name": "the leaders impact on psychological safety",
+          "path": "learnings/the leaders impact on psychological safety.md",
+          "tags": [],
+          "draft": true
         }
       ]
     },
@@ -122,12 +133,14 @@
         {
           "name": "how to listen",
           "path": "practical tools/how to listen.md",
-          "tags": []
+          "tags": [],
+          "draft": true
         },
         {
           "name": "how to empathy",
           "path": "learnings/how to empathy.md",
-          "tags": []
+          "tags": [],
+          "draft": true
         },
         {
           "name": "emergent facilitation",
@@ -137,12 +150,14 @@
         {
           "name": "motivation",
           "path": "learnings/motivation.md",
-          "tags": []
+          "tags": [],
+          "draft": true
         },
         {
           "name": "group flow",
           "path": "learnings/group flow.md",
-          "tags": []
+          "tags": [],
+          "draft": true
         },
         {
           "name": "how to question your own thinking",
@@ -152,7 +167,8 @@
         {
           "name": "tech art learnings",
           "path": "learnings/tech art learnings.md",
-          "tags": []
+          "tags": [],
+          "draft": true
         }
       ]
     },
@@ -160,8 +176,8 @@
       "name": "useful lists",
       "files": [
         {
-          "name": "useful links",
-          "path": "learnings/useful links.md",
+          "name": "links & resources",
+          "path": "learnings/links & resources.md",
           "tags": []
         }
       ]
@@ -197,16 +213,24 @@
         {
           "name": "commitment vs compliance",
           "path": "learnings/commitment vs compliance.md",
-          "tags": []
+          "tags": [],
+          "draft": true
         },
         {
           "name": "why to build safeguards",
           "path": "learnings/why to build safeguards.md",
-          "tags": []
+          "tags": [],
+          "draft": true
         },
         {
           "name": "trust & interdependence",
           "path": "learnings/trust & interdependence.md",
+          "tags": [],
+          "draft": true
+        },
+        {
+          "name": "pitfalls of growing teams",
+          "path": "learnings/pitfalls of growing teams.md",
           "tags": []
         }
       ]

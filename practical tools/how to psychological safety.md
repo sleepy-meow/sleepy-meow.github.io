@@ -1,3 +1,5 @@
+> [!EXAMPLE] 3 minute edmondson video
+
 - talking about it
 - understanding what it means and what affects it
 
@@ -37,3 +39,6 @@ words of interest and availability:
 - *listening thoughtfully*, signaling that what I'm hearing matters, *acknowledging or thanking* the speaker for bringing the idea or question
 - *destigmatizing failure*, *celebrating intelligent failures* When someone brings bad news, making it a *positive experience*, *offering help* to guide next steps
 - *clarifying boundaries* - what counts as blameworthy, responding to clear violations in an appropriately tough way to influence future behavior
+
+The best book on the topic, 
+> [!TIP] amy edmondson - the fearless organization

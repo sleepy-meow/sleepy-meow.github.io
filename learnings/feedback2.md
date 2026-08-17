@@ -18,5 +18,5 @@ The abuse of power is a desperate attempt to maintain a very fragile ego.
 The greater the gradient, the more the burden shifts to the more powerful person to build power with.
 
 
-[[feedback]]
+[[feedback checklists]]
 

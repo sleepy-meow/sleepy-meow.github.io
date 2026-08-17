@@ -4,13 +4,13 @@
 [[how to come up with big ideas]]
 [[how to culture]]
 [[how to choose courage over comfort]]
-
+[[common misconceptions]]
 # asdf
 [[free flow of information]]
 [[the goal of leadership]]
 [[leadership approaches]]
 [[connecting teams]]
-
+[[curiosity gap]]
 
 # practical tools
 
@@ -20,9 +20,9 @@
 %%[[the leaders impact on psychological safety]]%%
 
 # feedback
-[[giving feedback]]
+[[feedback checklists]]
 [[receiving feedback]]
-[[anonymous feedback]]
+[[bullshit feedback]]
 # other
 
 [[how to ask the right questions]]
@@ -32,8 +32,8 @@
 [[emergent facilitation]]
 [[motivation]]
 [[group flow]]
-[[cognitive biases]]
-
+[[how to question your own thinking]]
+[[tech art learnings]]
 # useful lists
 [[useful links]]
 # pitfalls
@@ -42,7 +42,8 @@
 [[the fat cat syndrome]]
 [[lines of communication]]
 [[commitment vs compliance]]
-
+[[why to build safeguards]]
+[[trust & interdependence]]
 
 
 
@@ -64,7 +65,7 @@
 # books
 
 # stuff
-[[trust & interdependence]]
+
 [[attention]]
 [[feedback2]]
 

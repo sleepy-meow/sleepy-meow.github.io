@@ -1,3 +1,7 @@
+> [!TIP] adam grant - think again
+
+# cognitive biases
+
 **curse of knowledge**
 occurs when a person who has specialized knowledge assumes that others share in that knowledge
 

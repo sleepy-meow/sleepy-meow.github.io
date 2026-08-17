@@ -28,6 +28,11 @@
           "name": "how to choose courage over comfort",
           "path": "learnings/how to choose courage over comfort.md",
           "tags": []
+        },
+        {
+          "name": "common misconceptions",
+          "path": "learnings/common misconceptions.md",
+          "tags": []
         }
       ]
     },
@@ -52,6 +57,11 @@
         {
           "name": "connecting teams",
           "path": "learnings/connecting teams.md",
+          "tags": []
+        },
+        {
+          "name": "curiosity gap",
+          "path": "learnings/curiosity gap.md",
           "tags": []
         }
       ]
@@ -80,8 +90,8 @@
       "name": "feedback",
       "files": [
         {
-          "name": "giving feedback",
-          "path": "practical tools/giving feedback.md",
+          "name": "feedback checklists",
+          "path": "practical tools/feedback checklists.md",
           "tags": []
         },
         {
@@ -90,8 +100,8 @@
           "tags": []
         },
         {
-          "name": "anonymous feedback",
-          "path": "learnings/anonymous feedback.md",
+          "name": "bullshit feedback",
+          "path": "practical tools/bullshit feedback.md",
           "tags": []
         }
       ]
@@ -135,8 +145,13 @@
           "tags": []
         },
         {
-          "name": "cognitive biases",
-          "path": "practical tools/cognitive biases.md",
+          "name": "how to question your own thinking",
+          "path": "practical tools/how to question your own thinking.md",
+          "tags": []
+        },
+        {
+          "name": "tech art learnings",
+          "path": "learnings/tech art learnings.md",
           "tags": []
         }
       ]
@@ -177,6 +192,16 @@
         {
           "name": "commitment vs compliance",
           "path": "learnings/commitment vs compliance.md",
+          "tags": []
+        },
+        {
+          "name": "why to build safeguards",
+          "path": "learnings/why to build safeguards.md",
+          "tags": []
+        },
+        {
+          "name": "trust & interdependence",
+          "path": "learnings/trust & interdependence.md",
           "tags": []
         }
       ]

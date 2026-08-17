@@ -1,11 +1,11 @@
-https://psychsafety.com/giving-feedback-with-psychological-safety/
-https://psychsafety.com/the-fundamental-attribution-error/
-https://psychsafety.com/local-rationality/
 
-# receiving tough feedback
 
 > "I'm brave enough to listen. I don't have to take it all in or add it to my load, but I'm brave enough to listen."
 
+%%
+https://psychsafety.com/giving-feedback-with-psychological-safety/
+https://psychsafety.com/the-fundamental-attribution-error/
+https://psychsafety.com/local-rationality/
 
 > [!tip] brene brown - dare to lead
 
@@ -42,27 +42,3 @@ Feedback must be actionable. **It’s stressful to hear feedback if we don’t 
 
 For example, *"the outcome of this meeting was interpreted differently by participants, having clear action points at the end of the meeting would help."* would be useful feedback, _"you have poor communication skills and need to get better at communicating”_ is not.
 
-# evaluating feedback you've received
-
-**What is the feedback's intent?**
-Can you clearly articulate what behavior it's actually addressing? If the feedback is vague, sprawling, or you can't pin down the specific thing it's about, that's a sign it's underbaked — and you're within your rights to ask for specifics before you accept it.
-
-Feedback that doesn’t come from a place of positive intent isn’t feedback, it’s bullying.
-
-**Is the feedback contextual?**
-Did the giver account for the mitigating factors around the behavior? If they had no understanding of the personal or professional challenges shaping your performance at the time, the feedback may be technically accurate but miss what was really driving things. Notice whether they were curious about context or just reacting to output.
-
-**Who is benefiting from the feedback?**
-There should be an obvious answer. In the moment of delivery, good feedback benefits you, the recipient — not just the organization, and not the giver. If it reads more like a character assassination, a frustrated outburst, or someone offloading their own stress, the beneficiary isn't you. That kind of "feedback" earns less weight.
-
-**Was the feedback useful in time?**
-Was it delivered close enough to the behavior to be actionable — or dredged up long after, when the association between act and consequence has gone cold? Timely feedback you can still do something about deserves more weight than a grievance that sat for months.
-
-**Is the feedback real?**
-Does the giver have an accurate, comprehensive picture of what actually happened? Or is it built on assumption, inferred intent, and skipped benefit of the doubt? Test it against what you know to be true. Feedback resting on supposition and conjecture — rather than observed behavior — deserves scrutiny before you internalize it.
-
-**Is the feedback cruel?**
-Critical feedback isn't obligated to feel good — it can dent the ego and still be worth taking. But there's a difference between tough feedback that hurts and develops you, and feedback delivered with harm as the intent, meant to leave a scar. If it's the latter, take the useful kernel if there is one, but don't grant cruelty the authority of truth.
-
-**Is the feedback shared?**
-Would others familiar with the situation recognize this assessment — or is the giver alone in it? Seek an outside sanity check. Feedback echoed by several people you trust deserves real weight; a solitary, idiosyncratic take deserves less, though "only one person sees it" doesn't automatically make it wrong.

@@ -16,7 +16,7 @@
 
 [[how to make decisions]] !!
 [[how to remember decisions]] !!
-[[how to psychological safety]]
+[[how to psychological safety]] !!
 [[the leaders impact on psychological safety]] ?
 
 # feedback

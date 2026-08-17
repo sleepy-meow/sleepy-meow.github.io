@@ -162,9 +162,10 @@ def folders_from_index(index_path: str, notes: dict):
     """Parse the page-index note into ordered categories.
 
     "# heading" lines start a category; [[wikilinks]] beneath become its pages
-    (resolved against `notes`, unresolved links skipped). A link followed by
-    "?" is marked "draft": true — the site hides those unless asked. Returns
-    None if the file can't be read.
+    (resolved against `notes`, unresolved links skipped). Trailing markers set
+    a page's state for the site's sidebar switches: "?" → "draft": true (work
+    in progress, hidden by default), "!!" → "done": true (finished, the only
+    ones shown by default). Returns None if the file can't be read.
     """
     try:
         with open(index_path, encoding="utf-8") as fh:
@@ -182,13 +183,15 @@ def folders_from_index(index_path: str, notes: dict):
             current = {"name": h.group(1).strip(), "files": []}
             folders.append(current)
             continue
-        for m in re.finditer(r"\[\[([^\]|#]+)[^\]]*\]\][ \t]*(\?)?", s):
+        for m in re.finditer(r"\[\[([^\]|#]+)[^\]]*\]\][ \t]*(\?|!!)?", s):
             note = notes.get(m.group(1).strip().lower())
             if not note or current is None:
                 continue
             entry = dict(note)          # copy: a note may be listed twice
-            if m.group(2):
+            if m.group(2) == "?":
                 entry["draft"] = True
+            elif m.group(2) == "!!":
+                entry["done"] = True
             if entry not in current["files"]:
                 current["files"].append(entry)
     return [f for f in folders if f["files"]]

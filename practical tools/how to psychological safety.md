@@ -1,13 +1,14 @@
-understanding what it means and what affects it
+- talking about it
+- understanding what it means and what affects it
 
 > [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
 
-https://explore.psychsafety.com/
+> [!EXAMPLE] https://explore.psychsafety.com/
 
 
 
 
-**simple things to say**
+# simple things to say
 
 By acknowledging that you are a fallible human being, you give permission to others to do likewise:
 *I don't know.*
@@ -19,6 +20,8 @@ words of interest and availability:
 *What can I do to help?*
 *What are you up against?*
 *What are your concerns?*
+
+# other things
 
 **Setting the Stage**
 - pointing out that small failures are the currency of improvement — that you can't get something new "right the first time"

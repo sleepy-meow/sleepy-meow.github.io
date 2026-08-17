@@ -54,7 +54,7 @@ Whatever a leader models spreads through the organization: a fat cat protecting 
 
 > The cave you fear to enter holds the treasure you seek. Own the fear, find the cave, and write a new ending for yourself, for the people you're meant to serve and support, and for your culture. Choose courage over comfort. Choose whole hearts over armor. And choose the great adventure of being brave and afraid at the exact same time.
 
-
+At the end of the day though, none of us should need to be afraid.
 
 # further reading
 [medium article: the fat cat syndrome prevents innovation and opens the door for disruption](https://medium.com/@arnoldbeekes/the-fat-cat-syndrome-prevents-innovation-and-opens-the-door-for-disruption-9a37643d38a4)

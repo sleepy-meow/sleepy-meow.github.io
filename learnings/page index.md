@@ -6,7 +6,7 @@
 [[how to choose courage over comfort]] ?
 [[common misconceptions]] ?
 # stuff
-[[free flow of information]]
+[[transparency]]
 [[the goal of leadership]] ?
 [[leadership approaches]]
 [[connecting teams]]

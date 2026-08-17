@@ -1,4 +1,4 @@
-Free flow of information is one of the fundamental prerequisites for self-management of organizations.
+Free flow of information is one of the fundamental requirements for self-management of organizations.
 
 Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. Boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
 

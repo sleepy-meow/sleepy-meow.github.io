@@ -8,3 +8,8 @@ it may just take one or two cases to teach the entire group the lesson that it's
 
 > "many organizational leaders genuinely believe that "no news" means that things are going well. What many people do not realize is that motivation by fear is indeed highly effective - effective at creating the illusion that goals are being achieved."
 
+# what to do instead
+When someone comes to you with a concern, thank them for bringing it up, it doesn't matter whether they are right or wrong (you can figure this out later). 
+
+![[Pasted image 20260817203702.png]]
+The more difficult of a topic, the more thank yous may be needed.

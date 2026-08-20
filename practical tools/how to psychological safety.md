@@ -1,5 +1,17 @@
+# what is it
+
 > [!EXAMPLE] 3 minute edmondson video
 
+# why it matters
+> It's hard for people to do their best work when they are afraid.
+
+![[Pasted image 20260819221610.png]]
+
+*Fear inhibits learning.* Fear hijacks the brain from parts that manage working memory and process new information. This impairs analytic thinking, creative insight, and problem solving. As a result, how psychologically safe a person feels strongly impacts learning behaviors, such as information sharing, asking for help, or experimenting. *Hierarchy (or, more specifically, the fear it creates when not handled well) reduces psychological safety*. 
+# what degrades it
+
+
+# how to build it
 - talking about it
 - understanding what it means and what affects it
 
@@ -7,10 +19,7 @@
 
 > [!EXAMPLE] https://explore.psychsafety.com/
 
-
-
-
-# simple things to say
+## simple things to say
 
 By acknowledging that you are a fallible human being, you give permission to others to do likewise:
 *I don't know.*
@@ -23,7 +32,7 @@ words of interest and availability:
 *What are you up against?*
 *What are your concerns?*
 
-# other things
+## other things
 
 **Setting the Stage**
 - pointing out that small failures are the currency of improvement — that you can't get something new "right the first time"
@@ -40,5 +49,5 @@ words of interest and availability:
 - *destigmatizing failure*, *celebrating intelligent failures* When someone brings bad news, making it a *positive experience*, *offering help* to guide next steps
 - *clarifying boundaries* - what counts as blameworthy, responding to clear violations in an appropriately tough way to influence future behavior
 
-The best book on the topic, 
+# books
 > [!TIP] amy edmondson - the fearless organization

@@ -1,9 +1,10 @@
 > *"When you have a value printed on posters hanging on the walls, but you don't dig into the behaviors that support it and teach people those behaviors, you're in bullshit territory."*
 
-"We give each other honest feedback" / "we disagree openly and stay a team" only works if people actually know *how* — and the behaviors are concrete, teachable, practiceable skills.
+"We give each other honest feedback" / "we disagree openly and stay a team" only works if people actually know how — and the behaviors are concrete, teachable, practiceable skills.
 
-It's not always obvious *how* to acquire them or where to look. The goal of this page is to show what concrete tools there are and where they live, and to lower the effort it takes to pick them up.
+It's not always obvious where to find the information to learn these skills. The goal of this page is to show what concrete tools there are and where they live, and to lower the effort it takes to pick them up.
 
+%%
 > There’s an entire section in the bookshop called self-help, but there is no section called 'help others'.
 
 There is actually such a book section, it's called 'leadership'. For the most part the skills they teach are not exclusive to any formal title, but how to be a decent human being
@@ -22,7 +23,7 @@ excerpts from books are formatted like this
 
 
 
-%%
+
 # why it matters
 
 *"The gardener cannot actually “grow” tomatoes, squash or beans - she can only foster an environment in which the plants do so."*

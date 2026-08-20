@@ -1,6 +1,8 @@
+> Leaders must either invest a reasonable amount of time attending to fears and feelings, or squander an unreasonable amount of time trying to manage ineffective and unproductive behavior.
+
 *"the goal of leadership is to produce more leaders, not followers"*
 
-Why not just followers? Because when organizations grow, they quickly become too complex for any one person to make all the decisions. 
+Why not just followers? Because when organizations grow, they quickly become too complex for any one person to make all the decisions. It just doesn't scale.
 
 In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. Today organizations are too complex for management to do all the thinking.
 

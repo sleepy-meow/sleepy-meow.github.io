@@ -4,7 +4,7 @@
 
 
 
-A small collection of learnings from this recent [book binge](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b259?v=314d1f512d894da2916a46ebef5310cd&assetsVersion=23.13.20260627.0555&clientBuildTarget=clientExperimental) about *culture, collaboration, and about what creative environments need to thrive*. Pick one from the sidebar to start reading!
+A small collection of learnings from a recent [book binge](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b259?v=314d1f512d894da2916a46ebef5310cd&assetsVersion=23.13.20260627.0555&clientBuildTarget=clientExperimental) about *culture, collaboration, and about what creative environments need to thrive*. Pick one from the sidebar to start reading!
 
 https://sleepy-meow.github.io
 http://localhost:8000/#

@@ -11,10 +11,22 @@
           "done": true
         },
         {
+          "name": "tech art x leadership skills",
+          "path": "learnings/tech art x leadership skills.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "responsibility of the captain",
+          "path": "learnings/responsibility of the captain.md",
+          "tags": [],
+          "done": true
+        },
+        {
           "name": "hope is not an emotion",
           "path": "learnings/hope is not an emotion.md",
           "tags": [],
-          "draft": true
+          "done": true
         },
         {
           "name": "how to come up with big ideas",
@@ -23,8 +35,8 @@
           "done": true
         },
         {
-          "name": "how to culture",
-          "path": "learnings/how to culture.md",
+          "name": "how to nurture a culture",
+          "path": "learnings/how to nurture a culture.md",
           "tags": []
         },
         {
@@ -73,6 +85,12 @@
           "path": "learnings/curiosity gap.md",
           "tags": [],
           "draft": true
+        },
+        {
+          "name": "the swiss cheese model",
+          "path": "learnings/the swiss cheese model.md",
+          "tags": [],
+          "done": true
         }
       ]
     },
@@ -94,7 +112,14 @@
         {
           "name": "how to psychological safety",
           "path": "practical tools/how to psychological safety.md",
-          "tags": []
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "the science of failing well",
+          "path": "learnings/the science of failing well.md",
+          "tags": [],
+          "done": true
         },
         {
           "name": "the leaders impact on psychological safety",

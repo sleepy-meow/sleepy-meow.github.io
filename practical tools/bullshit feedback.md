@@ -1,15 +1,14 @@
+Real feedback comes with an example and a substitute: *here’s the moment, here’s what would have worked better*. Without those, it's just a verdict.
+
+Feedback must be actionable. It’s stressful to hear feedback if we don’t know how to act upon it. Vague feedback just causes anxiety.
+
+For example, *"the outcome of this meeting was interpreted differently by participants, having clear action points at the end of the meeting would help."* would be useful feedback, _"you have poor communication skills and need to get better at communicating”_ is not. 
+
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
 
-# is the feedback actionable and specific?
-Real feedback comes with an example and a substitute: here’s the moment, here’s what would have worked better. Without those, it's just a verdict.
-
-Feedback must be actionable. **It’s stressful to hear feedback if we don’t know how to act upon it.** Unspecific or imprecise feedback just causes anxiety.
-
-For example, *"the outcome of this meeting was interpreted differently by participants, having clear action points at the end of the meeting would help."* would be useful feedback, _"you have poor communication skills and need to get better at communicating”_ is not.
-
-
-
-# Is the feedback kind or unkind?
+# clear is kind
+100% the best book on how to tough conversations at work:
+> [!TIP] dare to lead (brene brown)
 
 > Clear is kind. Unclear is unkind.
 
@@ -18,10 +17,7 @@ For example, *"the outcome of this meeting was interpreted differently by partic
 [Bullshit](https://jbaron.org/journal/15/15923a/jdm15923a.html) = to specifically refer to statements produced without particular concern for truth, clarity, or meaning, (distinguishing "bullshit" from a deliberate, manipulative lie intended to subvert the truth).
 
 > Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind.
-
-Have the expectations been made clear in advance? Have you had a fair chance to act on those expectations before any consequences arised? Are the expectations reasonable, or more than any one person can handle? Have you been given the autonomy and resources to meet those expectations? 
-
-# Is the feedback anonymous?
+# anonymous feedback
 
 > Talking about people rather than to them is unkind.
 
@@ -31,21 +27,31 @@ Anonymous feedback is structurally unkind, you can't give it without talking abo
 > 
 > There are a million cheap seats in the world today filled with people who will never be brave with their lives but who will spend every ounce of energy they have hurling advice and judgment at those who dare greatly. Their only contributions are criticism, cynicism, and fearmongering. If you're criticizing from a place where you're not also putting yourself on the line, I'm not interested in what you have to say.
 
-# Is there an invisible army?
+> [!EXAMPLE] [anonymous feedback can destroy your team](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
+
+Performance reviews, often by design, revolve around
+1. anonymous feedback
+2. holding people accountable
+
+A nice rant about 360 reviews / anonymous surveys can be found in this book:
+> [!TIP] Confronting Our Freedom (Peter Block, Peter Koestenbaum)
+
+> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It. ](https://www.corporate-rebels.com/blog/annual-performance-reviews)
+# the invisible army
 
 > "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.
 
 *All feedback must be a conversation.* You can't give or receive feedback well if the other person is not in the room.
 
-# Is it considering..
+# some relevant biases
 [https://psychsafety.com/the-fundamental-attribution-error/](https://psychsafety.com/the-fundamental-attribution-error/)  
 [https://psychsafety.com/local-rationality/](https://psychsafety.com/local-rationality/)
 
 
 
-> [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
 
-> [!EXAMPLE] https://www.corporate-rebels.com/blog/annual-performance-reviews
+
+
 
 
 %%

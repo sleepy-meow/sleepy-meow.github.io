@@ -2,16 +2,26 @@
 
 > [!tip] amy edmondson - teaming
 
-> Many organizations still rely on the top-down, command-and-control approaches that fueled growth and profitability in the industrial era. Some of the most basic tenets of this management style- ensuring control, eliminating variance, and rewarding conformance-inhibit collaboration and organizational learning.
+> Many organizations still rely on the top-down, command-and-control approaches that fueled growth and profitability in the industrial era. Some of the most basic tenets of this management style- ensuring control, eliminating variance, and rewarding conformance - inhibit collaboration and organizational learning.
 
 The hierarchical approach may work just fine when managing an assembly plant factory line (that's already well optimized, as long as nothing breaks down or any changes need to be made).
 
-But the more creativity and innovation are required to achieve a goal, the less effective it will be. Here is a definition of innovation:
+But the more creativity and innovation (which are, by definition, messy and unpredictable) are needed to achieve a goal, the more learning is needed.
 
-> "Innovation is the multi-stage process whereby organizations transform ideas into new/improved products, service or processes, in order to advance, compete and differentiate themselves successfully in their marketplace"
 
-Innovation is, by definition, messy and unpredictable.
+# team of teams
+> "The most effective teams are those that can rapidly adapt to the ever-changing environment.” (team of teams)
 
+|               | the old default                     | what replaces it                                 |
+| ------------- | ----------------------------------- | ------------------------------------------------ |
+| the world     | complicated (hard, but predictable) | complex (interdependent + fast -> unpredictable) |
+| the goal      | efficiency, robustness              | adaptability, resilience                         |
+| the structure | command -> command of teams         | team of teams                                    |
+| information   | "need to know"                      | shared consciousness                             |
+| authority     | the perry principle                 | empowered execution                              |
+| the person    | chess master                        | gardener                                         |
+
+# organizing to execute vs organizing to learn
 
 | Management Approach         | Organizing to Execute                                                             | Organizing to Learn                  |
 | --------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
@@ -26,6 +36,7 @@ Innovation is, by definition, messy and unpredictable.
 | Business goal               | Make money now.                                                                   | Make money later.                    |
 | Works when                  | Path forward is clear.                                                            | Path forward is not clear.           |
 
+reframing the boss
 The more creativity and innovation are required to achieve a goal, the more this reframe is needed:
 
 | dimension                | default frame                                                        | reframe                                                                                                      |
@@ -40,6 +51,7 @@ The more creativity and innovation are required to achieve a goal, the more this
 or as brene brown puts it:
 > No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple.
 
+# armored vs daring leadership
 > [!tip] brene brown - dare to lead
 
 | Armored                                                          | Daring                                                                    |

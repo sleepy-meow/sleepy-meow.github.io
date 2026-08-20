@@ -1,9 +1,16 @@
-Free flow of information is one of the fundamental requirements for self-management of organizations.
+> Free flow of information is one of the fundamental requirements for self-management of organizations. 
+
+> [!EXAMPLE] [reinventing organizations wiki - information flow](https://reinventingorganizationswiki.com/en/theory/information-flow/)
+
 
 Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. Boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
 
 > you can't know what information is useful to someone else
 
+# shared consciousness
+> [!tip] stanley mcchrystal - team of teams
+
+> **To contend with complexity, everyone in the organization must see how everything works together.** They have to understand the interdependencies and how the organization operates as a whole. When people understand these things, they make good decisions, quicker.
 # benefits
 
 **decision quality** - pooling information across members leads to more optimal decisions
@@ -33,20 +40,27 @@ when transparency is the default, it's the opacity that draws attention
 
 > _"If you empower people but don´t give them information, they just fumble in the dark."_
 
+# One-way glass isn't transparency
+If information only moves upwards, that is not shared consciousness — it's surveillance, and it teaches people to hide, which is the thing you were trying to stop.
 
+Transparency is what you pay for autonomy. And when it's paid, the need for control evaporates on its own.
 
+# communication vs organization structure
 
+> [!tip] ed catmull - creativity inc
 
+> In this case, we had made the mistake of confusing the communication structure with the organizational structure.. ..anyone should be able to talk to anyone else, at any level, at any time, without fear of reprimand.
 
-
+> "Complex environments are, by definition, too complicated for any one person to grasp fully. Yet many managers, afraid of appearing to not be in control, believe that they have to know everything—or at least act like they do" 
 
 # links
-https://reinventingorganizationswiki.com/en/theory/information-flow/
+
 https://fs.blog/information-without-context/
+
+> “Give away everything you know, and more will come back to you. – If you give away everything, you are left with nothing. This forces you to look, to be aware, to replenish.”
+
 
 %%
 
-> “Give away everything you know, and more will come back to you. – If you give away everything, you are left with nothing. This forces you to look, to be aware, to replenish.”
-> 
+
 https://handbook.gitlab.com/
-[[team of teams]]

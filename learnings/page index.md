@@ -1,8 +1,10 @@
 # intro
 [[introduction]] !!
-[[hope is not an emotion]] ?
+[[tech art x leadership skills]] !!
+[[responsibility of the captain]] !!
+[[hope is not an emotion]] !!
 [[how to come up with big ideas]] !!
-[[how to culture]] 
+[[how to nurture a culture]] 
 [[how to choose courage over comfort]] ?
 [[common misconceptions]] ?
 # stuff
@@ -11,12 +13,14 @@
 [[leadership approaches]] !!
 [[connecting teams]] !!
 [[curiosity gap]] ?
+[[the swiss cheese model]] !!
 
 # practical tools
 
 [[how to make decisions]] !!
 [[how to remember decisions]] !!
 [[how to psychological safety]] !!
+[[the science of failing well]] !!
 [[the leaders impact on psychological safety]] ?
 
 # feedback

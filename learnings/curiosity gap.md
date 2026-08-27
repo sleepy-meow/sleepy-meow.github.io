@@ -1,4 +1,6 @@
-how to foster curiosity
+*how to foster curiosity*
+
+> [!EXAMPLE] article: [george leowenstein - the psychology of curiosity](https://www.cmu.edu/dietrich/sds/docs/loewenstein/PsychofCuriosity.pdf)
 
 *"In the absence of data we will always make up stories - it’s how our brains function."*
 

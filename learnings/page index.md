@@ -5,6 +5,7 @@
 [[culture]] !!
 [[how to come up with big ideas]] !!
 [[courage is contagious]] !!
+[[the job of a leader]] !!
 # decisions
 [[how to make decisions]] !!
 [[how to remember decisions]] !!

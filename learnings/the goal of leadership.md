@@ -4,7 +4,6 @@ When organizations grow, they quickly become too complex for any one person to m
 
 In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. *Today organizations are too complex for management to do all the thinking.*
 
-# the peter principle
 
 
 # a network
@@ -37,8 +36,10 @@ Whilst there are certainly some managers out there who enjoy ruling by fear and
 
 > “The ability to learn, adapt, and innovate is what sets successful teams apart from their competitors.”
 
+> *It is not the demands of the job that cause the most stress, but the degree of control workers feel they have throughout their day.*
 
-%%> Leaders must either invest a reasonable amount of time attending to fears and feelings, or squander an unreasonable amount of time trying to manage ineffective and unproductive behavior.%%
+
+> Leaders must either invest a reasonable amount of time attending to fears and feelings, or squander an unreasonable amount of time trying to manage ineffective and unproductive behavior.
 
 
 
@@ -98,7 +99,6 @@ If instead your goal instead involves creativity and innovation, then a differen
 *"No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple."*
 
 
-> *It is not the demands of the job that cause the most stress, but the degree of control workers feel they have throughout their day.*
 
 
 If you have a single, well-defined goal, the work is stable enough to be done the same way repeatedly, coordination can be planned in advance because little is likely to change, the work stays within one discipline that already shares a common language, and if the information involved is simple and routine enough to flow through established procedures at a steady pace, (i.e.

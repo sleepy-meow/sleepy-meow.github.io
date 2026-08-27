@@ -3,7 +3,7 @@
 
 # why it matters
 %%
-- **It decides whether you ever hear the truth.** In the wrong culture, bad news dies on the way up and problems only surface once they've grown too big to hide (see [[the fat cat syndrome]]). [[the leaders impact on psychological safety]] is what keeps the upward flow of reality open.
+- **It decides whether you ever hear the truth.** In a weak culture, bad news dies on the way up and problems only surface once they've grown too big to hide (see [[the fat cat syndrome]]). [[the leaders impact on psychological safety]] is what keeps the upward flow of reality open.
 - **It's your biggest lever on cognitive load.** 
 - **It's where innovation, decision quality, motivation, group flow,  come from.**
 - **It's a safeguard, not just a nicety.** Voice is the check on unchecked power. A frightened, silenced group can't compare notes or get bad news to someone who could act — so culture has to be built *before* it's needed.

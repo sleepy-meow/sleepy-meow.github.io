@@ -1,4 +1,4 @@
-*..it's a thought process that can be learned.*
+%%*..it's a thought process that can be learned.*
 
 > Here's something fascinating. Most people don’t start inventing, creating, or resisting injustice out of nowhere. They do it because someone else showed them it was possible.
 
@@ -14,7 +14,7 @@ Hope is a function of struggle—we develop hope not during the easy or comforta
 > [!EXAMPLE] [corporate rebels - bucket list](https://www.corporate-rebels.com/bucketlist)
 
 
-%% 
+
 
 
 

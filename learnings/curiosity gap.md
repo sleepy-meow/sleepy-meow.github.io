@@ -2,7 +2,7 @@
 
 > [!EXAMPLE] article: [george leowenstein - the psychology of curiosity](https://www.cmu.edu/dietrich/sds/docs/loewenstein/PsychofCuriosity.pdf)
 
-Curiosity is the feeling of deprivation we experience when we identify and focus on a gap in our knowledge. A good question is what creates the gap that pulls people into learning.
+Curiosity is the feeling of deprivation we experience when we identify and focus on a gap in our knowledge A good question is what creates the gap that pulls people into learning.
 
 We have to have some level of knowledge or awareness before we can get curious. *We aren't curious about something we are unaware of or know nothing about.*
 

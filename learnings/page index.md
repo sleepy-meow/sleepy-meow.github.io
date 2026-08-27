@@ -1,6 +1,6 @@
 # intro
 [[introduction]] !!
-[[hope is not an emotion]] !!
+[[courage is contagious]] !!
 [[culture care and maintenance]] !!
 
 
@@ -78,7 +78,7 @@
 %%
 
 [[psychological safety & predictability]]
-[[hope is not an emotion]]
+[[courage is contagious]]
 [[the goal of leadership2]]
 [[leadership approaches]]
 [[introduction]]

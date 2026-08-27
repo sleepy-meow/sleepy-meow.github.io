@@ -1,4 +1,4 @@
-*key concepts in user experience for development tools*
+*small snippets of tech art learnings*
 
 Main sources:
 > [!TIP] [Designing the User Experience of Game Development Tools](https://uxofgametools.com/) (the best book ever on this topic, very condensed and practical advice)

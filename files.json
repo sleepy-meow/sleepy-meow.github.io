@@ -27,11 +27,6 @@
           "path": "learnings/how to come up with big ideas.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "sense of purpose",
-          "path": "learnings/sense of purpose.md",
-          "tags": []
         }
       ]
     },
@@ -107,17 +102,6 @@
           "path": "practical tools/how to psychological safety.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "the leaders impact on psychological safety",
-          "path": "learnings/the leaders impact on psychological safety.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "cognitive load",
-          "path": "learnings/cognitive load.md",
-          "tags": []
         }
       ]
     },
@@ -141,11 +125,6 @@
           "path": "practical tools/bullshit feedback.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "appreciative inquiry",
-          "path": "practical tools/appreciative inquiry.md",
-          "tags": []
         },
         {
           "name": "empathy misses",
@@ -177,40 +156,16 @@
           "done": true
         },
         {
-          "name": "how to listen",
-          "path": "practical tools/how to listen.md",
-          "tags": [],
-          "draft": true
-        },
-        {
           "name": "emergent facilitation",
           "path": "practical tools/emergent facilitation.md",
           "tags": [],
           "done": true
         },
         {
-          "name": "motivation",
-          "path": "learnings/motivation.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "group flow",
-          "path": "learnings/group flow.md",
-          "tags": [],
-          "draft": true
-        },
-        {
           "name": "how to question your own thinking",
           "path": "practical tools/how to question your own thinking.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "tech art learnings",
-          "path": "learnings/tech art learnings.md",
-          "tags": [],
-          "draft": true
         }
       ]
     },
@@ -246,34 +201,6 @@
           "path": "learnings/the fat cat syndrome.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "context switching",
-          "path": "learnings/context switching.md",
-          "tags": []
-        },
-        {
-          "name": "commitment vs compliance",
-          "path": "learnings/commitment vs compliance.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "why to build safeguards",
-          "path": "learnings/why to build safeguards.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "trust & interdependence",
-          "path": "learnings/trust & interdependence.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "pitfalls of growing teams",
-          "path": "learnings/pitfalls of growing teams.md",
-          "tags": []
         }
       ]
     },

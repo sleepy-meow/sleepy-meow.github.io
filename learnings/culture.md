@@ -1,3 +1,4 @@
+# what is it
 
 
 # why it matters
@@ -22,14 +23,17 @@ lots of small practical snippets on how to nurture a culture
  2. Because of the aim to capture as much as possible in as few words as possible, the principles become generic.
  3. Since they’re expressed without context and without examples of how and when to be used, the principles become less actionable. 
 
+> "At some point, we felt we had too many values and that no one could remember them. So we tried to simplify them to short memorable catchphrases in a slide deck that we tried to make as short as possible. But that led to problems: people interpreted these phrases in different ways and it was not clear what we meant by them."
+
  Here are a few examples of the kind of statements this approach will yield:
  - We believe in openness and fairness
  - We take care of everyone like a family, and we help each other
  - We are transparent and trust each other
  - We foster a creative and innovative environment
+ 
  These phrases all sound great, but they are very generic and, if anything, simply capture truisms that any modern company should subscribe to. The uniqueness of the company gets lost in catch-all phrases and bold words that cannot be meaningfully acted upon.
 
-> "At some point, we felt we had too many values and that no one could remember them. So we tried to simplify them to short memorable catchphrases in a slide deck that we tried to make as short as possible. But that led to problems: people interpreted these phrases in different ways and it was not clear what we meant by them."
+
 
 Some examples:
 > [!EXAMPLE] [netflix culture memo](https://jobs.netflix.com/culture)

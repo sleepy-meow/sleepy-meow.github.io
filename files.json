@@ -55,6 +55,12 @@
           "path": "learnings/how to fail.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "tech art learnings",
+          "path": "learnings/tech art learnings.md",
+          "tags": [],
+          "done": true
         }
       ]
     },

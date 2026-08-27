@@ -15,6 +15,7 @@
 [[a learning mindset]] !!
 [[curiosity gap]] !!
 [[how to fail]] !!
+[[tech art learnings]] !!
 
 # stuff
 [[a team of teams]] !!

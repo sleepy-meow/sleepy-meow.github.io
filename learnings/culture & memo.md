@@ -1,15 +1,15 @@
-%%
+
+
+# why it matters
+
+# who can do it
 > A culture isn’t something that we should just assume will always be there. It doesn’t happen just automatically. A strong culture is durable, yes, but it is not immune to corruption and collapse. It requires care and maintenance – from all of us.
-
-
-
 
 > ..you don't have to be the boss to be a leader. The leader's job is to create and nurture the culture we all need to do our best work. And so anytime you play a role in doing that, you are exercising leadership. (amy edmondson, the fearless organization)
 
-
-%%
+It's true that the responsibility of this is proportional to power. But .. ??
 # practical advice
-lots of short practical snippets on how to nurture a culture
+lots of small practical snippets on how to nurture a culture
 > [!TIP] daniel coyle - the culture playbook
 
 

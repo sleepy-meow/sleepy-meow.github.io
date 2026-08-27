@@ -23,12 +23,6 @@
           "done": true
         },
         {
-          "name": "responsibility of the captain",
-          "path": "learnings/responsibility of the captain.md",
-          "tags": [],
-          "draft": true
-        },
-        {
           "name": "how to come up with big ideas",
           "path": "learnings/how to come up with big ideas.md",
           "tags": [],
@@ -94,7 +88,7 @@
           "name": "the goal of leadership",
           "path": "learnings/the goal of leadership.md",
           "tags": [],
-          "draft": true
+          "done": true
         },
         {
           "name": "leadership approaches",

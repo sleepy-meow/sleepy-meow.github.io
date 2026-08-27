@@ -1,74 +1,43 @@
-> Leaders must either invest a reasonable amount of time attending to fears and feelings, or squander an unreasonable amount of time trying to manage ineffective and unproductive behavior.
-
 *"the goal of leadership is to produce more leaders, not followers"*
 
-Why not just followers? Because when organizations grow, they quickly become too complex for any one person to make all the decisions. It just doesn't scale.
+When organizations grow, they quickly become too complex for any one person to make all the decisions.
 
-In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. Today organizations are too complex for management to do all the thinking.
+In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. *Today organizations are too complex for management to do all the thinking.*
 
-A common misconception is that when a company grows, it will inevitably revert to the factory management practices. It's not, *it just doesn't happen by itself* - for a few reasons:
-
-> "people will just work in the way they have previously done, simply because that's what they know."
-
-A growing company without any processes just leads to chaos. But *if people don't know about all the nice processes* out there, if we don't teach people the skills, they will reach out to the ones they already know (usually traditional management practices). 
-
-Whilst there are certainly some managers out there who enjoy ruling by fear and holding power over people, most managers who act in this way simply don’t know any better. We’re all taught, throughout our lives, via our own experiences, and through movies, books and more, that command-control and using fear as an incentive is an effective way to manage people.
-
-This is a very difficult thing to unlearn. And it takes time – none of us start our careers as already excellent leaders.
-
-
-This approach is incredibly inefficient, for one simple reason:
-
-An organization is basically a [complex adaptive system](https://en.wikipedia.org/wiki/Complex_adaptive_system)
-- Agents act on local information, not a global plan
-- Order emerges from interaction, not from a controller
-- Feedback loops are fast and travel in all directions
-- The system self-organizes and reconfigures as conditions change
-- Small local changes can cascade into large system-level shifts (nonlinearity)
-
-The intelligence of the system lives in the _network of interactions_, not in any single node.
+# a network
+An organization is basically a [complex adaptive system](https://en.wikipedia.org/wiki/Complex_adaptive_system). The intelligence of the system lives in the _network of interactions_, not in any single node.
 
 ![[Pasted image 20260703225239.png]]
 
 
-**A hierarchy is designed to do almost the opposite:**
+*A hierarchy is designed to do almost the opposite:*
 - Information flows are channeled through defined reporting lines (vertically, mostly)
 - Decision rights are concentrated at nodes higher in the tree
 - Local agents are expected to act on approved plans, not emergent local information
 - Feedback loops are slow and filtered — by the time information travels up, gets decided on, and travels back down, the local conditions that generated it have often changed
 - The structure is optimized for control and predictability, not adaptability
 
-The reason it won't work, is you're applying a tool built for stable, separable problems to a domain that is neither stable nor separable.
+The reason it won't work, is you're applying a tool built for stable, separable problems to a domain that is neither stable nor separable. It may work to some degree, it's just incredibly inefficient.
 
-# the best approach depends on the goal
-The hierarchical approach may work just fine when managing an assembly plant factory line.
-
-But the more creativity and innovation are required to achieve a goal, the less effective it will be. Here is a definition of innovation:
-
-> "Innovation is the multi-stage process whereby organizations transform ideas into new/improved products, service or processes, in order to advance, compete and differentiate themselves successfully in their marketplace"
-
-Innovation is, by definition, messy and unpredictable. 
+> "The most effective teams are those that can rapidly adapt to the ever-changing environment.”
 
 
+A common misconception is that when a company grows, it will inevitably revert to the factory management practices. It's not, *it just doesn't happen by itself*.
+> "people will just work in the way they have previously done, simply because that's what they know."
 
-# requirements
-Requirement for lead = to care
-
-- unchecked power can reduce empathy
-    - Can be avoided by
-        - Self restraint
-        - Making yourself accountable 
-        - safeguards that make you accountable
-- Some people have low empathy to begin with
-    - only relying on 1&2 = disaster
+> [!EXAMPLE] article: [command and control & psychological safety](https://psychsafety.com/psychological-safety-56-command-control/)
 
 
----
+Whilst there are certainly some managers out there who enjoy ruling by fear and holding power over people, most managers who act in this way simply don’t know any better. We’re all taught, throughout our lives, via our own experiences, and through movies, books and more, that command-control and using fear as an incentive is an effective way to manage people. This is a very difficult thing to unlearn. And it takes time.
 
 
-# links
 
-https://psychsafety.com/psychological-safety-56-command-control/
+> “The ability to learn, adapt, and innovate is what sets successful teams apart from their competitors.”
+
+
+%%> Leaders must either invest a reasonable amount of time attending to fears and feelings, or squander an unreasonable amount of time trying to manage ineffective and unproductive behavior.%%
+
+
 
 %%
 

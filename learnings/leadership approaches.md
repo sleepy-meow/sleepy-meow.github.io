@@ -4,9 +4,10 @@
 
 > Many organizations still rely on the top-down, command-and-control approaches that fueled growth and profitability in the industrial era. Some of the most basic tenets of this management style- ensuring control, eliminating variance, and rewarding conformance - inhibit collaboration and organizational learning.
 
-The hierarchical approach may work just fine when managing an assembly plant factory line (that's already well optimized, as long as nothing breaks down or any changes need to be made).
+The hierarchical approach may work just fine when managing a well optimized assembly plant factory line (as long as nothing breaks down or any changes need to be made). 
 
 But the more creativity and innovation (which are, by definition, messy and unpredictable) are needed to achieve a goal, the more learning is needed.
+
 
 # organizing to execute vs organizing to learn
 
@@ -54,7 +55,7 @@ or as brene brown puts it:
 | Tolerating Discrimination and a "Fitting-In" Culture             | Cultivating a Culture of Belonging, Inclusivity, and Diverse Perspectives |
 | Zigzagging and Avoiding                                          | Talking Straight and Taking Action                                        |
 | Leading from Hurt                                                | Leading from Heart                                                        |
-
+%%
 # why the armor?
 > "Don't let what looks like a bloated ego and narcissism fool you into thinking there's a lack of shame. Shame and fear are almost always driving that unethical behavior… I define narcissism as the shame-based fear of being ordinary."
 
@@ -75,7 +76,7 @@ or as brene brown puts it:
 This is where clear boundaries (what's okay and what's not okay and why) can help
 
 ---
-%%
+
 If you have a single, well-defined goal, the work is stable enough to be done the same way repeatedly, coordination can be planned in advance because little is likely to change, the work stays within one discipline that already shares a common language, and if the information involved is simple and routine enough to flow through established procedures at a steady pace, (i.e. an assembly plant), 
 
 But if you don't have all the answers, people don't have all the knowledge and skills needed in advance or know exactly what should be done, if there aren't clear existing processes or they can't be expected to remain relatively fixed for a significant amount of time because of the changing nature of the work, or if reaching your goal requires creativity and innovation, 

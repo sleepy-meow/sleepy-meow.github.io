@@ -4,7 +4,7 @@
 [[culture care and maintenance]] !!
 
 
-[[responsibility of the captain]] ?
+%%[[responsibility of the captain]] ?%%
 
 [[how to come up with big ideas]] !!
 [[sense of purpose]] 
@@ -19,7 +19,7 @@
 # stuff
 [[a team of teams]] !!
 [[transparency]] !!
-[[the goal of leadership]] ?
+[[the goal of leadership]] !!
 [[leadership approaches]] !!
 
 

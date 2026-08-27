@@ -15,15 +15,16 @@
 
 > *No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple.*
 
+> having information about shortcomings come to light earlier rather than later can nearly always mitigate the size and impact
 # what causes the fear
 > *Hierarchy.. or, more specifically, the fear it creates when not handled well.. reduces psychological safety*. 
 
 Taken for granted rules at work:
-Don't criticize something the boss may have helped create.
-Don't speak unless you have solid data
-Don't speak up if the boss's boss is present
-Don't speak up in a group with anything negative about the work to prevent boss from losing face
-Speaking up brings career consequences
+*Don't criticize something the boss may have helped create.*
+*Don't speak unless you have solid data*
+*Don't speak up if the boss's boss is present*
+*Don't speak up in a group with anything negative about the work to prevent boss from losing face*
+*Speaking up brings career consequences*
 
 It's the leaders responsibility to prove these assumptions wrong
 

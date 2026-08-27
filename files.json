@@ -37,14 +37,12 @@
         {
           "name": "sense of purpose",
           "path": "learnings/sense of purpose.md",
-          "tags": [],
-          "done": true
+          "tags": []
         },
         {
           "name": "how to choose courage over comfort",
           "path": "learnings/how to choose courage over comfort.md",
-          "tags": [],
-          "done": true
+          "tags": []
         },
         {
           "name": "common misconceptions",
@@ -128,12 +126,6 @@
           "done": true
         },
         {
-          "name": "empathy misses",
-          "path": "learnings/empathy misses.md",
-          "tags": [],
-          "done": true
-        },
-        {
           "name": "the leaders impact on psychological safety",
           "path": "learnings/the leaders impact on psychological safety.md",
           "tags": [],
@@ -142,8 +134,7 @@
         {
           "name": "cognitive load",
           "path": "learnings/cognitive load.md",
-          "tags": [],
-          "done": true
+          "tags": []
         }
       ]
     },
@@ -171,6 +162,11 @@
         {
           "name": "appreciative inquiry",
           "path": "practical tools/appreciative inquiry.md",
+          "tags": []
+        },
+        {
+          "name": "empathy misses",
+          "path": "learnings/empathy misses.md",
           "tags": [],
           "done": true
         }
@@ -194,12 +190,6 @@
         {
           "name": "how to listen",
           "path": "practical tools/how to listen.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "how to empathy",
-          "path": "learnings/how to empathy.md",
           "tags": [],
           "draft": true
         },
@@ -239,6 +229,12 @@
       "name": "pitfalls",
       "files": [
         {
+          "name": "lines of communication",
+          "path": "learnings/lines of communication.md",
+          "tags": [],
+          "done": true
+        },
+        {
           "name": "why not to shoot the messenger",
           "path": "learnings/why not to shoot the messenger.md",
           "tags": [],
@@ -259,12 +255,6 @@
         {
           "name": "the fat cat syndrome",
           "path": "learnings/the fat cat syndrome.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "lines of communication",
-          "path": "learnings/lines of communication.md",
           "tags": [],
           "done": true
         },

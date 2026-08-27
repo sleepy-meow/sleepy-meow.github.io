@@ -1,10 +1,15 @@
 *i.e. "this ship can never sink"*
 
 > The state of mind one possesses when one becomes so successful, he/she disregards the inefficiencies and lost opportunities.
-# why it happens
+
+> [!EXAMPLE] article: [The fat cat syndrome prevents innovation and opens the door for disruption](https://medium.com/@arnoldbeekes/the-fat-cat-syndrome-prevents-innovation-and-opens-the-door-for-disruption-9a37643d38a4)
+
+
+
+
 The more successful / large a company becomes, the more pressure there is for leaders to become overly obsessed with outcomes and control - masking underlying inefficiencies and even sabotaging new initiatives and innovations to protect their jobs or position. (or as Eric Ries describes in his recent book Incorruptible: "financial gravity - a structural force, almost like physics")
 
-*It's not inevitable by any means*, it's just the outcome when nothing is done to prevent it.
+*This is not inevitable.* it's just the outcome when nothing is done to prevent it.
 # consequences
 > _“When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside.”_
 
@@ -12,7 +17,7 @@ The more successful / large a company becomes, the more pressure there is for le
 
 Over a certain group size it becomes statistically unlikely for everyone to posess the self-restraint needed. Unchecked power also literally [reduces the ability to feel empathy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10461512/#:~:text=2%2E3%2E%20Power%20decreases%20empathy%20and%20compassion). This generally doesn't improve over time, the person affected may become blind to it themselves, and interestingly, others [may also become blind to it](https://www.goodreads.com/en/book/show/16234073-blind-to-betrayal).
 
-Lowering psychological safety also inhibits people from speaking up / bad news from traveling upwards, so problems often only become apparent when a bigger shit hits the fan for the first time.
+Lowering psychological safety also inhibits people from speaking up / bad news from traveling upwards, so problems often only become apparent to senior leaders when a bigger shit hits the fan for the first time.
 
 Decision making quality also goes down, if only for one simple reason:
 > Organizations are too complex for any one person to make all the decisions.
@@ -21,6 +26,14 @@ People questioning the status quo:
 ![[Pasted image 20260630181017.png]]
 *these are often also the people higher in creativity + lack of dissent in itself reduces divergent thinking in the group as a whole, so innovation goes down*
 # the antidote
+
+> [!EXAMPLE] podcast episode: [worklife with adam grant: the creative power of misfits](https://www.ted.com/talks/worklife_with_adam_grant_the_creative_power_of_misfits)
+
+> [!EXAMPLE] article: https://brenebrown.com/articles/2018/03/13/courage-comfort-rumbling-shame-accountability-failure-work/
+
+> [!TIP] eric ries - incorruptible
+
+%%
 ## structural guardrails
 Easiest to put them in place *before* they are actually needed. 
 
@@ -56,8 +69,4 @@ Whatever a leader models spreads through the organization: a fat cat protecting 
 
 At the end of the day though, none of us should need to be afraid.
 
-# further reading
-[medium article: the fat cat syndrome prevents innovation and opens the door for disruption](https://medium.com/@arnoldbeekes/the-fat-cat-syndrome-prevents-innovation-and-opens-the-door-for-disruption-9a37643d38a4)
-
-https://brenebrown.com/articles/2018/03/13/courage-comfort-rumbling-shame-accountability-failure-work/
 

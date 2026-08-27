@@ -7,9 +7,9 @@
 [[responsibility of the captain]] ?
 
 [[how to come up with big ideas]] !!
-[[sense of purpose]] !!
+[[sense of purpose]] 
 
-[[how to choose courage over comfort]] !!
+[[how to choose courage over comfort]] 
 [[common misconceptions]] ?
 # learning
 [[a learning mindset]] !!
@@ -28,21 +28,21 @@
 [[how to make decisions]] !!
 [[how to remember decisions]] !!
 [[how to psychological safety]] !!
-[[empathy misses]] !!
+
 [[the leaders impact on psychological safety]] ?
-[[cognitive load]] !!
+[[cognitive load]] 
 
 # feedback
 [[feedback checklists]] !!
 [[receiving feedback]] !!
 [[bullshit feedback]] !!
-[[appreciative inquiry]] !!
+[[appreciative inquiry]] 
+[[empathy misses]] !!
 # other
 
 [[how to ask the right questions]] !!
 [[how to lower the bar for participation]] !!
 [[how to listen]] ?
-[[how to empathy]] ?
 [[emergent facilitation]] !!
 [[motivation]] ?
 [[group flow]] ?
@@ -53,12 +53,12 @@
 [[links & resources]] ?
 %%
 # pitfalls
+[[lines of communication]] !!
 [[why not to shoot the messenger]] !!
 [[people are doing the best they can with what they have]] !!
-[[dismissal]] !!
 [[bad advice books]] !!
 [[the fat cat syndrome]] !!
-[[lines of communication]] !!
+
 [[context switching]]
 [[commitment vs compliance]] ?
 [[why to build safeguards]] ?

@@ -38,6 +38,7 @@
 [[bullshit feedback]] !!
 [[appreciative inquiry]] 
 [[empathy misses]] !!
+[[conflict resolution]] !!
 # other
 
 [[how to ask the right questions]] !!

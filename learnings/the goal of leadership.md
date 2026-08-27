@@ -4,6 +4,9 @@ When organizations grow, they quickly become too complex for any one person to m
 
 In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. *Today organizations are too complex for management to do all the thinking.*
 
+# the peter principle
+
+
 # a network
 An organization is basically a [complex adaptive system](https://en.wikipedia.org/wiki/Complex_adaptive_system). The intelligence of the system lives in the _network of interactions_, not in any single node.
 

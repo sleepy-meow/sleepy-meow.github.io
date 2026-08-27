@@ -163,6 +163,12 @@
           "path": "learnings/empathy misses.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "conflict resolution",
+          "path": "learnings/conflict resolution.md",
+          "tags": [],
+          "done": true
         }
       ]
     },

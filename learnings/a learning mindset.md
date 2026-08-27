@@ -1,4 +1,4 @@
-> "Many change efforts fail because they focus on shifting the culture… A learning culture emerges as a by-product of practice with a new way of working — not the other way around."
+
 
 A learning mindset reframes *"did you do it right?"* to *"what did we learn?"*. And the good thing is that there's always more to learn!
 
@@ -22,4 +22,5 @@ It's basically *a continuous learning cycle*:
 5. Repeat as users, needs, and circumstances change.
 
 The goal isn’t to understand users once—it’s to keep replacing assumptions with evidence throughout the product’s life.
-
+%%
+> "Many change efforts fail because they focus on shifting the culture… A learning culture emerges as a by-product of practice with a new way of working — not the other way around."

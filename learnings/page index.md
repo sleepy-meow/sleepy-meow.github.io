@@ -1,7 +1,7 @@
 # intro
 [[introduction]] !!
 [[courage is contagious]] !!
-[[culture care and maintenance]] !!
+[[culture & memo]] !!
 
 
 %%[[responsibility of the captain]] ?%%

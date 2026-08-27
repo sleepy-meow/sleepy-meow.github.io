@@ -8,9 +8,9 @@
 
 [[how to come up with big ideas]] !!
 [[sense of purpose]] 
-
+%%
 [[how to choose courage over comfort]] 
-[[common misconceptions]] ?
+[[common misconceptions]] ?%%
 # learning
 [[a learning mindset]] !!
 [[curiosity gap]] !!
@@ -19,7 +19,7 @@
 # stuff
 [[a team of teams]] !!
 [[transparency]] !!
-[[the goal of leadership]] !!
+%%[[the goal of leadership]] !!%%
 [[leadership approaches]] !!
 
 

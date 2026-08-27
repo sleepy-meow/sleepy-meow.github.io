@@ -32,17 +32,6 @@
           "name": "sense of purpose",
           "path": "learnings/sense of purpose.md",
           "tags": []
-        },
-        {
-          "name": "how to choose courage over comfort",
-          "path": "learnings/how to choose courage over comfort.md",
-          "tags": []
-        },
-        {
-          "name": "common misconceptions",
-          "path": "learnings/common misconceptions.md",
-          "tags": [],
-          "draft": true
         }
       ]
     },
@@ -81,12 +70,6 @@
         {
           "name": "transparency",
           "path": "learnings/transparency.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "the goal of leadership",
-          "path": "learnings/the goal of leadership.md",
           "tags": [],
           "done": true
         },

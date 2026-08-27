@@ -8,7 +8,7 @@ A small collection of learnings from [some books](https://app.notion.com/p/2a491
 
 https://sleepy-meow.github.io
 http://localhost:8000/#
-
+%%
 - the main goal of the pages
 	- explain the why - why you should even care
 	- simple what / how

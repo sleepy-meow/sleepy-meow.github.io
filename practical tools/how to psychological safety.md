@@ -13,23 +13,20 @@
 
 ![[Pasted image 20260822123427.png]]
 
-> *No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple.*
-
 > having information about shortcomings come to light earlier rather than later can nearly always mitigate the size and impact
 # what causes the fear
 > *Hierarchy.. or, more specifically, the fear it creates when not handled well.. reduces psychological safety*. 
 
-Taken for granted rules at work:
+Assumptions people make at work:
 *Don't criticize something the boss may have helped create.*
 *Don't speak unless you have solid data*
 *Don't speak up if the boss's boss is present*
 *Don't speak up in a group with anything negative about the work to prevent boss from losing face*
 *Speaking up brings career consequences*
 
-It's the leaders responsibility to prove these assumptions wrong
+The thing is, this fear is not always totally unfounded. But it's weighted towards silence because (todo: explain whatever bias). This is why it's the leaders responsibility to actively work on proving these assumptions wrong.
 
 # predictability
-> *Speaking up is only the first step. The true test is how leaders respond when people actually do speak up.*
 
 Part of psychological safety is the ability to reliably predict how others will respond when you take an interpersonal risk. We're often not managing danger, but uncertainty.
 

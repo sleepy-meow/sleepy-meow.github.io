@@ -2,13 +2,13 @@
 
 > [!tip] simon sinek - leaders eat last
 
+> *individual observations and suggestions build on each other, taking new shape and creating new value, especially compared to what happens when individual feedback is collected separately*
+
+> *we can only think smarter if others in the room speak their minds*
 
 > In a world that rewards sameness, sometimes the boldest move is simply to look in a different direction. Big change often begins in quiet places. Not with noise and attention, but with curiosity, courage, and a shift in perspective.
 
-[[how to question your own thinking]]
-
-
-> [!EXAMPLE] documentary: [brene brown - the call to courage](https://www.netflix.com/fi-en/title/81010166)
+%%
 
 > [!TIP] brene brown - dare to lead
 

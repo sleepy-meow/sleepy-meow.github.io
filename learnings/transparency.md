@@ -1,3 +1,5 @@
+
+
 > Free flow of information is one of the fundamental requirements for self-management of organizations. 
 
 > [!EXAMPLE] [reinventing organizations wiki - information flow](https://reinventingorganizationswiki.com/en/theory/information-flow/)
@@ -5,12 +7,6 @@
 
 Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. Boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
 
-> you can't know what information is useful to someone else
-
-# shared consciousness
-> [!tip] stanley mcchrystal - team of teams
-
-> **To contend with complexity, everyone in the organization must see how everything works together.** They have to understand the interdependencies and how the organization operates as a whole. When people understand these things, they make good decisions, quicker.
 # benefits
 
 **decision quality** - pooling information across members leads to more optimal decisions
@@ -24,7 +20,7 @@ Article: [AI, Teams, and the Common Information Effect](https://medium.com/@damj
 # context of decisions
 > Transparency doesn't mean sharing every detail. Transparency means providing the context for the decisions we make.
 
-What happens with information without context:
+What happens with [information without context](https://fs.blog/information-without-context/):
 > _“in the absence of data we will always make up stories - it’s how our brains function."_
 
 # what happens in the shadows
@@ -32,9 +28,7 @@ What happens with information without context:
 Self-serving behavior depends on opacity, transparency reduces the likelihood that informal hierarchies will emerge.
 
 - informational power is arguably the greatest power of them all, the solution is for no one person to have it
-- A boss terrorising a teammate, cutting corners, filling the closets with skeletons etc. rarely happen in broad daylight.
-- Deliberately leaving out information = bad, signals "I don't trust you"
-- A bullshit reason for a decision = bad, people will notice
+- A boss terrorising a teammate rarely happens in broad daylight.
 
 when transparency is the default, it's the opacity that draws attention
 
@@ -53,14 +47,21 @@ Transparency is what you pay for autonomy. And when it's paid, the need for cont
 
 > "Complex environments are, by definition, too complicated for any one person to grasp fully. Yet many managers, afraid of appearing to not be in control, believe that they have to know everything—or at least act like they do" 
 
-# links
+# simple things anyone can do
+- Whenever a slack conversation drifts into a locked channel or DM, just say 'hey let's move this conversation to a public channel so we don't risk needing to re-explain ourselves later'
+- Transparently communicating your own decision making. The more broadly a [[how to remember decisions|decision log]] is used, the more useful it is. But this doesn't prevent you from using it just for yourself. This can also help others identify the gaps in knowledge you might have so they can tell you about it. 
 
-https://fs.blog/information-without-context/
+![[Pasted image 20260820121828.png]]
 
-> “Give away everything you know, and more will come back to you. – If you give away everything, you are left with nothing. This forces you to look, to be aware, to replenish.”
+Caveat: It's exactly the situations where transparency would be most useful (when psychological safety is lowering), that makes us want to hide away. But by staying in the light you create safety for yourself as well as for others.
+
+
 
 
 %%
 
 
 https://handbook.gitlab.com/
+
+- Deliberately leaving out information = bad, signals "I don't trust you"
+- A bullshit reason for a decision = bad, people will notice

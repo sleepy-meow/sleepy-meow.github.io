@@ -4,12 +4,12 @@ how to foster curiosity
 
 Curiosity is the feeling of deprivation we experience when we identify and focus on a gap in our knowledge. A good question is what creates the gap that pulls people into learning.
 
-We have to have some level of knowledge or awareness before we can get curious. We aren't curious about something we are unaware of or know nothing about.
+We have to have some level of knowledge or awareness before we can get curious. *We aren't curious about something we are unaware of or know nothing about.*
 
 Deep curiosity requires courage and humility for the simple reason that choosing to be curious is choosing to be vulnerable. It's a surrender to uncertainty. We have to ask questions, admit to not knowing, risk being told that we shouldn't be asking, and, sometimes, make discoveries that lead to discomfort.
 
 Questions cry for an answer. If you
-
+%%
 # how to stay curious
 
 # curiosity is an act of vulnerability and courage

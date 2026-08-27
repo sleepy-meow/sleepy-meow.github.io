@@ -17,6 +17,11 @@ For example, *"the outcome of this meeting was interpreted differently by partic
 [Bullshit](https://jbaron.org/journal/15/15923a/jdm15923a.html) = to specifically refer to statements produced without particular concern for truth, clarity, or meaning, (distinguishing "bullshit" from a deliberate, manipulative lie intended to subvert the truth).
 
 > Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind.
+
+# bullshit disclaimers
+If you hear "I don't mean to sound rude, but.." you can expect it to be followed by something rude. 
+
+
 # anonymous feedback
 
 > Talking about people rather than to them is unkind.
@@ -36,12 +41,16 @@ Performance reviews, often by design, revolve around
 A nice rant about 360 reviews / anonymous surveys can be found in this book:
 > [!TIP] Confronting Our Freedom (Peter Block, Peter Koestenbaum)
 
+> "if you want to know how people are doing, just ask!"
+
 > [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It. ](https://www.corporate-rebels.com/blog/annual-performance-reviews)
 # the invisible army
 
 > "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.
 
 *All feedback must be a conversation.* You can't give or receive feedback well if the other person is not in the room.
+
+
 
 # some relevant biases
 [https://psychsafety.com/the-fundamental-attribution-error/](https://psychsafety.com/the-fundamental-attribution-error/)  

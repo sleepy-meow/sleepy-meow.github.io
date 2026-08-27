@@ -11,8 +11,14 @@
           "done": true
         },
         {
-          "name": "tech art x leadership skills",
-          "path": "learnings/tech art x leadership skills.md",
+          "name": "hope is not an emotion",
+          "path": "learnings/hope is not an emotion.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "culture care and maintenance",
+          "path": "learnings/culture care and maintenance.md",
           "tags": [],
           "done": true
         },
@@ -20,13 +26,7 @@
           "name": "responsibility of the captain",
           "path": "learnings/responsibility of the captain.md",
           "tags": [],
-          "done": true
-        },
-        {
-          "name": "hope is not an emotion",
-          "path": "learnings/hope is not an emotion.md",
-          "tags": [],
-          "done": true
+          "draft": true
         },
         {
           "name": "how to come up with big ideas",
@@ -35,15 +35,16 @@
           "done": true
         },
         {
-          "name": "how to nurture a culture",
-          "path": "learnings/how to nurture a culture.md",
-          "tags": []
+          "name": "sense of purpose",
+          "path": "learnings/sense of purpose.md",
+          "tags": [],
+          "done": true
         },
         {
           "name": "how to choose courage over comfort",
           "path": "learnings/how to choose courage over comfort.md",
           "tags": [],
-          "draft": true
+          "done": true
         },
         {
           "name": "common misconceptions",
@@ -54,8 +55,37 @@
       ]
     },
     {
+      "name": "learning",
+      "files": [
+        {
+          "name": "a learning mindset",
+          "path": "learnings/a learning mindset.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "curiosity gap",
+          "path": "learnings/curiosity gap.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to fail",
+          "path": "learnings/how to fail.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
       "name": "stuff",
       "files": [
+        {
+          "name": "a team of teams",
+          "path": "books/a team of teams.md",
+          "tags": [],
+          "done": true
+        },
         {
           "name": "transparency",
           "path": "learnings/transparency.md",
@@ -71,24 +101,6 @@
         {
           "name": "leadership approaches",
           "path": "learnings/leadership approaches.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "connecting teams",
-          "path": "learnings/connecting teams.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "curiosity gap",
-          "path": "learnings/curiosity gap.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "the swiss cheese model",
-          "path": "learnings/the swiss cheese model.md",
           "tags": [],
           "done": true
         }
@@ -116,8 +128,8 @@
           "done": true
         },
         {
-          "name": "the science of failing well",
-          "path": "learnings/the science of failing well.md",
+          "name": "empathy misses",
+          "path": "learnings/empathy misses.md",
           "tags": [],
           "done": true
         },
@@ -126,6 +138,12 @@
           "path": "learnings/the leaders impact on psychological safety.md",
           "tags": [],
           "draft": true
+        },
+        {
+          "name": "cognitive load",
+          "path": "learnings/cognitive load.md",
+          "tags": [],
+          "done": true
         }
       ]
     },
@@ -147,6 +165,12 @@
         {
           "name": "bullshit feedback",
           "path": "practical tools/bullshit feedback.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "appreciative inquiry",
+          "path": "practical tools/appreciative inquiry.md",
           "tags": [],
           "done": true
         }
@@ -212,21 +236,17 @@
       ]
     },
     {
-      "name": "useful lists",
-      "files": [
-        {
-          "name": "links & resources",
-          "path": "learnings/links & resources.md",
-          "tags": []
-        }
-      ]
-    },
-    {
       "name": "pitfalls",
       "files": [
         {
           "name": "why not to shoot the messenger",
           "path": "learnings/why not to shoot the messenger.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "people are doing the best they can with what they have",
+          "path": "learnings/people are doing the best they can with what they have.md",
           "tags": [],
           "done": true
         },

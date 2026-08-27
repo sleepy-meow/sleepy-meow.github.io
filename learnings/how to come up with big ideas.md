@@ -5,7 +5,7 @@
 
 > In a world that rewards sameness, sometimes the boldest move is simply to look in a different direction. Big change often begins in quiet places. Not with noise and attention, but with curiosity, courage, and a shift in perspective.
 
-> *"No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple."*
+[[how to question your own thinking]]
 
 
 > [!EXAMPLE] documentary: [brene brown - the call to courage](https://www.netflix.com/fi-en/title/81010166)

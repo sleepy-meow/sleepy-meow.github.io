@@ -1,32 +1,42 @@
 # intro
 [[introduction]] !!
-[[tech art x leadership skills]] !!
-[[responsibility of the captain]] !!
 [[hope is not an emotion]] !!
+[[culture care and maintenance]] !!
+
+
+[[responsibility of the captain]] ?
+
 [[how to come up with big ideas]] !!
-[[how to nurture a culture]] 
-[[how to choose courage over comfort]] ?
+[[sense of purpose]] !!
+
+[[how to choose courage over comfort]] !!
 [[common misconceptions]] ?
+# learning
+[[a learning mindset]] !!
+[[curiosity gap]] !!
+[[how to fail]] !!
+
 # stuff
+[[a team of teams]] !!
 [[transparency]] !!
 [[the goal of leadership]] ?
 [[leadership approaches]] !!
-[[connecting teams]] !!
-[[curiosity gap]] ?
-[[the swiss cheese model]] !!
+
 
 # practical tools
 
 [[how to make decisions]] !!
 [[how to remember decisions]] !!
 [[how to psychological safety]] !!
-[[the science of failing well]] !!
+[[empathy misses]] !!
 [[the leaders impact on psychological safety]] ?
+[[cognitive load]] !!
 
 # feedback
 [[feedback checklists]] !!
 [[receiving feedback]] !!
 [[bullshit feedback]] !!
+[[appreciative inquiry]] !!
 # other
 
 [[how to ask the right questions]] !!
@@ -38,10 +48,14 @@
 [[group flow]] ?
 [[how to question your own thinking]] !!
 [[tech art learnings]] ?
-# useful lists
-[[links & resources]]
+
+%%# useful lists
+[[links & resources]] ?
+%%
 # pitfalls
 [[why not to shoot the messenger]] !!
+[[people are doing the best they can with what they have]] !!
+[[dismissal]] !!
 [[bad advice books]] !!
 [[the fat cat syndrome]] !!
 [[lines of communication]] !!

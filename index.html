@@ -40,6 +40,7 @@
     --yellow:       #e5b567;  /* H4                         */
     --pink:         #ff82b2;  /* bold / italic              */
     --green:        #3eb4bf;  /* blockquote / quoted text   */
+    --green-dim:    #2b858f;  /* "(source)" inside a quote  */
     --quote-bar:    #4d8ce6;  /* blockquote left bar        */
     --red:          #e83e3e;  /* H5                         */
     --orange:       #d19a66;  /* **bold** inside code blocks */
@@ -66,6 +67,7 @@
       --yellow:       #bd8e37;
       --pink:         #c32b74;
       --green:        #2db7b5;
+      --green-dim:    #1d7a79;
       --quote-bar:    #4d8ce6;
       --red:          #c83232;
       --orange:       #b06000;
@@ -217,7 +219,7 @@
     display: flex; align-items: center; gap: .5em;
     font-weight: 700; color: hsl(var(--cl) 75% 68%);
   }
-  .md .callout-title .callout-sub {
+  .md .callout-title .dim-paren {
     font-weight: 400; color: hsl(var(--cl) 45% 55%);
   }
   .md .callout-icon { width: 1.1em; height: 1.1em; flex: 0 0 auto; }
@@ -230,7 +232,7 @@
   @media (prefers-color-scheme: light) {
     .md .callout { background: hsl(var(--cl) 65% 48% / .08); border-color: hsl(var(--cl) 60% 45% / .25); }
     .md .callout-title { color: hsl(var(--cl) 60% 40%); }
-    .md .callout-title .callout-sub { color: hsl(var(--cl) 35% 32%); }
+    .md .callout-title .dim-paren { color: hsl(var(--cl) 35% 32%); }
     .md .callout[data-callout="example"] a:not(.tag) { color: hsl(var(--cl) 60% 45%); }
     .md .callout[data-callout="example"] a:not(.tag):hover { color: hsl(var(--cl) 65% 35%); }
   }
@@ -245,6 +247,8 @@
   .md blockquote strong, .md blockquote em { color: var(--green); }
   .md blockquote > :first-child { margin-top: 0; }
   .md blockquote > :last-child { margin-bottom: 0; }
+  /* "(author, book)" trailing a quote sits a shade back from the quote. */
+  .md blockquote .dim-paren { color: var(--green-dim); }
   .md code {
     background: var(--code-bg); padding: .15em .4em;
     border-radius: var(--radius-s); font-size: .88em;
@@ -441,12 +445,13 @@ const CALLOUTS = {
   quote:     { hue: 220, icon: 'quote',     label: 'Quote' },
   cite:      { hue: 220, icon: 'quote',     label: 'Quote' },
 };
-// A "(…)" aside in a callout title is a subtitle — chapter, source, note —
-// so it reads unbolded and dimmer. Tags are matched first by the alternation
-// so parentheses inside an href or attribute are left alone.
+// A "(…)" aside is a source or a side note — chapter, author, book — so in
+// callout titles and quotes it reads dimmer than the text around it. Tags are
+// matched first by the alternation so parentheses inside an href are left
+// alone.
 function dimParens(html) {
   return html.replace(/(<[^>]+>)|(\([^()]*\))/g,
-    (m, tag, paren) => tag || '<span class="callout-sub">' + paren + '</span>');
+    (m, tag, paren) => tag || '<span class="dim-paren">' + paren + '</span>');
 }
 
 function calloutIconSvg(name) {
@@ -567,6 +572,12 @@ marked.use({ extensions: [
   }
 }
 ]});
+
+// Quotes carry their source in "(author, book)" — dim it like a callout
+// subtitle. Callouts are their own token type, so they're untouched here.
+marked.use({ renderer: {
+  blockquote(quote) { return '<blockquote>' + dimParens(quote) + '</blockquote>\n'; }
+} });
 
 // Strip Obsidian comments: %%inline or multi-line%%, and an unclosed %%
 // that comments out everything to the end of the note.

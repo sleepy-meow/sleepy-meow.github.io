@@ -1,4 +1,3 @@
 - what is it
 - what things increase it
-
-
+- how it's relevant to psychological safety

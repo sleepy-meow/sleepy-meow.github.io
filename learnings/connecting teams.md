@@ -32,11 +32,5 @@ The trap: instant communication tools give a *false confidence* that collaborati
 
 Both books, and this whole collection, converge from the same premise (*complex work outgrows any one decider*) to the same answer: **share the picture widely, push decisions to the people with the context, build enough bridges to stay connected, and grow people who can act on their own.** Team of Teams tells it from a battlefield; Teaming from hospitals, mine rescues, and product teams; [[introduction]] and [[the goal of leadership]] tell it as everyday practice. That four different lenses land in the same place is the point.
 
-# links
-[[lines of communication]]
-[[transparency]]
-[[psychological safety]]
-[[the goal of leadership]]
-[[team of teams]]
-[[teaming]]
-https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9
+> [!EXAMPLE] article: [takeaways from team of teams](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
+

@@ -23,11 +23,13 @@ a collection of quotes from the following books:
 ## The leaders responsibility
 
 *psychological safety*
+> Psychological safety is a vital leadership responsibility. It can make or break an employee's ability to contribute, to grow and learn, and to collaborate. 
+  
 > Every member of the group plays a role in maintaining the Circle of Safety and it is the leader's role to ensure that they do. This is the primary role of leadership, to look out for those inside their Circle.
 
  > If we want people to fully show up, to bring their whole selves including their unarmored, whole hearts—so that we can innovate, solve problems, and serve people—we have to be vigilant about creating a culture in which people feel safe, seen, heard, and respected.
  
-> Leaders must either invest a reasonable amount of time attending to fears and feelings, or squander an unreasonable amount of time trying to manage ineffective and unproductive behavior. 
+ > Many managers assume that people who are afraid … will work hard to avoid unpleasant consequences, and good things will happen. This might make sense if the work is straightforward… But for jobs where learning or collaboration is required for success, fear is not an effective motivator.
 
 *providing cover from above*
 

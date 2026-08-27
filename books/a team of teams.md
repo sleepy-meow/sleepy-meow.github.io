@@ -27,7 +27,7 @@ The book argues that traditional command and control structures are simply too s
 
 so instead of pushing decisions up, you push *understanding* down and out.
 
-- **Shared consciousness** — everyone holds a holistic picture of what the whole organization is doing and why, built through radically transparent communication (leaders think out loud; information is shared widely, not need-to-know). See [[transparency]].
+- **Shared consciousness** — everyone holds a holistic picture of what the whole organization is doing and why, built through radically transparent communication (leaders think out loud; information is shared widely, not need-to-know). See [[free flow of information]].
 - **Empowered execution** — once people share that picture, they can act without asking permission, because they can predict what the org would want. Distributed decision-making requires shared consciousness — empower people without context and they just fumble in the dark.
 - **Connectivity, not full connection** — you don't need everyone to know everyone (Brooks's Law forbids it). You need enough cross-team relationships that *"if everyone knows a couple of people, there's likely a connection to every other team."
 

@@ -9,13 +9,12 @@
           "path": "learnings/introduction.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "courage is contagious",
-          "path": "learnings/courage is contagious.md",
-          "tags": [],
-          "done": true
-        },
+        }
+      ]
+    },
+    {
+      "name": "mindset",
+      "files": [
         {
           "name": "culture",
           "path": "learnings/culture.md",
@@ -25,6 +24,93 @@
         {
           "name": "how to come up with big ideas",
           "path": "learnings/how to come up with big ideas.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "courage is contagious",
+          "path": "learnings/courage is contagious.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "decisions",
+      "files": [
+        {
+          "name": "how to make decisions",
+          "path": "practical tools/how to make decisions.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to remember decisions",
+          "path": "practical tools/how to remember decisions.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "feedback",
+      "files": [
+        {
+          "name": "feedback checklists",
+          "path": "practical tools/feedback checklists.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "receiving feedback",
+          "path": "practical tools/receiving feedback.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "bullshit feedback",
+          "path": "practical tools/bullshit feedback.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "practical tools",
+      "files": [
+        {
+          "name": "how to psychological safety",
+          "path": "practical tools/how to psychological safety.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to ask the right questions",
+          "path": "learnings/how to ask the right questions.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to lower the bar for participation",
+          "path": "learnings/how to lower the bar for participation.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "emergent facilitation",
+          "path": "practical tools/emergent facilitation.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "empathy misses",
+          "path": "learnings/empathy misses.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "conflict resolution",
+          "path": "learnings/conflict resolution.md",
           "tags": [],
           "done": true
         }
@@ -52,15 +138,15 @@
           "done": true
         },
         {
-          "name": "tech art learnings",
-          "path": "learnings/tech art learnings.md",
+          "name": "how to question your own thinking",
+          "path": "practical tools/how to question your own thinking.md",
           "tags": [],
           "done": true
         }
       ]
     },
     {
-      "name": "stuff",
+      "name": "transparency",
       "files": [
         {
           "name": "a team of teams",
@@ -69,101 +155,14 @@
           "done": true
         },
         {
-          "name": "transparency",
-          "path": "learnings/transparency.md",
+          "name": "free flow of information",
+          "path": "learnings/free flow of information.md",
           "tags": [],
           "done": true
         },
         {
           "name": "leadership approaches",
           "path": "learnings/leadership approaches.md",
-          "tags": [],
-          "done": true
-        }
-      ]
-    },
-    {
-      "name": "practical tools",
-      "files": [
-        {
-          "name": "how to make decisions",
-          "path": "practical tools/how to make decisions.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "how to remember decisions",
-          "path": "practical tools/how to remember decisions.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "how to psychological safety",
-          "path": "practical tools/how to psychological safety.md",
-          "tags": [],
-          "done": true
-        }
-      ]
-    },
-    {
-      "name": "feedback",
-      "files": [
-        {
-          "name": "feedback checklists",
-          "path": "practical tools/feedback checklists.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "receiving feedback",
-          "path": "practical tools/receiving feedback.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "bullshit feedback",
-          "path": "practical tools/bullshit feedback.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "empathy misses",
-          "path": "learnings/empathy misses.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "conflict resolution",
-          "path": "learnings/conflict resolution.md",
-          "tags": [],
-          "done": true
-        }
-      ]
-    },
-    {
-      "name": "other",
-      "files": [
-        {
-          "name": "how to ask the right questions",
-          "path": "learnings/how to ask the right questions.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "how to lower the bar for participation",
-          "path": "learnings/how to lower the bar for participation.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "emergent facilitation",
-          "path": "practical tools/emergent facilitation.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "how to question your own thinking",
-          "path": "practical tools/how to question your own thinking.md",
           "tags": [],
           "done": true
         }
@@ -199,6 +198,17 @@
         {
           "name": "the fat cat syndrome",
           "path": "learnings/the fat cat syndrome.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "learning",
+      "files": [
+        {
+          "name": "tech art learnings",
+          "path": "learnings/tech art learnings.md",
           "tags": [],
           "done": true
         }

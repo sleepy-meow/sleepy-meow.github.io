@@ -2,6 +2,7 @@
 
 > [!EXAMPLE] documentary: [brene brown - the call to courage](https://www.netflix.com/fi-en/title/81010166)
 
+%%
 brene talks a lot about courage being contagious, mainly in this book:
 
 > [!TIP] brene brown - dare to lead
@@ -18,7 +19,7 @@ You hear about someone taking a big risk, like founding a company, or starting s
 
 *example 3*
 You get burned out and speak openly about it. This lowers the bar for others to speak about it too.
-
+%%
 # The counter argument: psychological bravery
 > _Speaking up is only the first step. The true test is how leaders respond when people actually do speak up._
 
@@ -33,10 +34,10 @@ Psychological safety isn’t just about reframing – the real-life consequences
 # providing cover from above
 > "Courage comes from above. Our confidence to do what's right is determined by how trusted we feel by our leaders."
 
-
+%%
 > "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had." 
 
-%%
+
 # other nice quotes
 
 > Vulnerability is hard and it’s scary and it feels dangerous. But it’s not as hard, or scary or dangerous as getting to the end of our lives and having to ask ourselves: What if I would’ve shown up? What if I would’ve said ‘I love you?’ What if I would’ve come off the blocks? Show up, be seen, answer the call to courage and come off the blocks. Because you’re worth it—you’re worth being brave

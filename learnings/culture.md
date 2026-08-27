@@ -2,6 +2,11 @@
 
 
 # why it matters
+- **It decides whether you ever hear the truth.** In the wrong culture, bad news dies on the way up and problems only surface once they've grown too big to hide (see [[the fat cat syndrome]]). [[the leaders impact on psychological safety]] is what keeps the upward flow of reality open.
+- **It's your biggest lever on cognitive load.** 
+- **It's where innovation, decision quality, motivation, group flow,  come from.**
+- **It's a safeguard, not just a nicety.** Voice is the check on unchecked power. A frightened, silenced group can't compare notes or get bad news to someone who could act — so culture has to be built *before* it's needed.
+- **A strong culture is resilient to being challenged.** Built deep, it holds under pressure — absorbing a shock, a bad hire, or a loud person testing its limits and springing back. Built shallow, it folds the first time it's genuinely tested.
 
 # who can do it
 > A culture isn’t something that we should just assume will always be there. It doesn’t happen just automatically. A strong culture is durable, yes, but it is not immune to corruption and collapse. It requires care and maintenance – from all of us.

@@ -57,6 +57,7 @@ the goal of one iteration is to learn something out of it.![[Pasted image 202608
 
 postmortems, decision logs, etc. help identify repeating patterns over time.
 
+> "the minute you encourage someone to use a piece of technology, you are inherently responsible for it" (reid hoffman, masters of scale)
 ## common reasons why users didn’t read the manual
 
 - not knowing know it exists

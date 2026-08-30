@@ -2,7 +2,7 @@
 [[introduction]] !!
 
 # mindset
-[[culture]] !!
+[[how to nurture a culture]] !!
 [[why to have a culture memo]] !!
 [[how to come up with big ideas]] !!
 [[courage is contagious]] !!
@@ -47,6 +47,7 @@
 
 # pitfalls
 [[lines of communication]] !!
+[[the cost of context switching]] !!
 [[why not to shoot the messenger]] !!
 [[people are doing the best they can with what they have]] !!
 [[bad advice books]] !!
@@ -62,7 +63,7 @@
 # maybe add later
 %%[[responsibility of the captain]] 
 [[the goal of leadership]] 
-[[context switching]]
+[[the cost of context switching]]
 [[commitment vs compliance]] ?
 [[why to build safeguards]] ?
 [[trust & interdependence]] ?

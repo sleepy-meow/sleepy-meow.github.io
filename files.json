@@ -16,8 +16,14 @@
       "name": "mindset",
       "files": [
         {
-          "name": "culture",
-          "path": "learnings/culture.md",
+          "name": "how to nurture a culture",
+          "path": "learnings/how to nurture a culture.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "why to have a culture memo",
+          "path": "learnings/why to have a culture memo.md",
           "tags": [],
           "done": true
         },
@@ -88,12 +94,6 @@
         {
           "name": "feedback checklists",
           "path": "learnings/feedback checklists.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "receiving feedback",
-          "path": "learnings/receiving feedback.md",
           "tags": [],
           "done": true
         },
@@ -239,6 +239,12 @@
         {
           "name": "lines of communication",
           "path": "learnings/lines of communication.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "the cost of context switching",
+          "path": "learnings/the cost of context switching.md",
           "tags": [],
           "done": true
         },

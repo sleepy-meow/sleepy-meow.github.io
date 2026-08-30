@@ -18,12 +18,7 @@ For example, *"the outcome of this meeting was interpreted differently by partic
 
 > Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind.
 
-# bullshit disclaimers
-If you hear "I don't mean to sound rude, but.." you can expect it to be followed by something rude. 
-
-
 # anonymous feedback
-
 > Talking about people rather than to them is unkind.
 
 Anonymous feedback is structurally unkind, you can't give it without talking about people. Here's what brene has to say about it:
@@ -45,32 +40,31 @@ A nice rant about 360 reviews / anonymous surveys can be found in this book:
 
 > [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It. ](https://www.corporate-rebels.com/blog/annual-performance-reviews)
 # the invisible army
-
 > "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.
 
 *All feedback must be a conversation.* You can't give or receive feedback well if the other person is not in the room.
 
+# vague feedback and shame
+Sharing a vague remark (and calling it feedback) without concrete examples, can do more harm than good.
 
-
-# some relevant biases
-[https://psychsafety.com/the-fundamental-attribution-error/](https://psychsafety.com/the-fundamental-attribution-error/)  
-[https://psychsafety.com/local-rationality/](https://psychsafety.com/local-rationality/)
-
-
-
-
-
-
-
-
-%%
-
-You can't act on it, you can't ask follow-up questions, you can't understand what to do with it. So instead of changing a behavior, the only direction for it is to turn inwards. guilt = I did something bad; shame = I am bad. Guilt is the productive one — it needs a specific behaviour, a specific person, a specific moment.
+You can't act on it, you can't ask follow-up questions, you can't understand what to do with it. So instead of changing a behavior, the only direction for it is to turn inwards. *guilt = I did something bad; shame = I am bad*. Guilt is the productive one — it needs a specific behaviour, a specific person, a specific moment.
 
 But those are exactly the details that identify a sender. Protect the giver and you usually lose the specificity: what survives is a trait claim. "Can be dismissive." "Doesn't listen." That's shame-shaped by construction. And shame works like a zoom lens — all we see is our flawed self, alone and struggling. Which is a terrible engine for accountability. It drives hiding and defensiveness, not repair.
 
-The other tax: you will try to work out who. Almost involuntarily. Which means one anonymous line quietly redistributes suspicion across five colleagues while you re-read old interactions looking for the tell. That corrodes trust in precisely the way the anonymity was meant to protect — and it burns the energy that should have gone into what do I do differently.
+In addition: you will try to work out who. Almost involuntarily. Which means one anonymous line redistributes suspicion across five colleagues while you re-read old interactions looking for the tell. This corrodes trust, and it burns the energy that should have gone into what do I do differently.
 
+> [!EXAMPLE] [fundamental attribution error](https://psychsafety.com/the-fundamental-attribution-error/)  
+
+> [!EXAMPLE] [local rationality](https://psychsafety.com/local-rationality/)
+
+> [!EXAMPLE] [all feedback is subjective](https://psychsafety.com/all-feedback-is-subjective/)
+
+Account for degree of difficulty. Struggles don’t necessarily reflect the absence of ability— often they reveal the presence of adversity. To account for the obstacles candidates have faced, put their performance in context
+
+people are doing the best they can with what they have
+
+
+%%
 
 
 

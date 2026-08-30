@@ -1,30 +1,41 @@
 *Feeling safe to speak your mind without worrying about losing your job.*
 
+*The short version:*
+**a climate** where people feel safe enough to take interpersonal risks by speaking up and sharing concerns, questions, or ideas.
 > [!EXAMPLE] 3 minute video: [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0)
 
+> [!EXAMPLE] article: [4 stages of psychological safety](https://www.leaderfactor.com/learn/4-stages-of-psychological-safety/)
+
+
+*The long version:*
+> [!TIP] amy edmondson - the fearless organization
+
 # why it matters
+- The failure to speak up cannot be seen (no good != good news)
+- people often hold back even when they believe that what they have to say could be important
+
+Psychological safety is essential for communicating, collaborating, experimenting, and ensuring the well-being of others in a wide variety of team and organizational settings.
+
+﻿﻿Leaders who welcome only good news create fear that blocks them from hearing the truth, yet many managers confuse setting high standards with good management.
+==A lack of psychological safety can create an illusion of success that eventually turns into serious business failures.==
+> Early information about shortcomings can nearly always mitigate the size and impact of future, large-scale failure.
+
+# why 
 > It's hard for people to do their best work when they are afraid.
 
 ![[Pasted image 20260822123258.png]]
 
 *Fear hijacks the brain* from parts that manage working memory and process new information. This impairs analytic thinking, creative insight, and problem solving. As a result, how psychologically safe a person feels strongly impacts learning behaviors, such as information sharing, asking for help, or experimenting. 
 
+> Fear uses up a lot of brain capacity, and you can't be healthy, trusting, or feel you belong while marinating in cortisol.
+
 > _When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside._
 
 ![[Pasted image 20260822123427.png]]
 
 > having information about shortcomings come to light earlier rather than later can nearly always mitigate the size and impact
-# what causes the fear
-> *Hierarchy.. or, more specifically, the fear it creates when not handled well.. reduces psychological safety*. 
 
-Assumptions people make at work:
-*Don't criticize something the boss may have helped create.*
-*Don't speak unless you have solid data*
-*Don't speak up if the boss's boss is present*
-*Don't speak up in a group with anything negative about the work to prevent boss from losing face*
-*Speaking up brings career consequences*
-
-The thing is, this fear is not always totally unfounded. But it's weighted towards silence because (todo: explain whatever bias). This is why it's the leaders responsibility to actively work on proving these assumptions wrong.
+No one gains from the silence. Teams miss out on insights. Those who fail to speak up often report regret or pain. Some wish they had spoken up. Others recognize they could be experiencing more fulfillment and meaning in their jobs were they more able to contribute. Those deprived of hearing a colleague's comments may not know what they are missing, but the fact is that problems go unreported, improvement opportunities are missed, and occasionally, tragic failures occur that could have been avoided.
 
 # predictability
 
@@ -44,7 +55,7 @@ Part of psychological safety is the ability to reliably predict how others will 
 
 > In our experience, the single most effective practice for increasing psychological safety is to level the power gradient or authority gradient within a group.
 
-> [!EXAMPLE] [reducing power gradients](https://psychsafety.com/reducing-power-gradients/)
+> [!warning] "In our experience, the single most effective practice for increasing psychological safety is to [level the power gradient within a group](https://psychsafety.com/reducing-power-gradients/).”
 # simple things to say
 
 By acknowledging that you are a fallible human being, you give permission to others to do likewise:
@@ -58,12 +69,12 @@ words of interest and availability:
 *What are you up against?*
 *What are your concerns?*
 
+> *Speaking up is not a natural act in hierarchies. It must be nurtured.*
+
+> *we can only think smarter if others in the room speak their minds*
 # a self fulfilling prophecy
 
 
-# for inspiration
-
-> [!TIP] amy edmondson - the fearless organization
 
 https://www.researchgate.net/publication/280298144_Implicit_Voice_Theories_Taken-for-Granted_Rules_of_Self-Censorship_at_Work
 

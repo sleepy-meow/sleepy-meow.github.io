@@ -1,0 +1,3 @@
+- self compassion exercises / book
+- gifts of imperfection
+- other stuff from the notion page

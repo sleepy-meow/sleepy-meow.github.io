@@ -16,7 +16,7 @@ That said, the skills that are taught in these books are not in any way exclusiv
 # my background
 Over the past 10 years as a pipeline technical artist in the games industry, a lot of my work has involved building shared understanding across teams, initiating cross-functional conversations to understand workflows and constraints, understanding multiple perspectives, and facilitating alignment between technical and creative stakeholders, with the goal of enabling others to do their best work and making collaboration more efficient.
 
-In other words, *"helping artists with the pain"*.
+Or in other words, *"helping artists with the pain."*
 
 One day I picked up 'the culture code', and realized I'd stumbled upon a whole world of interesting things to learn, so I just kept reading, and now it feels like I've read too much and the information in my head needs somewhere to go.
 

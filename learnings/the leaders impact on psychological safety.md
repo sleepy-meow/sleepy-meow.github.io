@@ -4,12 +4,12 @@ the most effective way to increase psychological safety within a team is [flatte
 
 *Speaking up is only the first step. The true test is how leaders respond when people actually do speak up.*
 
+> the failure of an employee to speak up in a crucial moment cannot be seen.
+
 The primary result of responding to negatively to concerns is that you don't hear about them.
 
-# why it matters
-> "we can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted"
+> bad news doesn't travel up the hierarchy. But what we found is that people err so far on the side of caution at work that they routinely hold back great ideas
 
-Fear also uses up a lot of brain capacity, and you can't be healthy, trusting, or feel you belong while marinating in cortisol.
 # what a safe environment looks like
 In psychologically safe environments, people can speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't require profound courage or encouragement. 
 
@@ -31,14 +31,17 @@ The calculus of voice needs data. Before speaking up, people unconsciously weigh
 
 
 # why people stay silent
-some common assumptions:
+> *Hierarchy.. or, more specifically, the fear it creates when not handled well.. reduces psychological safety*. 
 
-| Don't criticize something the boss may have helped create.                                        | *"It's inherently risky since bosses may feel personal ownership of the tasks I am suggesting are problematic."*                                                 |
-| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Don't speak unless you have solid data.                                                           | *"You are questioning their ideas and had better have proof to back up your statements."*                                                                        |
-| Don't speak up if the boss's boss is present.                                                     | *"If there is a higher level individual present it is risky because you would be afraid that your direct boss would feel as if you were going over their head."* |
-| Don't speak up in a group with anything negative about the work to prevent boss from losing face. | *"You should pass it by the boss in private first, so the boss doesn't look bad in front of the group."*<br>                                                     |
-| Speaking up brings career consequences.                                                           | *"The long-term consequences are bad because [higher ups] will resent being put on the spot."*                                                                   |
+People spontaneously set an invisible threshold that governs when they speak up and what they speak up about. Assumptions often made at work:
+
+*Don't criticize something the boss may have helped create.*
+*Don't speak unless you have solid data*
+*Don't speak up if the boss's boss is present*
+*Don't speak up in a group with anything negative about the work to prevent boss from losing face*
+*Speaking up brings career consequences*
+
+This fear is not always totally unfounded, and it's weighted towards silence because of [hyperbolic discounting](https://en.wikipedia.org/wiki/Hyperbolic_discounting), underweighting immediate risks for future benefits. This is why it's the leaders responsibility to actively work on proving these assumptions wrong.
 
 The four following concerns powerfully shape our willingness to speak up:
 - ﻿﻿**Being seen as ignorant**: Hestitating to ask a question because it seemed that no one else was asking, or we believed it was something we were already expected to know.
@@ -86,12 +89,7 @@ Two things make the transition itself especially dangerous:
 
 **The defence is to make yourself redundant.** If the culture only works while you're in the room, you *are* the bus factor. This is why *"the goal of leadership is to produce more leaders, not followers"*: every person you develop into someone who can hold the tone, make the call, and keep voice alive is one more point of resilience, and one less way for the whole thing to hinge on you. Developing leaders isn't generosity or succession-planning box-ticking — it's how you turn borrowed safety into built safety, so the vacuum, when it comes, is filled from the inside by people the group already trusts rather than captured from outside. A leader who hoards the role leaves the widest-open door behind them.
 
-[[how to psychological safety]]
 
-# links
-short explanation: [youtube: amy edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0)
-[the fearless organization](https://www.goodreads.com/book/show/75711229-the-fearless-organization) (amy edmondson) - the best in-depth book on the topic
-https://psychsafety.com/ambiguity-predictability-and-psychological-safety/
 
 
 

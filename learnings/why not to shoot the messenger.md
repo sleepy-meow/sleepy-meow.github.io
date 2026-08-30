@@ -14,6 +14,7 @@ When someone comes to you with a concern, thank them for bringing it up, it does
 ![[Pasted image 20260817203702.png]]
 The more difficult of a topic, the more thank yous may be needed.
 
+> Note that this does not mean you have to agree with what someone said. You don't even have to like it. But you do have to appreciate the effort it took for her to say it.
 # if you're in the first picture
 https://brenebrown.com/articles/2019/04/26/book-read-first/
 

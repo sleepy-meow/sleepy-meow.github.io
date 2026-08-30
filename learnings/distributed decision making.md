@@ -24,5 +24,5 @@ Anyone can make any decision, after seeking advice. Advice must be taken serious
 [https://reinventingorganizationswiki.com/en/theory/decision-making/](https://reinventingorganizationswiki.com/en/theory/decision-making/#:~:text=In%20Practice)
 [Advice process - A simple tool for group decision making](https://medium.com/enspiral-tales/use-advice-process-to-work-better-together-4cb127c83a39)
 
-
-
+Other decision making methods:
+[7 levels of delegation](https://medium.com/@jurgenappelo/the-7-levels-of-delegation-672ec2a48103) - decision-making technique, less corporate alternative than DACI/RACI

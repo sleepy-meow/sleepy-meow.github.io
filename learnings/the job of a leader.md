@@ -68,3 +68,12 @@ a collection of quotes from the following books:
 *producing more leaders*
 
 > "If your actions inspire others to dream more, learn more, do more and become more, you are a leader." — John Quincy Adams. … When leaders inspire those they lead, people dream of a better future, invest time and effort in learning more, do more for their organizations and along the way become leaders themselves.
+
+*staying humble*
+The temptation for self serving behavior is proportional to power. Doing this can gradually reduce the ability to feel empathy, so finding ways and self-restraint to keep your feet on the ground is essential
+
+%%
+*Not panicking*
+
+*Giving the order to abandon ship*
+Sometimes the conditions or pressure may become too much to shield the team from harm. the captains responsibility isn't to go down with the ship, the first and foremost responsibility is to the people on board. 

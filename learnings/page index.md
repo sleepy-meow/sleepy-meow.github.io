@@ -6,33 +6,39 @@
 [[how to come up with big ideas]] !!
 [[courage is contagious]] !!
 [[the job of a leader]] !!
+[[developer user experience]] !!
+[[common misconceptions]] !!
 # decisions
-[[how to make decisions]] !!
-[[how to remember decisions]] !!
+[[distributed decision making]] !!
+[[logging decisions]] !!
 # feedback
 [[feedback checklists]] !!
 [[receiving feedback]] !!
 [[bullshit feedback]] !!
 
+# psychological safety
+[[psychological safety]] !!
+[[the leaders impact on psychological safety]] !!
 # practical tools
-[[how to psychological safety]] !!
 [[how to ask the right questions]] !!
 [[how to lower the bar for participation]] !!
 [[emergent facilitation]] !!
 [[empathy misses]] !!
 [[conflict resolution]] !!
+[[universal human needs]] !!
 
 # learning
 [[a learning mindset]] !!
 [[curiosity gap]] !!
 [[how to fail]] !!
 [[how to question your own thinking]] !!
-
+[[postmortems]] !!
 
 # transparency
 [[a team of teams]] !!
 [[free flow of information]] !!
 [[leadership approaches]] !!
+
 
 # pitfalls
 [[lines of communication]] !!
@@ -40,9 +46,13 @@
 [[people are doing the best they can with what they have]] !!
 [[bad advice books]] !!
 [[the fat cat syndrome]] !!
+[[hiring for skills vs attitude]] !!
+[[structural guardrails]] !!
 
+[[first aid kit]] !!
 
 # misc
+[[misc books and resources]] !!
 
 %%[[responsibility of the captain]] ?%%
 
@@ -54,7 +64,7 @@
 # learning
 
 
-[[tech art learnings]] !!
+%%[[tech art learnings]] !!%%
 
 # stuff
 
@@ -71,7 +81,7 @@
 # other
 %%[[appreciative inquiry]] %%
 
-%%[[how to listen]] ?
+[](how%20to%20listen.md)]] ?
 [[tech art learnings]] ?
 [[motivation]] ?
 [[group flow]] ?%%
@@ -92,12 +102,10 @@
 
 
 # misc
-
-[[universal human needs]]
-
-
-
 %%
+
+
+
 
 [[psychological safety & predictability]]
 [[courage is contagious]]

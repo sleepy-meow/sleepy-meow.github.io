@@ -10,7 +10,7 @@ Deep curiosity requires courage and humility for the simple reason that choosing
 
 > *"In the absence of data we will always make up stories - it’s how our brains function."*
 
-Questions cry for an answer. If you
+Questions cry out for answers; they create a vacuum that serves as a voice opportunity for someone.
 %%
 # how to stay curious
 

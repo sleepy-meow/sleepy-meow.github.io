@@ -1,28 +1,22 @@
-*small snippets of tech art learnings*
+*applying pipeline tech art ux learnings*
 
-Main sources:
+Most of us understand the value of ux in the products we build. But an often overlooked aspect is how those same principles can be applied to finding optimal ways of working and internal tooling.
+
 > [!TIP] [Designing the User Experience of Game Development Tools](https://uxofgametools.com/) (the best book ever on this topic, very condensed and practical advice)
 
 > [!TIP] Reid Hoffman - Masters of Scale (the book, not the podcast)
-
+# start with the users
 > “You’ve got to start with the customer experience and work back toward the technology - not the other way around.” -Steve Jobs
-
-
 # Defining user experience
 
 User experience refers to how a user interacts with and operates a product, system, or service, including perceptions of utility, ease of use, and efficiency.
 
 ![[Pasted image 20260827141054.png|314]]
 tools must be 1. useful, 2. usable, and 3. desirable
-
-# start with the users
-
-Developing tools without first understanding their users can result in incorrect assumptions about needs and workflows.
-
-When individuals contribute features based on differing assumptions, the resulting tool may become complex and difficult to learn.
+# reducing the cognitive load
+A good rule of thumb is to ask yourself: does this change reduce the cognitive load for the whole group as a whole (in the long run). 
 
 # designing for flow state
-
 _“The flow state is an optimal state of intrinsic motivation, where the person is fully immersed in what they are doing.“
 _“The flow state amplifies performance, accelerates learning, and heightens creativity.”__
 
@@ -37,10 +31,7 @@ _“The flow state amplifies performance, accelerates learning, and heightens cr
 
 ![[Pasted image 20260827141138.png|315]]
 
-
-
 # iterative design
-
 Frequent, small iterations reduce the need for significant course corrections.
 
 analyze the situation → design 1+ focused improvements → evaluate impact on user experience
@@ -54,49 +45,35 @@ the goal of one iteration is to learn something out of it.![[Pasted image 202608
     4. Refine interface to account for/fix the problems
     5. Repeat steps 2-4 until user interface problems are resolved
 # learning from mistakes
-
 postmortems, decision logs, etc. help identify repeating patterns over time.
 
+# responsibility
 > "the minute you encourage someone to use a piece of technology, you are inherently responsible for it" (reid hoffman, masters of scale)
-## common reasons why users didn’t read the manual
-
+# common reasons why users didn’t read the manual
 - not knowing know it exists
 - it doesn’t exist
 - it’s difficult to find / navigate to
 - it’s hard to understand
 - it contains a lot of irrelevant information to the user
 
-# lowering the barrier to help improve things
-
+# lowering the barrier to contribute
 the lower the barrier is to extend a tool, the more people can help improve & customize it
 
 # estimating return on investment
+basic version: Time/energy saved each occurrence *x* Number of users *x* Frequency *x* Future benefits
+Vs
+Development time (including the time that users don’t have the fix) *+* Future maintenance & support time *+* time it takes to adopt & learn 
 
-- basic version
-    - Time/energy saved each occurrence
-    - Number of users
-    - Frequency
-    - Future benefits
-    Vs
-    - Development time (including the time that users don’t have the fix)
-    - Future maintenance & support time
-- example:
-    5 minutes saved
-    4 times a day
-    35 users
-    = 11.7 hours / day
-    = 29 days / month
-    = 350 days / year
+example: 5 minutes saved *x* 4 times a day *x* 35 users
+  = 11.7 hours / day, or 29 days / month, or *350 days / year*
 
 (Other factors like cognitive load and context switching are harder to quantify but relevant)
 
 these calculations often end up looking like this:
 
 ![[Pasted image 20260827141326.png|296]]
-
-*_creative work of artists / human cognition can not be reduced to a single number, and oversimplifying any complex topic can have unintended consequences (adding disclaimers, context, and a clear suggestion of what to do with this information can help)._
+Caveat: creative work of artists / human cognition can not be reduced to a single number, and oversimplifying any complex topic can have unintended consequences
 # the hierarchy of mental loads
-
 - High: cognitive tasks (thinking, remembering)
 - Medium: visual processing
 - Low: physical actions (clicking, typing)
@@ -104,7 +81,6 @@ these calculations often end up looking like this:
 More interactions are not inherently negative if they lower cognitive load.
 
 # reducing distractions
-
 context switching - around 9-23 minutes (or more) can be lost each time you switch your attention from one topic to another before regaining full focus.
 
 it’s often possible to still “feel” like you’re doing something useful, but in the end get nothing done.
@@ -113,70 +89,55 @@ severity depends on the type of distraction (and [contexts you’re switching be
 
 
 # Features vs goals
-
 More features do not always make a better tool, adding more features increases complexity exponentially.
 
 ![[Pasted image 20260827141400.png]]
-
 every additional feature needs to be developed & maintained, and istime away from other things
 
 # Finding the right balance
-
 maintaining balance between user, developer, and stakeholder requirements.
 ![[Pasted image 20260827141415.png]]
 
 # user testing
-
 Testing early and frequently reduces the likelihood of developing unused or irrelevant features.
 
 # “we’re evaluating the tool, not the user”
-
 ^ important to say out loud before user testing  
 users often blame themselves for not understanding how to use a tool.
-
-tool developers might also blame themselves for users not understanding how to use a tool, but it’s totally normal for ux issues to come up (in the end ux is more about understanding the users & validating designs, than anything else)
-
 # user testing - analogy to code reviews
-
 Without review, user interfaces and documentation can become difficult to understand.
 
 Reviewing ensures clarity for others.
 
 > “if the user can’t find it, it doesn’t exist”
 
-# paper prototypes
+# prototypes
+validating early without writing complex code or setting a new workflow into stone.
 
-validating early without writing complex code
+- paper prototypes
+	- [what are wizard of oz prototypes?](https://www.interaction-design.org/literature/topics/wizard-of-oz-prototypes)
+	- [using paper prototyping as a tool for participatory design](https://www.paulolyslager.com/paper-prototyping-tool-participatory-design-research/)
+- interactive prototypes
+	- [protopie](https://www.protopie.io/download)
+- vibe coding
+	- perfect for building scrappy prototypes just to see whether the idea itself is useful and worth doing properly later
 
-paper prototype, using the wizard of oz technique
-
-[what are wizard of oz prototypes?](https://www.interaction-design.org/literature/topics/wizard-of-oz-prototypes)
-
-[using paper prototyping as a tool for participatory design](https://www.paulolyslager.com/paper-prototyping-tool-participatory-design-research/)
-
-# interactive prototypes
-
-for example: [protopie](https://www.protopie.io/download)
-
-# _the importance of watching users work_
-
+# the importance of watching users work
 _**what people say they do vs what they actually do is often quite different**_
 
-metrics and focus groups don’t replace actually sitting down with the users watching them work
+metrics and focus groups don’t replace actually sitting down with the users watching them work.
 
 it’s totally normal that during development of a tool we become blind to our own design in some way.
 
 ![[Pasted image 20260827141517.png|464]]
 this is also totally normal, the reason to sit next to the user when they are testing the tool is to have the chance to ask them to explain why.
 
-# Dogfooding (using internally developed tools)
+# Dogfooding
+There's value in getting personally annoyed by annoying workflows.
 
-skipping this step leaves room for missing big fundamental problems in the design. there’s also lots of stuff that users won’t mention / don’t realize could be fixed with 3 lines of code or just automated entirely.
-
-_(how nice the programmer created assets look visually is also not relevant, but it’s important for it to be a real asset made from start to finish.)_
+Skipping this step leaves room for missing big fundamental problems in the design. There’s also often lots of stuff that people won’t mention / don’t realize could be easily fixed or automated entirely.
 
 When replacing existing tools, using older tools provides a baseline for comparison.
-
 # some best practices from the book “100 things designers should know about people”
     
 Seeing
@@ -191,7 +152,7 @@ Remembering
     - Repetition = remembering
     - Stress reduces short term memory
     - Context switching destroys memory
-    - Visual memory > words
+    - Visual memory > words (also works for presentations, people remember pictures better)
     - Biased questions mess up recall
 Thinking
     - Use bite-sized chunks
@@ -207,41 +168,59 @@ Mistakes
     - Stress = more mistakes
 
 # user task flows
-High-level task flows reveal dependencies and bottlenecks in asset creation and iteration.
+High-level task flows reveal dependencies and bottlenecks that may otherwise be too abstract to communicate
 
 # flexibility
 _“No single way of working, from where or when we work to how we communicate, is optimal for all of us. Implementing flexibility at the core of policies and practices can be a game changer for your teams’ efficiency.” ([blog post from ubisoft](https://news.ubisoft.com/en-us/article/4MdbqYqnJ4Mk2PGD5hjdYf/gdc-2023-unlocking-the-power-of-neurodiversity-in-game-development))_
 
-# user feedback
+# digging for the root cause
 Initial feedback may represent symptoms rather than underlying causes.
+- 5 whys
 
-## ideas for improving feedback culture
+# ideas for improving feedback culture
 when inviting feedback:
-- making sure the feedback won’t get lost
-- actually being prepared to listen & trying to understand
-- following up on the feedback - even if the answer is “we can’t do anything about it atm” or some kind of explanation
-- collecting feedback & issue tickets easy to search/browse for everyone
-- asking if people actually have the bandwidth to give/receive feedback
+- make sure the feedback won’t get lost
+- actually be prepared to listen
+- follow up on feedback and explain the why, even if the answer is “we can’t do anything about it atm”
+- make collected feedback easy to search/browse for everyone
+- ask in advance if people have the bandwidth to give/receive feedback
 
-sharing some ballpark idea of what useful feedback looks like in advance:
-- iteration on the feedback needed, to confirm it’s actually correct
-- evaluating the severity (frequency & how many users does it affect)
+give some idea of what useful feedback looks like in advance:
+- that it often needs iteration to get to the root of the problem
+- evaluating the severity (frequency & how many people it affects)
 
 also:
-- making it as easy as possible to share feedback: one click record & share a problematic workflow could help & is very easy to make
+- lower the treshold to share feedback:
+	- one click record & share a problematic workflow
+	- your own availability
 
 # prioritization
 sometimes need to choose to let some fires burn - it’s easy to get caught up with lots of small things and miss the one thing that really matters.
 
 # Enabling people to make informed decisions
-a guide that enables people to make informed decisions will often outlive any tool. a good guide can complement a tool and reduce the overall complexity needed.
+a guide that enables people to make informed decisions will often outlive any tool or complex process. a good guide can also complement and reduce the overall complexity needed.
 
 a guide can also be about a generic topic that isn’t explained well enough elsewhere (like this page i guess)
 
 # do one thing really well
 a simple tool is easier to maintain
 
+# increasing the level of ux maturity
+
+%%
+# communication
+
 [wiios law](https://en.wikipedia.org/wiki/Wiio%27s_laws): "Communication usually fails, except by accident” - applies to user interfaces and guides, most of it is about understanding what the users need and making sure that the designs we create actually make sense to the users
+
+# getting buy-in
+We end up adopting inefficient workflows or forget to update them when they stop serving their purpose. In the land of tech art the technology side of things is often easy, it's getting everyone onboard to change the way they're used to working that's the real challenge.
+
+One approach would be to spend months behind the scenes developing a tool or planning a change, and then presenting it to the team as "here you have it, we're going to use this whether you want it or not".
+
+The other approach, which has worked quite well for tech art improvements, is to present ideas as deliberately scrappy looking prototypes. Most of them will be discarded, but when you find something valuable to improve, people will tell you about it. 
+
+By involving the people affected at an early stage, addressing their concerns, explaining the why, 
+%%
 
 # links / resources
 ux resources
@@ -267,18 +246,7 @@ writing user manuals
     [manufacturer’s guide to developing consumer product instructions](https://www.cpsc.gov/s3fs-public/pdfs/guide.pdf) (some good instructions / checklists for writing guides)
     [https://teachtogether.tech/en/index.html#](https://teachtogether.tech/en/index.html#)
     
-some relevant cognitive biases
-[https://en.wikipedia.org/wiki/Curse_of_knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
-_“…occurs when a person who has specialized knowledge assumes that others share in that knowledge.”_
-
-[https://en.wikipedia.org/wiki/Default_effect](https://en.wikipedia.org/wiki/Default_effect)
-_“the tendency to to generally accept the default option”_
-    
-[https://en.wikipedia.org/wiki/Information_overload](https://en.wikipedia.org/wiki/Information_overload)
-_“the difficulty in understanding an issue and effectively making decisions when one has too much information about it, and is generally associated with the excessive quantity of daily information.”_
-    
-[https://en.wikipedia.org/wiki/Response_bias](https://en.wikipedia.org/wiki/Response_bias) (for surveys)
-_“general term for a wide range of tendencies for participants to respond inaccurately or falsely to questions, and can have a large impact on the validity of questionnaires or surveys.”_
+some relevant cognitive biases: [[how to question your own thinking]]
 
 also:
 [https://growth.design/psychology](https://growth.design/psychology)

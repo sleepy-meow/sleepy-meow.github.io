@@ -49,7 +49,7 @@ Transparency is what you pay for autonomy. And when it's paid, the need for cont
 
 # simple things anyone can do
 - Whenever a slack conversation drifts into a locked channel or DM, just say 'hey let's move this conversation to a public channel so we don't risk needing to re-explain ourselves later'
-- Transparently communicating your own decision making. The more broadly a [[how to remember decisions|decision log]] is used, the more useful it is. But this doesn't prevent you from using it just for yourself. This can also help others identify the gaps in knowledge you might have so they can tell you about it. 
+- Transparently communicating your own decision making. The more broadly a [[logging decisions|decision log]] is used, the more useful it is. But this doesn't prevent you from using it just for yourself. This can also help others identify the gaps in knowledge you might have so they can tell you about it. 
 
 ![[Pasted image 20260820121828.png]]
 

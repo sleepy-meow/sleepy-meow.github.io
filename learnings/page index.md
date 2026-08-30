@@ -6,9 +6,10 @@
 [[how to come up with big ideas]] !!
 [[courage is contagious]] !!
 [[the job of a leader]] !!
+[[connecting teams]] !!
 [[developer user experience]] !!
 [[common misconceptions]] !!
-[[motivation]] !!
+[[motivation]] ? wip
 # decisions
 [[distributed decision making]] !!
 [[logging decisions]] !!
@@ -26,7 +27,9 @@
 [[emergent facilitation]] !!
 [[empathy misses]] !!
 [[conflict resolution]] !!
-[[universal human needs]] !!
+[[appreciative inquiry]] ? wip
+[[cognitive load]] ? wip
+[[group flow]] ? wip
 
 # learning
 [[a learning mindset]] !!
@@ -47,52 +50,17 @@
 [[people are doing the best they can with what they have]] !!
 [[bad advice books]] !!
 [[the fat cat syndrome]] !!
-[[hiring for skills vs attitude]] !!
-[[structural guardrails]] !!
-
-[[first aid kit]] !!
+[[hiring for skills vs attitude]] ? wip
+[[structural guardrails]] ? wip
+[[first aid kit]] ? wip
 
 # misc
 [[misc books and resources]] !!
+[[universal human needs]] !!
 
-%%[[responsibility of the captain]] ?%%
-
-
-%%[[sense of purpose]] 
-
-[[how to choose courage over comfort]] 
-[[common misconceptions]] ?%%
-# learning
-
-
-%%[[tech art learnings]] !!%%
-
-# stuff
-
-%%[[the goal of leadership]] !!%%
-
-
-
-
-%%[[the leaders impact on psychological safety]] ?
-[[cognitive load]] %%
-
-# feedback
-
-# other
-%%[[appreciative inquiry]] %%
-
-[](how%20to%20listen.md)]] ?
-[[tech art learnings]] ?
-[[motivation]] ?
-[[group flow]] ?%%
-
-%%# useful lists
-[[links & resources]] ?
-%%
-
-
-%%
+# maybe add later
+%%[[responsibility of the captain]] 
+[[the goal of leadership]] 
 [[context switching]]
 [[commitment vs compliance]] ?
 [[why to build safeguards]] ?
@@ -101,23 +69,4 @@
 
 
 
-
-# misc
-%%
-
-
-
-
-[[psychological safety & predictability]]
-[[courage is contagious]]
-[[the goal of leadership2]]
-[[leadership approaches]]
-[[introduction]]
-[[connecting teams]]
-# books
-
-# stuff
-
-[[attention]]
-[[feedback2]]
 

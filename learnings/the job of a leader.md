@@ -49,7 +49,7 @@ a collection of quotes from the following books:
 
 > "It is not the demands of the job that cause the most stress, but the degree of control workers feel they have"
 
-*developing skills*
+*finding potential in others & developing skills*
 > I define a leader as anyone who takes responsibility for finding the potential in people and processes, and who has the courage to develop that potential.
 
 *conflict resolution*
@@ -70,7 +70,7 @@ a collection of quotes from the following books:
 > "If your actions inspire others to dream more, learn more, do more and become more, you are a leader." — John Quincy Adams. … When leaders inspire those they lead, people dream of a better future, invest time and effort in learning more, do more for their organizations and along the way become leaders themselves.
 
 *staying humble*
-The temptation for self serving behavior is proportional to power. Doing this can gradually reduce the ability to feel empathy, so finding ways and self-restraint to keep your feet on the ground is essential
+The temptation for self serving behavior is proportional to power. Doing this can gradually reduce the ability to feel empathy, Finding ways and self-restraint to keep your feet on the ground is essential.
 
 %%
 *Not panicking*

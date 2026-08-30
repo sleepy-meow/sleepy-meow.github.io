@@ -40,6 +40,12 @@
           "done": true
         },
         {
+          "name": "connecting teams",
+          "path": "learnings/connecting teams.md",
+          "tags": [],
+          "done": true
+        },
+        {
           "name": "developer user experience",
           "path": "learnings/developer user experience.md",
           "tags": [],
@@ -55,7 +61,7 @@
           "name": "motivation",
           "path": "learnings/motivation.md",
           "tags": [],
-          "done": true
+          "draft": true
         }
       ]
     },
@@ -150,10 +156,22 @@
           "done": true
         },
         {
-          "name": "universal human needs",
-          "path": "learnings/universal human needs.md",
+          "name": "appreciative inquiry",
+          "path": "learnings/appreciative inquiry.md",
           "tags": [],
-          "done": true
+          "draft": true
+        },
+        {
+          "name": "cognitive load",
+          "path": "learnings/cognitive load.md",
+          "tags": [],
+          "draft": true
+        },
+        {
+          "name": "group flow",
+          "path": "learnings/group flow.md",
+          "tags": [],
+          "draft": true
         }
       ]
     },
@@ -252,19 +270,19 @@
           "name": "hiring for skills vs attitude",
           "path": "learnings/hiring for skills vs attitude.md",
           "tags": [],
-          "done": true
+          "draft": true
         },
         {
           "name": "structural guardrails",
           "path": "learnings/structural guardrails.md",
           "tags": [],
-          "done": true
+          "draft": true
         },
         {
           "name": "first aid kit",
           "path": "learnings/first aid kit.md",
           "tags": [],
-          "done": true
+          "draft": true
         }
       ]
     },
@@ -276,103 +294,12 @@
           "path": "learnings/misc books and resources.md",
           "tags": [],
           "done": true
-        }
-      ]
-    },
-    {
-      "name": "other",
-      "files": [
+        },
         {
-          "name": "tech art learnings",
-          "path": "learnings/tech art learnings.md",
+          "name": "universal human needs",
+          "path": "learnings/universal human needs.md",
           "tags": [],
-          "draft": true
-        },
-        {
-          "name": "motivation",
-          "path": "learnings/motivation.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "group flow",
-          "path": "learnings/group flow.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "links & resources",
-          "path": "discarded/links & resources.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "context switching",
-          "path": "learnings/context switching.md",
-          "tags": []
-        },
-        {
-          "name": "commitment vs compliance",
-          "path": "learnings/commitment vs compliance.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "why to build safeguards",
-          "path": "discarded/why to build safeguards.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "trust & interdependence",
-          "path": "discarded/trust & interdependence.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "pitfalls of growing teams",
-          "path": "learnings/pitfalls of growing teams.md",
-          "tags": []
-        },
-        {
-          "name": "psychological safety & predictability",
-          "path": "discarded/psychological safety & predictability.md",
-          "tags": []
-        },
-        {
-          "name": "courage is contagious",
-          "path": "learnings/courage is contagious.md",
-          "tags": []
-        },
-        {
-          "name": "the goal of leadership2",
-          "path": "discarded/the goal of leadership2.md",
-          "tags": []
-        },
-        {
-          "name": "leadership approaches",
-          "path": "learnings/leadership approaches.md",
-          "tags": []
-        },
-        {
-          "name": "introduction",
-          "path": "learnings/introduction.md",
-          "tags": []
-        },
-        {
-          "name": "connecting teams",
-          "path": "learnings/connecting teams.md",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "name": "stuff",
-      "files": [
-        {
-          "name": "feedback2",
-          "path": "discarded/feedback2.md",
-          "tags": []
+          "done": true
         }
       ]
     }

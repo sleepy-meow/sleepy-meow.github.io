@@ -18,12 +18,15 @@ Speaking up is received with appreciation and curiosity. There is plenty of deba
 # red flags of an unsafe environment
 Everyone just being very "nice", and the same few people talk all the time in meetings, reaching fast consensus with no dissent. Concerns come up in the hallway/Slack DM afterward instead of the meeting, and bad news gets watered down upwards.
 
-# safety is really predictability
+# predictability
+
 The deeper mechanism behind "feeling safe": psychological safety is the ability to reliably predict how others will respond when you take an interpersonal risk. We're often not managing danger, but uncertainty.
 
-**The usual gap — you feel less safe than you actually are.** The default human bias, most people systematically underweight how safe it really is. A leader can't just be safe — they have to actively, repeatedly demonstrate it, because people walk in assuming risk.
+> [!EXAMPLE] [ambiguity, predictability, and psychological safety](https://psychsafety.com/ambiguity-predictability-and-psychological-safety/)
 
-**The dangerous gap — you feel safer than you actually are.** False safety. The belief says "speak up," you do, and then you get punished. This is the more corrosive version, because it only takes one or two betrayals to teach a whole group the real lesson. 
+**The usual gap: feeling less safe than you actually are.** The default human bias, most people systematically underweight how safe it really is. A leader can't just be safe — they have to actively, repeatedly demonstrate it, because people walk in assuming risk.
+
+**The dangerous gap: feeling safer than you actually are.** You believe it’s safe to raise a concern but get punished when you do. This is the more corrosive version, because it only takes one or two betrayals to teach a whole group the real lesson.
 
 Ambiguity is one of the biggest killers of psychological safety. Only consistent, demonstrated behaviour accumulates the evidence prediction needs.
 

@@ -9,7 +9,6 @@ Learnings only becomes organizational when they are shared. Good performance is 
 > “Give away everything you know, and more will come back to you. – If you give away everything, you are left with nothing. This forces you to look, to be aware, to replenish.” (paul arden)
 
 # example: user centered design
-> “Start with the users, and work your way back towards technology, not the other way around” -steve jobs
 
 User-centered design (UCD) is an iterative approach that involves users throughout the design process, ensuring a product reflects their real needs, goals, and context—not just the design team’s assumptions.
 

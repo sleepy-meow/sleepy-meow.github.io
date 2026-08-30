@@ -13,9 +13,6 @@ local rationality
 
 separate needs (see [[universal human needs]]) vs wants
 
-
-
-%%
 # example
 
 a teammate comes to you with a concern about someone else.
@@ -33,11 +30,9 @@ talk with both people separately to truly understand each perspective and to fin
 *Follow up* 
 Make sure the issue has actually been resolved, and that both parties know how the situation was resolved.
 
-*start with common ground*
-
 *acknowledge the power gradient*
 if the other person has more power than the other, then the more powerful person has a higher responsibility to approach the situation with care. the brain of the more powerless person may be overwhelmed with fear and this can get in the way of communicating their needs clearly, as they have more to lose.
 
-Authority bias
+
 
 

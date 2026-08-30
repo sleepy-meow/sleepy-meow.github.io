@@ -207,10 +207,6 @@ a simple tool is easier to maintain
 
 # increasing the level of ux maturity
 
-%%
-# communication
-
-[wiios law](https://en.wikipedia.org/wiki/Wiio%27s_laws): "Communication usually fails, except by accident” - applies to user interfaces and guides, most of it is about understanding what the users need and making sure that the designs we create actually make sense to the users
 
 # getting buy-in
 We end up adopting inefficient workflows or forget to update them when they stop serving their purpose. In the land of tech art the technology side of things is often easy, it's getting everyone onboard to change the way they're used to working that's the real challenge.
@@ -218,6 +214,13 @@ We end up adopting inefficient workflows or forget to update them when they stop
 One approach would be to spend months behind the scenes developing a tool or planning a change, and then presenting it to the team as "here you have it, we're going to use this whether you want it or not".
 
 The other approach, which has worked quite well for tech art improvements, is to present ideas as deliberately scrappy looking prototypes. Most of them will be discarded, but when you find something valuable to improve, people will tell you about it. 
+
+%%
+# communication
+
+[wiios law](https://en.wikipedia.org/wiki/Wiio%27s_laws): "Communication usually fails, except by accident” - applies to user interfaces and guides, most of it is about understanding what the users need and making sure that the designs we create actually make sense to the users
+
+
 
 By involving the people affected at an early stage, addressing their concerns, explaining the why, 
 %%

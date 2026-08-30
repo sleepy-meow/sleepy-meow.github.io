@@ -37,15 +37,7 @@ Psychological safety is essential for communicating, collaborating, experimentin
 
 No one gains from the silence. Teams miss out on insights. Those who fail to speak up often report regret or pain. Some wish they had spoken up. Others recognize they could be experiencing more fulfillment and meaning in their jobs were they more able to contribute. Those deprived of hearing a colleague's comments may not know what they are missing, but the fact is that problems go unreported, improvement opportunities are missed, and occasionally, tragic failures occur that could have been avoided.
 
-# predictability
 
-Part of psychological safety is the ability to reliably predict how others will respond when you take an interpersonal risk. We're often not managing danger, but uncertainty.
-
-> [!EXAMPLE] [ambiguity, predictability, and psychological safety](https://psychsafety.com/ambiguity-predictability-and-psychological-safety/)
-
-**The usual gap: feeling less safe than you actually are.** The default human bias, most people systematically underweight how safe it really is. A leader can't just be safe — they have to actively, repeatedly demonstrate it, because people walk in assuming risk.
-
-**The dangerous gap: feeling safer than you actually are.** You believe it’s safe to raise a concern but get punished when you do. This is the more corrosive version, because it only takes one or two betrayals to teach a whole group the real lesson.
 
 # how to improve it
 

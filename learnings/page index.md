@@ -3,6 +3,7 @@
 
 # mindset
 [[culture]] !!
+[[why to have a culture memo]] !!
 [[how to come up with big ideas]] !!
 [[courage is contagious]] !!
 [[the job of a leader]] !!
@@ -15,7 +16,7 @@
 [[logging decisions]] !!
 # feedback
 [[feedback checklists]] !!
-[[receiving feedback]] !!
+%%[[receiving feedback]] !!%%
 [[bullshit feedback]] !!
 
 # psychological safety
@@ -55,8 +56,8 @@
 [[first aid kit]] ? wip
 
 # misc
-[[misc books and resources]] !!
-[[universal human needs]] !!
+[[misc books and resources]] ? wip
+[[universal human needs]] ? wip
 
 # maybe add later
 %%[[responsibility of the captain]] 

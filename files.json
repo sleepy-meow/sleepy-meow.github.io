@@ -293,13 +293,13 @@
           "name": "misc books and resources",
           "path": "learnings/misc books and resources.md",
           "tags": [],
-          "done": true
+          "draft": true
         },
         {
           "name": "universal human needs",
           "path": "learnings/universal human needs.md",
           "tags": [],
-          "done": true
+          "draft": true
         }
       ]
     }

@@ -39,6 +39,14 @@ A nice rant about 360 reviews / anonymous surveys can be found in this book:
 > "if you want to know how people are doing, just ask!"
 
 > [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It. ](https://www.corporate-rebels.com/blog/annual-performance-reviews)
+
+questions to ask yourself:
+1. The content — is there something true here I need to act on?
+2. The channel — what did I, or the system I'm part of, do that made anonymity the safest available option?
+
+Edmondson's whole point is that silence has a rational logic: the cost of speaking is immediate and personal, the benefit diffuse and future. When there's a power gradient — you hold their review, their contract, their renewal — anonymity may be the only reason the information reached you at all. In Teaming, blameless reporting and the Good Catch Log were deliberately anonymous as a transitional device, to surface information in a system where naming carried too much risk. That's what anonymity is genuinely good for. It's a scaffold and a symptom, not a destination.
+
+The most accountable response to an anonymous note is not to solve the mystery. It's to ask why the front door was shut.
 # the invisible army
 > "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.
 
@@ -81,14 +89,7 @@ It's also all too easy to incorporate "the invisible army" into anonymous feedba
 
 accountability is: "You own your mistakes, apologize, and make amends." Anonymous feedback lets you do the first. It structurally forbids the other two. You cannot apologize to someone whose name is withheld. You cannot ask what it cost them, or check whether your fix actually landed for the person who was hurt.
 
-## questions to ask yourself
 
-1. The content — is there something true here I need to act on?
-2. The channel — what did I, or the system I'm part of, do that made anonymity the safest available option?
-
-The second is the more important one and the harder one to sit with. Edmondson's whole point is that silence has a rational logic: the cost of speaking is immediate and personal, the benefit diffuse and future. When there's a power gradient — you hold their review, their contract, their renewal — anonymity may be the only reason the information reached you at all. In Teaming, blameless reporting and the Good Catch Log were deliberately anonymous as a transitional device, to surface information in a system where naming carried too much risk. That's what anonymity is genuinely good for. It's a scaffold and a symptom, not a destination.
-
-The most accountable response to an anonymous note is not to solve the mystery. It's to ask why the front door was shut.
 
 
 ## What accountability can actually look like here

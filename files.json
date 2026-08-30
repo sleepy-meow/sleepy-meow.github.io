@@ -50,6 +50,12 @@
           "path": "learnings/common misconceptions.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "motivation",
+          "path": "learnings/motivation.md",
+          "tags": [],
+          "done": true
         }
       ]
     },
@@ -167,8 +173,8 @@
           "done": true
         },
         {
-          "name": "how to fail",
-          "path": "learnings/how to fail.md",
+          "name": "the science of failing well",
+          "path": "learnings/the science of failing well.md",
           "tags": [],
           "done": true
         },

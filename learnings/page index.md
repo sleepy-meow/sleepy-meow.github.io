@@ -8,6 +8,7 @@
 [[the job of a leader]] !!
 [[developer user experience]] !!
 [[common misconceptions]] !!
+[[motivation]] !!
 # decisions
 [[distributed decision making]] !!
 [[logging decisions]] !!
@@ -30,7 +31,7 @@
 # learning
 [[a learning mindset]] !!
 [[curiosity gap]] !!
-[[how to fail]] !!
+[[the science of failing well]] !!
 [[how to question your own thinking]] !!
 [[postmortems]] !!
 

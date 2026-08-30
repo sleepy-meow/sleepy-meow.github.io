@@ -4,6 +4,12 @@ A small collection of learnings from [some books](https://app.notion.com/p/2a491
 
 Many of these ideas are useful for anyone who wants to make their environment a little clearer, safer, and easier to work in. 
 
+Pick one from the sidebar to start reading!
+
+> [!WARNING] WORK IN PROGRESS (may include irrelevant / nonsensical mumbo jumbo and missing sources)
+
+> [!INFO] TARGET AUDIENCE (small teams and people who may not necessarily be leads themselves)
+
 %%
 The main topics:
 
@@ -17,7 +23,7 @@ The main topics:
 
 *Practical tools* - Simple frameworks and techniques you can try in your own team.
 %%
-Pick one from the sidebar to start reading!
+
 
 https://sleepy-meow.github.io
 http://localhost:8000/#

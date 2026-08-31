@@ -21,7 +21,7 @@ https://psychsafety.com/giving-feedback-with-psychological-safety/
 https://brenebrown.com/resources/the-engaged-feedback-checklist/
 # the effective feedback model
 
-> [!tip] john amaeichi - the promises of giants / chapter 9
+> [!tip] John Amaechi - the promises of giants (chapter 9)
 
 ```
 **What is the feedback's intent?**  

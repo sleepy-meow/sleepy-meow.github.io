@@ -1,4 +1,4 @@
-*Adding more people to a team increases the communication overhead exponentially*
+*Adding more people to a team increases the communication overhead quadratically*
 ![[Pasted image 20260627135045.png]]
 
 This is why growing a team too large will slow everything down. It also reduces psychological safety.

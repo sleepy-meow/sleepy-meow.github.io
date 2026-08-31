@@ -1,5 +1,8 @@
 - Constraints that shaped a decision get lost over time. A good log captures what was decided, who decided, when, and why.
-- To avoid re-deciding what was already decided, or drifting to "we've always done it that way" with no one able to say why. (also known as [monkey and banana problem](https://en.wikipedia.org/wiki/Monkey_and_banana_problem))
+- To avoid re-deciding what was already decided, or drifting to "we've always done it that way" with no one able to say why.
+
+> [!EXAMPLE] [monkeys, bananas and ladder experiment: obeying absurd rules](https://psychologyfor.com/the-monkeys-bananas-and-ladder-experiment-obeying-absurd-rules/)
+
 - Accountability for decision-making. Similarly to the [[bullshit feedback|anonymous army in feedback]], saying "it has been decided" can be a way to obscure responsibility
 - Improves problem solving, learning from mistakes, and future decisions
 # how to do it

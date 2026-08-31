@@ -421,7 +421,7 @@ People spontaneously set an invisible threshold that governs when they speak up 
 *Don't speak up in a group with anything negative about the work to prevent boss from losing face*
 *Speaking up brings career consequences*
 
-This fear is not always totally unfounded, and it's weighted towards silence because of [hyperbolic discounting](https://en.wikipedia.org/wiki/Hyperbolic_discounting), underweighting immediate risks for future benefits. This is why it's the leaders responsibility to actively work on proving these assumptions wrong.
+This fear is not always totally unfounded, and it's weighted towards silence because of [hyperbolic discounting](https://en.wikipedia.org/wiki/Hyperbolic_discounting), meaning we overweight the immediate cost and underweight the diffuse future benefit. This is why it's the leaders responsibility to actively work on proving these assumptions wrong.
 
 The four following concerns powerfully shape our willingness to speak up:
 - ﻿﻿**Being seen as ignorant**: Hestitating to ask a question because it seemed that no one else was asking, or we believed it was something we were already expected to know.
@@ -864,7 +864,7 @@ a collection of quotes from the following books:
 
 *producing more leaders*
 
-> "If your actions inspire others to dream more, learn more, do more and become more, you are a leader." — John Quincy Adams. … When leaders inspire those they lead, people dream of a better future, invest time and effort in learning more, do more for their organizations and along the way become leaders themselves.
+(todo: add something here)
 
 *modeling good behavior*
 
@@ -1114,7 +1114,10 @@ Other decision making methods:
 ### logging decisions
 
 - Constraints that shaped a decision get lost over time. A good log captures what was decided, who decided, when, and why.
-- To avoid re-deciding what was already decided, or drifting to "we've always done it that way" with no one able to say why. (also known as [monkey and banana problem](https://en.wikipedia.org/wiki/Monkey_and_banana_problem))
+- To avoid re-deciding what was already decided, or drifting to "we've always done it that way" with no one able to say why.
+
+> [!EXAMPLE] [monkeys, bananas and ladder experiment: obeying absurd rules](https://psychologyfor.com/the-monkeys-bananas-and-ladder-experiment-obeying-absurd-rules/)
+
 - Accountability for decision-making. Similarly to the [anonymous army in feedback](#bullshit-feedback), saying "it has been decided" can be a way to obscure responsibility
 - Improves problem solving, learning from mistakes, and future decisions
 #### how to do it
@@ -1527,7 +1530,7 @@ https://psychsafety.com/giving-feedback-with-psychological-safety/
 https://brenebrown.com/resources/the-engaged-feedback-checklist/
 #### the effective feedback model
 
-> [!tip] john amaeichi - the promises of giants / chapter 9
+> [!tip] John Amaechi - the promises of giants (chapter 9)
 
 ```
 **What is the feedback's intent?**  
@@ -1869,7 +1872,7 @@ https://participedia.net/method/dynamic-facilitation
 
 ### lines of communication
 
-*Adding more people to a team increases the communication overhead exponentially*
+*Adding more people to a team increases the communication overhead quadratically*
 ![Pasted image 20260627135045.png](pasted%20images/Pasted%20image%2020260627135045.png)
 
 This is why growing a team too large will slow everything down. It also reduces psychological safety.

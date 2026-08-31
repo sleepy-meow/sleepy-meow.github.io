@@ -41,7 +41,7 @@ People spontaneously set an invisible threshold that governs when they speak up 
 *Don't speak up in a group with anything negative about the work to prevent boss from losing face*
 *Speaking up brings career consequences*
 
-This fear is not always totally unfounded, and it's weighted towards silence because of [hyperbolic discounting](https://en.wikipedia.org/wiki/Hyperbolic_discounting), underweighting immediate risks for future benefits. This is why it's the leaders responsibility to actively work on proving these assumptions wrong.
+This fear is not always totally unfounded, and it's weighted towards silence because of [hyperbolic discounting](https://en.wikipedia.org/wiki/Hyperbolic_discounting), meaning we overweight the immediate cost and underweight the diffuse future benefit. This is why it's the leaders responsibility to actively work on proving these assumptions wrong.
 
 The four following concerns powerfully shape our willingness to speak up:
 - ﻿﻿**Being seen as ignorant**: Hestitating to ask a question because it seemed that no one else was asking, or we believed it was something we were already expected to know.

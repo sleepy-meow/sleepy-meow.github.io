@@ -67,7 +67,7 @@ a collection of quotes from the following books:
 
 *producing more leaders*
 
-> "If your actions inspire others to dream more, learn more, do more and become more, you are a leader." — John Quincy Adams. … When leaders inspire those they lead, people dream of a better future, invest time and effort in learning more, do more for their organizations and along the way become leaders themselves.
+(todo: add something here)
 
 *modeling good behavior*
 

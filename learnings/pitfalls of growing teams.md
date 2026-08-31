@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 [the peter principle](https://en.wikipedia.org/wiki/Peter_principle) (people being promoted past their abilities)
 A small team doesn't require the same kind of leadership approach as a larger one. 
 

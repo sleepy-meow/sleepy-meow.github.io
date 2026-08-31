@@ -1,4 +1,4 @@
-
+> [!WARNING] this page is wip
 
 A learning mindset reframes *"did you do it right?"* to *"what did we learn?"*. And the good thing is that there's always more to learn!
 

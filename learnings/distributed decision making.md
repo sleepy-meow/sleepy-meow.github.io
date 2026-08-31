@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 *A simple process for distributed decision making*
 
 # the advice process

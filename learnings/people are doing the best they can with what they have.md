@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 > _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
 
 Edmondson talks about four different zones:

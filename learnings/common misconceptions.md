@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 
 *"you're not supposed to want to be a lead"*
 there's a difference between wanting power and control, and wanting someone to take the job seriously. 

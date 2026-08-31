@@ -1,3 +1,5 @@
+> [!WARNING] this page is very wip
+
 *most disagreements revolve around 5% of differences*
 # how to cool conflict
 - *Identify the Nature of Conflict*: Though a difference of opinion about a product design or a work process is useful, personal friction and personality clashes are counterproductive. Understanding the differences between types of conflict (task vs relationship conflict) allows leaders to better manage contentious exchanges.

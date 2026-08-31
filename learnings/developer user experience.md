@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 *applying pipeline tech art ux learnings*
 
 Most of us understand the value of ux in the products we build. But an often overlooked aspect is how those same principles can be applied to finding optimal ways of working and internal tooling.

@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 *(to speak up)*
 
 People's sense of how polished, certain, senior, or important a contribution has to be before it's worth the interpersonal risk of saying it out loud, is almost always set too high.

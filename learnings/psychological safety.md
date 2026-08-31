@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 *A team climate in which people expect that questions, concerns, mistakes, and disagreement can be raised without humiliation or punishment.*
 
 > [!EXAMPLE] 3 minute video: [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0)

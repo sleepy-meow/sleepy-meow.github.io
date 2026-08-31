@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 *"A team of teams" — the problem you get once you outgrow a single team.*
 
 > [!tip] stanley mcchrystal - team of teams

@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 *what every single person on the planet needs*
 
 > [!TIP] oren jay sofer - say what you mean (mindul nonviolent communication + some other stuff)

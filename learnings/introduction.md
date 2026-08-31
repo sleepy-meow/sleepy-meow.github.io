@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 *"We give each other honest feedback"* / *"we disagree openly and stay a team"* only work if people actually know how — and the behaviors are concrete, teachable, practiceable skills.
 
 It's not always obvious where to find the information to learn these skills. The goal of this page is to show what concrete tools there are and where they live, and to lower the effort it takes to pick them up.

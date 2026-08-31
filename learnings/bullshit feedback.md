@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 Real feedback comes with an example and a substitute: *here’s the moment, here’s what would have worked better*. Without those, it's just a verdict.
 
 Feedback must be actionable. It’s stressful to hear feedback if we don’t know how to act upon it. Vague feedback just causes anxiety.

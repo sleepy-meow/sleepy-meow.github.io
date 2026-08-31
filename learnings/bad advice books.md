@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 *..and better alternatives*
 # rachel botsman - how to trust and be trusted
 If you've read more in depth about any of the topics this short audiobook tries to cover in 3 hours, this can be an infuriating read.

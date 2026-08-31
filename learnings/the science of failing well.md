@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 > [!TIP] amy edmondson - the right kind of wrong: the science of failing well
 
 # three types of failures

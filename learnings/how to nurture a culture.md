@@ -1,3 +1,5 @@
+> [!WARNING] this page is wip
+
 > If character describes how an individual thinks and acts, then the culture of an organization describes the character of a group of people and how they think and act as a collective. (simon sinek, leaders eat last)
 
 The fastest way to read a culture isn't to look at the values on the wall. It's to ask what happens to the person who brings bad news, admits a mistake, or disagrees with the most senior person in the room. Whatever happens to them is the culture — and everyone else is watching. They only have to see it once ([[why not to shoot the messenger]])."

@@ -5,6 +5,10 @@
 [[how to nurture a culture]] !!
 [[designing for flow state]] !!
 
+# learning
+[[a learning mindset]] !!
+[[the science of failing well]] !!
+[[how to question your own thinking]] !!
 
 # decisions
 [[distributed decision making]] !!
@@ -41,11 +45,7 @@
 
 
 
-# learning
-[[a learning mindset]] !!
 
-[[the science of failing well]] !!
-[[how to question your own thinking]] !!
 
 
 # transparency
@@ -67,6 +67,7 @@
 # misc
 
 [[universal human needs]] !!
+[[first aid kit]] !!
 
 # maybe add later
 %%
@@ -76,7 +77,7 @@
 
 [[hiring]] ? wip
 [[structural guardrails]] ? wip%%
-%%[[first aid kit]] ? wip%%
+%%? wip%%
 %%[[misc books and resources]] ? wip%%
 %%[[responsibility of the captain]] 
 [[the goal of leadership]] 

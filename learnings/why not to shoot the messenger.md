@@ -15,7 +15,3 @@ When someone comes to you with a concern, thank them for bringing it up, it does
 The more difficult of a topic, the more thank yous may be needed.
 
 > Note that this does not mean you have to agree with what someone said. You don't even have to like it. But you do have to appreciate the effort it took for her to say it.
-# if you're in the first picture
-https://brenebrown.com/articles/2019/04/26/book-read-first/
-
-> If you’re looking for a “I was brave and got my heart broken or my ass kicked” book—well, first, thanks for being brave. Courage is contagious even when there are hard endings.

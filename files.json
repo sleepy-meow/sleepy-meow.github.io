@@ -30,6 +30,29 @@
       ]
     },
     {
+      "name": "learning",
+      "files": [
+        {
+          "name": "a learning mindset",
+          "path": "learnings/a learning mindset.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "the science of failing well",
+          "path": "learnings/the science of failing well.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to question your own thinking",
+          "path": "learnings/how to question your own thinking.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
       "name": "decisions",
       "files": [
         {
@@ -151,29 +174,6 @@
         {
           "name": "conflict resolution",
           "path": "learnings/conflict resolution.md",
-          "tags": [],
-          "done": true
-        }
-      ]
-    },
-    {
-      "name": "learning",
-      "files": [
-        {
-          "name": "a learning mindset",
-          "path": "learnings/a learning mindset.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "the science of failing well",
-          "path": "learnings/the science of failing well.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "how to question your own thinking",
-          "path": "learnings/how to question your own thinking.md",
           "tags": [],
           "done": true
         }

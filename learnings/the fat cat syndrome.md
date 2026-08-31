@@ -33,7 +33,6 @@ People questioning the status quo:
 
 > [!TIP] eric ries - incorruptible
 
-%%
 ## structural guardrails
 Easiest to put them in place *before* they are actually needed. 
 

@@ -28,25 +28,3 @@ The main topics:
 https://sleepy-meow.github.io
 http://localhost:8000/#
 
-%%
-I’m especially interested in the parts of work that are easy to overlook but have a huge effect on whether teams function well: *psychological safety, feedback, clarity, trust, learning, decision-making, and collaboration*.
-
-These notes combine things I’ve learned from books, research, experience, and conversations with others. They’re not meant to be a definitive guide, but to collect useful ideas, connect them together, and turn them into things you can actually try.
-
-%%
-
-
-
-
-
-
-
-
-
-
-
-%%
-- the main goal of the pages
-	- explain the why - why you should even care
-	- simple what / how
-	- target audience = people who arent necessarily leads themselves

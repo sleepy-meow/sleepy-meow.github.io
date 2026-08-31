@@ -11,6 +11,13 @@ when something goes wrong, we blame the person, not the situation.
 **motive attribution asymmetry**
 overattributing bad intent to others.
 
+**groupthink**
+Occurs within a group of people in which the desire for harmony or conformity in the group results in an irrational or dysfunctional decision-making outcome.
+[symptoms & preventative measures](https://www.atlassian.com/blog/teamwork/groupthink)
+
+**pluralistic ignorance**
+A phenomenon in which people mistakenly believe that others predominantly hold an opinion different from their own.
+
 **shared information bias**
 the tendency to spend more time discussing information that all members are already familiar with vs information that only some members are aware of. 
 
@@ -20,8 +27,14 @@ the first opinion stated in a meeting influences others perception
 **escalation of commitment**
 when a person or group facing increasingly negative outcomes from a decision nevertheless continue the behavior instead of altering course.
 
+**information overload**
+“the difficulty in understanding an issue and effectively making decisions when one has too much information about it, and is generally associated with the excessive quantity of daily information.”
+
 **social proof**
 driven by the assumption that the surrounding people possess more knowledge about the current situation.
+
+**diffusion of responsibility**
+i.e. the bystander effect
 
 **authority bias**
 an assumption that a fancy title comes with enhanced brain capacity
@@ -34,6 +47,13 @@ the tendency to search for, interpret, favor and recall information in a way tha
 
 **response bias**
 a wide range of tendencies for participants to respond inaccurately or falsely to questions, and can have a large impact on the validity of questionnaires or surveys.
+
+**automation bias**
+i.e. "computer says no". The tendency to favor suggestions from automated decision-making systems and to ignore contradictory information made without automation, even if it is correct.
+
+**bias blind spot**
+It’s easier to spot biases in the decision making of others than our own
+related: [dunning-kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) & [illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
 
 # resources
 - Rolf dobelli - The Art of Thinking Clearly (99 most common thinking errors)

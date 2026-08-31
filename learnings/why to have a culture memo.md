@@ -1,5 +1,3 @@
-
-# why to have a culture memo
 > By taking the time to write down what the culture of the company is, and sharing it, you create accountability not only for the leaders but for everyone in the company.
 
 **Why to share it publicly:** When your culture is shared out in the open, acting against it will come at a higher cost. In the long run, it will provide protection from the temptation to start cutting corners later.

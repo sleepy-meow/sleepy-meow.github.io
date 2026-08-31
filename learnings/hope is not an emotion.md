@@ -4,6 +4,10 @@ We need hope like we need air, but it's not a warm, fuzzy emotion that fills us 
 
 Hope is a function of struggle—we develop hope not during the easy or comfortable times, but through adversity and discomfort.
 
+Hope happens when..
+..we can set realistic goals *"I know where I want to go"*
+..we're able to achieve those goals, stay flexible and develop alternative routes *"I know how to get there, persistent, can tolerate disappointment and try again"*
+..we believe in ourselves *"I can do this"*
 # courage is contagious
 > Here's something fascinating. Most people don’t start inventing, creating, or resisting injustice out of nowhere. They do it because someone else showed them it was possible. (rutger bregman - moral ambition)
 
@@ -46,13 +50,7 @@ Psychological safety isn’t just about reframing – the real-life consequences
 
 > Embracing the vulnerability it takes to rise up from a fall and grow stronger makes us a little dangerous. People who don't stay down after they fall down or are tripped, are often troublemakers, hard to control, which is the best kind of dangerous possible. They are the artists, the innovators, and the change makers.
 
-*..it's a thought process that can be learned.*
 
-
-
-We need hope like we need air, but it's not a warm, fuzzy emotion that fills us with a sense of possibility. Hope is a way of thinking, a cognitive process, a "trilogy of goals, pathways, and agency" (C. R. Snyder)
-
-Hope is a function of struggle—we develop hope not during the easy or comfortable times, but through adversity and discomfort.
 
 > [!TIP] Brene Brown - Dare to Lead ("Modeling Clarity, Kindness, and Hope")
 
@@ -64,14 +62,3 @@ Hope is a function of struggle—we develop hope not during the easy or comforta
 
 
 
-
-
-
-# ?? title
-
-
-
-Hope happens when..
-..we can set realistic goals *"I know where I want to go"*
-..we're able to achieve those goals, stay flexible and develop alternative routes *"I know how to get there, persistent, can tolerate disappointment and try again"*
-..we believe in ourselves *"I can do this"*

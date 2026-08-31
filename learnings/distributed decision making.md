@@ -15,7 +15,7 @@ any person can make any decision after seeking advice from
 
 Sometimes it's useful to include in the first group people who have different perspectives as well as people who have expertise from a single specialist perspective.
 
-Anyone can make any decision, after seeking advice. Advice must be taken seriously, but it's only advice. No one, however senior, can tell the decision-maker what to decide.
+Advice must be taken seriously, but it's only advice. No one, however senior, can tell the decision-maker what to decide.
 
 *Ownership of the issue stays clearly with one person: the decision maker.* Convinced of having made the best possible decision, they can see things through and accept responsibility for mistakes.
 

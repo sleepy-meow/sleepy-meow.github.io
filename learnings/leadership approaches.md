@@ -55,7 +55,7 @@ or as brene brown puts it:
 | Tolerating Discrimination and a "Fitting-In" Culture             | Cultivating a Culture of Belonging, Inclusivity, and Diverse Perspectives |
 | Zigzagging and Avoiding                                          | Talking Straight and Taking Action                                        |
 | Leading from Hurt                                                | Leading from Heart                                                        |
-%%
+
 # why the armor?
 > "Don't let what looks like a bloated ego and narcissism fool you into thinking there's a lack of shame. Shame and fear are almost always driving that unethical behavior… I define narcissism as the shame-based fear of being ordinary."
 
@@ -72,44 +72,4 @@ or as brene brown puts it:
 4. **Give them their actual value.** Sit down and name where this person genuinely contributes. "Once everyone understands their value, we stop hustling for worthiness and lean into our gifts."
 
 **Caveat:** While "it's really shame underneath" reading is compassionate, it's also the thing that keeps a lot of people absorbing behavior they shouldn't. Understanding why someone postures doesn't obligate you to keep paying for it.
-
-This is where clear boundaries (what's okay and what's not okay and why) can help
-
----
-
-If you have a single, well-defined goal, the work is stable enough to be done the same way repeatedly, coordination can be planned in advance because little is likely to change, the work stays within one discipline that already shares a common language, and if the information involved is simple and routine enough to flow through established procedures at a steady pace, (i.e. an assembly plant), 
-
-But if you don't have all the answers, people don't have all the knowledge and skills needed in advance or know exactly what should be done, if there aren't clear existing processes or they can't be expected to remain relatively fixed for a significant amount of time because of the changing nature of the work, or if reaching your goal requires creativity and innovation, 
-
-
-
-If reaching your goal involves:
-- Pursuing a single, well-defined objective under clear oversight
-- Performing the same stable task repeatedly, where coordination is pre-established and little ongoing communication is needed
-- Working within a single discipline, with shared expertise and a common language.
-- Collaborating co-located, in one fixed place
-- Coordination can be planned in advance, because the work is stable and predictable (handled through routines, schedules, and standard procedures)
-- Simple, routine information handled through established procedures at a steady, predictable pace
-
-
-
-but predictable execution, 
-
-- control, eliminating variance, conformance
-- collaboration and organizational learning
-
-
-- ownership & commitment
-- compliance & alignment
-
-
-- Juggling multiple objectives with minimal oversight.
-- ﻿﻿To shift from one situation to another while maintaining high levels of communication and tight coordination.
-- ﻿﻿Integrating perspectives from different disciplines.
-- Collaborating across dispersed locations.
-- ﻿﻿When pre-planned coordination is impossible or unrealistic due to the changing nature of the work.
-- ﻿﻿Complex information must be processed, synthesized, and put to good use quickly.
-
-
-
 

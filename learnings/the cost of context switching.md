@@ -1,8 +1,8 @@
 *Spending 50% on one project and 50% on another does not add up to 100%.*
 
-This is because of context switching / attention residue. On average, around 23 minutes is lost each time when switching context. Our brains cannot actually focus on two things at the same time, but rapidly switch between the two.
+This is because of context switching / attention residue. On average, 9-23 minutes is lost each time when switching context. Our brains cannot actually focus on two things at the same time, but rapidly switch between the two.
 
-![[Pasted image 20260830222802.png|436]]
+![[Pasted image 20260831150953.png|425]]
 
 > [!EXAMPLE] [context switching - how to reduce it and achieve flow state](https://www.taskade.com/blog/reduce-context-switching)
 

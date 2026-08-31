@@ -69,45 +69,10 @@ In addition: you will try to work out who. Almost involuntarily. Which means one
 
 Account for degree of difficulty. Struggles don’t necessarily reflect the absence of ability— often they reveal the presence of adversity. To account for the obstacles candidates have faced, put their performance in context
 
-people are doing the best they can with what they have
-
-
-%%
-
-
-
-
-# Is there an invisible army?
-
-It's also all too easy to incorporate "the invisible army" into anonymous feedback:
-
-> "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.
-
-
-
+[[people are doing the best they can with what they have]]
+ c
 # Feedback and accountability
 
 accountability is: "You own your mistakes, apologize, and make amends." Anonymous feedback lets you do the first. It structurally forbids the other two. You cannot apologize to someone whose name is withheld. You cannot ask what it cost them, or check whether your fix actually landed for the person who was hurt.
 
-
-
-
-## What accountability can actually look like here
-
-- Run the receiving questions anyway (good-feedback-checklist.md): truthful? specific? actionable? right time for me? Then notice which ones you cannot answer — intent, the giver's standing, whether it was delivered with care. That's a real epistemic loss. Hold the feedback with more uncertainty, not less. Anonymity is neither a reason to accept it nor a reason to discard it.
-- Treat it as a hypothesis, not a verdict — then go get named data. "I've been wondering whether I cut people off in design reviews. Have you seen me do that?" Asked non-defensively of two or three people, that converts an unfalsifiable claim into something checkable — without the whodunnit.
-- Make the amends general and public, since you can't make them private and specific. "I've heard that I run these meetings too tight and people don't get to finish. Here's what I'm changing. Tell me if it's working." That's the closest available substitute for repair — and it reopens the front door in the process. It's Brown's circle-back ("I wish I'd shown up differently — can I try again?"), addressed to a room instead of a person.
-- Don't punish the channel. The commonest failure is the receiver who says "I just wish they'd come to me directly." It's true. Said in the wrong tone, it also confirms exactly why they didn't. If you want fewer anonymous notes next time, make the named version cheap — don't make the anonymous one feel unwelcome.
-
-# The uncomfortable symmetry
-
-Some anonymous feedback really is cheap-seat behaviour — Brown's invisible army, criticism from someone not in the arena, with no plan and no skin in the game. You're allowed to notice that anonymity removes accountability from the giver entirely.
-
-But you don't get to know which kind you received. The same envelope holds the person protecting themselves from genuine risk and the person taking a free shot. Since you can't tell them apart: treat the content as if it came from the first, and treat the system as if it produced both.
-
-
-
-responsibility is proportional to power
-
-https://psychsafety.com/ambiguity-predictability-and-psychological-safety/
 

@@ -4,9 +4,6 @@ Emphasizing a sense of purpose is another key element of setting the stage for p
 
 > [!tip] Daniel Pink - drive
 
-
-
-
 # intrinsic vs extrinsic motivation
 *extrinsic: you do it for what you get. intrinsic: the doing is the point.*
 
@@ -14,8 +11,6 @@ Emphasizing a sense of purpose is another key element of setting the stage for p
 - **Extrinsic motivation** comes from external rewards or pressures, such as pay, bonuses, praise, promotion, deadlines, or fear of punishment.
 
 Purpose tends to create more lasting commitment than rewards or pressure alone—especially in complex, creative work.
-
-Extrinsic motivation sits outside the work — bonus, rating, promotion, praise, or avoiding a consequence. Intrinsic sits inside it — interest, purpose, craft, the satisfaction of getting good at something.
 
 People still need to be paid, and being paid unfairly is its own demotivator. The question isn't which is nobler, it's which one you're relying on to produce the behaviour — because they hold up under very different conditions.
 

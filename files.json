@@ -2,114 +2,11 @@
   "title": "lauras learnings",
   "folders": [
     {
-      "name": "intro",
+      "name": "start here",
       "files": [
         {
           "name": "introduction",
           "path": "learnings/introduction.md",
-          "tags": [],
-          "done": true
-        }
-      ]
-    },
-    {
-      "name": "mindset",
-      "files": [
-        {
-          "name": "how to nurture a culture",
-          "path": "learnings/how to nurture a culture.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "designing for flow state",
-          "path": "learnings/designing for flow state.md",
-          "tags": [],
-          "done": true
-        }
-      ]
-    },
-    {
-      "name": "learning",
-      "files": [
-        {
-          "name": "a learning mindset",
-          "path": "learnings/a learning mindset.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "the science of failing well",
-          "path": "learnings/the science of failing well.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "how to question your own thinking",
-          "path": "learnings/how to question your own thinking.md",
-          "tags": [],
-          "done": true
-        }
-      ]
-    },
-    {
-      "name": "decisions",
-      "files": [
-        {
-          "name": "distributed decision making",
-          "path": "learnings/distributed decision making.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "logging decisions",
-          "path": "learnings/logging decisions.md",
-          "tags": [],
-          "done": true
-        }
-      ]
-    },
-    {
-      "name": "feedback",
-      "files": [
-        {
-          "name": "feedback checklists",
-          "path": "learnings/feedback checklists.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "bullshit feedback",
-          "path": "learnings/bullshit feedback.md",
-          "tags": [],
-          "done": true
-        }
-      ]
-    },
-    {
-      "name": "leadership",
-      "files": [
-        {
-          "name": "leadership approaches",
-          "path": "learnings/leadership approaches.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "the job of a leader",
-          "path": "learnings/the job of a leader.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "hope is not an emotion",
-          "path": "learnings/hope is not an emotion.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "developer user experience",
-          "path": "learnings/developer user experience.md",
           "tags": [],
           "done": true
         },
@@ -118,10 +15,33 @@
           "path": "learnings/common misconceptions.md",
           "tags": [],
           "done": true
+        }
+      ]
+    },
+    {
+      "name": "culture",
+      "files": [
+        {
+          "name": "how to nurture a culture",
+          "path": "learnings/how to nurture a culture.md",
+          "tags": [],
+          "done": true
         },
         {
-          "name": "motivation",
-          "path": "learnings/motivation.md",
+          "name": "why to have a culture memo",
+          "path": "learnings/why to have a culture memo.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "universal human needs",
+          "path": "learnings/universal human needs.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "free flow of information",
+          "path": "learnings/free flow of information.md",
           "tags": [],
           "done": true
         }
@@ -141,15 +61,16 @@
           "path": "learnings/the leaders impact on psychological safety.md",
           "tags": [],
           "done": true
-        }
-      ]
-    },
-    {
-      "name": "practical tools",
-      "files": [
+        },
         {
-          "name": "how to ask the right questions",
-          "path": "learnings/how to ask the right questions.md",
+          "name": "why not to shoot the messenger",
+          "path": "learnings/why not to shoot the messenger.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "people are doing the best they can with what they have",
+          "path": "learnings/people are doing the best they can with what they have.md",
           "tags": [],
           "done": true
         },
@@ -158,10 +79,120 @@
           "path": "learnings/how to lower the bar for participation.md",
           "tags": [],
           "done": true
+        }
+      ]
+    },
+    {
+      "name": "learning & thinking",
+      "files": [
+        {
+          "name": "a learning mindset",
+          "path": "learnings/a learning mindset.md",
+          "tags": [],
+          "done": true
         },
         {
-          "name": "emergent facilitation",
-          "path": "learnings/emergent facilitation.md",
+          "name": "the science of failing well",
+          "path": "learnings/the science of failing well.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to question your own thinking",
+          "path": "learnings/how to question your own thinking.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to come up with big ideas",
+          "path": "learnings/how to come up with big ideas.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "leadership",
+      "files": [
+        {
+          "name": "the job of a leader",
+          "path": "learnings/the job of a leader.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "leadership approaches",
+          "path": "learnings/leadership approaches.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "motivation",
+          "path": "learnings/motivation.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "hope is not an emotion",
+          "path": "learnings/hope is not an emotion.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "ways of working",
+      "files": [
+        {
+          "name": "distributed decision making",
+          "path": "learnings/distributed decision making.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "logging decisions",
+          "path": "learnings/logging decisions.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "designing for flow state",
+          "path": "learnings/designing for flow state.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "the cost of context switching",
+          "path": "learnings/the cost of context switching.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "developer user experience",
+          "path": "learnings/developer user experience.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "conversations",
+      "files": [
+        {
+          "name": "feedback checklists",
+          "path": "learnings/feedback checklists.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "bullshit feedback",
+          "path": "learnings/bullshit feedback.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to ask the right questions",
+          "path": "learnings/how to ask the right questions.md",
           "tags": [],
           "done": true
         },
@@ -176,59 +207,27 @@
           "path": "learnings/conflict resolution.md",
           "tags": [],
           "done": true
-        }
-      ]
-    },
-    {
-      "name": "transparency",
-      "files": [
-        {
-          "name": "a team of teams",
-          "path": "books/a team of teams.md",
-          "tags": [],
-          "done": true
         },
         {
-          "name": "free flow of information",
-          "path": "learnings/free flow of information.md",
+          "name": "emergent facilitation",
+          "path": "learnings/emergent facilitation.md",
           "tags": [],
           "done": true
         }
       ]
     },
     {
-      "name": "pitfalls",
+      "name": "scaling teams",
       "files": [
         {
           "name": "lines of communication",
           "path": "learnings/lines of communication.md",
           "tags": [],
-          "done": true,
-          "star": true
-        },
-        {
-          "name": "the cost of context switching",
-          "path": "learnings/the cost of context switching.md",
-          "tags": [],
-          "done": true,
-          "star": true
-        },
-        {
-          "name": "why not to shoot the messenger",
-          "path": "learnings/why not to shoot the messenger.md",
-          "tags": [],
-          "done": true,
-          "star": true
-        },
-        {
-          "name": "people are doing the best they can with what they have",
-          "path": "learnings/people are doing the best they can with what they have.md",
-          "tags": [],
           "done": true
         },
         {
-          "name": "bad advice books",
-          "path": "learnings/bad advice books.md",
+          "name": "a team of teams",
+          "path": "learnings/a team of teams.md",
           "tags": [],
           "done": true
         },
@@ -237,15 +236,21 @@
           "path": "learnings/the fat cat syndrome.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "pitfalls of growing teams",
+          "path": "learnings/pitfalls of growing teams.md",
+          "tags": [],
+          "done": true
         }
       ]
     },
     {
-      "name": "misc",
+      "name": "other",
       "files": [
         {
-          "name": "universal human needs",
-          "path": "learnings/universal human needs.md",
+          "name": "bad advice books",
+          "path": "learnings/bad advice books.md",
           "tags": [],
           "done": true
         },

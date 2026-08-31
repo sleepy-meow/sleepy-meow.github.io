@@ -27,8 +27,6 @@ musicians riffing off each other, no one leading, the music seeming to play itse
 a basketball team on a fast break where passes land without anyone looking, everyone anticipating the next move.
 **A surgical or emergency team working a crisis**
 in tight, wordless coordination, each person moving as the situation demands.
-**A game jam in the final hours**
-:D
 ```
 
 The common thread: shared goal, constant communication/listening, equal participation, and deep collective absorption — the same conditions Edmondson's "teaming" and psychological safety make possible.

@@ -1,16 +1,19 @@
-%%*culture is the behavior a group actually rewards, tolerates, and ignores — not the values it claims*
-
-# what it is%%
-
 > If character describes how an individual thinks and acts, then the culture of an organization describes the character of a group of people and how they think and act as a collective. (simon sinek, leaders eat last)
 
-%%The academic version says much the same: culture is the set of *taken-for-granted* assumptions a group shares about how things work and who gets to decide (edgar schein). Taken-for-granted is the operative part — culture is the stuff nobody has to be told.
+The fastest way to read a culture isn't to look at the values on the wall. It's to ask what happens to the person who brings bad news, admits a mistake, or disagrees with the most senior person in the room. Whatever happens to them is the culture — and everyone else is watching. They only have to see it once ([[why not to shoot the messenger]])."
 
-So %%The fastest way to read a culture isn't to look at the values on the wall. It's to ask what happens to the person who brings bad news, admits a mistake, or disagrees with the most senior person in the room. %%Whatever happens to them *is* the culture — and everyone else is watching. They only have to see it once ([[why not to shoot the messenger]]).%%
+A value only becomes culture once it has been *operationalized* — turned into behaviors that are teachable and observable. Until then it's a word on a poster, and the gap between the word and what actually happens is itself corrosive.
 
-> When you have a value printed on posters hanging in the halls but you don't dig into the behaviors that support it and teach people those behaviors, you're in BS territory. It starts to corrode trust. (brene brown, dare to lead)
+# why it matters
 
-A value only becomes culture once it has been *operationalized* — turned into behaviors that are teachable and observable. %%Until then it's a word on a poster, and the gap between the word and what actually happens is itself corrosive.%%
+- **It decides whether you ever hear the truth.** In a weak culture, bad news dies on the way up and problems only surface once they've grown too big to hide. 
+- **It's your biggest lever on cognitive load.** In a culture where you have to watch your back, the attention that could go to the work goes to managing danger from inside it instead. 
+- **It sets the ceiling on innovation, decision quality, and motivation.** Fear works well enough for simple, well-defined work and fails for anything that needs learning or collaboration. 
+- **You can't feel the one you're in.** Sinek compares an unhealthy culture to altitude on Everest — we acclimatise. If the conditions were shocking we'd leave; because they're subtle, we adapt and stop noticing. Which is an argument for writing it down while you can still see it.
+- **It's a safeguard, not just a nicety.** Voice is the check on unchecked power. A frightened, silenced group can't compare notes or get bad news to someone who could act — so culture has to be built *before* it's needed.
+- **A strong culture is resilient to being challenged.** Built deep, it holds under pressure — absorbing a shock, a bad hire, or a loud person testing its limits and springing back. Built shallow, it folds the first time it's genuinely tested.
+
+> Refusal to stand up for what you believe in weakens individual morality and ethics, as well as those of the culture
 
 # practical advice
 
@@ -36,19 +39,7 @@ It's true that this responsibility is proportional to power, but it doesn't requ
 
 > "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had." 
 
-%%
-# why it matters
 
-- **It decides whether you ever hear the truth.** In a weak culture, bad news dies on the way up and problems only surface once they've grown too big to hide. 
-- **It's your biggest lever on cognitive load.** In a culture where you have to watch your back, the attention that could go to the work goes to managing danger from inside it instead. 
-- **It sets the ceiling on innovation, decision quality, and motivation.** Fear works well enough for simple, well-defined work and fails for anything that needs learning or collaboration. 
-- **You can't feel the one you're in.** Sinek compares an unhealthy culture to altitude on Everest — we acclimatise. If the conditions were shocking we'd leave; because they're subtle, we adapt and stop noticing. Which is an argument for writing it down while you can still see it.
-- **It's a safeguard, not just a nicety.** Voice is the check on unchecked power. A frightened, silenced group can't compare notes or get bad news to someone who could act — so culture has to be built *before* it's needed.
-- **A strong culture is resilient to being challenged.** Built deep, it holds under pressure — absorbing a shock, a bad hire, or a loud person testing its limits and springing back. Built shallow, it folds the first time it's genuinely tested.
-
-> Refusal to stand up for what you believe in weakens individual morality and ethics, as well as those of the culture
-
-%%
 
 
 # for inspiration

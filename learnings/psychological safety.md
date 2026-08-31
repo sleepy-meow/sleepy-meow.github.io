@@ -16,11 +16,9 @@
 
 Psychological safety is essential for communicating, collaborating, experimenting, and ensuring the well-being of others in a wide variety of team and organizational settings.
 
-﻿﻿Leaders who welcome only good news create fear that blocks them from hearing the truth, yet many managers confuse setting high standards with good management.
-==A lack of psychological safety can create an illusion of success that eventually turns into serious business failures.==
-> Early information about shortcomings can nearly always mitigate the size and impact of future, large-scale failure.
+﻿﻿Leaders who welcome only good news create fear that blocks them from hearing the truth, yet many managers confuse setting high standards with good management. A lack of psychological safety can create an illusion of success that eventually turns into serious business failures.
 
-# why 
+# how it affects performance
 > It's hard for people to do their best work when they are afraid.
 
 ![[Pasted image 20260822123258.png]]
@@ -40,14 +38,13 @@ No one gains from the silence. Teams miss out on insights. Those who fail to spe
 
 
 # how to improve it
+> *Speaking up is not a natural act in hierarchies. It must be nurtured.*
 
 > [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
 
 > [!EXAMPLE] https://explore.psychsafety.com/
 
-> In our experience, the single most effective practice for increasing psychological safety is to level the power gradient or authority gradient within a group.
-
-> [!warning] "In our experience, the single most effective practice for increasing psychological safety is to [level the power gradient within a group](https://psychsafety.com/reducing-power-gradients/).”
+> In our experience, the single most effective practice for increasing psychological safety is to [level the power gradient within a group](https://psychsafety.com/reducing-power-gradients/)
 # simple things to say
 
 By acknowledging that you are a fallible human being, you give permission to others to do likewise:
@@ -61,23 +58,7 @@ words of interest and availability:
 *What are you up against?*
 *What are your concerns?*
 
-> *Speaking up is not a natural act in hierarchies. It must be nurtured.*
-
-> *we can only think smarter if others in the room speak their minds*
-
-# measuring it
-https://measure.psychsafety.com
-%%
-# a self fulfilling prophecy
-
-
-
-https://www.researchgate.net/publication/280298144_Implicit_Voice_Theories_Taken-for-Granted_Rules_of_Self-Censorship_at_Work
-
-
-
-## other things
-
+# a leaders checklist for psychological safety
 **Setting the Stage**
 - pointing out that small failures are the currency of improvement — that you can't get something new "right the first time"
 - articulating clearly *why our work matters, and for whom*
@@ -92,3 +73,15 @@ https://www.researchgate.net/publication/280298144_Implicit_Voice_Theories_Taken
 - *listening thoughtfully*, signaling that what I'm hearing matters, *acknowledging or thanking* the speaker for bringing the idea or question
 - *destigmatizing failure*, *celebrating intelligent failures* When someone brings bad news, making it a *positive experience*, *offering help* to guide next steps
 - *clarifying boundaries* - what counts as blameworthy, responding to clear violations in an appropriately tough way to influence future behavior
+
+# measuring it
+
+> [!EXAMPLE] https://measure.psychsafety.com
+
+> *we can only think smarter if others in the room speak their minds*
+
+%%
+
+https://www.researchgate.net/publication/280298144_Implicit_Voice_Theories_Taken-for-Granted_Rules_of_Self-Censorship_at_Work
+
+

@@ -140,6 +140,9 @@
      selected draft still highlights normally. */
   nav a.draft { color: var(--faint); }
   nav a.draft:hover { color: var(--muted); }
+  /* Pages marked "!!!" in the page index — highlights, called out in pink. */
+  nav a.star { color: var(--pink); }
+  nav a.star:hover { color: var(--pink); }
   nav a.active {
     background: var(--active);
     color: #dadada; font-weight: 500;
@@ -584,6 +587,7 @@ function buildNav(folders) {
       a.textContent = file.name;
       a.dataset.path = file.path;
       if (file.draft) a.classList.add('draft');
+      if (file.star) a.classList.add('star');
       a.dataset.tags = (file.tags || []).join(' ');
       a.dataset.search = (folder.name + ' ' + file.name + ' ' + a.dataset.tags).toLowerCase();
       wrap.appendChild(a);

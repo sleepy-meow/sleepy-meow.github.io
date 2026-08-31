@@ -203,19 +203,22 @@
           "name": "lines of communication",
           "path": "learnings/lines of communication.md",
           "tags": [],
-          "done": true
+          "done": true,
+          "star": true
         },
         {
           "name": "the cost of context switching",
           "path": "learnings/the cost of context switching.md",
           "tags": [],
-          "done": true
+          "done": true,
+          "star": true
         },
         {
           "name": "why not to shoot the messenger",
           "path": "learnings/why not to shoot the messenger.md",
           "tags": [],
-          "done": true
+          "done": true,
+          "star": true
         },
         {
           "name": "people are doing the best they can with what they have",
@@ -243,6 +246,12 @@
         {
           "name": "universal human needs",
           "path": "learnings/universal human needs.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "first aid kit",
+          "path": "learnings/first aid kit.md",
           "tags": [],
           "done": true
         }

@@ -55,9 +55,9 @@
 
 
 # pitfalls
-[[lines of communication]] !!
-[[the cost of context switching]] !!
-[[why not to shoot the messenger]] !!
+[[lines of communication]] !!!
+[[the cost of context switching]] !!!
+[[why not to shoot the messenger]] !!!
 [[people are doing the best they can with what they have]] !!
 [[bad advice books]] !!
 [[the fat cat syndrome]] !!

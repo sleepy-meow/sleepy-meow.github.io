@@ -16,20 +16,7 @@ tools must be 1. useful, 2. usable, and 3. desirable
 # reducing the cognitive load
 A good rule of thumb is to ask yourself: does this change reduce the cognitive load for the whole group as a whole (in the long run). 
 
-# designing for flow state
-_“The flow state is an optimal state of intrinsic motivation, where the person is fully immersed in what they are doing.“
-_“The flow state amplifies performance, accelerates learning, and heightens creativity.”__
 
-**Conditions:**
-- knowing what to do
-- knowing how to do it
-- knowing how well you are doing
-- knowing where to go (navigation)
-- room for risk (it’s ok fail & experiment)
-- confidence in skills & challenges
-- freedom from distractions
-
-![[Pasted image 20260827141138.png|315]]
 
 # iterative design
 Frequent, small iterations reduce the need for significant course corrections.

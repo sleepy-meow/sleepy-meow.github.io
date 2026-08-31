@@ -4,7 +4,7 @@
 **a climate** where people feel safe enough to take interpersonal risks by speaking up and sharing concerns, questions, or ideas.
 > [!EXAMPLE] 3 minute video: [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0)
 
-> [!EXAMPLE] article: [4 stages of psychological safety](https://www.leaderfactor.com/learn/4-stages-of-psychological-safety/)
+> [!EXAMPLE] article: [what is psychological safety?](https://psychsafety.com/about-psychological-safety/)
 
 
 *The long version:*
@@ -64,13 +64,17 @@ words of interest and availability:
 > *Speaking up is not a natural act in hierarchies. It must be nurtured.*
 
 > *we can only think smarter if others in the room speak their minds*
+
+# measuring it
+https://measure.psychsafety.com
+%%
 # a self fulfilling prophecy
 
 
 
 https://www.researchgate.net/publication/280298144_Implicit_Voice_Theories_Taken-for-Granted_Rules_of_Self-Censorship_at_Work
 
-%%
+
 
 ## other things
 

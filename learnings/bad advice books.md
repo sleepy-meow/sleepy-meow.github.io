@@ -34,8 +34,6 @@ Edmondson's psychological safety work is useful contrast, since she treats safet
 for a better take on vulnerability:
 > [!TIP] anything by brene brown
 
-> "we can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted"
-
 # measure what matters
 i read this mainly to understand the management by metrics mindset. I feel like it simply doesn't understand how motivation works. It's as if they almost get it, but in some twisted way. And also that they're thrown into a situation they don't understand, and these are the only tools they have. 
 

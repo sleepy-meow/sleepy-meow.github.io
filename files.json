@@ -22,52 +22,10 @@
           "done": true
         },
         {
-          "name": "why to have a culture memo",
-          "path": "learnings/why to have a culture memo.md",
+          "name": "designing for flow state",
+          "path": "learnings/designing for flow state.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "how to come up with big ideas",
-          "path": "learnings/how to come up with big ideas.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "courage is contagious",
-          "path": "learnings/courage is contagious.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "the job of a leader",
-          "path": "learnings/the job of a leader.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "connecting teams",
-          "path": "learnings/connecting teams.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "developer user experience",
-          "path": "learnings/developer user experience.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "common misconceptions",
-          "path": "learnings/common misconceptions.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "motivation",
-          "path": "learnings/motivation.md",
-          "tags": [],
-          "draft": true
         }
       ]
     },
@@ -100,6 +58,47 @@
         {
           "name": "bullshit feedback",
           "path": "learnings/bullshit feedback.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "leadership",
+      "files": [
+        {
+          "name": "leadership approaches",
+          "path": "learnings/leadership approaches.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "the job of a leader",
+          "path": "learnings/the job of a leader.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "hope is not an emotion",
+          "path": "learnings/hope is not an emotion.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "developer user experience",
+          "path": "learnings/developer user experience.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "common misconceptions",
+          "path": "learnings/common misconceptions.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "motivation",
+          "path": "learnings/motivation.md",
           "tags": [],
           "done": true
         }
@@ -154,24 +153,6 @@
           "path": "learnings/conflict resolution.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "appreciative inquiry",
-          "path": "learnings/appreciative inquiry.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "cognitive load",
-          "path": "learnings/cognitive load.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "group flow",
-          "path": "learnings/group flow.md",
-          "tags": [],
-          "draft": true
         }
       ]
     },
@@ -185,12 +166,6 @@
           "done": true
         },
         {
-          "name": "curiosity gap",
-          "path": "learnings/curiosity gap.md",
-          "tags": [],
-          "done": true
-        },
-        {
           "name": "the science of failing well",
           "path": "learnings/the science of failing well.md",
           "tags": [],
@@ -199,12 +174,6 @@
         {
           "name": "how to question your own thinking",
           "path": "learnings/how to question your own thinking.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "postmortems",
-          "path": "learnings/postmortems.md",
           "tags": [],
           "done": true
         }
@@ -222,12 +191,6 @@
         {
           "name": "free flow of information",
           "path": "learnings/free flow of information.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "leadership approaches",
-          "path": "learnings/leadership approaches.md",
           "tags": [],
           "done": true
         }
@@ -271,24 +234,6 @@
           "path": "learnings/the fat cat syndrome.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "hiring for skills vs attitude",
-          "path": "learnings/hiring for skills vs attitude.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "structural guardrails",
-          "path": "learnings/structural guardrails.md",
-          "tags": [],
-          "draft": true
-        },
-        {
-          "name": "first aid kit",
-          "path": "learnings/first aid kit.md",
-          "tags": [],
-          "draft": true
         }
       ]
     },
@@ -296,16 +241,10 @@
       "name": "misc",
       "files": [
         {
-          "name": "misc books and resources",
-          "path": "learnings/misc books and resources.md",
-          "tags": [],
-          "draft": true
-        },
-        {
           "name": "universal human needs",
           "path": "learnings/universal human needs.md",
           "tags": [],
-          "draft": true
+          "done": true
         }
       ]
     }

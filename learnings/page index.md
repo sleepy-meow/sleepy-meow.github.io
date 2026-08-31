@@ -3,21 +3,31 @@
 
 # mindset
 [[how to nurture a culture]] !!
-[[why to have a culture memo]] !!
-[[how to come up with big ideas]] !!
-[[courage is contagious]] !!
-[[the job of a leader]] !!
-[[connecting teams]] !!
-[[developer user experience]] !!
-[[common misconceptions]] !!
-[[motivation]] ? wip
+[[designing for flow state]] !!
+
+
 # decisions
 [[distributed decision making]] !!
 [[logging decisions]] !!
+
 # feedback
 [[feedback checklists]] !!
-%%[[receiving feedback]] !!%%
+
 [[bullshit feedback]] !!
+# leadership
+[[leadership approaches]] !!
+[[the job of a leader]] !!
+
+
+[[hope is not an emotion]] !!
+
+[[developer user experience]] !!
+[[common misconceptions]] !!
+[[motivation]] !!
+
+
+
+
 
 # psychological safety
 [[psychological safety]] !!
@@ -28,21 +38,20 @@
 [[emergent facilitation]] !!
 [[empathy misses]] !!
 [[conflict resolution]] !!
-[[appreciative inquiry]] ? wip
-[[cognitive load]] ? wip
-[[group flow]] ? wip
+
+
 
 # learning
 [[a learning mindset]] !!
-[[curiosity gap]] !!
+
 [[the science of failing well]] !!
 [[how to question your own thinking]] !!
-[[postmortems]] !!
+
 
 # transparency
 [[a team of teams]] !!
 [[free flow of information]] !!
-[[leadership approaches]] !!
+
 
 
 # pitfalls
@@ -52,15 +61,23 @@
 [[people are doing the best they can with what they have]] !!
 [[bad advice books]] !!
 [[the fat cat syndrome]] !!
-[[hiring for skills vs attitude]] ? wip
-[[structural guardrails]] ? wip
-[[first aid kit]] ? wip
+
+
 
 # misc
-[[misc books and resources]] ? wip
-[[universal human needs]] ? wip
+
+[[universal human needs]] !!
 
 # maybe add later
+%%
+[[how to come up with big ideas]] !!
+[[why to have a culture memo]] !!
+
+
+[[hiring]] ? wip
+[[structural guardrails]] ? wip%%
+%%[[first aid kit]] ? wip%%
+%%[[misc books and resources]] ? wip%%
 %%[[responsibility of the captain]] 
 [[the goal of leadership]] 
 [[the cost of context switching]]
@@ -68,7 +85,9 @@
 [[why to build safeguards]] ?
 [[trust & interdependence]] ?
 [[pitfalls of growing teams]] %%
+%%[[postmortems]] !!%%
 
+%%[[appreciative inquiry]] ? wip
+[[cognitive load]] ? wip%%
 
-
-
+%%[[curiosity gap]] !!%%

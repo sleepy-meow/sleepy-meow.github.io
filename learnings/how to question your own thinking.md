@@ -42,7 +42,7 @@ a wide range of tendencies for participants to respond inaccurately or falsely t
 - fallacies [wiki](https://en.wikipedia.org/wiki/List_of_fallacies)
 - social phenomena [wiki]
 - [cognitive bias codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
-
+%%
 Caveat: Not all biases have equally strong research behind them (research often comes from some kind of catastrophic failure), and as any aspect of psychology, it's not an exact science.
 
 # cognitive biases & AI

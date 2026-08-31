@@ -66,8 +66,9 @@ a collection of quotes from the following books:
 > If the captain provides direction and protection, the crew will do what needs to be done to advance the mission.
 
 *producing more leaders*
+> _"the goal of leadership is to produce more leaders, not followers"_
 
-(todo: add something here)
+
 
 *modeling good behavior*
 

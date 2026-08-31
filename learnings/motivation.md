@@ -23,6 +23,8 @@ People still need to be paid, and being paid unfairly is its own demotivator. Th
 
 Extrinsic rewards work well on an assembly line because the right behaviour can be specified in advance and watched. The moment work needs judgment, you can't specify it — so the reward gets attached to a proxy, and people optimise the proxy. Measure the appearance of effort and you'll get the appearance of effort.
 
+Motivation varies in both source and quality. External pressure tends to produce controlled behavior, while interest, identification, autonomy, competence, and relatedness support more voluntary and durable engagement.
+
 > Many managers are sympathetic to the use of power to insist that people achieve certain goals - offering clear metrics and deadlines. The belief that people may not push themselves hard enough without a clear understanding of the negative consequences of failing to do so is widespread and even taken for granted by many in management roles, along with just as many casual onlookers contemplating human motivation at work. What many people do not realize is that motivation by fear is indeed highly effective - effective at creating the illusion that goals are being achieved. It is not effective in ensuring that people bring the creativity, good process, and passion needed to accomplish challenging goals in knowledge-intensive workplaces. (amy edmondson - the fearless organization)
 
 Sinek's version of this is manipulation vs. inspiration. Price, promotions, fear, aspiration, peer pressure and novelty all work — they drive transactions but never loyalty, and they cost more every time you use them.

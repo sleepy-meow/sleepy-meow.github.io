@@ -1,7 +1,5 @@
-*Feeling safe to speak your mind without worrying about losing your job.*
+*A team climate in which people expect that questions, concerns, mistakes, and disagreement can be raised without humiliation or punishment.*
 
-*The short version:*
-**a climate** where people feel safe enough to take interpersonal risks by speaking up and sharing concerns, questions, or ideas.
 > [!EXAMPLE] 3 minute video: [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0)
 
 > [!EXAMPLE] article: [what is psychological safety?](https://psychsafety.com/about-psychological-safety/)

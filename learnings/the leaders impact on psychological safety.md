@@ -17,7 +17,7 @@ Everyone just being very "nice", and the same few people talk all the time in me
 
 # predictability
 
-The deeper mechanism behind "feeling safe": psychological safety is the ability to reliably predict how others will respond when you take an interpersonal risk. We're often not managing danger, but uncertainty.
+Psychological safety depends partly on accumulated evidence about how interpersonal risks are received. Consistent responses make that evidence easier to interpret.
 
 > [!EXAMPLE] [ambiguity, predictability, and psychological safety](https://psychsafety.com/ambiguity-predictability-and-psychological-safety/)
 

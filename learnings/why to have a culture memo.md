@@ -14,6 +14,8 @@ Phrases about openness, fairness, trust, and innovation may sound admirable, but
 
 > "At some point, we felt we had too many values and that no one could remember them. So we tried to simplify them to short memorable catchphrases in a slide deck that we tried to make as short as possible. But that led to problems: people interpreted these phrases in different ways and it was not clear what we meant by them."
 
+
+
 # example of a principle
 **Principle: We believe in transparency**
 

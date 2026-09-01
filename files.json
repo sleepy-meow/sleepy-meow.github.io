@@ -9,12 +9,6 @@
           "path": "learnings/introduction.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "common misconceptions",
-          "path": "learnings/common misconceptions.md",
-          "tags": [],
-          "done": true
         }
       ]
     },
@@ -240,6 +234,12 @@
         {
           "name": "pitfalls of growing teams",
           "path": "learnings/pitfalls of growing teams.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "the corporate ladder",
+          "path": "learnings/the corporate ladder.md",
           "tags": [],
           "done": true
         }

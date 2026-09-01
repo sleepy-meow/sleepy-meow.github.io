@@ -36,7 +36,7 @@ The stakes of speaking up are higher for some than others.
 
 Psychological safety isn’t just about reframing – the real-life consequences of speaking up can be life changing. Every day people lose their jobs, careers, or liberty as a result of speaking up, especially against power. To call that a matter of “psychological bravery” is to imply that not speaking up in the face of such risks is cowardice.
 
-> _Speaking up is only the first step. The true test is how leaders respond when people actually do speak up._
+> if there are people who care, there is always hope
 
 %%
 # providing cover from above

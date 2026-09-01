@@ -1,6 +1,6 @@
 # start here
 [[introduction]] !!
-[[common misconceptions]] !!
+%%[[common misconceptions]] !!%%
 
 # culture
 [[how to nurture a culture]] !!
@@ -36,7 +36,7 @@
 [[feedback checklists]] !!
 [[bullshit feedback]] !!
 [[how to ask the right questions]] !!
-[[empathy misses]] !! t
+[[empathy misses]] !!
 [[conflict resolution]] !! 
 [[emergent facilitation]] !!
 
@@ -45,6 +45,7 @@
 [[a team of teams]] !!
 [[the fat cat syndrome]] !!
 [[pitfalls of growing teams]] !!
+[[the corporate ladder]] !!
 
 # other
 [[bad advice books]] !!

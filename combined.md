@@ -44,6 +44,7 @@
   - [a team of teams](#a-team-of-teams)
   - [the fat cat syndrome](#the-fat-cat-syndrome)
   - [pitfalls of growing teams](#pitfalls-of-growing-teams)
+  - [the corporate ladder](#the-corporate-ladder)
 - **other**
   - [bad advice books](#bad-advice-books)
   - [first aid kit](#first-aid-kit)
@@ -55,6 +56,8 @@
 <!-- learnings/introduction.md -->
 
 ### introduction
+
+> [!WARNING] this page is wip
 
 *"We give each other honest feedback"* / *"we disagree openly and stay a team"* only work if people actually know how — and the behaviors are concrete, teachable, practiceable skills.
 
@@ -81,6 +84,9 @@ One day I picked up 'the culture code', and realized I'd stumbled upon a whole w
 <!-- learnings/common misconceptions.md -->
 
 ### common misconceptions
+
+> [!WARNING] this page is wip
+
 
 *"you're not supposed to want to be a lead"*
 there's a difference between wanting power and control, and wanting someone to take the job seriously. 
@@ -110,6 +116,8 @@ While it's true that avoiding making decisions can be bad, sometimes the real qu
 <!-- learnings/how to nurture a culture.md -->
 
 ### how to nurture a culture
+
+> [!WARNING] this page is wip
 
 > If character describes how an individual thinks and acts, then the culture of an organization describes the character of a group of people and how they think and act as a collective. (simon sinek, leaders eat last)
 
@@ -164,6 +172,8 @@ It's true that this responsibility is proportional to power, but it doesn't requ
 
 ### why to have a culture memo
 
+> [!WARNING] this page is wip
+
 > By taking the time to write down what the culture of the company is, and sharing it, you create accountability not only for the leaders but for everyone in the company.
 
 **Why to share it publicly:** When your culture is shared out in the open, acting against it will come at a higher cost. In the long run, it will provide protection from the temptation to start cutting corners later.
@@ -211,6 +221,8 @@ Only establish principles you genuinely intend to follow. Integrity matters: pri
 
 ### universal human needs
 
+> [!WARNING] this page is wip
+
 *what every single person on the planet needs*
 
 > [!TIP] oren jay sofer - say what you mean (mindul nonviolent communication + some other stuff)
@@ -228,6 +240,8 @@ Seeing every action, your own and others', as an attempt to meet a need — is a
 <!-- learnings/free flow of information.md -->
 
 ### free flow of information
+
+> [!WARNING] this page is wip
 
 > Free flow of information is one of the fundamental requirements for self-management of organizations. 
 
@@ -292,10 +306,10 @@ Caveat: It's exactly the situations where transparency would be most useful (whe
 
 ### psychological safety
 
-*Feeling safe to speak your mind without worrying about losing your job.*
+> [!WARNING] this page is wip
 
-*The short version:*
-**a climate** where people feel safe enough to take interpersonal risks by speaking up and sharing concerns, questions, or ideas.
+*A team climate in which people expect that questions, concerns, mistakes, and disagreement can be raised without humiliation or punishment.*
+
 > [!EXAMPLE] 3 minute video: [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0)
 
 > [!EXAMPLE] article: [what is psychological safety?](https://psychsafety.com/about-psychological-safety/)
@@ -380,6 +394,8 @@ words of interest and availability:
 
 ### the leaders impact on psychological safety
 
+> [!WARNING] this page is wip
+
 *Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear - fear of not hitting targets, fear of losing bonuses, fear of failing.
 
 *Speaking up is only the first step. The true test is how leaders respond when people actually do speak up.*
@@ -397,7 +413,7 @@ Speaking up is received with appreciation and curiosity. There is plenty of deba
 
 #### predictability
 
-The deeper mechanism behind "feeling safe": psychological safety is the ability to reliably predict how others will respond when you take an interpersonal risk. We're often not managing danger, but uncertainty.
+Psychological safety depends partly on accumulated evidence about how interpersonal risks are received. Consistent responses make that evidence easier to interpret.
 
 > [!EXAMPLE] [ambiguity, predictability, and psychological safety](https://psychsafety.com/ambiguity-predictability-and-psychological-safety/)
 
@@ -475,6 +491,8 @@ Two things make the transition itself especially dangerous:
 
 ### why not to shoot the messenger
 
+> [!WARNING] this page is wip
+
 a teammate raises a concern, but then find themselves in a situtation like this:
 
 ![Pasted image 20260813060053.png](pasted%20images/Pasted%20image%2020260813060053.png)
@@ -498,6 +516,8 @@ The more difficult of a topic, the more thank yous may be needed.
 <!-- learnings/people are doing the best they can with what they have.md -->
 
 ### people are doing the best they can with what they have
+
+> [!WARNING] this page is wip
 
 > _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
 
@@ -546,6 +566,8 @@ Equally, looking the other way when clear violations occur, will reduce psycholo
 <!-- learnings/how to lower the bar for participation.md -->
 
 ### how to lower the bar for participation
+
+> [!WARNING] this page is wip
 
 *(to speak up)*
 
@@ -642,6 +664,8 @@ Speaking up is only the first step; the response decides everything.
 
 ### a learning mindset
 
+> [!WARNING] this page is wip
+
 A learning mindset reframes *"did you do it right?"* to *"what did we learn?"*. And the good thing is that there's always more to learn!
 
 > [!tip] amy edmondson - teaming (a practical guide on how to foster collaboration and learning)
@@ -683,6 +707,8 @@ The goal isn’t to understand users once—it’s to keep replacing assumptions
 
 ### the science of failing well
 
+> [!WARNING] this page is wip
+
 > [!TIP] amy edmondson - the right kind of wrong: the science of failing well
 
 #### three types of failures
@@ -704,6 +730,8 @@ The goal isn’t to understand users once—it’s to keep replacing assumptions
 <!-- learnings/how to question your own thinking.md -->
 
 ### how to question your own thinking
+
+> [!WARNING] this page is wip
 
 > [!TIP] adam grant - think again
 
@@ -776,6 +804,8 @@ related: [dunning-kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 
 ### how to come up with big ideas
 
+> [!WARNING] this page is wip
+
 > "we can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted"
 
 > [!tip] simon sinek - leaders eat last
@@ -795,6 +825,9 @@ related: [dunning-kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_e
 <!-- learnings/the job of a leader.md -->
 
 ### the job of a leader
+
+> [!WARNING] this page is wip
+
 
 a collection of quotes from the following books:
 
@@ -863,8 +896,9 @@ a collection of quotes from the following books:
 > If the captain provides direction and protection, the crew will do what needs to be done to advance the mission.
 
 *producing more leaders*
+> _"the goal of leadership is to produce more leaders, not followers"_
 
-(todo: add something here)
+
 
 *modeling good behavior*
 
@@ -876,6 +910,8 @@ The temptation for self serving behavior is proportional to power. Doing this ca
 <!-- learnings/leadership approaches.md -->
 
 ### leadership approaches
+
+> [!WARNING] this page is wip
 
 *a comparison of different approaches*
 
@@ -958,6 +994,8 @@ or as brene brown puts it:
 
 ### motivation
 
+> [!WARNING] this page is wip
+
 Emphasizing a sense of purpose is another key element of setting the stage for psychological safety. Motivating people by articulating a compelling purpose is a well-established leadership task. Leaders who remind people of why what they do matters - for customers, for the world - help create the energy that carries them through challenging moments.
 
 > [!tip] Simon Sinek - start with why
@@ -982,6 +1020,8 @@ People still need to be paid, and being paid unfairly is its own demotivator. Th
 | how it fails | people optimise the measure instead of the goal         | ..but it can't be installed from outside            |
 
 Extrinsic rewards work well on an assembly line because the right behaviour can be specified in advance and watched. The moment work needs judgment, you can't specify it — so the reward gets attached to a proxy, and people optimise the proxy. Measure the appearance of effort and you'll get the appearance of effort.
+
+Motivation varies in both source and quality. External pressure tends to produce controlled behavior, while interest, identification, autonomy, competence, and relatedness support more voluntary and durable engagement.
 
 > Many managers are sympathetic to the use of power to insist that people achieve certain goals - offering clear metrics and deadlines. The belief that people may not push themselves hard enough without a clear understanding of the negative consequences of failing to do so is widespread and even taken for granted by many in management roles, along with just as many casual onlookers contemplating human motivation at work. What many people do not realize is that motivation by fear is indeed highly effective - effective at creating the illusion that goals are being achieved. It is not effective in ensuring that people bring the creativity, good process, and passion needed to accomplish challenging goals in knowledge-intensive workplaces. (amy edmondson - the fearless organization)
 
@@ -1032,6 +1072,8 @@ Qualitative evidence, observation, examples, professional judgment and open disc
 
 ### hope is not an emotion
 
+> [!WARNING] this page is wip
+
 *..it's a thought process that can be learned.*
 
 We need hope like we need air, but it's not a warm, fuzzy emotion that fills us with a sense of possibility. Hope is a way of thinking, a cognitive process, a "trilogy of *goals*, *pathways*, and *agency*" (C. R. Snyder)
@@ -1068,7 +1110,7 @@ The stakes of speaking up are higher for some than others.
 
 Psychological safety isn’t just about reframing – the real-life consequences of speaking up can be life changing. Every day people lose their jobs, careers, or liberty as a result of speaking up, especially against power. To call that a matter of “psychological bravery” is to imply that not speaking up in the face of such risks is cowardice.
 
-> _Speaking up is only the first step. The true test is how leaders respond when people actually do speak up._
+> if there are people who care, there is always hope
 
 ---
 
@@ -1077,6 +1119,8 @@ Psychological safety isn’t just about reframing – the real-life consequences
 <!-- learnings/distributed decision making.md -->
 
 ### distributed decision making
+
+> [!WARNING] this page is wip
 
 *A simple process for distributed decision making*
 
@@ -1112,6 +1156,9 @@ Other decision making methods:
 <!-- learnings/logging decisions.md -->
 
 ### logging decisions
+
+> [!WARNING] this page is wip
+
 
 - Constraints that shaped a decision get lost over time. A good log captures what was decided, who decided, when, and why.
 - To avoid re-deciding what was already decided, or drifting to "we've always done it that way" with no one able to say why.
@@ -1173,6 +1220,8 @@ Usually, there is no need to document routine, easily reversible choices unless 
 <!-- learnings/designing for flow state.md -->
 
 ### designing for flow state
+
+> [!WARNING] this page is wip
 
 _“The flow state is an optimal state of intrinsic motivation, where the person is fully immersed in what they are doing.“_
 _“The flow state amplifies performance, accelerates learning, and heightens creativity.”_
@@ -1237,6 +1286,8 @@ All of these are largely products of psychological safety: group flow can only h
 
 ### the cost of context switching
 
+> [!WARNING] this page is wip
+
 *Spending 50% on one project and 50% on another does not add up to 100%.*
 
 This is because of context switching / attention residue. On average, 9-23 minutes is lost each time when switching context. Our brains cannot actually focus on two things at the same time, but rapidly switch between the two.
@@ -1263,6 +1314,8 @@ This is also why it's a good idea to have breaks in between meetings. Running fr
 <!-- learnings/developer user experience.md -->
 
 ### developer user experience
+
+> [!WARNING] this page is wip
 
 *applying pipeline tech art ux learnings*
 
@@ -1507,6 +1560,8 @@ also:
 
 ### feedback checklists
 
+> [!WARNING] this page is wip
+
 https://psychsafety.com/giving-feedback-with-psychological-safety/
 #### engaged feedback checklist
 
@@ -1560,6 +1615,8 @@ Would your assessment come as no surprise to others familiar with the situation?
 <!-- learnings/bullshit feedback.md -->
 
 ### bullshit feedback
+
+> [!WARNING] this page is wip
 
 Real feedback comes with an example and a substitute: *here’s the moment, here’s what would have worked better*. Without those, it's just a verdict.
 
@@ -1644,6 +1701,8 @@ accountability is: "You own your mistakes, apologize, and make amends." Anonymou
 
 ### how to ask the right questions
 
+> [!WARNING] this page is wip
+
 *"They thought they needed to provide answers, when instead they needed to ask the right questions."*
 
 
@@ -1727,6 +1786,8 @@ stacks multiple questions plus a buried accusation, so people answer the safest 
 
 ### empathy misses
 
+> [!WARNING] this page is wip
+
 > [!EXAMPLE] [Brene Brown - empathy misses](https://brenebrown.com/resources/empathy-misses-2/)
 
 #### Empathy
@@ -1785,13 +1846,22 @@ hey that's nothing listen to what happened to me one time
 
 ### conflict resolution
 
-*most disagreements revolve around 5% of differences*
+> [!WARNING] this page is very wip
 
+*most disagreements revolve around 5% of differences*
 #### how to cool conflict
 - *Identify the Nature of Conflict*: Though a difference of opinion about a product design or a work process is useful, personal friction and personality clashes are counterproductive. Understanding the differences between types of conflict (task vs relationship conflict) allows leaders to better manage contentious exchanges.
 - ﻿﻿*Model Good Communication*: Good communication when confronting conflict, especially heated conflict, combines thoughtful statements with thoughtful questions, so as to allow people to understand the true basis of a disagreement and to identify the rationale behind each position.
 - ﻿﻿*Find Common Ground*: By identifying and also embracing shared goals, teams are able to overcome the fundamental attribution errors that erode respect and instead develop an environment of trust.
 - ﻿﻿*Encourage Difficult Conversations*: Through good communication, as just defined, it's useful to engage in authentic conversations that help build resilient relationships and put aside ideological and personal differences.
+
+#### useful sentences
+*"Here's the story I'm telling myself."*
+"You were quiet in that meeting, and the story I'm telling myself is that you were pissed about the sprint split. Can we talk about it?"
+
+*"What are we actually trying to solve here?"*
+
+
 
 *[wiios law](https://en.wikipedia.org/wiki/Wiio%27s_laws): "Communication usually fails, except by accident”.*
 fundamental attribution error
@@ -1825,6 +1895,8 @@ if the other person has more power than the other, then the more powerful person
 <!-- learnings/emergent facilitation.md -->
 
 ### emergent facilitation
+
+> [!WARNING] this page is wip
 
 *change begins in a shift in narrative*
 
@@ -1872,7 +1944,7 @@ https://participedia.net/method/dynamic-facilitation
 
 ### lines of communication
 
-*Adding more people to a team increases the communication overhead quadratically*
+*Adding more people to a team increases the communication overhead ~~exponentially~~ quadratically* 
 ![Pasted image 20260627135045.png](pasted%20images/Pasted%20image%2020260627135045.png)
 
 This is why growing a team too large will slow everything down. It also reduces psychological safety.
@@ -1892,6 +1964,8 @@ The 2 pizza rule is a guideline that says a meeting (or team) should be small en
 <!-- learnings/a team of teams.md -->
 
 ### a team of teams
+
+> [!WARNING] this page is wip
 
 *"A team of teams" — the problem you get once you outgrow a single team.*
 
@@ -1945,6 +2019,8 @@ so instead of pushing decisions up, you push *understanding* down and out.
 <!-- learnings/the fat cat syndrome.md -->
 
 ### the fat cat syndrome
+
+> [!WARNING] this page is wip
 
 *i.e. "this ship can never sink"*
 
@@ -2022,10 +2098,27 @@ At the end of the day though, none of us should need to be afraid.
 
 ### pitfalls of growing teams
 
-peter principle
+> [!WARNING] this page is wip
+
+[the peter principle](https://en.wikipedia.org/wiki/Peter_principle) (people being promoted past their abilities)
+A small team doesn't require the same kind of leadership approach as a larger one. 
 
 [social distance](https://en.wikipedia.org/wiki/Bogardus_social_distance_scale)
-*"The physical separation between us and the receiving end of our decisions can have a dramatic effect (i.e. why only looking at player behavior through graphs can lead to more sketchy monetization practices, and also important to be aware of in growing teams)"*
+When the team is small enough that everyone can know each other on a personal level (maybe <20 people), any disagreements surface quickly and also get resolved easily. After a certain point it becomes easier to avoid otherwise healthy conflict, which can build up into bigger issues. 
+
+> The more abstract people are, the more capable we are for doing them harm.
+
+The physical separation between us and the receiving end of our decisions can also have a dramatic effect. This can also happen because of remote work, it's fine to not sit in the same office all the time, but meeting in person every now and then is what resets this.
+
+making assumptions
+
+---
+
+<!-- learnings/the corporate ladder.md -->
+
+### the corporate ladder
+
+
 
 ---
 
@@ -2034,6 +2127,8 @@ peter principle
 <!-- learnings/bad advice books.md -->
 
 ### bad advice books
+
+> [!WARNING] this page is wip
 
 *..and better alternatives*
 #### rachel botsman - how to trust and be trusted
@@ -2094,7 +2189,8 @@ for a better take on the attention economy: Chris Hayes’s _The Siren’s Call_
 
 ### first aid kit
 
-#### if you're in the first picture
+> [!WARNING] this page is wip
+
 https://brenebrown.com/articles/2019/04/26/book-read-first/
 
 > If you’re looking for a “I was brave and got my heart broken or my ass kicked” book—well, first, thanks for being brave. Courage is contagious even when there are hard endings.

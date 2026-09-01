@@ -15,6 +15,8 @@
 
 
 ![[Pasted image 20260820092041.png]]
-%%
-I learned about this concept after getting addicted to this tv show 'air crash investigation' (partly because i'm a nerd, but there was also something intriguing about doing something as incredibly dangerous as flying, and making it safer by learning from mistakes).
 
+# calculated risks
+When you take calculated risks, be transparent and communicate this with your team and your boss to ensure that they understood it fully. Take them opportunistically when the odds of success are in your favor, but never risk the company.
+
+If you see that we are on the wrong path, be prepared to kill your darlings swiftly and close an ailing project immediately. Cutting your losses early and running your profits long is a mantra at Paradox."

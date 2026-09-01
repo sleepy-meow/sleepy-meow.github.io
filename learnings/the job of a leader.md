@@ -70,12 +70,15 @@ a collection of quotes from the following books:
 *producing more leaders*
 > _"the goal of leadership is to produce more leaders, not followers"_
 
-
-
 *modeling good behavior*
+
 
 *staying humble*
 The temptation for self serving behavior is proportional to power. Doing this can gradually reduce the ability to feel empathy, Finding ways and self-restraint to keep your feet on the ground is essential.
+
+*holding the space*
+
+
 
 %%
 *Not panicking*

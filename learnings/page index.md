@@ -12,7 +12,7 @@
 [[psychological safety]] !!
 [[the leaders impact on psychological safety]] !!
 [[why not to shoot the messenger]] !!
-[[people are doing the best they can with what they have]] !!
+%%[[people are doing the best they can with what they have]] !!%%
 [[how to lower the bar for participation]] !!
 
 # learning & thinking

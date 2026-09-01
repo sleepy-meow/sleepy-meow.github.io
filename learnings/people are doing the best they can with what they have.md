@@ -1,31 +1,6 @@
 > [!WARNING] this page is wip
 
-> _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
 
-Edmondson talks about four different zones:
-
-
-|                           | low standards | high standards                   |
-| ------------------------- | ------------- | -------------------------------- |
-| high psychological safety | *Comfort Zone*  | *Learning & High Performance Zone* |
-| low psychological safety  | *Apathy Zone*   | *Anxiety Zone*                     |
-
-The danger here is mixing up the comfort zone and anxiety zone, and assuming that lack of progress means that people are just lazy.
-
-> *People are either motivated or they are not.* Unless we give motivated people something to believe in, they will motivate themselves to find a new job (simon sinek)
-
-# anxiety zone
-Having high standards but not feeling safe to speak up about the things you see could be better, or lacking the autonomy to make a difference, causes stress. 
-
-> _The psychological experience of having something to say yet feeling literally unable to do so is painfully real for many employees and very common_ (edmondson)
-
-By assuming people are lazy, you're encouraging people to be *perceived* as not being lazy, sacrificing real benefits for optics.
-
-%%
-# less control = more stress
-> It is not the demands of the job that cause the most stress, but the degree of control workers feel they have throughout their day. (sinek)
-
-> The studies also found that the effort required by a job is not in itself stressful, but rather the imbalance between the effort we give and the reward we feel. (sinek)
 
 %%
 # dismissal and disconnection

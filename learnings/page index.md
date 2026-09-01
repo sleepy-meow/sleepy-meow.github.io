@@ -45,7 +45,7 @@
 [[a team of teams]] !!
 [[the fat cat syndrome]] !!
 [[pitfalls of growing teams]] !!
-[[the corporate ladder]] !!
+[[confronting our freedom]] !!
 
 # other
 [[bad advice books]] !!

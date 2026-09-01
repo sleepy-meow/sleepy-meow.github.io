@@ -1,8 +1,17 @@
 > [!WARNING] this page is wip
-> todo: the one point to make: the tension between these two books & something about learned helplessness (maybe also add something from the last chapter of Risk)
+> todo: the one point to make: the tension between these two books & something about learned helplessness
 
 > [!TIP] robert jackall - Moral Mazes: The World of Corporate Managers
 
+> [!TIP] peter block & peter koestenbaum - confronting our freedom
+
+> [!TIP] stanley mcchrystal - risk: a user's guide (the last chapter)
+
+Where _Moral Mazes_ examines how organizations encourage people to surrender their moral independence, _Confronting Our Freedom_ asks what it would mean to reclaim it.
+
+
+
+%%
 One way of looking at "getting ahead in your career" is to see promotions to more fancy titles as milestones or achivements, to get a fancier title, to win the approval of people above you. To upgrade your standard of living so no matter how much you earn, you will need more to maintain it. 
 
 This book can give some sobering insight on what this may look like, and what lies at the end of the ladder (caution: it's a pretty depressing read)
@@ -17,9 +26,6 @@ This is not an argument that promotions or ambition are inherently bad. It is an
 
 # confronting our freedom 
 
-Where _Moral Mazes_ examines how organizations encourage people to surrender their moral independence, _Confronting Our Freedom_ asks what it would mean to reclaim it.
-
-> [!TIP] peter block & peter koestenbaum - confronting our freedom
 
 Jackall focuses on the pressures surrounding the individual. Corporate managers learn that getting ahead depends on reading what powerful people want, adapting themselves accordingly and avoiding responsibility for outcomes that could damage their careers. The organization may formally give them authority while informally rewarding conformity.
 

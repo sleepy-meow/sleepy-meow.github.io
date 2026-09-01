@@ -1,4 +1,5 @@
 > [!WARNING] this page is wip
+> i don't really know what i'm talking about here, todo: gather more information
 
 # creating a corporate ladder
 

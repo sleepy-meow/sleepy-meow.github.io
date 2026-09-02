@@ -76,7 +76,7 @@ His starting point is that every organization faces two sets of dangers. **Outsi
 > By creating a Circle of Safety around the people in the organization, leadership reduces the threats people feel inside the group, which frees them up to focus more time and energy to protect the organization from the constant dangers outside. Without a Circle of Safety, people are forced to spend too much time and energy protecting themselves from each other.
 
 Fear doesn't vanish when there's nothing to fear inside. It just gets pointed somewhere useful.
-# where does your circle actually end?
+
 > Weak leaders are the ones who only extend the benefits of the Circle of Safety to their fellow senior executives and a chosen few others... And in so doing, silos form, politics entrench, mistakes are covered up instead of exposed, the spread of information slows.
 
 So draw the circle as it really is rather than as the org chart says, and check who's outside it. The contractors, the new person, the one remote teammate, the team that keeps getting blamed. *A circle drawn around a few people isn't a small Circle of Safety — it's an inner circle, and the two produce opposite results.*

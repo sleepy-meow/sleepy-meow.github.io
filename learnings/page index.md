@@ -9,7 +9,7 @@
 [[free flow of information]] !!
 
 # psychological safety
-[[psychological safety]] !!
+[[feeling safe and trusted]] !!
 [[the leaders impact on psychological safety]] !!
 [[why not to shoot the messenger]] !!
 [[how to lower the bar for participation]] !!

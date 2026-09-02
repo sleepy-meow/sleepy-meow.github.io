@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 a teammate raises a concern, but then find themselves in a situtation like this:
 
 ![[Pasted image 20260813060053.png]]

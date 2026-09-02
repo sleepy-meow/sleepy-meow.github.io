@@ -8,6 +8,8 @@
 
 Past a certain size no single team can hold the whole problem, so you split into many — and now individually excellent teams can still add up to a dysfunctional whole. ***Great teams that don't talk to each other aren't a great organization***; they're silos with good morale.
 
+> "Complex environments are, by definition, too complicated for any one person to grasp fully. Yet many managers, afraid of appearing to not be in control, believe that they have to know everything—or at least act like they do" 
+
 # why it matters
 
 [[lines of communication]] (Brooks's Law) says the cost of connecting everyone to everyone explodes as you grow — so the naive answer, "just have everyone coordinate," collapses under its own overhead. The two useful responses to that are the subject of this page: **don't connect everyone to everyone (connect enough), and make the shared picture travel instead of the instructions.**
@@ -22,6 +24,7 @@ The stakes are the same as the single-team case, one level up: bad news and good
 > In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. Today organizations are too complex for management to do all the thinking.
 
 The book argues that traditional command and control structures are simply too slow and inefficient in the modern rapidly changing world.
+
 
 # the solution: shared consciousness
 

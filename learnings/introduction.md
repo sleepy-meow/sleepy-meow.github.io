@@ -8,13 +8,17 @@ It's not always obvious where to find the information to learn these skills. The
 # it's not about the job title
 > There's an entire section in the bookstore called self-help, but there's no section called help others. (simon sinek, leaders eat last)
 
-I didn't specifically go looking for books in the leadership section, but with the topics of culture, collaboration, communication, motivation, UX, cognitive and organizational psychology, facilitation, distributed decision making, etc. it's a tag that comes up fairly often.
-
 Many of the topics covered here are not in any way exclusive to any job title. They're not even limited to the workplace. For the most part they're just about how to be a decent human being.
 
 While responsibility is proportional to power, most of the tools here are almost entirely usable without formal authority. For those that cannot, understanding them helps us recognize when that responsibility is being neglected.
 
 %%
+# why it felt relevant to share learnings
+I didn't specifically go looking for books in the leadership section, but with the topics of culture, collaboration, communication, motivation, UX, cognitive and organizational psychology, facilitation, distributed decision making, etc. it's a tag that comes up fairly often.
+
+Most of the books and resources are targeted at senior leaders and there seemed to be very little out there for resources 
+
+
 # my background
 Over the past 10 years as a pipeline technical artist in the games industry, a lot of my work has involved building shared understanding across teams, initiating cross-functional conversations to understand workflows and constraints, understanding multiple perspectives, and facilitating alignment between technical and creative stakeholders, with the goal of enabling others to do their best work and making collaboration more efficient.
 

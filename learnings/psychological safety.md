@@ -7,6 +7,8 @@
 > [!TIP] amy edmondson - the fearless organization
 
 # why it matters
+> "we can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted"
+
 > It's hard for people to do their best work when they are afraid.
 
 ![[Pasted image 20260822123258.png]]
@@ -65,5 +67,30 @@ The danger here is mixing up the comfort zone and anxiety zone, and assuming tha
 
 # creating a circle of safety
 
+> [!TIP] simon sinek - leaders eat last
 
-> "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had." 
+Sinek's version of the same idea, one level up: psychological safety is the moment-to-moment climate, the Circle of Safety is the wider question of whether the people around you have your back.
+
+His starting point is that every organization faces two sets of dangers. **Outside:** competitors, the market, a technology that makes your product obsolete overnight. Constant, indifferent, mostly outside your control. **Inside:** intimidation, humiliation, isolation, politics, feeling dumb, the fear that someone's trying to keep you down to get ahead. Also constant — but *variable, and well within our control.*
+
+> By creating a Circle of Safety around the people in the organization, leadership reduces the threats people feel inside the group, which frees them up to focus more time and energy to protect the organization from the constant dangers outside. Without a Circle of Safety, people are forced to spend too much time and energy protecting themselves from each other.
+
+Fear doesn't vanish when there's nothing to fear inside. It just gets pointed somewhere useful.
+# where does your circle actually end?
+> Weak leaders are the ones who only extend the benefits of the Circle of Safety to their fellow senior executives and a chosen few others... And in so doing, silos form, politics entrench, mistakes are covered up instead of exposed, the spread of information slows.
+
+So draw the circle as it really is rather than as the org chart says, and check who's outside it. The contractors, the new person, the one remote teammate, the team that keeps getting blamed. *A circle drawn around a few people isn't a small Circle of Safety — it's an inner circle, and the two produce opposite results.*
+
+> Leaders would sooner sacrifice what is theirs to save what is ours. And they would never sacrifice what is ours to save what is theirs.
+
+# it runs both ways
+
+>  Leaders want to feel safe too. every single person wants to feel like they are valued by the others in the group. we have a responsibility to our leaders too, express concern for their wellbeing.
+
+> ..when our boss comes down hard on us and we don't know the reason, it is equally our responsibility to express concern for their well-being. That's how the Circle of Safety stays strong.
+
+Which is *"well, i'm not a lead"* in its strongest form. Not only can you protect the people beside you — a leader under pressure is inside the circle too, and *"are you okay?"* is available to anyone.
+
+> "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had."
+
+> [!EXAMPLE] article: [the circle of safety](https://simonsinek.com/stories/the-circle-of-safety)

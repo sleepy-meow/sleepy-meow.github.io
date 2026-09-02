@@ -22,18 +22,6 @@
           "done": true
         },
         {
-          "name": "why to have a culture memo",
-          "path": "learnings/why to have a culture memo.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "universal human needs",
-          "path": "learnings/universal human needs.md",
-          "tags": [],
-          "done": true
-        },
-        {
           "name": "free flow of information",
           "path": "learnings/free flow of information.md",
           "tags": [],
@@ -125,6 +113,12 @@
           "path": "learnings/hope is not an emotion.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "confronting our freedom",
+          "path": "learnings/confronting our freedom.md",
+          "tags": [],
+          "done": true
         }
       ]
     },
@@ -176,7 +170,8 @@
           "name": "bullshit feedback",
           "path": "learnings/bullshit feedback.md",
           "tags": [],
-          "done": true
+          "done": true,
+          "star": true
         },
         {
           "name": "how to ask the right questions",
@@ -228,12 +223,6 @@
         {
           "name": "pitfalls of growing teams",
           "path": "learnings/pitfalls of growing teams.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "confronting our freedom",
-          "path": "learnings/confronting our freedom.md",
           "tags": [],
           "done": true
         }

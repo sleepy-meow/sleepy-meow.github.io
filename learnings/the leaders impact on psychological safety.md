@@ -1,10 +1,10 @@
 > [!WARNING] this page is wip
 
-*Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear - fear of not hitting targets, fear of losing bonuses, fear of failing.
+*Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear.
 
 *Speaking up is only the first step. The true test is how leaders respond when people actually do speak up.*
 
-> the failure of an employee to speak up in a crucial moment cannot be seen. The primary result of responding to negatively to concerns is that you don't hear about them.
+> The primary result of responding to negatively to concerns is that you don't hear about them.
 
 > bad news doesn't travel up the hierarchy. But what we found is that people err so far on the side of caution at work that they routinely hold back great ideas
 
@@ -13,9 +13,9 @@ In psychologically safe environments, people can speak their mind without thinki
 
 Speaking up is received with appreciation and curiosity. There is plenty of debate, questions get asked freely, people admit mistakes early, people bring up half-formed ideas and suggestions, challenge each others thinking, and disagree openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person. 
 
-%%
+
 # red flags of an unsafe environment
-Everyone just being very "nice", and the same few people talk all the time in meetings, reaching fast consensus with no dissent. Concerns come up in the hallway/Slack DM afterward instead of the meeting, and bad news gets watered down upwards.%%
+Everyone just being very "nice", and the same few people talk all the time in meetings, reaching fast consensus with no dissent. Concerns come up in the hallway/Slack DM afterward instead of the meeting, and bad news gets watered down upwards.
 
 # predictability
 
@@ -93,7 +93,52 @@ Two things make the transition itself especially dangerous:
 
 
 
+> In our experience, the single most effective practice for increasing psychological safety is to [level the power gradient within a group](https://psychsafety.com/reducing-power-gradients/)
+
+%%
+
+# simple things to say
+
+
+
+words of interest and availability:
+*What can I do to help?*
+*What are you up against?*
+*What are your concerns?*
 
 
 
 
+# a leaders checklist for psychological safety
+**Setting the Stage**
+- pointing out that small failures are the currency of improvement — that you can't get something new "right the first time"
+- articulating clearly *why our work matters, and for whom*
+- Even if it seems obvious, talking about *what's at stake*
+
+**Inviting Participation**
+- making sure people know *I don't think I have all the answers*, emphasizing we can always learn more, and that this situation requires everyone to be humble and curious
+- asking *good questions rather than rhetorical ones*
+- creating structures to *systematically elicit* ideas and concerns, designed to ensure a safe environment for open dialogue
+
+**Responding Productively**
+- *listening thoughtfully*, signaling that what I'm hearing matters, *acknowledging or thanking* the speaker for bringing the idea or question
+- *destigmatizing failure*, *celebrating intelligent failures* When someone brings bad news, making it a *positive experience*, *offering help* to guide next steps
+- *clarifying boundaries* - what counts as blameworthy, responding to clear violations in an appropriately tough way to influence future behavior
+
+
+
+
+
+
+# measuring it
+
+> [!EXAMPLE] https://measure.psychsafety.com
+
+> *we can only think smarter if others in the room speak their minds*
+
+
+
+https://www.researchgate.net/publication/280298144_Implicit_Voice_Theories_Taken-for-Granted_Rules_of_Self-Censorship_at_Work
+
+
+> *Hierarchy.. or, more specifically, the fear it creates when not handled well.. reduces psychological safety*. 

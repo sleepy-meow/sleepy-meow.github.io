@@ -9,44 +9,43 @@ For example, *"the outcome of this meeting was interpreted differently by partic
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
 
 # clear is kind
-100% the best book on how to tough conversations at work:
+Here's a quote from the 100% best book on how to tough conversations at work:
 > [!TIP] dare to lead (brene brown)
 
 > Clear is kind. Unclear is unkind.
-
+> 
 > Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better (which is almost always about making ourselves feel more comfortable) is unkind. 
-
-[Bullshit](https://jbaron.org/journal/15/15923a/jdm15923a.html) = to specifically refer to statements produced without particular concern for truth, clarity, or meaning, (distinguishing "bullshit" from a deliberate, manipulative lie intended to subvert the truth).
-
+> 
 > Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind.
-
-# anonymous feedback
+> 
 > Talking about people rather than to them is unkind.
 
+# anonymous feedback
 Anonymous feedback is structurally unkind, you can't give it without talking about people. Here's what brene has to say about it:
 
 > If you are not in the arena getting your ass kicked on occasion, I'm not interested in or open to your feedback. 
 > 
 > There are a million cheap seats in the world today filled with people who will never be brave with their lives but who will spend every ounce of energy they have hurling advice and judgment at those who dare greatly. Their only contributions are criticism, cynicism, and fearmongering. If you're criticizing from a place where you're not also putting yourself on the line, I'm not interested in what you have to say.
 
-> [!EXAMPLE] [anonymous feedback can destroy your team](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
+[Bullshit](https://jbaron.org/journal/15/15923a/jdm15923a.html) = to specifically refer to statements produced without particular concern for truth, clarity, or meaning, (distinguishing "bullshit" from a deliberate, manipulative lie intended to subvert the truth).
 
-Performance reviews, often by design, revolve around
-1. anonymous feedback
-2. holding people accountable
+# performance reviews
+Performance reviews - often by design - revolve around anonymous feedback, and holding people accountable based on that anonymous feedback at the same time. If any of it comes as a surprise and you haven't gotten a fair chance to improve beforehand, then it is also unkind.
+
+> [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
+
+> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It. ](https://www.corporate-rebels.com/blog/annual-performance-reviews)
 
 A nice rant about 360 reviews / anonymous surveys can be found in this book:
 > [!TIP] Confronting Our Freedom (Peter Block, Peter Koestenbaum)
 
-> "if you want to know how people are doing, just ask!"
 
-> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It. ](https://www.corporate-rebels.com/blog/annual-performance-reviews)
 
 questions to ask yourself:
 1. The content — is there something true here I need to act on?
 2. The channel — what did I, or the system I'm part of, do that made anonymity the safest available option?
 
-Edmondson's whole point is that silence has a rational logic: the cost of speaking is immediate and personal, the benefit diffuse and future. When there's a power gradient — you hold their review, their contract, their renewal — anonymity may be the only reason the information reached you at all. In Teaming, blameless reporting and the Good Catch Log were deliberately anonymous as a transitional device, to surface information in a system where naming carried too much risk. That's what anonymity is genuinely good for. It's a scaffold and a symptom, not a destination.
+Caveat: When there's a power gradient — you hold their review, their contract, their renewal — anonymity may be the only reason the information reached you at all. In Teaming, blameless reporting and the Good Catch Log were deliberately anonymous as a transitional device, to surface information in a system where naming carried too much risk. That's what anonymity is genuinely good for. It's a scaffold and a symptom, not a destination.
 
 The most accountable response to an anonymous note is not to solve the mystery. It's to ask why the front door was shut.
 # the invisible army
@@ -69,12 +68,9 @@ In addition: you will try to work out who. Almost involuntarily. Which means one
 
 > [!EXAMPLE] [all feedback is subjective](https://psychsafety.com/all-feedback-is-subjective/)
 
-Account for degree of difficulty. Struggles don’t necessarily reflect the absence of ability— often they reveal the presence of adversity. To account for the obstacles candidates have faced, put their performance in context
+Account for degree of difficulty. Struggles don’t necessarily reflect the absence of ability— often they reveal the presence of adversity. To account for the obstacles candidates have faced, put their performance in context.
 
-[[people are doing the best they can with what they have]]
- c
 # Feedback and accountability
 
-accountability is: "You own your mistakes, apologize, and make amends." Anonymous feedback lets you do the first. It structurally forbids the other two. You cannot apologize to someone whose name is withheld. You cannot ask what it cost them, or check whether your fix actually landed for the person who was hurt.
-
+accountability is: "You own your mistakes, apologize, and make amends." Anonymous feedback (when it's specific) lets you do the first. It structurally forbids the other two. You cannot apologize to someone whose name is withheld. You cannot ask what it cost them, or check whether your fix actually landed for the person who was hurt.
 

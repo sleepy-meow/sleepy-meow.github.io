@@ -1,11 +1,12 @@
 > [!WARNING] this page is wip
 
+> When you have a value printed on posters hanging on the walls, but you don't dig into the behaviors that support it and teach people those behaviors, you're in BS territory. (brene brown, dare to lead)
+
 *"We give each other honest feedback"* / *"we disagree openly and stay a team"* only work if people actually know how — and the behaviors are concrete, teachable, practiceable skills.
 
 It's not always obvious where to find the information to learn these skills. The goal of this page is to show what concrete tools there are and where they live, and to lower the effort it takes to pick them up.
 
-> The behaviors and skills that support seemingly simple values are almost always more complex than what we assume.
-
+%%
 # it's not about the job title
 > There's an entire section in the bookstore called self-help, but there's no section called help others. (simon sinek, leaders eat last)
 
@@ -19,6 +20,9 @@ Over the past 10 years as a pipeline technical artist in the games industry, a l
 Or in other words, *"helping artists with the pain."*
 
 One day I picked up 'the culture code', and realized I'd stumbled upon a whole world of interesting things to learn, so I just kept reading, and now it feels like I've read too much and the information in my head needs somewhere to go.
+
+%%
+
 
 %%
 

@@ -43,7 +43,7 @@ Psychological safety isn’t just about reframing – the real-life consequences
 > "Courage comes from above. Our confidence to do what's right is determined by how trusted we feel by our leaders."
 
 
-> "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had." 
+
 
 
 # other nice quotes

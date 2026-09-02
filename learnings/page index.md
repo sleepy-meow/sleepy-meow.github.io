@@ -4,15 +4,14 @@
 
 # culture
 [[how to nurture a culture]] !!
-[[why to have a culture memo]] !!
-[[universal human needs]] !! todo: move to culture memo?
+%%[[why to have a culture memo]] !!
+[[universal human needs]] !! %%
 [[free flow of information]] !!
 
 # psychological safety
 [[psychological safety]] !!
 [[the leaders impact on psychological safety]] !!
 [[why not to shoot the messenger]] !!
-%%[[people are doing the best they can with what they have]] !!%%
 [[how to lower the bar for participation]] !!
 
 # learning & thinking
@@ -26,6 +25,7 @@
 [[leadership approaches]] !!
 [[motivation]] !!
 [[hope is not an emotion]] !!
+[[confronting our freedom]] !!
 # ways of working
 [[distributed decision making]] !!
 [[logging decisions]] !!
@@ -34,7 +34,7 @@
 [[developer user experience]] !!
 # conversations
 [[feedback checklists]] !!
-[[bullshit feedback]] !!
+[[bullshit feedback]] !!!
 [[how to ask the right questions]] !!
 [[empathy misses]] !!
 [[conflict resolution]] !! 
@@ -45,7 +45,7 @@
 [[a team of teams]] !!
 [[the fat cat syndrome]] !!
 [[pitfalls of growing teams]] !!
-[[confronting our freedom]] !!
+
 
 # other
 [[bad advice books]] !!

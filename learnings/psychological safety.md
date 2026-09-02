@@ -1,31 +1,26 @@
-> [!WARNING] this page is wip
+*A team climate in which people feel safe to ask questions and raise concerns without fear of being thrown under the bus.*
 
-*A team climate in which people expect that questions, concerns, mistakes, and disagreement can be raised without humiliation or punishment.*
-
-> [!EXAMPLE] 3 minute video: [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0)
+> [!EXAMPLE] 3 minute video: [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0)
 
 > [!EXAMPLE] article: [what is psychological safety?](https://psychsafety.com/about-psychological-safety/)
 
-
-*The long version:*
 > [!TIP] amy edmondson - the fearless organization
 
 # why it matters
-- The failure to speak up cannot be seen (no good != good news)
-- people often hold back even when they believe that what they have to say could be important
-
-Psychological safety is essential for communicating, collaborating, experimenting, and ensuring the well-being of others in a wide variety of team and organizational settings.
-
-﻿﻿Leaders who welcome only good news create fear that blocks them from hearing the truth, yet many managers confuse setting high standards with good management. A lack of psychological safety can create an illusion of success that eventually turns into serious business failures.
-
-# how it affects performance
 > It's hard for people to do their best work when they are afraid.
 
 ![[Pasted image 20260822123258.png]]
 
-*Fear hijacks the brain* from parts that manage working memory and process new information. This impairs analytic thinking, creative insight, and problem solving. As a result, how psychologically safe a person feels strongly impacts learning behaviors, such as information sharing, asking for help, or experimenting. 
 
-> Fear uses up a lot of brain capacity, and you can't be healthy, trusting, or feel you belong while marinating in cortisol.
+_Fear hijacks the brain_, drawing resources away from working memory and the ability to process new information. This makes analytical thinking, creative insight, and problem-solving more difficult. Psychological safety is essential for communicating, collaborating, experimenting, and ensuring the well-being of others, and has a strong influence on learning behaviors such as sharing information, asking for help, etc.
+
+> You can't be healthy, trusting, or feel you belong while marinating in cortisol.
+
+# what causes the fear
+
+*Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear.
+# why it's bad for business
+A lack of psychological safety can create an illusion of success that eventually turns into serious business failures. Yet many organizational leaders genuinely believe that "no news" means that things are going well.
 
 > _When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside._
 
@@ -33,7 +28,8 @@ Psychological safety is essential for communicating, collaborating, experimentin
 
 > having information about shortcomings come to light earlier rather than later can nearly always mitigate the size and impact
 
-No one gains from the silence. Teams miss out on insights. Those who fail to speak up often report regret or pain. Some wish they had spoken up. Others recognize they could be experiencing more fulfillment and meaning in their jobs were they more able to contribute. Those deprived of hearing a colleague's comments may not know what they are missing, but the fact is that problems go unreported, improvement opportunities are missed, and occasionally, tragic failures occur that could have been avoided.
+%%No one gains from the silence. Teams miss out on insights. Those who fail to speak up often report regret or pain. Some wish they had spoken up. Others recognize they could be experiencing more fulfillment and meaning in their jobs were they more able to contribute. Those deprived of hearing a colleague's comments may not know what they are missing, but the fact is that problems go unreported, improvement opportunities are missed, and occasionally, tragic failures occur that could have been avoided.%%
+
 
 # comfort vs anxiety zone
 
@@ -46,66 +42,28 @@ Edmondson talks about four different zones:
 | high psychological safety | *Comfort Zone*  | *Learning & High Performance Zone* |
 | low psychological safety  | *Apathy Zone*   | *Anxiety Zone*                     |
 
-The danger here is mixing up the comfort zone and anxiety zone, and assuming that lack of progress means that people are just lazy.
+The danger here is mixing up the comfort zone and anxiety zone, and assuming that lack of progress means that people are just lazy. This incentivizes spending more energy on optics, sacrificing actual benefits.
 
-> *People are either motivated or they are not.* Unless we give motivated people something to believe in, they will motivate themselves to find a new job (simon sinek)
+# well i'm not a lead, is there anything i can do?
+**Be the second voice.** The single highest-leverage thing available to anyone. When someone raises a concern and the room goes quiet, say "I noticed that too." You're not taking the risk they took — you're retroactively halving it, and you're breaking pluralistic ignorance for everyone else who was also thinking it. 
 
-# anxiety zone
-Having high standards but not feeling safe to speak up about the things you see could be better, or lacking the autonomy to make a difference, causes stress. 
+**Don't leave the messenger alone afterwards.** Loop #2 closes when the person who spoke up gets punished and everyone watches. You can't stop the punishment, but you can change what the group learns from it: check in with them, say out loud that you thought raising it was right, don't let the story settle as "that was a mistake."
 
-> _The psychological experience of having something to say yet feeling literally unable to do so is painfully real for many employees and very common_ (edmondson)
+**Go first, sideways.** "I don't know." "I need help." "I made a mistake." "I'm sorry." Peer-to-peer these cost a fraction of what they cost upward, and they generate the same evidence. By acknowledging that you are a fallible human being, you give permission to others to do likewise.
 
-By assuming people are lazy, you're encouraging people to be *perceived* as not being lazy, sacrificing real benefits for optics.
+**Ask instead of assert.** A question carries far less risk than a claim and does more work. "What am I missing?" / "What would have to be true for this to fail?" / "What are we actually trying to solve here?" — all available from any seat, and each one opens a gap someone else can step into. For more ideas, see [[how to ask the right questions]], it is almost entirely usable without authority.
 
-> It is not the demands of the job that cause the most stress, but the degree of control workers feel they have throughout their day. (sinek)
+**Move things into the light.** "let's take this back to the public channel" — is the cheapest structural act anyone can perform. Same for writing a decision down where others can see it.
 
-> The studies also found that the effort required by a job is not in itself stressful, but rather the imbalance between the effort we give and the reward we feel. (sinek)
+**Keep your own log.** [[logging decisions]] works even if you're the only user. Two payoffs: it makes your reasoning legible to others, and — honestly — a contemporaneous factual record is the thing you'll want if this goes badly.
 
-# how to improve it
-> *Speaking up is not a natural act in hierarchies. It must be nurtured.*
+**Build lateral connections.** You don't need everyone connected to everyone, just enough that a path exists between any two teams. Non-leads are usually better placed to do this than leads. It also means bad news has more than one route.
 
 > [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
 
 > [!EXAMPLE] https://explore.psychsafety.com/
 
-> In our experience, the single most effective practice for increasing psychological safety is to [level the power gradient within a group](https://psychsafety.com/reducing-power-gradients/)
-# simple things to say
-
-By acknowledging that you are a fallible human being, you give permission to others to do likewise:
-*I don't know.*
-*I need help.*
-*I made a mistake.*
-*I'm sorry.*
-
-words of interest and availability:
-*What can I do to help?*
-*What are you up against?*
-*What are your concerns?*
-
-# a leaders checklist for psychological safety
-**Setting the Stage**
-- pointing out that small failures are the currency of improvement — that you can't get something new "right the first time"
-- articulating clearly *why our work matters, and for whom*
-- Even if it seems obvious, talking about *what's at stake*
-
-**Inviting Participation**
-- making sure people know *I don't think I have all the answers*, emphasizing we can always learn more, and that this situation requires everyone to be humble and curious
-- asking *good questions rather than rhetorical ones*
-- creating structures to *systematically elicit* ideas and concerns, designed to ensure a safe environment for open dialogue
-
-**Responding Productively**
-- *listening thoughtfully*, signaling that what I'm hearing matters, *acknowledging or thanking* the speaker for bringing the idea or question
-- *destigmatizing failure*, *celebrating intelligent failures* When someone brings bad news, making it a *positive experience*, *offering help* to guide next steps
-- *clarifying boundaries* - what counts as blameworthy, responding to clear violations in an appropriately tough way to influence future behavior
-
-# measuring it
-
-> [!EXAMPLE] https://measure.psychsafety.com
-
-> *we can only think smarter if others in the room speak their minds*
-
-%%
-
-https://www.researchgate.net/publication/280298144_Implicit_Voice_Theories_Taken-for-Granted_Rules_of_Self-Censorship_at_Work
+# creating a circle of safety
 
 
+> "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had." 

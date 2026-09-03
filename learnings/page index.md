@@ -26,7 +26,7 @@
 [[motivation]] !!
 [[hope is not an emotion]] !!
 [[confronting our freedom]] !!
-[[responsibility of the captain]] !!
+[[responsibility of the captain]] !! 
 # ways of working
 [[distributed decision making]] !!
 [[logging decisions]] !!

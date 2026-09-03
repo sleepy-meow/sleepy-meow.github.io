@@ -19,6 +19,7 @@ But one of the first things that crossed my mind (aside from how silly i'd look 
 > 
 > What is so remarkable about this model and what is so important about these three responsibilities is that though they cannot be handed off, they can all be shared. And that’s what the best leaders do. They share what they know, ask knowledgeable people for help performing their duties and make introductions to create new relationships within their networks. Poor leaders hoard these things, falsely believing it is their intelligence, rank or relationships that make them valuable. It is not. In an organization with a strong Circle of Safety, not only is the leader willing to share knowledge, but so too is everyone else. Again, the leader sets the tone. When our leaders reveal their gaps in knowledge and missteps, not only are we more willing to help, but we too are more willing to share when we make mistakes or when things go wrong. (turn that ship around)
 
+(todo: something about this being easier to ignore when sitting in a cozy office and the catastrophic consequences come with a longer delay)
 
 
 %%

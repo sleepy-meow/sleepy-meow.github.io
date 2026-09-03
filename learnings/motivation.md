@@ -35,13 +35,14 @@ Motivation varies in both source and quality. External pressure tends to produce
 
 Sinek's version of this is manipulation vs. inspiration. Price, promotions, fear, aspiration, peer pressure and novelty all work — they drive transactions but never loyalty, and they cost more every time you use them.
 
+%%
 # dopamine vs serotonin
 Leaders Eat Last puts a mechanism under it: dopamine rewards individual achievement — fast, satisfying, and addictive — while serotonin and oxytocin build trust and belonging, slowly. 
 
 > We cannot motivate others. The only thing we can do is create environments in which the right chemicals are released for the right reasons.
 
 Which is the practical point for a leader: you can't install intrinsic motivation in someone. You can only stop crowding it out, and supply the one ingredient that genuinely does come from outside — purpose. Pink's shorthand is autonomy, mastery, purpose; note that all three are conditions you can change, not traits you can hire for.
-
+%%
 # a sense of purpose
 > Believing a cause is important, and the cause should always be human & beyond themselves. When a company declares that its goal is to become a global leader or make the best products, those are selfish desires with no intended value beyond anyone than the company itself, and often not even everyone in the company - The cause should be bigger than the company.
 
@@ -73,3 +74,7 @@ A better principle would be:
 > **What matters should be made visible—but visibility does not always require a number.**
 
 Qualitative evidence, observation, examples, professional judgment and open discussion can provide accountability where precise measurement would be misleading.
+
+# incentives
+reminding people of money makes them behave in more selfish ways
+(todo: find the study about this from desteno book)

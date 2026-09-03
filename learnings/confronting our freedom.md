@@ -9,6 +9,7 @@
 
 Where _Moral Mazes_ examines how organizations encourage people to surrender their moral independence, _Confronting Our Freedom_ asks what it would mean to reclaim it.
 
+# learned helplessness
 
 
 %%

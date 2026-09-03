@@ -7,8 +7,10 @@ The practical moves are nearly always changes to *how the work is done* — how 
 
 > A learning culture emerges as a by-product of practice with a new way of working — not the other way around. Many change efforts fail because they focus on shifting the culture. (amy edmondson, teaming)
 
+# practical tools
+> [!TIP] daniel coyle - the culture playbook (lots of small everyday practical things)
 
-> [!TIP] daniel coyle - the culture playbook (lots of small practical snippets)
+> [!TIP] amy edmondson - teaming (collaboration & organizational learning)
 
 > [!EXAMPLE] [reinventing organizations wiki](https://reinventingorganizationswiki.com/en/) (concrete practices — decision making, conflict resolution, feedback, compensation — and case studies of companies actually doing it)
 
@@ -18,10 +20,9 @@ The practical moves are nearly always changes to *how the work is done* — how 
 # why to not take it for granted
 > A culture isn’t something that we should just assume will always be there. It doesn’t happen just automatically. A strong culture is durable, yes, but it is not immune to corruption and collapse. It requires care and maintenance – from all of us.
 
-Although the responsiblity is proportional to power, 
+Although the responsiblity is proportional to the fanciness of the job title, you don't have to be the boss to be a leader. The leader's job is to create and nurture the culture we all need to do our best work. And so anytime you play a role in doing that, you are exercising leadership. (amy edmondson, the fearless organization)
 
-> ..you don't have to be the boss to be a leader. The leader's job is to create and nurture the culture we all need to do our best work. And so anytime you play a role in doing that, you are exercising leadership. (amy edmondson, the fearless organization)
-
+> "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had."
 # for inspiration
 > [!TIP] daniel coyle - the culture code
 

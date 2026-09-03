@@ -10,7 +10,7 @@ It's not always obvious where to find the information to learn these skills. The
 
 Many of the topics covered here are not in any way exclusive to any job title. They're not even limited to the workplace. For the most part they're just about how to be a decent human being.
 
-While responsibility is proportional to power, most of the tools here are almost entirely usable without formal authority. For those that cannot, understanding them helps us recognize when that responsibility is being neglected.
+While responsibility is proportional to power, many of the tools here are almost entirely usable without formal authority. For those that cannot, understanding them helps us recognize when that responsibility is being neglected.
 
 %%
 # why it felt relevant to share learnings

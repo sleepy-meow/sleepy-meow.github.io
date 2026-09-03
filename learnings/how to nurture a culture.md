@@ -7,6 +7,7 @@ The practical moves are nearly always changes to *how the work is done* — how 
 
 > A learning culture emerges as a by-product of practice with a new way of working — not the other way around. Many change efforts fail because they focus on shifting the culture. (amy edmondson, teaming)
 
+(todo: maybe add a separate page of what a good culture can look like)
 # practical tools
 > [!TIP] daniel coyle - the culture playbook (lots of small everyday practical things)
 
@@ -16,6 +17,7 @@ The practical moves are nearly always changes to *how the work is done* — how 
 
 > [!EXAMPLE] [corporate rebels - the 8 trends](https://www.corporate-rebels.com/bucketlist/the-8-trends) (8 shifts from traditional to progressive ways of working, distilled from visiting the workplaces doing it)
 
+(todo: find some other good lists from bookmarks)
 
 # why to not take it for granted
 > A culture isn’t something that we should just assume will always be there. It doesn’t happen just automatically. A strong culture is durable, yes, but it is not immune to corruption and collapse. It requires care and maintenance – from all of us.

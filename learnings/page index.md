@@ -4,8 +4,8 @@
 
 # culture
 [[how to nurture a culture]] !!
-%%[[why to have a culture memo]] !!
-[[universal human needs]] !! %%
+[[why to have a culture memo]] !!
+%%[[universal human needs]] !! %%
 [[free flow of information]] !!
 
 # psychological safety
@@ -26,6 +26,7 @@
 [[motivation]] !!
 [[hope is not an emotion]] !!
 [[confronting our freedom]] !!
+[[responsibility of the captain]] !!
 # ways of working
 [[distributed decision making]] !!
 [[logging decisions]] !!

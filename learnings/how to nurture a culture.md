@@ -25,9 +25,14 @@ Although the responsiblity is proportional to power,
 # for inspiration
 > [!TIP] daniel coyle - the culture code
 
-
-
 %%
+# caveat
+> "The only make-or-break factors are the worldview held by the top leadership and by the owners/board."
+
+
+
+
+
 The fastest way to read a culture isn't to look at the values on the wall. It's to ask what happens to the person who brings bad news, admits a mistake, or disagrees with the most senior person in the room. Whatever happens to them is the culture — and everyone else is watching. They only have to see it once ([[why not to shoot the messenger]])."
 
 A value only becomes culture once it has been *operationalized* — turned into behaviors that are teachable and observable. 

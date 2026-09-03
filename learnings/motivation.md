@@ -1,12 +1,14 @@
-> *People are either motivated or they are not.* Unless we give motivated people something to believe in, they will motivate themselves to find a new job (simon sinek)
-
-> [!WARNING] this page is wip
+> *"If you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea."*
 
 Emphasizing a sense of purpose is another key element of setting the stage for psychological safety. Motivating people by articulating a compelling purpose is a well-established leadership task. Leaders who remind people of why what they do matters - for customers, for the world - help create the energy that carries them through challenging moments.
 
 > [!tip] Simon Sinek - start with why
 
 > [!tip] Daniel Pink - drive
+
+
+> *People are either motivated or they are not.* Unless we give motivated people something to believe in, they will motivate themselves to find a new job (simon sinek)
+
 
 # intrinsic vs extrinsic motivation
 *extrinsic: you do it for what you get. intrinsic: the doing is the point.*

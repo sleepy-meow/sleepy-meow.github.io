@@ -22,6 +22,12 @@
           "done": true
         },
         {
+          "name": "why to have a culture memo",
+          "path": "learnings/why to have a culture memo.md",
+          "tags": [],
+          "done": true
+        },
+        {
           "name": "free flow of information",
           "path": "learnings/free flow of information.md",
           "tags": [],
@@ -117,6 +123,12 @@
         {
           "name": "confronting our freedom",
           "path": "learnings/confronting our freedom.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "responsibility of the captain",
+          "path": "learnings/responsibility of the captain.md",
           "tags": [],
           "done": true
         }

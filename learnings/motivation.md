@@ -78,3 +78,5 @@ Qualitative evidence, observation, examples, professional judgment and open disc
 # incentives
 reminding people of money makes them behave in more selfish ways
 (todo: find the study about this from desteno book)
+
+# todo: add some good & bad examples

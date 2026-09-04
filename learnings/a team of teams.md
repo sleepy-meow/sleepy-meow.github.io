@@ -1,54 +1,61 @@
-> [!WARNING] this page is wip
-
 *"A team of teams" — the problem you get once you outgrow a single team.*
 
-> [!tip] stanley mcchrystal - team of teams
+> [!tip] stanley mcchrystal - Team of Teams: New Rules of Engagement for a Complex World
 
-> [!EXAMPLE] article: [key takeaways from team of teams](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
+> [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/)
+
+> [!EXAMPLE] article: [key takeaways](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
+
+> Complex environments are, by definition, too complicated for any one person to grasp fully.
 
 Past a certain size no single team can hold the whole problem, so you split into many — and now individually excellent teams can still add up to a dysfunctional whole. ***Great teams that don't talk to each other aren't a great organization***; they're silos with good morale.
 
-> "Complex environments are, by definition, too complicated for any one person to grasp fully. Yet many managers, afraid of appearing to not be in control, believe that they have to know everything—or at least act like they do" 
-
-# why it matters
-
-[[lines of communication]] (Brooks's Law) says the cost of connecting everyone to everyone explodes as you grow — so the naive answer, "just have everyone coordinate," collapses under its own overhead. The two useful responses to that are the subject of this page: **don't connect everyone to everyone (connect enough), and make the shared picture travel instead of the instructions.**
-
-The stakes are the same as the single-team case, one level up: bad news and good ideas have to cross the gaps *between* teams, not just up the hierarchy within one. Most large-org failure isn't a team failing at its task — it's the handoff, the assumption, the thing that fell between two teams who each thought the other had it.
-
-> "The most effective teams are those that can rapidly adapt to the ever-changing environment.” 
-
-# what's the point of the book
-> Hierarchical management techniques no longer work because organizations are too large for any one person to make all the decisions.
+> *Organizations are too complex for any one person to make all the decisions.*
 > 
 > In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. Today organizations are too complex for management to do all the thinking.
 
-The book argues that traditional command and control structures are simply too slow and inefficient in the modern rapidly changing world.
+# why it matters
 
+> The most effective teams are those that can rapidly adapt to the ever-changing environment.
+
+The book explains how traditional command and control structures are simply too slow and inefficient in the modern rapidly changing world.
 
 # the solution: shared consciousness
-
-> *"organizations are too complex for any one person to make all the decisions"*
-
 so instead of pushing decisions up, you push *understanding* down and out.
 
-- **Shared consciousness** — everyone holds a holistic picture of what the whole organization is doing and why, built through radically transparent communication (leaders think out loud; information is shared widely, not need-to-know). See [[free flow of information]].
+- **Shared consciousness** — everyone holds a holistic picture of what the whole organization is doing and why, built through radically transparent communication (see [[free flow of information]])
 - **Empowered execution** — once people share that picture, they can act without asking permission, because they can predict what the org would want. Distributed decision-making requires shared consciousness — empower people without context and they just fumble in the dark.
-- **Connectivity, not full connection** — you don't need everyone to know everyone (Brooks's Law forbids it). You need enough cross-team relationships that *"if everyone knows a couple of people, there's likely a connection to every other team."
-
+- **Connectivity, not full connection** — you don't need everyone to know everyone, but you need enough cross-team relationships that *"if everyone knows a couple of people, there's likely a connection to every other team."
 
 > **To contend with complexity, everyone in the organization must see how everything works together.** They have to understand the interdependencies and how the organization operates as a whole. When people understand these things, they make good decisions, quicker.
 
 ![[Pasted image 20260627140901.png]]
 
-|               | the old default                     | what replaces it                                 |
-| ------------- | ----------------------------------- | ------------------------------------------------ |
-| the world     | complicated (hard, but predictable) | complex (interdependent + fast -> unpredictable) |
-| the goal      | efficiency, robustness              | adaptability, resilience                         |
-| the structure | command -> command of teams         | team of teams                                    |
-| information   | "need to know"                      | shared consciousness                             |
-| authority     | the perry principle                 | empowered execution                              |
-| the boss      | chess master                        | gardener                                         |
+# why this leads to more innovation
+Associative thinking is the skill of connecting ideas, memories, or concepts that don’t seem related at first glance. It’s the essence of creativity, making it possible to see patterns, develop unique solutions, and bring fresh ideas into any field.
+
+> [!EXAMPLE] article: [associative thinking and creative potential](https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749)
+
+A team of teams is basically associative thinking at scale.
+
+# cross team connectors
+These often end up being the ones whose brains already work this way, and whose knowledge spans across many different domains. This breadth of knowledge can be used to connect the right people with more depth in a single topic. 
+
+These people are often not leads themselves, and 
+
+They're often also the ones who just don't fit into a narrowly shaped box of a rigid structure, whose job descriptions are often hard to define or to reduce to a simple measurable number and benefits come with more delay, so the work often goes underappreciated. it's something a rigid structure where people are told to "just focus on their own work", where "what isn't measured won't get done", you'll end up with a huge amount of wasted potential, with both problems and great ideas falling in between the cracks. 
+
+There's often a huge amount of untapped potential in this space (which is probably why tech artists not need to worry about running out of useful things to do)
+
+%%
+https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749
+
+
+
+
+A polymath is an individual whose knowledge spans many different subjects, known to draw on complex bodies of knowledge to solve specific problems.
+
+https://medium.com/@matthewbunce/the-wired-differently-problem-why-adhd-and-polymathy-are-the-same-cognitive-gift-224dc107eee7
 
 
 

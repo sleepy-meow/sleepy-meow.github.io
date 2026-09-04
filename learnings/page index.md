@@ -38,7 +38,7 @@
 [[bullshit feedback]] !!!
 [[how to ask the right questions]] !!
 [[empathy misses]] !!
-[[conflict resolution]] !! 
+[[how to cool conflict]] !! 
 [[emergent facilitation]] !!
 
 # scaling teams

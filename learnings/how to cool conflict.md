@@ -1,14 +1,18 @@
 > [!WARNING] this page is very wip
 
-*most disagreements revolve around 5% of differences*
-# how to cool conflict
+a few useful things to remember:
+> *most disagreements revolve around 5% of differences*
+
+> People don't get angry when they're confident, but scared.
+
 - *Identify the Nature of Conflict*: Though a difference of opinion about a product design or a work process is useful, personal friction and personality clashes are counterproductive. Understanding the differences between types of conflict (task vs relationship conflict) allows leaders to better manage contentious exchanges.
 - ﻿﻿*Model Good Communication*: Good communication when confronting conflict, especially heated conflict, combines thoughtful statements with thoughtful questions, so as to allow people to understand the true basis of a disagreement and to identify the rationale behind each position.
 - ﻿﻿*Find Common Ground*: By identifying and also embracing shared goals, teams are able to overcome the fundamental attribution errors that erode respect and instead develop an environment of trust.
 - ﻿﻿*Encourage Difficult Conversations*: Through good communication, as just defined, it's useful to engage in authentic conversations that help build resilient relationships and put aside ideological and personal differences.
 
 # useful sentences
-*"Here's the story I'm telling myself."*
+> *Here's the story I'm telling myself.*
+
 "You were quiet in that meeting, and the story I'm telling myself is that you were pissed about the sprint split. Can we talk about it?"
 
 *"What are we actually trying to solve here?"*

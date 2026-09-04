@@ -4,17 +4,14 @@
 
 - **start here**
   - [introduction](#introduction)
-  - [common misconceptions](#common-misconceptions)
 - **culture**
   - [how to nurture a culture](#how-to-nurture-a-culture)
   - [why to have a culture memo](#why-to-have-a-culture-memo)
-  - [universal human needs](#universal-human-needs)
   - [free flow of information](#free-flow-of-information)
 - **psychological safety**
-  - [psychological safety](#psychological-safety)
+  - [feeling safe and trusted](#feeling-safe-and-trusted)
   - [the leaders impact on psychological safety](#the-leaders-impact-on-psychological-safety)
   - [why not to shoot the messenger](#why-not-to-shoot-the-messenger)
-  - [people are doing the best they can with what they have](#people-are-doing-the-best-they-can-with-what-they-have)
   - [how to lower the bar for participation](#how-to-lower-the-bar-for-participation)
 - **learning & thinking**
   - [a learning mindset](#a-learning-mindset)
@@ -26,6 +23,8 @@
   - [leadership approaches](#leadership-approaches)
   - [motivation](#motivation)
   - [hope is not an emotion](#hope-is-not-an-emotion)
+  - [confronting our freedom](#confronting-our-freedom)
+  - [responsibility of the captain](#responsibility-of-the-captain)
 - **ways of working**
   - [distributed decision making](#distributed-decision-making)
   - [logging decisions](#logging-decisions)
@@ -37,14 +36,13 @@
   - [bullshit feedback](#bullshit-feedback)
   - [how to ask the right questions](#how-to-ask-the-right-questions)
   - [empathy misses](#empathy-misses)
-  - [conflict resolution](#conflict-resolution)
+  - [how to cool conflict](#how-to-cool-conflict)
   - [emergent facilitation](#emergent-facilitation)
 - **scaling teams**
   - [lines of communication](#lines-of-communication)
   - [a team of teams](#a-team-of-teams)
   - [the fat cat syndrome](#the-fat-cat-syndrome)
   - [pitfalls of growing teams](#pitfalls-of-growing-teams)
-  - [the corporate ladder](#the-corporate-ladder)
 - **other**
   - [bad advice books](#bad-advice-books)
   - [first aid kit](#first-aid-kit)
@@ -57,57 +55,19 @@
 
 ### introduction
 
-> [!WARNING] this page is wip
+> When you have a value printed on posters hanging on the walls, but you don't dig into the behaviors that support it and teach people those behaviors, you're in BS territory. (brene brown, dare to lead)
 
 *"We give each other honest feedback"* / *"we disagree openly and stay a team"* only work if people actually know how — and the behaviors are concrete, teachable, practiceable skills.
 
 It's not always obvious where to find the information to learn these skills. The goal of this page is to show what concrete tools there are and where they live, and to lower the effort it takes to pick them up.
 
-> The behaviors and skills that support seemingly simple values are almost always more complex than what we assume.
 
 #### it's not about the job title
 > There's an entire section in the bookstore called self-help, but there's no section called help others. (simon sinek, leaders eat last)
 
-I didn't specifically go looking for books in the leadership section, but with the topics of culture, collaboration, communication, motivation, UX, cognitive and organizational psychology, facilitation, distributed decision making, etc. it's a tag that comes up fairly often.
+Many of the topics covered here are not in any way exclusive to any job title. They're not even limited to the workplace. For the most part they're just about how to be a decent human being.
 
-That said, the skills that are taught in these books are not in any way exclusive to a formal job title. They're not even limited to the workplace. For the most part they're just about how to be a decent human being.
-
-#### my background
-Over the past 10 years as a pipeline technical artist in the games industry, a lot of my work has involved building shared understanding across teams, initiating cross-functional conversations to understand workflows and constraints, understanding multiple perspectives, and facilitating alignment between technical and creative stakeholders, with the goal of enabling others to do their best work and making collaboration more efficient.
-
-Or in other words, *"helping artists with the pain."*
-
-One day I picked up 'the culture code', and realized I'd stumbled upon a whole world of interesting things to learn, so I just kept reading, and now it feels like I've read too much and the information in my head needs somewhere to go.
-
----
-
-<!-- learnings/common misconceptions.md -->
-
-### common misconceptions
-
-> [!WARNING] this page is wip
-
-
-*"you're not supposed to want to be a lead"*
-there's a difference between wanting power and control, and wanting someone to take the job seriously. 
-Someone who is genuinely not interested in leading and learning the skills it reqires, and would rather just do hands-on work, should just do that instead.
-
-
-*"you can't learn leadership from books"*
-It's true that many skills take practice to master. But the thing that books provide is an opportunity to learn from other people's mistakes, to gather different perspectives.
-
-*"a book is just one person's opinion"*
-There are a lot of bad advice books out there (many surprisingly popular management books are based on anecdotes and full of factual errors), usually these can be identified by looking at the sources. It can also be helpful to read books which you don't agree with, to gain higher understanding of perspectives different than your own.
-
-*"people are just lazy"*
-> People are either motivated or they are not. Unless we give motivated people something to believe in, they will motivate themselves to find a new job.
-
-*"collaboration and autonomy are conflicting"*
-There's a difference between commitment and compliance.
-https://psychsafety.com/accountability/
-
-*"if a team can't come to a decision, the lead needs to decide"*
-While it's true that avoiding making decisions can be bad, sometimes the real question may also be "does this decision actually need to be made" or "are we solving the right problem". The inability for a team to make a decision is not necessarily a failure of the team itself, but failure in facilitation.
+While responsibility is proportional to power, many of the tools here are almost entirely usable without formal authority. For those that cannot, understanding them helps us recognize when that responsibility is being neglected.
 
 ---
 
@@ -121,48 +81,29 @@ While it's true that avoiding making decisions can be bad, sometimes the real qu
 
 > If character describes how an individual thinks and acts, then the culture of an organization describes the character of a group of people and how they think and act as a collective. (simon sinek, leaders eat last)
 
-The fastest way to read a culture isn't to look at the values on the wall. It's to ask what happens to the person who brings bad news, admits a mistake, or disagrees with the most senior person in the room. Whatever happens to them is the culture — and everyone else is watching. They only have to see it once ([why not to shoot the messenger](#why-not-to-shoot-the-messenger))."
-
-A value only becomes culture once it has been *operationalized* — turned into behaviors that are teachable and observable. Until then it's a word on a poster, and the gap between the word and what actually happens is itself corrosive.
-
-#### why it matters
-
-- **It decides whether you ever hear the truth.** In a weak culture, bad news dies on the way up and problems only surface once they've grown too big to hide. 
-- **It's your biggest lever on cognitive load.** In a culture where you have to watch your back, the attention that could go to the work goes to managing danger from inside it instead. 
-- **It sets the ceiling on innovation, decision quality, and motivation.** Fear works well enough for simple, well-defined work and fails for anything that needs learning or collaboration. 
-- **You can't feel the one you're in.** Sinek compares an unhealthy culture to altitude on Everest — we acclimatise. If the conditions were shocking we'd leave; because they're subtle, we adapt and stop noticing. Which is an argument for writing it down while you can still see it.
-- **It's a safeguard, not just a nicety.** Voice is the check on unchecked power. A frightened, silenced group can't compare notes or get bad news to someone who could act — so culture has to be built *before* it's needed.
-- **A strong culture is resilient to being challenged.** Built deep, it holds under pressure — absorbing a shock, a bad hire, or a loud person testing its limits and springing back. Built shallow, it folds the first time it's genuinely tested.
-
-> Refusal to stand up for what you believe in weakens individual morality and ethics, as well as those of the culture
-
-#### practical advice
 
 The practical moves are nearly always changes to *how the work is done* — how decisions get made, what happens after a failure, what's visible to whom — with the culture arriving behind them as a result.
 
 > A learning culture emerges as a by-product of practice with a new way of working — not the other way around. Many change efforts fail because they focus on shifting the culture. (amy edmondson, teaming)
 
+(todo: maybe add a separate page of what a good culture can look like)
+#### practical tools
+> [!TIP] daniel coyle - the culture playbook (lots of small everyday practical things)
 
-> [!TIP] daniel coyle - the culture playbook (lots of small practical snippets on how to nurture a culture)
+> [!TIP] amy edmondson - teaming (collaboration & organizational learning)
 
 > [!EXAMPLE] [reinventing organizations wiki](https://reinventingorganizationswiki.com/en/) (concrete practices — decision making, conflict resolution, feedback, compensation — and case studies of companies actually doing it)
 
 > [!EXAMPLE] [corporate rebels - the 8 trends](https://www.corporate-rebels.com/bucketlist/the-8-trends) (8 shifts from traditional to progressive ways of working, distilled from visiting the workplaces doing it)
 
+(todo: find some other good lists from bookmarks)
 
-#### whose job it is
-
+#### why to not take it for granted
 > A culture isn’t something that we should just assume will always be there. It doesn’t happen just automatically. A strong culture is durable, yes, but it is not immune to corruption and collapse. It requires care and maintenance – from all of us.
 
-> ..you don't have to be the boss to be a leader. The leader's job is to create and nurture the culture we all need to do our best work. And so anytime you play a role in doing that, you are exercising leadership. (amy edmondson, the fearless organization)
+Although the responsiblity is proportional to the fanciness of the job title, you don't have to be the boss to be a leader. The leader's job is to create and nurture the culture we all need to do our best work. And so anytime you play a role in doing that, you are exercising leadership. (amy edmondson, the fearless organization)
 
-It's true that this responsibility is proportional to power, but it doesn't require a formal job title.
-
-> "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had." 
-
-
-
-
+> "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had."
 #### for inspiration
 > [!TIP] daniel coyle - the culture code
 
@@ -187,6 +128,8 @@ Companies often compress countless unspoken principles into a few polished state
 Phrases about openness, fairness, trust, and innovation may sound admirable, but almost any modern company could claim them. Catch-all language obscures what makes a company distinctive and offers little practical guidance.
 
 > "At some point, we felt we had too many values and that no one could remember them. So we tried to simplify them to short memorable catchphrases in a slide deck that we tried to make as short as possible. But that led to problems: people interpreted these phrases in different ways and it was not clear what we meant by them."
+
+
 
 #### example of a principle
 **Principle: We believe in transparency**
@@ -217,26 +160,6 @@ Only establish principles you genuinely intend to follow. Integrity matters: pri
 
 ---
 
-<!-- learnings/universal human needs.md -->
-
-### universal human needs
-
-> [!WARNING] this page is wip
-
-*what every single person on the planet needs*
-
-> [!TIP] oren jay sofer - say what you mean (mindul nonviolent communication + some other stuff)
-> as opposed to the original nvc book by rosenberg, it also explains the context, has lots of great exercises, and overall many things to think about
-
-The deeper values beneath all our actions — universal, shared by everyone, met through countless different strategies. Not a complete list, but a map of what matters most.
-
-Seeing every action, your own and others', as an attempt to meet a need — is a doorway to clarity, choice, and compassion.
-
-
-![Pasted image 20260629205535.png](pasted%20images/Pasted%20image%2020260629205535.png)
-
----
-
 <!-- learnings/free flow of information.md -->
 
 ### free flow of information
@@ -253,7 +176,8 @@ Freely sharing information helps to build and maintain trust. It signals that pe
 #### benefits
 
 **decision quality** - pooling information across members leads to more optimal decisions
-Article: [AI, Teams, and the Common Information Effect](https://medium.com/@damjangataric/ai-teams-and-the-common-information-effect-5dad5c78304f)
+
+> [!EXAMPLE] Article: [AI, Teams, and the Common Information Effect](https://medium.com/@damjangataric/ai-teams-and-the-common-information-effect-5dad5c78304f)
 
 **decision speed** - raw data is useful, curated data is slow and loses context
 
@@ -263,38 +187,43 @@ Article: [AI, Teams, and the Common Information Effect](https://medium.com/@damj
 #### context of decisions
 > Transparency doesn't mean sharing every detail. Transparency means providing the context for the decisions we make.
 
-What happens with [information without context](https://fs.blog/information-without-context/):
+> [!EXAMPLE] article: [information without context](https://fs.blog/information-without-context/)
+
 > _“in the absence of data we will always make up stories - it’s how our brains function."_
 
+The lack of context creates an information gap, and when the information is not available, all the question marks in your head will involuntarily be filled with some assumptions. It's something that cannot be stopped. 
+
+The same happens when the something about the context given doesn't make sense. Telling your brain to stop trying to understand is like telling it not to notice a missing stair. The gap itself demands attention.
+
+When the reasoning behind a decision is unclear, people are left to construct their own explanations from whatever information they have. Those explanations may be wrong, but they are rarely random: they are shaped by past experiences, existing levels of trust, and who appears to benefit from the decision.
+
+This is why communicating a decision is not the same as communicating its context. _“We have decided to reorganize the team”_ tells people what will happen, but leaves the important questions unanswered: What problem is this meant to solve? What constraints shaped the choice? What alternatives were considered? Who was involved? What remains uncertain?
+
+Providing context does not require sharing every private detail or inviting everyone to agree. It means giving people enough information to understand how the decision makes sense—even if they would have made a different one. Without that context, the organization does not avoid telling a story; it simply leaves everyone to invent their own.
 #### what happens in the shadows
 
-Self-serving behavior depends on opacity, transparency reduces the likelihood that informal hierarchies will emerge.
+Self-serving behavior depends on opacity, transparency reduces the likelihood that informal hierarchies will emerge. Informational power is arguably the greatest power of them all, the solution is for no one person to have it. A boss terrorising a teammate rarely happens in broad daylight.
 
-- informational power is arguably the greatest power of them all, the solution is for no one person to have it
-- A boss terrorising a teammate rarely happens in broad daylight.
-
-when transparency is the default, it's the opacity that draws attention
-
-> _"If you empower people but don´t give them information, they just fumble in the dark."_
+When transparency is the default, it's the opacity that draws attention
 
 #### One-way glass isn't transparency
 If information only moves upwards, that is not shared consciousness — it's surveillance, and it teaches people to hide, which is the thing you were trying to stop.
 
 Transparency is what you pay for autonomy. And when it's paid, the need for control evaporates on its own.
 
-#### communication vs organization structure
+#### Conway's law
+> Organizations which design systems (in the broad sense used here) are constrained to produce designs which are copies of the communication structures of these organizations.
 
-> [!tip] ed catmull - creativity inc
+Conway's Law isn't a curse; it's a tool. By *consciously designing communication structures that encourage innovation*, we can break free from the paralysis.
 
-> In this case, we had made the mistake of confusing the communication structure with the organizational structure.. ..anyone should be able to talk to anyone else, at any level, at any time, without fear of reprimand.
 
-> "Complex environments are, by definition, too complicated for any one person to grasp fully. Yet many managers, afraid of appearing to not be in control, believe that they have to know everything—or at least act like they do" 
+> ...we had made the mistake of confusing the communication structure with the organizational structure.. ..anyone should be able to talk to anyone else, at any level, at any time, without fear of reprimand. (ed catmull - creativity inc)
 
 #### simple things anyone can do
 - Whenever a slack conversation drifts into a locked channel or DM, just say 'hey let's move this conversation to a public channel so we don't risk needing to re-explain ourselves later'
 - Transparently communicating your own decision making. The more broadly a [decision log](#logging-decisions) is used, the more useful it is. But this doesn't prevent you from using it just for yourself. This can also help others identify the gaps in knowledge you might have so they can tell you about it. 
 
-![Pasted image 20260820121828.png](pasted%20images/Pasted%20image%2020260820121828.png)
+<img src="pasted%20images/Pasted%20image%2020260820121828.png" alt="Pasted image 20260820121828.png" width="518">
 
 Caveat: It's exactly the situations where transparency would be most useful (when psychological safety is lowering), that makes us want to hide away. But by staying in the light you create safety for yourself as well as for others.
 
@@ -302,38 +231,35 @@ Caveat: It's exactly the situations where transparency would be most useful (whe
 
 ## psychological safety
 
-<!-- learnings/psychological safety.md -->
+<!-- learnings/feeling safe and trusted.md -->
 
-### psychological safety
+### feeling safe and trusted
 
-> [!WARNING] this page is wip
+*A team climate in which people feel safe to ask questions and raise concerns without fear of being thrown under the bus.*
 
-*A team climate in which people expect that questions, concerns, mistakes, and disagreement can be raised without humiliation or punishment.*
-
-> [!EXAMPLE] 3 minute video: [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0)
+> [!EXAMPLE] 3 minute video: [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0)
 
 > [!EXAMPLE] article: [what is psychological safety?](https://psychsafety.com/about-psychological-safety/)
 
-
-*The long version:*
 > [!TIP] amy edmondson - the fearless organization
 
 #### why it matters
-- The failure to speak up cannot be seen (no good != good news)
-- people often hold back even when they believe that what they have to say could be important
+> "we can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted"
 
-Psychological safety is essential for communicating, collaborating, experimenting, and ensuring the well-being of others in a wide variety of team and organizational settings.
-
-﻿﻿Leaders who welcome only good news create fear that blocks them from hearing the truth, yet many managers confuse setting high standards with good management. A lack of psychological safety can create an illusion of success that eventually turns into serious business failures.
-
-#### how it affects performance
 > It's hard for people to do their best work when they are afraid.
 
 ![Pasted image 20260822123258.png](pasted%20images/Pasted%20image%2020260822123258.png)
 
-*Fear hijacks the brain* from parts that manage working memory and process new information. This impairs analytic thinking, creative insight, and problem solving. As a result, how psychologically safe a person feels strongly impacts learning behaviors, such as information sharing, asking for help, or experimenting. 
 
-> Fear uses up a lot of brain capacity, and you can't be healthy, trusting, or feel you belong while marinating in cortisol.
+_Fear hijacks the brain_, drawing resources away from working memory and the ability to process new information. This makes analytical thinking, creative insight, and problem-solving more difficult. Psychological safety is essential for communicating, collaborating, experimenting, and ensuring the well-being of others, and has a strong influence on learning behaviors such as sharing information, asking for help, etc.
+
+> You can't be healthy, trusting, or feel you belong while marinating in cortisol.
+
+#### what causes the fear
+
+*Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear.
+#### why it's bad for business
+A lack of psychological safety can create an illusion of success that eventually turns into serious business failures. Yet many organizational leaders genuinely believe that "no news" means that things are going well.
 
 > _When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside._
 
@@ -341,52 +267,70 @@ Psychological safety is essential for communicating, collaborating, experimentin
 
 > having information about shortcomings come to light earlier rather than later can nearly always mitigate the size and impact
 
-No one gains from the silence. Teams miss out on insights. Those who fail to speak up often report regret or pain. Some wish they had spoken up. Others recognize they could be experiencing more fulfillment and meaning in their jobs were they more able to contribute. Those deprived of hearing a colleague's comments may not know what they are missing, but the fact is that problems go unreported, improvement opportunities are missed, and occasionally, tragic failures occur that could have been avoided.
 
 
 
-#### how to improve it
-> *Speaking up is not a natural act in hierarchies. It must be nurtured.*
+#### comfort vs anxiety zone
+
+> _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
+
+Edmondson talks about four different zones:
+
+|                           | low standards | high standards                   |
+| ------------------------- | ------------- | -------------------------------- |
+| high psychological safety | *Comfort Zone*  | *Learning & High Performance Zone* |
+| low psychological safety  | *Apathy Zone*   | *Anxiety Zone*                     |
+
+The danger here is mixing up the comfort zone and anxiety zone, and assuming that lack of progress means that people are just lazy. This incentivizes spending more energy on optics, sacrificing actual benefits.
+
+#### well i'm not a lead, is there anything i can do?
+**Be the second voice.** The single highest-leverage thing available to anyone. When someone raises a concern and the room goes quiet, say "I noticed that too." You're not taking the risk they took — you're retroactively halving it, and you're breaking pluralistic ignorance for everyone else who was also thinking it. 
+
+**Don't leave the messenger alone afterwards.** Loop #2 closes when the person who spoke up gets punished and everyone watches. You can't stop the punishment, but you can change what the group learns from it: check in with them, say out loud that you thought raising it was right, don't let the story settle as "that was a mistake."
+
+**Go first, sideways.** "I don't know." "I need help." "I made a mistake." "I'm sorry." Peer-to-peer these cost a fraction of what they cost upward, and they generate the same evidence. By acknowledging that you are a fallible human being, you give permission to others to do likewise.
+
+**Ask instead of assert.** A question carries far less risk than a claim and does more work. "What am I missing?" / "What would have to be true for this to fail?" / "What are we actually trying to solve here?" — all available from any seat, and each one opens a gap someone else can step into. For more ideas, see [how to ask the right questions](#how-to-ask-the-right-questions), it is almost entirely usable without authority.
+
+**Move things into the light.** "let's take this back to the public channel" — is the cheapest structural act anyone can perform. Same for writing a decision down where others can see it.
+
+**Keep your own log.** [logging decisions](#logging-decisions) works even if you're the only user. Two payoffs: it makes your reasoning legible to others, and — honestly — a contemporaneous factual record is the thing you'll want if this goes badly.
+
+**Build lateral connections.** You don't need everyone connected to everyone, just enough that a path exists between any two teams. Non-leads are usually better placed to do this than leads. It also means bad news has more than one route.
 
 > [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
 
 > [!EXAMPLE] https://explore.psychsafety.com/
 
-> In our experience, the single most effective practice for increasing psychological safety is to [level the power gradient within a group](https://psychsafety.com/reducing-power-gradients/)
-#### simple things to say
+#### creating a circle of safety
 
-By acknowledging that you are a fallible human being, you give permission to others to do likewise:
-*I don't know.*
-*I need help.*
-*I made a mistake.*
-*I'm sorry.*
+> [!TIP] simon sinek - leaders eat last
 
-words of interest and availability:
-*What can I do to help?*
-*What are you up against?*
-*What are your concerns?*
+Sinek's version of the same idea, one level up: psychological safety is the moment-to-moment climate, the Circle of Safety is the wider question of whether the people around you have your back.
 
-#### a leaders checklist for psychological safety
-**Setting the Stage**
-- pointing out that small failures are the currency of improvement — that you can't get something new "right the first time"
-- articulating clearly *why our work matters, and for whom*
-- Even if it seems obvious, talking about *what's at stake*
+His starting point is that every organization faces two sets of dangers. **Outside:** competitors, the market, a technology that makes your product obsolete overnight. Constant, indifferent, mostly outside your control. **Inside:** intimidation, humiliation, isolation, politics, feeling dumb, the fear that someone's trying to keep you down to get ahead. Also constant — but *variable, and well within our control.*
 
-**Inviting Participation**
-- making sure people know *I don't think I have all the answers*, emphasizing we can always learn more, and that this situation requires everyone to be humble and curious
-- asking *good questions rather than rhetorical ones*
-- creating structures to *systematically elicit* ideas and concerns, designed to ensure a safe environment for open dialogue
+> By creating a Circle of Safety around the people in the organization, leadership reduces the threats people feel inside the group, which frees them up to focus more time and energy to protect the organization from the constant dangers outside. Without a Circle of Safety, people are forced to spend too much time and energy protecting themselves from each other.
 
-**Responding Productively**
-- *listening thoughtfully*, signaling that what I'm hearing matters, *acknowledging or thanking* the speaker for bringing the idea or question
-- *destigmatizing failure*, *celebrating intelligent failures* When someone brings bad news, making it a *positive experience*, *offering help* to guide next steps
-- *clarifying boundaries* - what counts as blameworthy, responding to clear violations in an appropriately tough way to influence future behavior
+Fear doesn't vanish when there's nothing to fear inside. It just gets pointed somewhere useful.
 
-#### measuring it
+> Weak leaders are the ones who only extend the benefits of the Circle of Safety to their fellow senior executives and a chosen few others... And in so doing, silos form, politics entrench, mistakes are covered up instead of exposed, the spread of information slows.
 
-> [!EXAMPLE] https://measure.psychsafety.com
+So draw the circle as it really is rather than as the org chart says, and check who's outside it. The contractors, the new person, the one remote teammate, the team that keeps getting blamed. *A circle drawn around a few people isn't a small Circle of Safety — it's an inner circle, and the two produce opposite results.*
 
-> *we can only think smarter if others in the room speak their minds*
+> Leaders would sooner sacrifice what is theirs to save what is ours. And they would never sacrifice what is ours to save what is theirs.
+
+#### it runs both ways
+
+>  Leaders want to feel safe too. every single person wants to feel like they are valued by the others in the group. we have a responsibility to our leaders too, express concern for their wellbeing.
+
+> ..when our boss comes down hard on us and we don't know the reason, it is equally our responsibility to express concern for their well-being. That's how the Circle of Safety stays strong.
+
+Which is *"well, i'm not a lead"* in its strongest form. Not only can you protect the people beside you — a leader under pressure is inside the circle too, and *"are you okay?"* is available to anyone.
+
+> "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had."
+
+> [!EXAMPLE] article: [the circle of safety](https://simonsinek.com/stories/the-circle-of-safety)
 
 ---
 
@@ -396,11 +340,11 @@ words of interest and availability:
 
 > [!WARNING] this page is wip
 
-*Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear - fear of not hitting targets, fear of losing bonuses, fear of failing.
+*Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear.
 
 *Speaking up is only the first step. The true test is how leaders respond when people actually do speak up.*
 
-> the failure of an employee to speak up in a crucial moment cannot be seen. The primary result of responding to negatively to concerns is that you don't hear about them.
+> The primary result of responding to negatively to concerns is that you don't hear about them.
 
 > bad news doesn't travel up the hierarchy. But what we found is that people err so far on the side of caution at work that they routinely hold back great ideas
 
@@ -410,6 +354,8 @@ In psychologically safe environments, people can speak their mind without thinki
 Speaking up is received with appreciation and curiosity. There is plenty of debate, questions get asked freely, people admit mistakes early, people bring up half-formed ideas and suggestions, challenge each others thinking, and disagree openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person. 
 
 
+#### red flags of an unsafe environment
+Everyone just being very "nice", and the same few people talk all the time in meetings, reaching fast consensus with no dissent. Concerns come up in the hallway/Slack DM afterward instead of the meeting, and bad news gets watered down upwards.
 
 #### predictability
 
@@ -485,13 +431,15 @@ Two things make the transition itself especially dangerous:
 
 **The defence is to make yourself redundant.** If the culture only works while you're in the room, you *are* the bus factor. This is why *"the goal of leadership is to produce more leaders, not followers"*: every person you develop into someone who can hold the tone, make the call, and keep voice alive is one more point of resilience, and one less way for the whole thing to hinge on you.
 
+
+
+> In our experience, the single most effective practice for increasing psychological safety is to [level the power gradient within a group](https://psychsafety.com/reducing-power-gradients/)
+
 ---
 
 <!-- learnings/why not to shoot the messenger.md -->
 
 ### why not to shoot the messenger
-
-> [!WARNING] this page is wip
 
 a teammate raises a concern, but then find themselves in a situtation like this:
 
@@ -510,56 +458,6 @@ When someone comes to you with a concern, thank them for bringing it up, it does
 The more difficult of a topic, the more thank yous may be needed.
 
 > Note that this does not mean you have to agree with what someone said. You don't even have to like it. But you do have to appreciate the effort it took for her to say it.
-
----
-
-<!-- learnings/people are doing the best they can with what they have.md -->
-
-### people are doing the best they can with what they have
-
-> [!WARNING] this page is wip
-
-> _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
-
-Edmondson talks about four different zones:
-
-
-|                           | low standards | high standards                   |
-| ------------------------- | ------------- | -------------------------------- |
-| high psychological safety | *Comfort Zone*  | *Learning & High Performance Zone* |
-| low psychological safety  | *Apathy Zone*   | *Anxiety Zone*                     |
-
-The danger here is mixing up the comfort zone and anxiety zone, and assuming that lack of progress means that people are just lazy.
-
-> *People are either motivated or they are not.* Unless we give motivated people something to believe in, they will motivate themselves to find a new job (simon sinek)
-
-#### anxiety zone
-Having high standards but not feeling safe to speak up about the things you see could be better, or lacking the autonomy to make a difference, causes stress. 
-
-> _The psychological experience of having something to say yet feeling literally unable to do so is painfully real for many employees and very common_ (edmondson)
-
-By assuming people are lazy, you're encouraging people to be *perceived* as not being lazy, sacrificing real benefits for optics.
-
-
-#### dismissal and disconnection
-
-> [!EXAMPLE] [reinventing organizations wiki: dismissal](https://reinventingorganizationswiki.com/en/theory/dismissal/)
-
-Sometimes dismissal still happens. It sucks, but it can be done in a less traumatizing way and with dignity.
-
-The reasoning needs to be perceived as believable and fair, both to the person being dismissed and to the team, and to be preceded by adequate conflict mediation, separating systemic and individual failures, 
-
-It should never come as a surprise. 
-
-Delivering someone the bad news sucks, but it sucks more to the person on the receiving end. It's not about you.
-
-> Disconnection is often equated with social rejection, social exclusion, and/or social isolation, and these feelings of disconnection actually share the same neural pathways with feelings of physical pain. 
-
-It may be tempting to take the comfortable route of not having this conversation in person, but by doing this, you are shooting yourself in the foot. People talk, and especially word about a dismissal handled badly is something that spreads like a wildfire. If a rumor spreads that *"someone just disappeared"*, people will fear that maybe they're next.
-
-If you don't know how to handle such a situation, ask for help and support. Do a practice run. Support the person affected in finding another job if you can. Ultimately if the person is not the right fit for the role, then it might also be that something went wrong during the hiring process.
-
-Equally, looking the other way when clear violations occur, will reduce psychological safety.
 
 ---
 
@@ -724,6 +622,11 @@ The goal isn’t to understand users once—it’s to keep replacing assumptions
 
 
 ![Pasted image 20260820092041.png](pasted%20images/Pasted%20image%2020260820092041.png)
+
+#### calculated risks
+When you take calculated risks, be transparent and communicate this with your team and your boss to ensure that they understood it fully. Take them opportunistically when the odds of success are in your favor, but never risk the company.
+
+If you see that we are on the wrong path, be prepared to kill your darlings swiftly and close an ailing project immediately. Cutting your losses early and running your profits long is a mantra at Paradox."
 
 ---
 
@@ -898,12 +801,13 @@ a collection of quotes from the following books:
 *producing more leaders*
 > _"the goal of leadership is to produce more leaders, not followers"_
 
-
-
 *modeling good behavior*
+
 
 *staying humble*
 The temptation for self serving behavior is proportional to power. Doing this can gradually reduce the ability to feel empathy, Finding ways and self-restraint to keep your feet on the ground is essential.
+
+*holding the space*
 
 ---
 
@@ -994,13 +898,17 @@ or as brene brown puts it:
 
 ### motivation
 
-> [!WARNING] this page is wip
+> *"If you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea."*
 
 Emphasizing a sense of purpose is another key element of setting the stage for psychological safety. Motivating people by articulating a compelling purpose is a well-established leadership task. Leaders who remind people of why what they do matters - for customers, for the world - help create the energy that carries them through challenging moments.
 
 > [!tip] Simon Sinek - start with why
 
 > [!tip] Daniel Pink - drive
+
+
+> *People are either motivated or they are not.* Unless we give motivated people something to believe in, they will motivate themselves to find a new job (simon sinek)
+
 
 #### intrinsic vs extrinsic motivation
 *extrinsic: you do it for what you get. intrinsic: the doing is the point.*
@@ -1027,12 +935,6 @@ Motivation varies in both source and quality. External pressure tends to produce
 
 Sinek's version of this is manipulation vs. inspiration. Price, promotions, fear, aspiration, peer pressure and novelty all work — they drive transactions but never loyalty, and they cost more every time you use them.
 
-#### dopamine vs serotonin
-Leaders Eat Last puts a mechanism under it: dopamine rewards individual achievement — fast, satisfying, and addictive — while serotonin and oxytocin build trust and belonging, slowly. 
-
-> We cannot motivate others. The only thing we can do is create environments in which the right chemicals are released for the right reasons.
-
-Which is the practical point for a leader: you can't install intrinsic motivation in someone. You can only stop crowding it out, and supply the one ingredient that genuinely does come from outside — purpose. Pink's shorthand is autonomy, mastery, purpose; note that all three are conditions you can change, not traits you can hire for.
 
 #### a sense of purpose
 > Believing a cause is important, and the cause should always be human & beyond themselves. When a company declares that its goal is to become a global leader or make the best products, those are selfish desires with no intended value beyond anyone than the company itself, and often not even everyone in the company - The cause should be bigger than the company.
@@ -1065,6 +967,12 @@ A better principle would be:
 > **What matters should be made visible—but visibility does not always require a number.**
 
 Qualitative evidence, observation, examples, professional judgment and open discussion can provide accountability where precise measurement would be misleading.
+
+#### incentives
+reminding people of money makes them behave in more selfish ways
+(todo: find the study about this from desteno book)
+
+#### todo: add some good & bad examples
 
 ---
 
@@ -1111,6 +1019,53 @@ The stakes of speaking up are higher for some than others.
 Psychological safety isn’t just about reframing – the real-life consequences of speaking up can be life changing. Every day people lose their jobs, careers, or liberty as a result of speaking up, especially against power. To call that a matter of “psychological bravery” is to imply that not speaking up in the face of such risks is cowardice.
 
 > if there are people who care, there is always hope
+
+---
+
+<!-- learnings/confronting our freedom.md -->
+
+### confronting our freedom
+
+> [!WARNING] this page is wip
+> todo: the one point to make: the tension between these two books & something about learned helplessness
+
+> [!TIP] robert jackall - Moral Mazes: The World of Corporate Managers (good for motivation to not want to be in this picture)
+
+> [!TIP] peter block & peter koestenbaum - confronting our freedom
+
+> [!TIP] stanley mcchrystal - risk: a user's guide (the last chapter)
+
+Where _Moral Mazes_ examines how organizations encourage people to surrender their moral independence, _Confronting Our Freedom_ asks what it would mean to reclaim it.
+
+#### learned helplessness
+
+---
+
+<!-- learnings/responsibility of the captain.md -->
+
+### responsibility of the captain
+
+So I recently got myself a boat, possibly partly inspired by this book, maybe reading about people surviving all kinds of miserable conditions made sitting at home somehow feel too comfortable.
+
+> [!TIP] Alfred Lansing - Endurance
+
+But it was only after actually experiencing the whole "well shit this means i'm completely responsible for the safety of the people on board", that many things in the book just made sense intuitively
+
+#### parallels to the workplace
+- being responsible for others wellbeing and that the ship itself won't turn into an environmental hazard
+- making sure people onboard are adequately trained
+- preparation for shit hitting the fan
+- making yourself redundant (and that others know how to fish your ass out of the water if needed)
+- staying humble and not ending up in a situation which you don't have the skills to get out of, or the ship can't handle
+- navigating, knowing how to figure out where you are in case you get lost
+- taking calculated risks
+- making sure decisions are made, sometimes in situations where there's no time to have a conversation about it, but expkaining your reasoning afterwards
+- contrary to (some stories i guess) the captain isn't supposed to go down with the ship, but to give the order to abandon it if it's sinking/getting crushed by ice
+
+
+> Captain Marquet is quick to point out that there are only three things that he can’t delegate. “I can’t delegate my legal responsibilities, I can’t delegate my relationships and I can’t delegate my knowledge. Everything else, however, I can ask others to take responsibility for,” he says.
+> 
+> What is so remarkable about this model and what is so important about these three responsibilities is that though they cannot be handed off, they can all be shared. And that’s what the best leaders do. They share what they know, ask knowledgeable people for help performing their duties and make introductions to create new relationships within their networks. Poor leaders hoard these things, falsely believing it is their intelligence, rank or relationships that make them valuable. It is not. In an organization with a strong Circle of Safety, not only is the leader willing to share knowledge, but so too is everyone else. Again, the leader sets the tone. When our leaders reveal their gaps in knowledge and missteps, not only are we more willing to help, but we too are more willing to share when we make mistakes or when things go wrong. (turn that ship around)
 
 ---
 
@@ -1627,44 +1582,43 @@ For example, *"the outcome of this meeting was interpreted differently by partic
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
 
 #### clear is kind
-100% the best book on how to tough conversations at work:
+Here's a quote from the 100% best book on how to tough conversations at work:
 > [!TIP] dare to lead (brene brown)
 
 > Clear is kind. Unclear is unkind.
-
+> 
 > Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better (which is almost always about making ourselves feel more comfortable) is unkind. 
-
-[Bullshit](https://jbaron.org/journal/15/15923a/jdm15923a.html) = to specifically refer to statements produced without particular concern for truth, clarity, or meaning, (distinguishing "bullshit" from a deliberate, manipulative lie intended to subvert the truth).
-
+> 
 > Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind.
-
-#### anonymous feedback
+> 
 > Talking about people rather than to them is unkind.
 
+#### anonymous feedback
 Anonymous feedback is structurally unkind, you can't give it without talking about people. Here's what brene has to say about it:
 
 > If you are not in the arena getting your ass kicked on occasion, I'm not interested in or open to your feedback. 
 > 
 > There are a million cheap seats in the world today filled with people who will never be brave with their lives but who will spend every ounce of energy they have hurling advice and judgment at those who dare greatly. Their only contributions are criticism, cynicism, and fearmongering. If you're criticizing from a place where you're not also putting yourself on the line, I'm not interested in what you have to say.
 
-> [!EXAMPLE] [anonymous feedback can destroy your team](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
+[Bullshit](https://jbaron.org/journal/15/15923a/jdm15923a.html) = to specifically refer to statements produced without particular concern for truth, clarity, or meaning, (distinguishing "bullshit" from a deliberate, manipulative lie intended to subvert the truth).
 
-Performance reviews, often by design, revolve around
-1. anonymous feedback
-2. holding people accountable
+#### performance reviews
+Performance reviews - often by design - revolve around anonymous feedback, and holding people accountable based on that anonymous feedback at the same time. If any of it comes as a surprise and you haven't gotten a fair chance to improve beforehand, then it is also unkind.
+
+> [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
+
+> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It. ](https://www.corporate-rebels.com/blog/annual-performance-reviews)
 
 A nice rant about 360 reviews / anonymous surveys can be found in this book:
 > [!TIP] Confronting Our Freedom (Peter Block, Peter Koestenbaum)
 
-> "if you want to know how people are doing, just ask!"
 
-> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It. ](https://www.corporate-rebels.com/blog/annual-performance-reviews)
 
 questions to ask yourself:
 1. The content — is there something true here I need to act on?
 2. The channel — what did I, or the system I'm part of, do that made anonymity the safest available option?
 
-Edmondson's whole point is that silence has a rational logic: the cost of speaking is immediate and personal, the benefit diffuse and future. When there's a power gradient — you hold their review, their contract, their renewal — anonymity may be the only reason the information reached you at all. In Teaming, blameless reporting and the Good Catch Log were deliberately anonymous as a transitional device, to surface information in a system where naming carried too much risk. That's what anonymity is genuinely good for. It's a scaffold and a symptom, not a destination.
+Caveat: When there's a power gradient — you hold their review, their contract, their renewal — anonymity may be the only reason the information reached you at all. In Teaming, blameless reporting and the Good Catch Log were deliberately anonymous as a transitional device, to surface information in a system where naming carried too much risk. That's what anonymity is genuinely good for. It's a scaffold and a symptom, not a destination.
 
 The most accountable response to an anonymous note is not to solve the mystery. It's to ask why the front door was shut.
 #### the invisible army
@@ -1687,13 +1641,11 @@ In addition: you will try to work out who. Almost involuntarily. Which means one
 
 > [!EXAMPLE] [all feedback is subjective](https://psychsafety.com/all-feedback-is-subjective/)
 
-Account for degree of difficulty. Struggles don’t necessarily reflect the absence of ability— often they reveal the presence of adversity. To account for the obstacles candidates have faced, put their performance in context
+Account for degree of difficulty. Struggles don’t necessarily reflect the absence of ability— often they reveal the presence of adversity. To account for the obstacles candidates have faced, put their performance in context.
 
-[people are doing the best they can with what they have](#people-are-doing-the-best-they-can-with-what-they-have)
- c
 #### Feedback and accountability
 
-accountability is: "You own your mistakes, apologize, and make amends." Anonymous feedback lets you do the first. It structurally forbids the other two. You cannot apologize to someone whose name is withheld. You cannot ask what it cost them, or check whether your fix actually landed for the person who was hurt.
+accountability is: "You own your mistakes, apologize, and make amends." Anonymous feedback (when it's specific) lets you do the first. It structurally forbids the other two. You cannot apologize to someone whose name is withheld. You cannot ask what it cost them, or check whether your fix actually landed for the person who was hurt.
 
 ---
 
@@ -1842,14 +1794,17 @@ hey that's nothing listen to what happened to me one time
 
 ---
 
-<!-- learnings/conflict resolution.md -->
+<!-- learnings/how to cool conflict.md -->
 
-### conflict resolution
+### how to cool conflict
 
 > [!WARNING] this page is very wip
 
-*most disagreements revolve around 5% of differences*
-#### how to cool conflict
+a few useful things to remember:
+> *most disagreements revolve around 5% of differences*
+
+> People don't get angry when they're confident, but scared.
+
 - *Identify the Nature of Conflict*: Though a difference of opinion about a product design or a work process is useful, personal friction and personality clashes are counterproductive. Understanding the differences between types of conflict (task vs relationship conflict) allows leaders to better manage contentious exchanges.
 - ﻿﻿*Model Good Communication*: Good communication when confronting conflict, especially heated conflict, combines thoughtful statements with thoughtful questions, so as to allow people to understand the true basis of a disagreement and to identify the rationale behind each position.
 - ﻿﻿*Find Common Ground*: By identifying and also embracing shared goals, teams are able to overcome the fundamental attribution errors that erode respect and instead develop an environment of trust.
@@ -1868,7 +1823,7 @@ fundamental attribution error
 local rationality
 
 
-separate needs (see [universal human needs](#universal-human-needs)) vs wants
+separate needs (see universal human needs) vs wants
 
 #### example
 
@@ -1965,54 +1920,54 @@ The 2 pizza rule is a guideline that says a meeting (or team) should be small en
 
 ### a team of teams
 
-> [!WARNING] this page is wip
-
 *"A team of teams" — the problem you get once you outgrow a single team.*
 
-> [!tip] stanley mcchrystal - team of teams
+> [!tip] stanley mcchrystal - Team of Teams: New Rules of Engagement for a Complex World
 
-> [!EXAMPLE] article: [key takeaways from team of teams](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
+> [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/)
+
+> [!EXAMPLE] article: [key takeaways](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
+
+> Complex environments are, by definition, too complicated for any one person to grasp fully.
 
 Past a certain size no single team can hold the whole problem, so you split into many — and now individually excellent teams can still add up to a dysfunctional whole. ***Great teams that don't talk to each other aren't a great organization***; they're silos with good morale.
 
-#### why it matters
-
-[lines of communication](#lines-of-communication) (Brooks's Law) says the cost of connecting everyone to everyone explodes as you grow — so the naive answer, "just have everyone coordinate," collapses under its own overhead. The two useful responses to that are the subject of this page: **don't connect everyone to everyone (connect enough), and make the shared picture travel instead of the instructions.**
-
-The stakes are the same as the single-team case, one level up: bad news and good ideas have to cross the gaps *between* teams, not just up the hierarchy within one. Most large-org failure isn't a team failing at its task — it's the handoff, the assumption, the thing that fell between two teams who each thought the other had it.
-
-> "The most effective teams are those that can rapidly adapt to the ever-changing environment.” 
-
-#### what's the point of the book
-> Hierarchical management techniques no longer work because organizations are too large for any one person to make all the decisions.
+> *Organizations are too complex for any one person to make all the decisions.*
 > 
 > In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. Today organizations are too complex for management to do all the thinking.
 
-The book argues that traditional command and control structures are simply too slow and inefficient in the modern rapidly changing world.
+#### why it matters
+
+> The most effective teams are those that can rapidly adapt to the ever-changing environment.
+
+The book explains how traditional command and control structures are simply too slow and inefficient in the modern rapidly changing world.
 
 #### the solution: shared consciousness
-
-> *"organizations are too complex for any one person to make all the decisions"*
-
 so instead of pushing decisions up, you push *understanding* down and out.
 
-- **Shared consciousness** — everyone holds a holistic picture of what the whole organization is doing and why, built through radically transparent communication (leaders think out loud; information is shared widely, not need-to-know). See [free flow of information](#free-flow-of-information).
+- **Shared consciousness** — everyone holds a holistic picture of what the whole organization is doing and why, built through radically transparent communication (see [free flow of information](#free-flow-of-information))
 - **Empowered execution** — once people share that picture, they can act without asking permission, because they can predict what the org would want. Distributed decision-making requires shared consciousness — empower people without context and they just fumble in the dark.
-- **Connectivity, not full connection** — you don't need everyone to know everyone (Brooks's Law forbids it). You need enough cross-team relationships that *"if everyone knows a couple of people, there's likely a connection to every other team."
-
+- **Connectivity, not full connection** — you don't need everyone to know everyone, but you need enough cross-team relationships that *"if everyone knows a couple of people, there's likely a connection to every other team."
 
 > **To contend with complexity, everyone in the organization must see how everything works together.** They have to understand the interdependencies and how the organization operates as a whole. When people understand these things, they make good decisions, quicker.
 
 ![Pasted image 20260627140901.png](pasted%20images/Pasted%20image%2020260627140901.png)
 
-|               | the old default                     | what replaces it                                 |
-| ------------- | ----------------------------------- | ------------------------------------------------ |
-| the world     | complicated (hard, but predictable) | complex (interdependent + fast -> unpredictable) |
-| the goal      | efficiency, robustness              | adaptability, resilience                         |
-| the structure | command -> command of teams         | team of teams                                    |
-| information   | "need to know"                      | shared consciousness                             |
-| authority     | the perry principle                 | empowered execution                              |
-| the boss      | chess master                        | gardener                                         |
+#### why this leads to more innovation
+Associative thinking is the skill of connecting ideas, memories, or concepts that don’t seem related at first glance. It’s the essence of creativity, making it possible to see patterns, develop unique solutions, and bring fresh ideas into any field.
+
+> [!EXAMPLE] article: [associative thinking and creative potential](https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749)
+
+A team of teams is basically associative thinking at scale.
+
+#### cross team connectors
+These often end up being the ones whose brains already work this way, and whose knowledge spans across many different domains. This breadth of knowledge can be used to connect the right people with more depth in a single topic. 
+
+These people are often not leads themselves, and 
+
+They're often also the ones who just don't fit into a narrowly shaped box of a rigid structure, whose job descriptions are often hard to define or to reduce to a simple measurable number and benefits come with more delay, so the work often goes underappreciated. it's something a rigid structure where people are told to "just focus on their own work", where "what isn't measured won't get done", you'll end up with a huge amount of wasted potential, with both problems and great ideas falling in between the cracks. 
+
+There's often a huge amount of untapped potential in this space (which is probably why tech artists not need to worry about running out of useful things to do)
 
 ---
 
@@ -2099,10 +2054,29 @@ At the end of the day though, none of us should need to be afraid.
 ### pitfalls of growing teams
 
 > [!WARNING] this page is wip
+> i don't really know what i'm talking about here, todo: gather more information
 
+#### creating a corporate ladder
+
+A common assumption is that there need to be all kinds of seniority levels attached to job titles. This can sometimes be done to extreme precision (i.e. Senior Software Engineer I, Senior Software Engineer II, etc). This in itself creates status hirarchies, and can reduce psychological safety and cause the junior employees to hesitate to speak up.
+
+It also creates incentives for comparison instead of collaboration, and encourage promotion-seeking behavior, and the less flashy but important work may be left undone.
+
+*Some ways to avoid it*
+Separating seniority and compensation from the job title, so the titles only describe what people do, but allowing people to add something they feel is appropriate (within reason) to for example their linkedin profile so it doesn't impact their career overall.
+
+Lowering the overall salary range across the company, and simply paying everyone enough to afford a reasonable standard of living. This also frees up mental capacity for the work itself when not having to think about being able to afford basic necessities. For yearly bonuses, giving everyone the same amount also reduces internal competition.
+
+#### the peter principle
 [the peter principle](https://en.wikipedia.org/wiki/Peter_principle) (people being promoted past their abilities)
-A small team doesn't require the same kind of leadership approach as a larger one. 
+In a small company, if you're the only artist there, then you *are* the art department. When more people come along this changes and you may find yourself in a situation where you need to be a lead instead, which suddenly requires a very different set of skills, and the support is often not available, as your own lead may not have the skills to train you either.
 
+*some ways to avoid it*
+reducing the incentives for being a lead simply for the title, and clarifying what the responsbilities of a lead are. 
+
+
+
+#### social distance
 [social distance](https://en.wikipedia.org/wiki/Bogardus_social_distance_scale)
 When the team is small enough that everyone can know each other on a personal level (maybe <20 people), any disagreements surface quickly and also get resolved easily. After a certain point it becomes easier to avoid otherwise healthy conflict, which can build up into bigger issues. 
 
@@ -2110,15 +2084,9 @@ When the team is small enough that everyone can know each other on a personal le
 
 The physical separation between us and the receiving end of our decisions can also have a dramatic effect. This can also happen because of remote work, it's fine to not sit in the same office all the time, but meeting in person every now and then is what resets this.
 
-making assumptions
+#### making assumptions
 
----
-
-<!-- learnings/the corporate ladder.md -->
-
-### the corporate ladder
-
-
+> Assumptions is the mother of all fuckups. Our biggest risks are assumptions that go unnoticed and unchallenged.
 
 ---
 

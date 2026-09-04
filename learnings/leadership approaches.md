@@ -55,7 +55,7 @@ or as brene brown puts it:
 | Tolerating Discrimination and a "Fitting-In" Culture             | Cultivating a Culture of Belonging, Inclusivity, and Diverse Perspectives |
 | Zigzagging and Avoiding                                          | Talking Straight and Taking Action                                        |
 | Leading from Hurt                                                | Leading from Heart                                                        |
-
+%%
 # why the armor?
 > "Don't let what looks like a bloated ego and narcissism fool you into thinking there's a lack of shame. Shame and fear are almost always driving that unethical behavior… I define narcissism as the shame-based fear of being ordinary."
 

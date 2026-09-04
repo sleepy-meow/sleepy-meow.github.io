@@ -232,7 +232,9 @@
   /* ---------- Callouts (Obsidian-style) ---------- */
   .md .callout {
     --cl: 217;
-    margin: 1.2em 0; padding: .55em 1em;
+    /* Slightly more bottom padding: the title's line-height pads the top
+       optically, so equal values read as bottom-tight. */
+    margin: 1.2em 0; padding: .55em 1em .8em;
     border-radius: var(--radius);
     background: hsl(var(--cl) 70% 50% / .1);
     border: 1px solid hsl(var(--cl) 70% 50% / .22);

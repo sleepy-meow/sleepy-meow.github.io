@@ -23,8 +23,8 @@
 [[distributed decision making]] !!
 [[logging decisions]] !!
 [[flow state & group flow]] !!
+[[developer user experience]] !!
 [[the cost of context switching]] !!
-[[developer user experience]] !! ?
 # conversations
 [[feedback checklists]] !!
 [[bullshit feedback]] !!
@@ -36,10 +36,10 @@
 
 # leadership
 [[the job of a leader]] !! ?
-[[leadership approaches]] !! ?
+[[leadership approaches]] !!
 [[motivation]] !!
 [[hope is not an emotion]] !!
-[[confronting our freedom]] !! ?
+[[confronting our freedom]] !!
 [[responsibility of the captain]] !! ?
 # scaling teams
 [[lines of communication]] !!

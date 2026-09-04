@@ -6,7 +6,7 @@ Many of these ideas are useful for anyone who wants to make their environment a 
 
 Pick one from the sidebar to start reading!
 
-> [!INFO] TARGET AUDIENCE (small teams and people who may not necessarily be leads themselves), learnings are mostly based on [these books](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b259?v=314d1f512d894da2916a46ebef5310cd&assetsVersion=23.13.20260627.0555&clientBuildTarget=clientExperimental)
+> [!INFO] TARGET AUDIENCE (small teams and people who may not necessarily be leads themselves)
 
 > [!INFO] SOURCES (learnings are mostly based on [this list of books & research papers](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b259?v=314d1f512d894da2916a46ebef5310cd&assetsVersion=23.13.20260627.0555&clientBuildTarget=clientExperimental))
 

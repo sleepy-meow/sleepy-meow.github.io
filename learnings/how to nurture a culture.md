@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 > If character describes how an individual thinks and acts, then the culture of an organization describes the character of a group of people and how they think and act as a collective. (simon sinek, leaders eat last)
 
 

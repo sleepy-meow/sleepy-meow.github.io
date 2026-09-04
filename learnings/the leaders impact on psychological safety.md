@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 *Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear.
 
 *Speaking up is only the first step. The true test is how leaders respond when people actually do speak up.*

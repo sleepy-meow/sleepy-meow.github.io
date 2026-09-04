@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 A learning mindset reframes *"did you do it right?"* to *"what did we learn?"*. And the good thing is that there's always more to learn!
 
 > [!tip] amy edmondson - teaming (a practical guide on how to foster collaboration and learning)

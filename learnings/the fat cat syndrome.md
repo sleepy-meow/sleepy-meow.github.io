@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 *i.e. "this ship can never sink"*
 
 > The state of mind one possesses when one becomes so successful, he/she disregards the inefficiencies and lost opportunities.

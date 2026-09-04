@@ -36,6 +36,7 @@
     --accent:       hsl(215, 75%, 70%);
     --accent-hover: hsl(215, 75%, 80%);
     --active:       #536e89;
+    --active-dim:   #3b4e60;  /* selected "?" draft page    */
     --blue:         #2e80f2;  /* H3                         */
     --yellow:       #e5b567;  /* H4                         */
     --pink:         #ff82b2;  /* bold / italic              */
@@ -63,6 +64,7 @@
       --accent:       hsl(215, 75%, 60%);
       --accent-hover: hsl(215, 75%, 50%);
       --active:       #536e89;
+      --active-dim:   #3b4e60;
       --blue:         #086ddd;
       --yellow:       #bd8e37;
       --pink:         #c32b74;
@@ -112,6 +114,7 @@
   .brand .brand-icon {
     width: 30px; height: 30px; border-radius: var(--radius-s);
     flex: 0 0 auto; object-fit: cover;
+    filter: grayscale(1);
   }
   #search {
     width: 100%; padding: 8px 12px; margin-bottom: 16px;
@@ -125,27 +128,33 @@
   .folder { margin-bottom: 12px; }
   .folder > .folder-title {
     font-size: .72rem; text-transform: uppercase; letter-spacing: .08em;
-    color: var(--faint); font-weight: 700;
+    color: #3eb4bfa6; font-weight: 700;
     padding: 6px 10px; display: flex; align-items: center; gap: 7px;
   }
   .folder-title::before { content: "▸"; font-size: .7em; opacity: .7; }
   nav a {
-    display: block; text-decoration: none; color: var(--muted);
+    display: block; text-decoration: none; color: #c7c7c7;
     padding: 5px 10px 5px 22px; border-radius: var(--radius-s);
     font-size: .9rem; transition: background .12s, color .12s;
     overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
   }
   nav a:hover { background: var(--panel); color: var(--text); }
-  /* Pages marked "?" in the page index — dimmer. Listed before .active so a
-     selected draft still highlights normally. */
-  nav a.draft { color: var(--faint); }
-  nav a.draft:hover { color: var(--muted); }
   /* Pages marked "!!!" in the page index — highlights, called out in pink. */
   nav a.star { color: var(--pink); }
   nav a.star:hover { color: var(--pink); }
+  /* Pages marked "?" in the page index — grey, whatever else they're marked.
+     Listed after .star so the "?" wins, and before .active so a selected
+     draft still highlights normally. */
+  nav a.draft { color: #5a5d61; }
+  nav a.draft:hover { color: var(--muted); }
   nav a.active {
     background: var(--active);
     color: #dadada; font-weight: 500;
+  }
+  /* A selected "?" draft keeps the muted look: darker blue, dimmer text. */
+  nav a.draft.active {
+    background: var(--active-dim);
+    color: #9aa4ae;
   }
   /* ---------- Main ---------- */
 
@@ -194,11 +203,10 @@
   /* ---------- Callouts (Obsidian-style) ---------- */
   .md .callout {
     --cl: 217;
-    margin: 1.2em 0; padding: .8em 1em;
+    margin: 1.2em 0; padding: .55em 1em;
     border-radius: var(--radius);
     background: hsl(var(--cl) 70% 50% / .1);
     border: 1px solid hsl(var(--cl) 70% 50% / .22);
-    border-left: 3px solid hsl(var(--cl) 70% 60%);
     font-style: normal;
   }
   .md .callout-title {
@@ -212,15 +220,13 @@
   .md .callout-body { margin-top: .4em; }
   .md .callout-body > :first-child { margin-top: 0; }
   .md .callout-body > :last-child { margin-bottom: 0; }
-  /* Example callouts hold links — tint them with the callout's own purple. */
-  .md .callout[data-callout="example"] a:not(.tag) { color: hsl(var(--cl) 75% 72%); }
-  .md .callout[data-callout="example"] a:not(.tag):hover { color: hsl(var(--cl) 85% 82%); }
+  /* Links inside a callout read as body text — only the underline marks them. */
+  .md .callout a:not(.tag),
+  .md .callout a:not(.tag):hover { color: inherit; }
   @media (prefers-color-scheme: light) {
     .md .callout { background: hsl(var(--cl) 65% 48% / .08); border-color: hsl(var(--cl) 60% 45% / .25); }
     .md .callout-title { color: hsl(var(--cl) 60% 40%); }
     .md .callout-title .dim-paren { color: hsl(var(--cl) 35% 32%); }
-    .md .callout[data-callout="example"] a:not(.tag) { color: hsl(var(--cl) 60% 45%); }
-    .md .callout[data-callout="example"] a:not(.tag):hover { color: hsl(var(--cl) 65% 35%); }
   }
   .md hr { border: none; border-top: 1px solid var(--border); margin: 2em 0; }
   .md blockquote {
@@ -331,6 +337,85 @@
     }
     main { margin-left: 0; padding: 70px 22px 40vh; }
   }
+
+  /* ═══════════════════════════════════════════════════════════════════
+     TEMPORARY — greyscale pass. Everything renders grey except:
+       · blockquotes / quoted text (and their "(source)" aside)
+       · *italic* and **bold** runs
+       · warning-family callouts ([!warning] / [!caution] / [!attention])
+       · [!tip] callouts (the book icon), at half saturation
+       · images and code blocks
+     Delete this whole block to restore the full palette. Nothing above
+     it was changed, so removal is the only step needed.
+     ═══════════════════════════════════════════════════════════════════ */
+  :root {
+    --accent:       hsl(0 0% 74%);
+    --accent-hover: hsl(0 0% 88%);
+    --active:       #4b4b4b;
+    --active-dim:   #363636;
+    --blue:         hsl(0 0% 72%);
+    --yellow:       hsl(0 0% 72%);
+    --red:          hsl(0 0% 72%);
+    --quote-bar:    hsl(0 0% 55%);
+    --highlight:    hsl(0 0% 62% / .38);
+  }
+  /* --pink (bold/italic) and --green (quotes) are deliberately left alone;
+     the two places they're used outside those roles are greyed here. */
+  nav a.star, nav a.star:hover { color: var(--muted); }
+  #search:focus { border-color: var(--accent); box-shadow: 0 0 0 2px hsl(0 0% 60% / .2); }
+
+  /* Sidebar tag pills (per-tag hues) */
+  .tag-list .tag { background: hsl(0 0% 55% / .16); color: hsl(0 0% 72%); }
+  .tag-list .tag:hover { background: hsl(0 0% 60% / .3); }
+  .tag-list .tag.active { background: hsl(0 0% 52%); color: #fff; }
+
+  /* Callouts, except the warning family and [!tip] (kept half-saturated below) */
+  .md .callout:not([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="tip"]) {
+    background: hsl(0 0% 50% / .1);
+    border-color: hsl(0 0% 50% / .22);
+  }
+  .md .callout:not([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="tip"]) .callout-title { color: hsl(0 0% 74%); }
+  .md .callout:not([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="tip"]) .callout-title .dim-paren { color: hsl(0 0% 56%); }
+
+  /* [!tip] (the book one) keeps its teal, at 50% saturation instead of 70% */
+  .md .callout[data-callout="tip"] {
+    background: hsl(var(--cl) 50% 50% / .1);
+    border-color: hsl(var(--cl) 50% 50% / .22);
+  }
+  .md .callout[data-callout="tip"] .callout-title { color: hsl(var(--cl) 50% 68%); }
+  .md .callout[data-callout="tip"] .callout-title .dim-paren { color: hsl(var(--cl) 32% 55%); }
+
+  /* Images and code blocks (highlight.js) keep their colour — not greyed. */
+
+  @media (prefers-color-scheme: light) {
+    :root {
+      --accent:       hsl(0 0% 32%);
+      --accent-hover: hsl(0 0% 12%);
+      --active:       #6b6b6b;
+      --active-dim:   #8a8a8a;
+      --blue:         hsl(0 0% 30%);
+      --yellow:       hsl(0 0% 30%);
+      --red:          hsl(0 0% 30%);
+      --quote-bar:    hsl(0 0% 55%);
+      --highlight:    hsl(0 0% 55% / .32);
+    }
+    #search:focus { box-shadow: 0 0 0 2px hsl(0 0% 40% / .2); }
+    .tag-list .tag { background: hsl(0 0% 45% / .14); color: hsl(0 0% 32%); }
+    .tag-list .tag:hover { background: hsl(0 0% 45% / .26); }
+    .md .callout:not([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="tip"]) {
+      background: hsl(0 0% 45% / .08);
+      border-color: hsl(0 0% 45% / .25);
+    }
+    .md .callout:not([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="tip"]) .callout-title { color: hsl(0 0% 34%); }
+    .md .callout:not([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="tip"]) .callout-title .dim-paren { color: hsl(0 0% 46%); }
+    .md .callout[data-callout="tip"] {
+      background: hsl(var(--cl) 45% 48% / .08);
+      border-color: hsl(var(--cl) 42% 45% / .25);
+    }
+    .md .callout[data-callout="tip"] .callout-title { color: hsl(var(--cl) 42% 40%); }
+    .md .callout[data-callout="tip"] .callout-title .dim-paren { color: hsl(var(--cl) 25% 32%); }
+  }
+  /* ══════════════════ end TEMPORARY greyscale pass ══════════════════ */
 </style>
 </head>
 <body>

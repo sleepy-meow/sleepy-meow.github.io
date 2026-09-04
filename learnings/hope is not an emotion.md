@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 *..it's a thought process that can be learned.*
 
 We need hope like we need air, but it's not a warm, fuzzy emotion that fills us with a sense of possibility. Hope is a way of thinking, a cognitive process, a "trilogy of *goals*, *pathways*, and *agency*" (C. R. Snyder)

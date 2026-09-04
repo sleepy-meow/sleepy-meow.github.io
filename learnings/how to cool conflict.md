@@ -11,7 +11,7 @@ a few useful things to remember:
 - ﻿﻿*Encourage Difficult Conversations*: Through good communication, as just defined, it's useful to engage in authentic conversations that help build resilient relationships and put aside ideological and personal differences.
 
 # useful sentences
-> *Here's the story I'm telling myself.*
+> *Here's the story I'm telling myself."*
 
 "You were quiet in that meeting, and the story I'm telling myself is that you were pissed about the sprint split. Can we talk about it?"
 

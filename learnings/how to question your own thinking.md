@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 > [!TIP] adam grant - think again
 
 # cognitive biases

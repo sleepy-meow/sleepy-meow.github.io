@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 *change begins in a shift in narrative*
 
 Emergent facilitation sets up conditions for a group's direction to arise from participants rather than from a pre-built agenda, and let solutions emerge organically.

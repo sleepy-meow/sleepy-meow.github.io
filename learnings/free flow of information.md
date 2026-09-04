@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 > Free flow of information is one of the fundamental requirements for self-management of organizations. 
 
 > [!EXAMPLE] [reinventing organizations wiki - information flow](https://reinventingorganizationswiki.com/en/theory/information-flow/)

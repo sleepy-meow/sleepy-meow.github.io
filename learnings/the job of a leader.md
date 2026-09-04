@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 
 a collection of quotes from the following books:
 

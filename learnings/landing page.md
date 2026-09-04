@@ -6,11 +6,30 @@ Many of these ideas are useful for anyone who wants to make their environment a 
 
 Pick one from the sidebar to start reading!
 
-> [!WARNING] WORK IN PROGRESS (may include irrelevant / nonsensical mumbo jumbo and missing sources)
-
 > [!INFO] TARGET AUDIENCE (small teams and people who may not necessarily be leads themselves)
 
+
+
+> [!WARNING] Warning: this page is still very wip. (some pages are more finished than others, the more WIP pages are greyed out in the sidebar, but still visible)
+
 %%
+# disclosure of AI usage:
+ - mainly as an aid during the editing phase (helping reorganize chapters, finding inconsistencies, improving wording & sentences)
+ - for finding things in the books where ctrl+f won't work
+
+It still feels a bit like a double edged sword, but i swear i've read the books and research papers referenced here, and the goal is to make the pages clear and concise, and more authentic and human rather than having perfect grammar
+
+
+
+
+
+> [!WARNING] this page is still wip
+
+> [!DANGER] contains some ai generated paragraphs (temporarily for editing purposes) or stuff copypasted from elsewhere that still need to be turned into something more original
+
+> [!SUCCESS] this page is fine for the time being
+
+
 The main topics:
 
 *Feedback & communication* - How to give useful feedback, talk about problems, and make it easier for people to understand each other.

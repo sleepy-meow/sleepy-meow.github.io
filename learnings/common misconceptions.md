@@ -1,6 +1,3 @@
-> [!WARNING] this page is wip
-
-
 *"you're not supposed to want to be a lead"*
 there's a difference between wanting power and control, and wanting someone to take the job seriously. 
 Someone who is genuinely not interested in leading and learning the skills it reqires, and would rather just do hands-on work, should just do that instead.

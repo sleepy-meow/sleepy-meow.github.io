@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 *a comparison of different approaches*
 
 > [!tip] amy edmondson - teaming

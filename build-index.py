@@ -164,9 +164,10 @@ def folders_from_index(index_path: str, notes: dict):
     "# heading" lines start a category; [[wikilinks]] beneath become its pages
     (resolved against `notes`, unresolved links skipped). Trailing markers set
     a page's state for the site's sidebar switches: "?" → "draft": true (work
-    in progress, hidden by default), "!!" → "done": true (finished, the only
-    ones shown by default), "!!!" → "done" plus "star": true (a highlight —
-    done, and called out in colour). Returns None if the file can't be read.
+    in progress, greyed out), "!!" → "done": true (finished, the only ones
+    shown by default), "!!!" → "done" plus "star": true (a highlight — done,
+    and called out in colour). Markers combine, so "!! ?" is a done page still
+    marked as a draft. Returns None if the file can't be read.
     """
     try:
         with open(index_path, encoding="utf-8") as fh:
@@ -184,20 +185,22 @@ def folders_from_index(index_path: str, notes: dict):
             current = {"name": h.group(1).strip(), "files": []}
             folders.append(current)
             continue
-        # "!!!" is matched before "!!" so the longer marker wins.
-        for m in re.finditer(r"\[\[([^\]|#]+)[^\]]*\]\][ \t]*(\?|!{3,}|!!)?", s):
+        # Markers may be combined and spaced freely ("!! ?"), so grab the whole
+        # trailing run and read each state out of it.
+        for m in re.finditer(r"\[\[([^\]|#]+)[^\]]*\]\][ \t]*((?:[!?][ \t]*)*)", s):
             note = notes.get(m.group(1).strip().lower())
             if not note or current is None:
                 continue
             entry = dict(note)          # copy: a note may be listed twice
-            marker = m.group(2)
-            if marker == "?":
+            marker = re.sub(r"[ \t]", "", m.group(2))
+            if "?" in marker:
                 entry["draft"] = True
-            elif marker == "!!":
-                entry["done"] = True
-            elif marker:                # "!!!" — done, and highlighted
+            bangs = marker.count("!")
+            if bangs >= 3:              # "!!!" — done, and highlighted
                 entry["done"] = True
                 entry["star"] = True
+            elif bangs == 2:
+                entry["done"] = True
             if entry not in current["files"]:
                 current["files"].append(entry)
     return [f for f in folders if f["files"]]

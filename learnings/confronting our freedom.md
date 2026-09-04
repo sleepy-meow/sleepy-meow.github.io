@@ -1,6 +1,3 @@
-> [!WARNING] this page is wip
-> todo: the one point to make: the tension between these two books & something about learned helplessness
-
 > [!TIP] robert jackall - Moral Mazes: The World of Corporate Managers (good for motivation to not want to be in this picture)
 
 > [!TIP] peter block & peter koestenbaum - confronting our freedom

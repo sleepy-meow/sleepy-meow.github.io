@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 *"They thought they needed to provide answers, when instead they needed to ask the right questions."*
 
 

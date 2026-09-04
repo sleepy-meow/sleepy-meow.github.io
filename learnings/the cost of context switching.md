@@ -1,5 +1,3 @@
-> [!WARNING] this page is wip
-
 *Spending 50% on one project and 50% on another does not add up to 100%.*
 
 This is because of context switching / attention residue. On average, 9-23 minutes is lost each time when switching context. Our brains cannot actually focus on two things at the same time, but rapidly switch between the two.

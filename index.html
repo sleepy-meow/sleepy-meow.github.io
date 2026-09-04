@@ -125,10 +125,39 @@
   }
   #search:focus { border-color: var(--accent); box-shadow: 0 0 0 2px hsl(215 75% 60% / .2); }
 
+  /* "Show WIP pages" switch — hides the "?" drafts from the nav by default. */
+  .wip-toggle {
+    display: flex; align-items: center; gap: 8px;
+    padding: 2px 10px 12px; cursor: pointer; user-select: none;
+    font-size: .72rem; text-transform: uppercase; letter-spacing: .08em;
+    font-weight: 700; color: #949799;
+    transition: color .12s;
+  }
+  .wip-toggle:hover { color: #b6b8ba; }
+  .wip-toggle input { position: absolute; opacity: 0; width: 0; height: 0; }
+  .wip-switch {
+    position: relative; flex: 0 0 auto;
+    width: 26px; height: 15px; border-radius: 999px;
+    background: var(--panel); border: 1px solid var(--border);
+    transition: background .14s, border-color .14s;
+  }
+  .wip-switch::after {
+    content: ""; position: absolute; top: 2px; left: 2px;
+    width: 9px; height: 9px; border-radius: 50%;
+    background: #949799; transition: transform .14s, background .14s;
+  }
+  .wip-toggle input:checked + .wip-switch {
+    background: var(--active); border-color: var(--active);
+  }
+  .wip-toggle input:checked + .wip-switch::after {
+    transform: translateX(11px); background: #efefef;
+  }
+  .wip-toggle input:focus-visible + .wip-switch { box-shadow: 0 0 0 2px hsl(0 0% 60% / .3); }
+
   .folder { margin-bottom: 12px; }
   .folder > .folder-title {
     font-size: .72rem; text-transform: uppercase; letter-spacing: .08em;
-    color: #3eb4bfa6; font-weight: 700;
+    color: #828181; font-weight: 700;
     padding: 6px 10px; display: flex; align-items: center; gap: 7px;
   }
   .folder-title::before { content: "▸"; font-size: .7em; opacity: .7; }
@@ -145,7 +174,7 @@
   /* Pages marked "?" in the page index — grey, whatever else they're marked.
      Listed after .star so the "?" wins, and before .active so a selected
      draft still highlights normally. */
-  nav a.draft { color: #5a5d61; }
+  nav a.draft { color: #6b6f74; }
   nav a.draft:hover { color: var(--muted); }
   nav a.active {
     background: var(--active);
@@ -415,6 +444,19 @@
     .md .callout[data-callout="tip"] .callout-title { color: hsl(var(--cl) 42% 40%); }
     .md .callout[data-callout="tip"] .callout-title .dim-paren { color: hsl(var(--cl) 25% 32%); }
   }
+
+  /* Body links keep their blue — only the chrome around them is greyed.
+     (Tag pills and links inside callouts are excluded, as above.) */
+  .md a:not(.tag) { color: hsl(215, 75%, 70%); }
+  .md a:not(.tag):hover { color: hsl(215, 75%, 80%); }
+  .md .callout a:not(.tag),
+  .md .callout a:not(.tag):hover { color: inherit; }
+  @media (prefers-color-scheme: light) {
+    .md a:not(.tag) { color: hsl(215, 75%, 60%); }
+    .md a:not(.tag):hover { color: hsl(215, 75%, 50%); }
+    .md .callout a:not(.tag),
+    .md .callout a:not(.tag):hover { color: inherit; }
+  }
   /* ══════════════════ end TEMPORARY greyscale pass ══════════════════ */
 </style>
 </head>
@@ -425,6 +467,11 @@
   <aside id="sidebar">
     <a class="brand" href="#"><img class="brand-icon" src="icon.png" alt="" /><span id="brand-title">Sleepy Meow</span></a>
     <input id="search" type="search" placeholder="Search notes…" autocomplete="off" />
+    <label class="wip-toggle">
+      <input id="wip-check" type="checkbox" autocomplete="off" />
+      <span class="wip-switch" aria-hidden="true"></span>
+      <span>Show very WIP pages</span>
+    </label>
     <nav id="nav"></nav>
     <div id="tags"></div>
   </aside>
@@ -438,11 +485,17 @@
   </main>
 
 <script>
-const nav     = document.getElementById('nav');
-const content = document.getElementById('content');
-const search  = document.getElementById('search');
-const body    = document.body;
-let manifest  = { folders: [] };
+const nav      = document.getElementById('nav');
+const content  = document.getElementById('content');
+const search   = document.getElementById('search');
+const wipCheck = document.getElementById('wip-check');
+const body     = document.body;
+let manifest   = { folders: [] };
+// WIP ("?") pages start hidden; the sidebar switch reveals them, and the
+// choice is remembered across reloads (storage can be unavailable — ignore).
+const WIP_KEY  = 'sleepy-meow:show-wip';
+let showWip    = false;
+try { showWip = localStorage.getItem(WIP_KEY) === '1'; } catch {}
 
 // Deterministic hue (0–359) per tag name, so each tag gets its own colour.
 function tagHue(t) {
@@ -684,6 +737,8 @@ function buildNav(folders) {
 function setActive(path) {
   document.querySelectorAll('nav a').forEach(a =>
     a.classList.toggle('active', a.dataset.path === path));
+  // The active note is exempt from the WIP filter, so re-run it here.
+  applyFilter();
 }
 
 function titleFor(path) {
@@ -803,7 +858,11 @@ function applyFilter() {
   document.querySelectorAll('nav a').forEach(a => {
     const matchQ = !q || a.dataset.search.includes(q);
     const matchTag = !activeTag || a.dataset.tags.split(' ').includes(activeTag);
-    a.style.display = matchQ && matchTag ? '' : 'none';
+    // WIP ("?") pages are hidden unless the toggle is on — but the note you're
+    // currently reading always stays listed, however you arrived at it.
+    const matchWip = showWip || !a.classList.contains('draft') ||
+                     a.classList.contains('active');
+    a.style.display = matchQ && matchTag && matchWip ? '' : 'none';
   });
   document.querySelectorAll('#nav .folder').forEach(f => {
     const anyVisible = [...f.querySelectorAll('a')].some(a => a.style.display !== 'none');
@@ -828,6 +887,11 @@ function selectTag(t) {
 }
 
 search.addEventListener('input', applyFilter);
+wipCheck.addEventListener('change', () => {
+  showWip = wipCheck.checked;
+  try { localStorage.setItem(WIP_KEY, showWip ? '1' : '0'); } catch {}
+  applyFilter();
+});
 
 function route() {
   const path = decodeURIComponent(location.hash.slice(1));
@@ -864,6 +928,8 @@ window.addEventListener('focus', refreshManifest);
   }
   document.title = manifest.title || 'Notes';
   document.getElementById('brand-title').textContent = manifest.title || 'Notes';
+  // Reflect the remembered choice (and override any browser form restore).
+  wipCheck.checked = showWip;
   buildNav(manifest.folders);
   buildTags(manifest.folders);
   applyFilter();

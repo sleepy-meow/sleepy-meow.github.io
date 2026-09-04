@@ -114,8 +114,8 @@
           "done": true
         },
         {
-          "name": "designing for flow state",
-          "path": "learnings/designing for flow state.md",
+          "name": "flow state & group flow",
+          "path": "learnings/flow state & group flow.md",
           "tags": [],
           "done": true
         },
@@ -166,13 +166,6 @@
           "name": "emergent facilitation",
           "path": "learnings/emergent facilitation.md",
           "tags": [],
-          "done": true
-        },
-        {
-          "name": "the problem with culture fit",
-          "path": "learnings/the problem with culture fit.md",
-          "tags": [],
-          "draft": true,
           "done": true
         }
       ]

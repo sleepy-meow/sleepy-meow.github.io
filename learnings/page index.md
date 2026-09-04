@@ -22,7 +22,7 @@
 # ways of working
 [[distributed decision making]] !!
 [[logging decisions]] !!
-[[designing for flow state]] !!
+[[flow state & group flow]] !!
 [[the cost of context switching]] !!
 [[developer user experience]] !! ?
 # conversations
@@ -32,7 +32,7 @@
 %%[[empathy misses]] !! ? %%
 [[how to cool conflict]] !! ?
 [[emergent facilitation]] !!
-[[the problem with culture fit]] !! ?
+%%[[the problem with culture fit]] !! ?%%
 
 # leadership
 [[the job of a leader]] !! ?

@@ -1,6 +1,7 @@
 > we can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted
 
 # psychological safety
+*A team climate in which people feel safe to ask questions and raise concerns without fear of being thrown under the bus.*
 
 > [!EXAMPLE] 3 minute video: [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0)
 
@@ -9,8 +10,6 @@
 > [!TIP] amy edmondson - the fearless organization
 
 ## why it matters
-*A team climate in which people feel safe to ask questions and raise concerns without fear of being thrown under the bus.*
-
 > It's hard for people to do their best work when they are afraid.
 
 ![[Pasted image 20260822123258.png]]
@@ -67,7 +66,7 @@ The danger here is mixing up the comfort zone and anxiety zone, and assuming tha
 
 > [!EXAMPLE] https://explore.psychsafety.com/
 
-# creating a circle of safety
+# a circle of safety
 
 > [!TIP] simon sinek - leaders eat last
 
@@ -77,7 +76,7 @@ His starting point is that every organization faces two sets of dangers. **Outsi
 
 Fear doesn't vanish when there's nothing to fear inside. It just gets pointed somewhere useful.
 
-When the danger is coming from inside the house though, you can start by building a small safe space, and extend it by checking who's outside it. The contractors, the new person, the one remote teammate, the team that keeps getting blamed. *A circle drawn around a few people isn't a small Circle of Safety — it's an inner circle, and they produce opposite results.*
+When the danger is coming from inside the house though, you can still build a small safe space, and extend it by checking who's outside it. The contractors, the new person, the one remote teammate, the team that keeps getting blamed. *A circle drawn around a few people isn't a small Circle of Safety — it's an inner circle, and they produce opposite results.*
 ## leaders want to feel safe too
 
 >  Leaders want to feel safe too. every single person wants to feel like they are valued by the others in the group. So when our boss comes down hard on us and we don't know the reason, it is equally our responsibility to express concern for their wellbeing. (simon sinek, leaders eat last)
@@ -94,9 +93,15 @@ But here's how doing this may help you too. By making your lead feel a little bi
 
  ![[Pasted image 20260905025238.png|426]]
 
-**Write it down while you can still see it.** It's easy to get acclimatised to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But it's easy to get stuck and think things can't get better.
+**Write it down while you can still see it.** It's easy to get acclimatised to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But it's easy to get stuck.
 
-Honestly, sometimes the answer is to simply leave. The responsibility is to the people aboard, not to going down with the ship.
+But this can come at a cost. (add something about chronic stress)
+
+(reach out to the pockets of safety)
+
+(add something about authenticity and fitting in)
+
+**Honestly, sometimes the answer is to leave.** The responsibility is to the people aboard, not to going down with the ship.
 
 > The loneliest steps are the ones between the city walls and the heart of the wilderness, where safety is in the rearview mirror, new territory remains to be seen, and the path out to the unknown seems empty. But put one foot in front of the other enough times, stay the course long enough to actually tunnel into the wilderness, and you'll be shocked how many people already live out there- thriving, dancing, creating, celebrating, belonging. It is not a barren wasteland. It is not unprotected territory. It is not void of human flourishing. The wilderness is where all the creatives and prophets and system-buckers and risk-takers have always lived, and it is stunningly vibrant. The walk out there is hard, but the authenticity out there is life. (brene brown, braving the wilderness)
 

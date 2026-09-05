@@ -1,4 +1,4 @@
-> [!WARNING] this page is still way too long but it may be the most important
+> [!WARNING] this page is still way too long
 
 *good feedback is specific, actionable, contextual, and open to dialogue.*
 
@@ -134,8 +134,8 @@ Not every opinion deserves equal weight. That doesn't mean surrounding yourself 
 - practice critical awareness 
 - reaching out
 - speaking about shame
-## 4. integrity gives you a solid ground
+## 4. integrity gives a solid ground
 It's easy for your imagination to run wild when receiving vague criticism, like being stuck in airport security watching them plow through your stuff looking for anything suspicious. But this is the upside of not having knowingly hidden skeletons in the closets: when someone comes to you with a comment of the likes of *"i know what you did last summer"*, this will allow you to simply say *"well let's go look and find out what it is then"*.
 
-They might find that you may have had a bad day or made a simple mistake, but this is comparable to a customs officer looking for something serious and just discovering a bunch of dirty underwear. 
+The findings may be that you had a bad day or made a honest mistake, but this is comparable to a customs officer looking for something serious and just discovering a bunch of dirty underwear. 
 

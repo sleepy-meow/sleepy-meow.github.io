@@ -23,6 +23,12 @@ Conditions:
 
 *Group flow is the shared, energized state where a team becomes so absorbed in a task together that ideas and actions click effortlessly, the group performs at its peak, and members lose track of self and time.*
 
+> [!EXAMPLE] article: [Flow at Workplace — How to incorporate an environment which is conducive to Flow](https://medium.com/@arjunvijeth/flow-at-workplace-how-organization-could-incorporate-an-environment-which-is-conducive-to-flow-80e7788b66d3)
+
+> [!TIP] Daniel Coyle - Flourish
+
+==todo: dig up the practical methods iirc in the book==
+
 ```
 **A jazz ensemble improvising**
 musicians riffing off each other, no one leading, the music seeming to play itself
@@ -51,10 +57,7 @@ when everyone is fully engaged and deep listening, when focused on the natural p
 **Equal participation**
 when all participants play an equal role in the collective creation of the final performance.
 ```
+
+%%
 # the foundation
 All of these are largely products of psychological safety: group flow can only happen when people feel safe enough to risk the unguarded, half-formed contributions it's made of.
-
-> [!EXAMPLE] article: [Flow at Workplace — How to incorporate an environment which is conducive to Flow](https://medium.com/@arjunvijeth/flow-at-workplace-how-organization-could-incorporate-an-environment-which-is-conducive-to-flow-80e7788b66d3)
-
-> [!TIP] Daniel Coyle - Flourish
-

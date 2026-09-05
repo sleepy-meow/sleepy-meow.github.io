@@ -1,10 +1,21 @@
-> [!WARNING] this page is very wip & could use very many improvements
+> [!TIP] crucial conversations
 
-# some useful things to remember:
+> [!TIP] say what you mean
+
+useful things to remember:
 > *most disagreements revolve around 5% of differences*
 
 > People don't get angry when they're confident, but scared.
 
+==todo: try to explain these in a very simple way==
+- ==general mindset==
+- ==general stuff==
+- ==simple things to do==
+- ==simple things what not to do==
+- ==examples / methods / resources==
+
+
+%%
 # simple things that can help
 Simply being in the same room, talking in person vs on slack / video call.
 
@@ -26,14 +37,10 @@ Simply being in the same room, talking in person vs on slack / video call.
 > "Seek first to understand, then to be understood."
 
 > "I'm brave enough to listen. I don't need to take it all in, but I'm brave enough to listen"
-# useful books
-> [!TIP] crucial conversations
-
-> [!TIP] say what you mean
 
 
 
-%%
+
 
 *[wiios law](https://en.wikipedia.org/wiki/Wiio%27s_laws): "Communication usually fails, except by accident”.*
 fundamental attribution error

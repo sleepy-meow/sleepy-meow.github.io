@@ -1,4 +1,4 @@
-> [!WARNING] this page is way too long
+> [!WARNING] this page is way too long / just copypasted from old notes
 
 *applying pipeline tech art ux learnings*
 

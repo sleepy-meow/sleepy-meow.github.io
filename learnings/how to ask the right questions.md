@@ -1,4 +1,4 @@
-*"They thought they needed to provide answers, when instead they needed to ask the right questions."*
+> They thought they needed to provide answers, when instead they needed to ask the right questions.
 
 
 # rules for a good question

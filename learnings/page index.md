@@ -32,7 +32,7 @@
 [[bullshit feedback]] !!
 [[how to ask the right questions]] !!
 %%[[empathy misses]] !! ? %%
-[[how to cool conflict]] !! ?
+[[how to cool conflict]] !!
 [[emergent facilitation]] !!
 %%[[the problem with culture fit]] !! ?%%
 
@@ -40,7 +40,7 @@
 [[the job of a leader]] !! ?
 [[leadership approaches]] !!
 [[motivation]] !!
-[[hope is not an emotion]] !!
+[[courage is contagious]] !!
 [[confronting our freedom]] !!
 [[responsibility of the captain]] !! ?
 # scaling teams

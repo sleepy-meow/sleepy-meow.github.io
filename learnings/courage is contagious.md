@@ -1,3 +1,10 @@
+> Here's something fascinating. Most people don’t start inventing, creating, or resisting injustice out of nowhere. They do it because someone else showed them it was possible. (rutger bregman - moral ambition)
+
+==todo: add some concrete examples==
+
+%%
+
+# hope is not an emotion
 *..it's a thought process that can be learned.*
 
 We need hope like we need air, but it's not a warm, fuzzy emotion that fills us with a sense of possibility. Hope is a way of thinking, a cognitive process, a "trilogy of *goals*, *pathways*, and *agency*" (C. R. Snyder)
@@ -8,8 +15,20 @@ Hope happens when..
 ..we can set realistic goals *"I know where I want to go"*
 ..we're able to achieve those goals, stay flexible and develop alternative routes *"I know how to get there, persistent, can tolerate disappointment and try again"*
 ..we believe in ourselves *"I can do this"*
+
+
+# confronting our freedom
+> [!TIP] peter block & peter koestenbaum - confronting our freedom
+
+> [!TIP] robert jackall - Moral Mazes: The World of Corporate Managers (good for motivation to not want to be in this picture)
+
+> [!TIP] stanley mcchrystal - risk: a user's guide (the last chapter)
+
+==todo: something about the contents of these books & learned helplessness / independence & responsibility / that one talk by mike monteiro==
+
+
 # courage is contagious
-> Here's something fascinating. Most people don’t start inventing, creating, or resisting injustice out of nowhere. They do it because someone else showed them it was possible. (rutger bregman - moral ambition)
+
 
 > [!EXAMPLE] documentary: [brene brown - the call to courage](https://www.netflix.com/fi-en/title/81010166)
 
@@ -36,7 +55,7 @@ Psychological safety isn’t just about reframing – the real-life consequences
 
 > if there are people who care, there is always hope
 
-%%
+
 # providing cover from above
 > "Courage comes from above. Our confidence to do what's right is determined by how trusted we feel by our leaders."
 

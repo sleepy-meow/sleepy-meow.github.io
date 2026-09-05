@@ -1,12 +1,10 @@
-> [!TIP] robert jackall - Moral Mazes: The World of Corporate Managers (good for motivation to not want to be in this picture)
-
 > [!TIP] peter block & peter koestenbaum - confronting our freedom
+
+> [!TIP] robert jackall - Moral Mazes: The World of Corporate Managers (good for motivation to not want to be in this picture)
 
 > [!TIP] stanley mcchrystal - risk: a user's guide (the last chapter)
 
-Where _Moral Mazes_ examines how organizations encourage people to surrender their moral independence, _Confronting Our Freedom_ asks what it would mean to reclaim it.
-
-# learned helplessness
+==todo: something about the contents of these books & learned helplessness==
 
 
 %%

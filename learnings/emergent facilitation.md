@@ -27,12 +27,15 @@ Some examples:
 
 The core difference with methods that already know the destination and steer the group there (presentation + Q&A, town halls, voting on pre-framed options, workshops run to a recommendation, classic project planning) is where the answer comes from. Destination-known methods ask _"do you agree?"_; emergent methods ask _"what should we even be asking?"_
 
-
-# consultants
-
+# examples
+==todo: add some cool example of how these have actually been used to solve some seemingly impossible problems==
+# useful links
+==todo: list some consultants + links to guides==
+%%
 http://www.allancohen.com/
 *"For senior leadership teams in seemingly impossible circumstances or with seemingly impossible ambitions who want to break with the strategies of the past and create an unprecedented future"*
 
 # other links
 https://participedia.net/method/dynamic-facilitation
 
+%%

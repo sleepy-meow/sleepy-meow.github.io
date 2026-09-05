@@ -1,7 +1,5 @@
 *a comparison of different approaches*
 
-> [!tip] amy edmondson - teaming
-
 > Many organizations still rely on the top-down, command-and-control approaches that fueled growth and profitability in the industrial era. Some of the most basic tenets of this management style- ensuring control, eliminating variance, and rewarding conformance - inhibit collaboration and organizational learning.
 
 The hierarchical approach may work just fine when managing a well optimized assembly plant factory line (as long as nothing breaks down or any changes need to be made). 
@@ -10,6 +8,7 @@ But the more creativity and innovation (which are, by definition, messy and unpr
 
 
 # organizing to execute vs organizing to learn
+> [!tip] amy edmondson - teaming
 
 | Management Approach         | Organizing to Execute                                                             | Organizing to Learn                  |
 | --------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |

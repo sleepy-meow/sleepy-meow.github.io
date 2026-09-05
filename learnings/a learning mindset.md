@@ -19,6 +19,12 @@ Deep curiosity requires courage and humility for the simple reason that choosing
 > *"In the absence of data we will always make up stories - it’s how our brains function."*
 
 Questions cry out for answers; they create a vacuum that serves as a voice opportunity for someone.
+
+==todo: add better practical stuff==
+
+# 5 whys
+
+
 # example: user centered design
 An iterative approach that involves users throughout the design process, ensuring a product reflects their real needs, goals, and context—not just the design team’s assumptions.
 

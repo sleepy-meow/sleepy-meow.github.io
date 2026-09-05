@@ -43,7 +43,7 @@
 %%
 
 ## Most damaging things a leader can do
-(pretty much in this order)
+(roughly in this order)
 
 1. **Retaliate against people for speaking up.**  
     Excluding someone, removing opportunities, increasing scrutiny, or damaging their reputation after they raise a concern sends the clearest possible message: honesty is dangerous, and everyone who witnesses it learns to stay quiet.

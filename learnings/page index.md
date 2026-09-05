@@ -1,6 +1,9 @@
 # start here
 [[introduction]] !!
 %%[[common misconceptions]] !!%%
+[[how to come up with big ideas]] !!
+
+
 
 # culture
 [[how to nurture a culture]] !! ?
@@ -18,13 +21,12 @@
 [[a learning mindset]] !!
 [[the science of failing well]] !!
 [[how to question your own thinking]] !! ?
-[[how to come up with big ideas]] !! ?
+[[group flow]] !!
 # ways of working
 [[distributed decision making]] !!
 [[logging decisions]] !!
-[[flow state & group flow]] !!
 [[developer user experience]] !!
-[[the cost of context switching]] !!
+
 # conversations
 [[feedback checklists]] !!
 [[bullshit feedback]] !!
@@ -42,8 +44,9 @@
 [[confronting our freedom]] !!
 [[responsibility of the captain]] !! ?
 # scaling teams
-[[lines of communication]] !!
 [[a team of teams]] !!
+[[lines of communication]] !!
+[[the cost of context switching]] !! ?
 [[the fat cat syndrome]] !!
 [[pitfalls of growing teams]] !! ?
 

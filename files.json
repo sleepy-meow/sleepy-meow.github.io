@@ -9,6 +9,12 @@
           "path": "learnings/introduction.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "how to come up with big ideas",
+          "path": "learnings/how to come up with big ideas.md",
+          "tags": [],
+          "done": true
         }
       ]
     },
@@ -90,10 +96,9 @@
           "done": true
         },
         {
-          "name": "how to come up with big ideas",
-          "path": "learnings/how to come up with big ideas.md",
+          "name": "group flow",
+          "path": "learnings/group flow.md",
           "tags": [],
-          "draft": true,
           "done": true
         }
       ]
@@ -114,20 +119,8 @@
           "done": true
         },
         {
-          "name": "flow state & group flow",
-          "path": "learnings/flow state & group flow.md",
-          "tags": [],
-          "done": true
-        },
-        {
           "name": "developer user experience",
           "path": "learnings/developer user experience.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "the cost of context switching",
-          "path": "learnings/the cost of context switching.md",
           "tags": [],
           "done": true
         }
@@ -216,15 +209,22 @@
       "name": "scaling teams",
       "files": [
         {
+          "name": "a team of teams",
+          "path": "learnings/a team of teams.md",
+          "tags": [],
+          "done": true
+        },
+        {
           "name": "lines of communication",
           "path": "learnings/lines of communication.md",
           "tags": [],
           "done": true
         },
         {
-          "name": "a team of teams",
-          "path": "learnings/a team of teams.md",
+          "name": "the cost of context switching",
+          "path": "learnings/the cost of context switching.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {

@@ -20,8 +20,7 @@ Deep curiosity requires courage and humility for the simple reason that choosing
 
 Questions cry out for answers; they create a vacuum that serves as a voice opportunity for someone.
 # example: user centered design
-
-User-centered design (UCD) is an iterative approach that involves users throughout the design process, ensuring a product reflects their real needs, goals, and context—not just the design team’s assumptions.
+An iterative approach that involves users throughout the design process, ensuring a product reflects their real needs, goals, and context—not just the design team’s assumptions.
 
 It's basically *a continuous learning cycle*:
 
@@ -32,5 +31,3 @@ It's basically *a continuous learning cycle*:
 5. Repeat as users, needs, and circumstances change.
 
 The goal isn’t to understand users once—it’s to keep replacing assumptions with evidence throughout the product’s life.
-%%
-> "Many change efforts fail because they focus on shifting the culture… A learning culture emerges as a by-product of practice with a new way of working — not the other way around."

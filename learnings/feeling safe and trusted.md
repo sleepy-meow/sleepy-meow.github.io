@@ -76,7 +76,7 @@ His starting point is that every organization faces two sets of dangers. **Outsi
 
 Fear doesn't vanish when there's nothing to fear inside. It just gets pointed somewhere useful.
 
-When the danger is coming from inside the house though, you can still build a small safe space, and extend it by checking who's outside it. The contractors, the new person, the one remote teammate, the team that keeps getting blamed. *A circle drawn around a few people isn't a small Circle of Safety — it's an inner circle, and they produce opposite results.*
+When the danger is coming from inside the house, you can still build a small safe space, and extend it by checking who's outside it. The contractors, the new person, the one remote teammate, etc. *A circle drawn around a few people isn't a small Circle of Safety — it's an inner circle, and they produce opposite results.*
 ## leaders want to feel safe too
 
 >  Leaders want to feel safe too. every single person wants to feel like they are valued by the others in the group. So when our boss comes down hard on us and we don't know the reason, it is equally our responsibility to express concern for their wellbeing. (simon sinek, leaders eat last)
@@ -93,15 +93,15 @@ But here's how doing this may help you too. By making your lead feel a little bi
 
  ![[Pasted image 20260905025238.png|426]]
 
-**Write it down while you can still see it.** It's easy to get acclimatised to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But it's easy to get stuck.
+**Write it down while you can still see it.** It's easy to get acclimatised to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But it's easy to get stuck. 
 
-But this can come at a cost. (add something about chronic stress)
+Think back to a time when you did feel safe and trusted, remember what that felt like, and set it as your standard. 
 
-(reach out to the pockets of safety)
+**Reach out to the pockets of safety** that still exist, they may be able to extend their circle, and can remind you what good looks like. Often times simply seeing the contrast can help recognize an abnormal situation.
 
-(add something about authenticity and fitting in)
+**Consider the long term impact.** As mentioned earlier, you can't be healthy, trusting, or feel you belong while marinating in cortisol. Chronic stress can wreak havoc on our bodies, and impact our relationships beyond just the office. 
 
-**Honestly, sometimes the answer is to leave.** The responsibility is to the people aboard, not to going down with the ship.
+The responsibility is to the people aboard, not to going down with the ship.
 
 > The loneliest steps are the ones between the city walls and the heart of the wilderness, where safety is in the rearview mirror, new territory remains to be seen, and the path out to the unknown seems empty. But put one foot in front of the other enough times, stay the course long enough to actually tunnel into the wilderness, and you'll be shocked how many people already live out there- thriving, dancing, creating, celebrating, belonging. It is not a barren wasteland. It is not unprotected territory. It is not void of human flourishing. The wilderness is where all the creatives and prophets and system-buckers and risk-takers have always lived, and it is stunningly vibrant. The walk out there is hard, but the authenticity out there is life. (brene brown, braving the wilderness)
 

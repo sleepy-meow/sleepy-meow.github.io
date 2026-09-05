@@ -1,3 +1,5 @@
+
+%%
 > "we can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted"
 
 > [!tip] simon sinek - leaders eat last
@@ -10,7 +12,7 @@
 
 > *we can only think smarter if others in the room speak their minds*
 
-%%
+
 
 > [!TIP] brene brown - dare to lead
 
@@ -20,3 +22,4 @@
 
 
 
+%%

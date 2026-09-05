@@ -38,6 +38,7 @@ Associative thinking is the skill of connecting ideas, memories, or concepts tha
 
 A team of teams is basically associative thinking at scale.
 
+##
 # cross team connectors
 These often end up being the ones whose brains already work this way, and whose knowledge spans across many different domains. This breadth of knowledge can be used to connect the right people with more depth in a single topic. 
 
@@ -47,7 +48,7 @@ They're often also the ones who just don't fit into a narrowly shaped box of a r
 
 There's often a huge amount of untapped potential in this space (which is probably why tech artists not need to worry about running out of useful things to do)
 
-%%
+
 https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749
 
 

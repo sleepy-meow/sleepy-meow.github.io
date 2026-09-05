@@ -1,3 +1,5 @@
+%%
+todo: move to motivation
 _“The flow state is an optimal state of intrinsic motivation, where the person is fully immersed in what they are doing.“_
 _“The flow state amplifies performance, accelerates learning, and heightens creativity.”_
 
@@ -17,7 +19,8 @@ Conditions:
 
 > [!EXAMPLE] wikipedia: [flow (psychology)](<https://en.wikipedia.org/wiki/Flow_(psychology)>)
 
-# group flow
+%%
+
 *Group flow is the shared, energized state where a team becomes so absorbed in a task together that ideas and actions click effortlessly, the group performs at its peak, and members lose track of self and time.*
 
 ```

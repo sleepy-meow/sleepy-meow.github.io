@@ -1,12 +1,10 @@
-
+> **The most useful thing a leader can do for psychological safety is make it demonstrably safe and worthwhile to tell them something they may not want to hear.**
 ## Most useful things a leader can do
 1. **Receive the message well.**
 2. **Protect the messenger.**
 3. **Do something with the information.**
 4. **Explain what happened.**
 5. **Then invite more people to speak.**
-
-> **The most useful thing a leader can do for psychological safety is make it demonstrably safe and worthwhile to tell them something they may not want to hear.**
 
 %%
 ## Most useful things a leader can do

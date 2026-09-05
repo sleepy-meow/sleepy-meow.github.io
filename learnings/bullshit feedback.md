@@ -28,19 +28,13 @@ That said, just because something is accurate or factual doesn't mean it can't b
 # vague feedback and shame
 Sharing a vague remark and calling it feedback can do more harm than good.
 
-Useful feedback points to something you can examine and change: a specific behaviour, a specific moment, a specific consequence, and ideally something that would have worked better instead.
+Without a specific behaviour, a specific moment, a specific consequence, and ideally something that would have worked better instead, there is nowhere useful for the feedback to go.
 
-Without those details, there is nowhere useful for the feedback to go.
+_"You interrupted me three times in that meeting, and I found it difficult to finish my point"_ gives you something to reflect on, _"You don't listen"_ does not. The first describes something you did. The second starts to sound like something you are.
 
-_"You interrupted me three times in that meeting, and I found it difficult to finish my point"_ gives you something to reflect on, _"You don't listen"_ does not.
+Guilt = _I did something bad_. Shame = _I am bad_. Guilt can support accountability because it can attach to a particular behaviour: you can understand what happened, apologize, repair it, and try something different next time. But shame is almost never useful: It turns attention away from the behaviour and toward the self. It works like a zoom lens, where all we see is ourselves alone and struggling.
 
-The first describes something you did. The second starts to sound like something you are.
-
-Guilt = _I did something bad_. Shame = _I am bad_. Guilt can support accountability because it can attach to a particular behaviour: you can understand what happened, apologize, repair it, and try something different next time. But shame is never useful: It turns attention away from the behaviour and toward the self. It works like a zoom lens, where all we see is ourselves alone and struggling.
-
-If you aren't told what happened, when it happened, what effect it had, or what should have happened instead, your brain is left trying to fill in the blanks. Instead of asking _"what should I do differently?"_, you can end up asking _"what is wrong with me?"_
-
-That's a terrible engine for learning. Shame tends to drive hiding, defensiveness, and rumination rather than curiosity and repair.
+Without specifics, your brain is left trying to fill in the blanks. Instead of asking _"what should I do differently?"_, you end up asking *"what is wrong with me?"*, which drives hiding, defensiveness, and rumination rather than curiosity, repair, and learning.
 
 ## feedback needs context
 Good feedback also separates what happened from the story we tell ourselves about why it happened.
@@ -78,8 +72,7 @@ anonymous information can be useful as a signal; anonymous allegations shouldn't
 
 *Feedback used for accountability needs to support a conversation.* It's hard to give or receive feedback well if the other person is not in the room.
 
-This is problematic when it happens informally.  
-It becomes substantially more consequential when organizations build it into systems that determine people's careers.
+This is problematic when it happens informally, but it becomes substantially more consequential when organizations build it into systems that determine people's careers.
 
 # when feedback carries consequences
 ## the higher the stakes, the higher the standard
@@ -108,7 +101,7 @@ The person who responds to vague criticism by becoming compliant, over-agreeable
 
 accountability is: "You own your mistakes, apologize, and make amends." Anonymous feedback (when it's specific) lets you do the first. It structurally forbids the other two. You cannot apologize to someone whose name is withheld. You cannot ask what it cost them, or check whether your fix actually landed for the person who was hurt.
 
-Another good take on 360 reviews, anonymous surveys, and accountability, can be found in this book. It's a bit of a rant, it can read as a bit spicy. But for anyone who has been on the receiving end of an unfair review can probably relate to the frustration spilling through.
+Another good take on 360 reviews, anonymous surveys, and accountability, can be found in this book. It may read like a bit of a rant at times, but for anyone who has been on the receiving end of an unfair review can probably relate to the frustration spilling through.
 > [!TIP] Confronting Our Freedom (Peter Block, Peter Koestenbaum)
 
 ## dropping bullshit on the floor is a privilege
@@ -142,7 +135,7 @@ Not every opinion deserves equal weight. That doesn't mean surrounding yourself 
 - reaching out
 - speaking about shame
 ## 4. integrity gives you a solid ground
-It's easy for your imagination to run wild when receiving vague criticism, like being stuck in airport security watching them plow through your stuff looking for anything suspicious. But this is the upside of not having knowingly hidden any skeletons in the closets (and by skeletons, i mean things you wouldn't be willing to take accountablity for): when someone comes to you with a comment of the likes of *"i know what you did last summer"*, having acted with integrity will allow you to simply say *"well let's go look and find out what it is then"*.
+It's easy for your imagination to run wild when receiving vague criticism, like being stuck in airport security watching them plow through your stuff looking for anything suspicious. But this is the upside of not having knowingly hidden skeletons in the closets: when someone comes to you with a comment of the likes of *"i know what you did last summer"*, this will allow you to simply say *"well let's go look and find out what it is then"*.
 
 They might find that you may have had a bad day or made a simple mistake, but this is comparable to a customs officer looking for something serious and just discovering a bunch of dirty underwear. 
 

@@ -65,6 +65,8 @@ And this is where things like [[emergent facilitation]] techniques actually shin
 
 If you can't fix the problem, just make it more difficult to ignore 
 
+# some caveats & etc
+
 %%Own the fear, find the cave, and write a new ending for yourself, for the people you're meant to serve and support, and for your culture. Choose courage over comfort. Choose whole hearts over armor. And choose the great adventure of being brave and afraid at the exact same time.
 
 > [!EXAMPLE] article: https://brenebrown.com/articles/2018/03/13/courage-comfort-rumbling-shame-accountability-failure-work/

@@ -1,4 +1,6 @@
-*A team climate in which people feel safe to ask questions and raise concerns without fear of being thrown under the bus.*
+> we can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted
+
+# psychological safety
 
 > [!EXAMPLE] 3 minute video: [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0)
 
@@ -6,8 +8,8 @@
 
 > [!TIP] amy edmondson - the fearless organization
 
-# why it matters
-> "we can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted"
+## why it matters
+*A team climate in which people feel safe to ask questions and raise concerns without fear of being thrown under the bus.*
 
 > It's hard for people to do their best work when they are afraid.
 
@@ -18,10 +20,10 @@ _Fear hijacks the brain_, drawing resources away from working memory and the abi
 
 > You can't be healthy, trusting, or feel you belong while marinating in cortisol.
 
-# what causes the fear
+## what causes the fear
 
 *Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear. (see [[the leaders impact on psychological safety]] for more info)
-# why it's bad for business
+## why it's bad for business
 A lack of psychological safety can create an illusion of success that eventually turns into serious business failures. Yet many organizational leaders genuinely believe that "no news" means that things are going well.
 
 > _When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside._
@@ -33,7 +35,7 @@ A lack of psychological safety can create an illusion of success that eventually
 %%No one gains from the silence. Teams miss out on insights. Those who fail to speak up often report regret or pain. Some wish they had spoken up. Others recognize they could be experiencing more fulfillment and meaning in their jobs were they more able to contribute. Those deprived of hearing a colleague's comments may not know what they are missing, but the fact is that problems go unreported, improvement opportunities are missed, and occasionally, tragic failures occur that could have been avoided.%%
 
 
-# comfort vs anxiety zone
+## comfort vs anxiety zone
 
 > _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
 
@@ -69,28 +71,32 @@ The danger here is mixing up the comfort zone and anxiety zone, and assuming tha
 
 > [!TIP] simon sinek - leaders eat last
 
-Sinek's version of the same idea, one level up: psychological safety is the moment-to-moment climate, the Circle of Safety is the wider question of whether the people around you have your back.
+Sinek's version of the same idea, but the Circle of Safety is the wider question of whether the people around you have your back.
 
-His starting point is that every organization faces two sets of dangers. **Outside:** competitors, the market, a technology that makes your product obsolete overnight. Constant, indifferent, mostly outside your control. **Inside:** intimidation, humiliation, isolation, politics, feeling dumb, the fear that someone's trying to keep you down to get ahead. Also constant — but *variable, and well within our control.*
-
-> By creating a Circle of Safety around the people in the organization, leadership reduces the threats people feel inside the group, which frees them up to focus more time and energy to protect the organization from the constant dangers outside. Without a Circle of Safety, people are forced to spend too much time and energy protecting themselves from each other.
+His starting point is that every organization faces two sets of dangers. **Outside:** competitors, the market, a technology that makes your product obsolete. Constant, indifferent, mostly outside your control. **Inside:** intimidation, humiliation, isolation, politics, the fear that someone's trying to keep you down to get ahead. Also constant — but *variable, and well within our control.*
 
 Fear doesn't vanish when there's nothing to fear inside. It just gets pointed somewhere useful.
 
-> Weak leaders are the ones who only extend the benefits of the Circle of Safety to their fellow senior executives and a chosen few others... And in so doing, silos form, politics entrench, mistakes are covered up instead of exposed, the spread of information slows.
+When the danger is coming from inside the house though, you can start by building a small safe space, and extend it by checking who's outside it. The contractors, the new person, the one remote teammate, the team that keeps getting blamed. *A circle drawn around a few people isn't a small Circle of Safety — it's an inner circle, and they produce opposite results.*
+## leaders want to feel safe too
 
-So draw the circle as it really is rather than as the org chart says, and check who's outside it. The contractors, the new person, the one remote teammate, the team that keeps getting blamed. *A circle drawn around a few people isn't a small Circle of Safety — it's an inner circle, and the two produce opposite results.*
+>  Leaders want to feel safe too. every single person wants to feel like they are valued by the others in the group. So when our boss comes down hard on us and we don't know the reason, it is equally our responsibility to express concern for their wellbeing. (simon sinek, leaders eat last)
 
-> Leaders would sooner sacrifice what is theirs to save what is ours. And they would never sacrifice what is ours to save what is theirs.
+I feel like this underweights how asking *"are you okay?"* here can take a lot more courage than the other way around (depending on how safe they have made us feel up until that point).
 
-# it runs both ways
-
->  Leaders want to feel safe too. every single person wants to feel like they are valued by the others in the group. we have a responsibility to our leaders too, express concern for their wellbeing.
-
-> ..when our boss comes down hard on us and we don't know the reason, it is equally our responsibility to express concern for their well-being. That's how the Circle of Safety stays strong.
-
-Which is *"well, i'm not a lead"* in its strongest form. Not only can you protect the people beside you — a leader under pressure is inside the circle too, and *"are you okay?"* is available to anyone.
+But here's how doing this may help you too. By making your lead feel a little bit safer as well, it increases their capacity to handle the pressure they likely are under themselves.
 
 > "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had."
 
 > [!EXAMPLE] article: [the circle of safety](https://simonsinek.com/stories/the-circle-of-safety)
+
+# what if everything is danger
+
+ ![[Pasted image 20260905025238.png|426]]
+
+**Write it down while you can still see it.** It's easy to get acclimatised to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But it's easy to get stuck and think things can't get better.
+
+Honestly, sometimes the answer is to simply leave. The responsibility is to the people aboard, not to going down with the ship.
+
+> The loneliest steps are the ones between the city walls and the heart of the wilderness, where safety is in the rearview mirror, new territory remains to be seen, and the path out to the unknown seems empty. But put one foot in front of the other enough times, stay the course long enough to actually tunnel into the wilderness, and you'll be shocked how many people already live out there- thriving, dancing, creating, celebrating, belonging. It is not a barren wasteland. It is not unprotected territory. It is not void of human flourishing. The wilderness is where all the creatives and prophets and system-buckers and risk-takers have always lived, and it is stunningly vibrant. The walk out there is hard, but the authenticity out there is life. (brene brown, braving the wilderness)
+

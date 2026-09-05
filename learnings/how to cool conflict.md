@@ -1,13 +1,17 @@
-> [!WARNING] this page is very wip
+> [!WARNING] this page is very wip & could use very many improvements
 
-a few useful things to remember:
+# some useful things to remember:
 > *most disagreements revolve around 5% of differences*
 
 > People don't get angry when they're confident, but scared.
 
+# simple things that can help
+Simply being in the same room, talking in person vs on slack / video call.
+
+# general stuff
 - *Identify the Nature of Conflict*: Though a difference of opinion about a product design or a work process is useful, personal friction and personality clashes are counterproductive. Understanding the differences between types of conflict (task vs relationship conflict) allows leaders to better manage contentious exchanges.
 - ﻿﻿*Model Good Communication*: Good communication when confronting conflict, especially heated conflict, combines thoughtful statements with thoughtful questions, so as to allow people to understand the true basis of a disagreement and to identify the rationale behind each position.
-- ﻿﻿*Find Common Ground*: By identifying and also embracing shared goals, teams are able to overcome the fundamental attribution errors that erode respect and instead develop an environment of trust.
+- ﻿﻿*Start from Common Ground*: By identifying and also embracing shared goals, teams are able to overcome the fundamental attribution errors that erode respect and instead develop an environment of trust.
 - ﻿﻿*Encourage Difficult Conversations*: Through good communication, as just defined, it's useful to engage in authentic conversations that help build resilient relationships and put aside ideological and personal differences.
 
 # useful sentences
@@ -17,7 +21,19 @@ a few useful things to remember:
 
 *"What are we actually trying to solve here?"*
 
+# useful things when walking into a scary conversation
 
+> "Seek first to understand, then to be understood."
+
+> "I'm brave enough to listen. I don't need to take it all in, but I'm brave enough to listen"
+# useful books
+> [!TIP] crucial conversations
+
+> [!TIP] say what you mean
+
+
+
+%%
 
 *[wiios law](https://en.wikipedia.org/wiki/Wiio%27s_laws): "Communication usually fails, except by accident”.*
 fundamental attribution error

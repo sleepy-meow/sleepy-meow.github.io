@@ -1,3 +1,5 @@
+> [!WARNING] this page is way too long
+
 *applying pipeline tech art ux learnings*
 
 Most of us understand the value of ux in the products we build. But an often overlooked aspect is how those same principles can be applied to finding optimal ways of working and internal tooling.
@@ -193,7 +195,7 @@ a guide can also be about a generic topic that isn’t explained well enough els
 a simple tool is easier to maintain
 
 # increasing the level of ux maturity
-
+(todo: maybe this could be its own page, and explain the benefits & applications)
 
 # getting buy-in
 We end up adopting inefficient workflows or forget to update them when they stop serving their purpose. In the land of tech art the technology side of things is often easy, it's getting everyone onboard to change the way they're used to working that's the real challenge.

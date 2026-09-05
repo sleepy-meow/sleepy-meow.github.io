@@ -12,6 +12,11 @@ Many of the topics covered here are not in any way exclusive to any job title. T
 
 While responsibility is proportional to power, many of the tools here are almost entirely usable without formal authority. For those that cannot, understanding them helps us recognize when that responsibility is being neglected.
 
+# it's not 
+> The behaviors and skills that support seemingly simple values are not always as complex as those that undergird the assumption of positive intent; however, they are almost always more complex than what we assume. 
+
+The goal here isn't to make it sound like any of these topics are 
+
 %%
 # why it felt relevant to share learnings
 I didn't specifically go looking for books in the leadership section, but with the topics of culture, collaboration, communication, motivation, UX, cognitive and organizational psychology, facilitation, distributed decision making, etc. it's a tag that comes up fairly often.

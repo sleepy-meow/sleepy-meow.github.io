@@ -40,10 +40,10 @@
     One good response cannot outweigh a long pattern of defensiveness or punishment. Repeatedly responding with curiosity, fairness, clarity, and follow-through is what turns isolated moments into a trustworthy team norm.
 %%
 
-## Most damaging things a leader can do
+## Most damaging things a leader can do (roughly in order)
 
 1. **Retaliate against people for speaking up.**  
-    Excluding someone, removing opportunities, increasing scrutiny, or damaging their reputation after they raise a concern sends the clearest possible message: honesty is dangerous. Everyone who witnesses it learns to stay quiet.
+    Excluding someone, removing opportunities, increasing scrutiny, or damaging their reputation after they raise a concern sends the clearest possible message: honesty is dangerous, and everyone who witnesses it learns to stay quiet.
     
 2. **Humiliate, ridicule, intimidate, or explode at people.**  
     Public criticism, contempt, yelling, mockery, or hostile questioning makes participation feel personally risky. Even when only one person is targeted, the whole group becomes more cautious.

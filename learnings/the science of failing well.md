@@ -11,10 +11,10 @@
 
 # the swiss cheese model
 
-
+%%
 ![[Pasted image 20260820092041.png]]
-
+%%
 # calculated risks
-When you take calculated risks, be transparent and communicate this with your team and your boss to ensure that they understood it fully. Take them opportunistically when the odds of success are in your favor, but never risk the company.
+%%When you take calculated risks, be transparent and communicate this with your team and your boss to ensure that they understood it fully. Take them opportunistically when the odds of success are in your favor, but never risk the company.
 
-If you see that we are on the wrong path, be prepared to kill your darlings swiftly and close an ailing project immediately. Cutting your losses early and running your profits long is a mantra at Paradox."
+If you see that we are on the wrong path, be prepared to kill your darlings swiftly and close an ailing project immediately. Cutting your losses early and running your profits long is a mantra at Paradox."%%

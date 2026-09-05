@@ -1,6 +1,6 @@
-==to do: make an attempt to summarize, tie it somehow to the rest of the pages / explain "why these things matter"== 
+==to do: make an attempt to explain + tie it somehow to the rest of the pages + "why these things matter"== 
 
-> No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple.
+
 
 
 %%

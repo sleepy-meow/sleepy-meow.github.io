@@ -1,5 +1,3 @@
-> [!WARNING] this page is way too long / just copypasted from old notes
-
 *applying pipeline tech art ux learnings*
 
 Most of us understand the value of ux in the products we build. But an often overlooked aspect is how those same principles can be applied to finding optimal ways of working and internal tooling.
@@ -7,6 +5,19 @@ Most of us understand the value of ux in the products we build. But an often ove
 > [!TIP] [Designing the User Experience of Game Development Tools](https://uxofgametools.com/) (the best book ever on this topic, very condensed and practical advice)
 
 > [!TIP] Reid Hoffman - Masters of Scale (the book, not the podcast)
+
+==todo: maybe just focus why this matters & leave the details on the original page + links to best practices + choose a few most important points to not make this page way too long==
+
+==todo2: a few concrete examples + explain the reasoning behind them==
+- ==that one tool everyone used and it took ages for the first person to complain about it==
+- ==daily syncs / updates==
+- 
+
+==todo3: explain how the whole ux maturity thing matters==
+
+==how to not get blind to all the wasted time==
+
+%%
 # start with the users
 > “You’ve got to start with the customer experience and work back toward the technology - not the other way around.” -Steve Jobs
 # Defining user experience
@@ -166,6 +177,7 @@ _“No single way of working, from where or when we work to how we communicate, 
 Initial feedback may represent symptoms rather than underlying causes.
 - 5 whys
 
+
 # ideas for improving feedback culture
 when inviting feedback:
 - make sure the feedback won’t get lost
@@ -204,15 +216,7 @@ One approach would be to spend months behind the scenes developing a tool or pla
 
 The other approach, which has worked quite well for tech art improvements, is to present ideas as deliberately scrappy looking prototypes. Most of them will be discarded, but when you find something valuable to improve, people will tell you about it. 
 
-%%
-# communication
 
-[wiios law](https://en.wikipedia.org/wiki/Wiio%27s_laws): "Communication usually fails, except by accident” - applies to user interfaces and guides, most of it is about understanding what the users need and making sure that the designs we create actually make sense to the users
-
-
-
-By involving the people affected at an early stage, addressing their concerns, explaining the why, 
-%%
 
 # links / resources
 ux resources

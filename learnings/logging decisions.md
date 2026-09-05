@@ -1,4 +1,4 @@
-
+*Documenting the why.*
 - Constraints that shaped a decision get lost over time. A good log captures what was decided, who decided, when, and why.
 - To avoid re-deciding what was already decided, or drifting to "we've always done it that way" with no one able to say why.
 

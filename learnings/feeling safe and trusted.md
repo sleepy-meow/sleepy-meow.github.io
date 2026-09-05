@@ -23,6 +23,8 @@ _Fear hijacks the brain_, drawing resources away from working memory and the abi
 
 *Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear. (see [[the leaders impact on psychological safety]] for more info)
 ## why it's bad for business
+> No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple. (brene brown, the call to courage)
+
 A lack of psychological safety can create an illusion of success that eventually turns into serious business failures. Yet many organizational leaders genuinely believe that "no news" means that things are going well.
 
 > _When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside._
@@ -32,7 +34,6 @@ A lack of psychological safety can create an illusion of success that eventually
 > having information about shortcomings come to light earlier rather than later can nearly always mitigate the size and impact
 
 %%No one gains from the silence. Teams miss out on insights. Those who fail to speak up often report regret or pain. Some wish they had spoken up. Others recognize they could be experiencing more fulfillment and meaning in their jobs were they more able to contribute. Those deprived of hearing a colleague's comments may not know what they are missing, but the fact is that problems go unreported, improvement opportunities are missed, and occasionally, tragic failures occur that could have been avoided.%%
-
 
 ## comfort vs anxiety zone
 

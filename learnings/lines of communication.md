@@ -1,4 +1,4 @@
-*Adding more people to a team increases the communication overhead ~~exponentially~~ quadratically* 
+*Adding more people to a team increases the communication overhead ~~exponentially~~ .. (a lot more than is obvious? idk)* 
 ![[Pasted image 20260627135045.png]]
 
 This is why growing a team too large will slow everything down. It also reduces psychological safety.
@@ -9,11 +9,21 @@ This is why growing a team too large will slow everything down. It also reduces 
 
 > [!EXAMPLE] article: [dunbar's number, psychological safety and team size](https://psychsafety.com/psychological-safety-82-dunbars-number-and-team-size/)
 
+
+> The typical response to slow progress is to add more and more people to the teams.
 # the 2 pizza rule
-![[Pasted image 20260817200244.png]]
+%%![[Pasted image 20260817200244.png]]
+%%
 The 2 pizza rule is a guideline that says a meeting (or team) should be small enough (6 or less) that two large pizzas can feed everyone there. 
 
-%%
-The typical response to slow progress is to add more and more people to the teams.
+# the consequences
 
-A manager won’t be fired for adding personnel to a late project. It gives the appearance of “doing something.” If the project crashes and burns, the manager can safely state that he/she did “everything possible” to save it, even to the extent of shifting funding and people from other initiatives, even in their lines of communication.
+Another typical response that follows (as a result of having added more and more people to the teams) is to start adding more management layers. ==todo: explain how this relates to the peter principle==
+
+# the solution
+==todo: explain alternatives to simply adding more people that often go ignored==
+- ==hiding in plain sight==
+- ==don't require any fancy AI technology==
+
+==explain the magnitude / impact of these alternatives (i.e. a concrete example with silly astronomical numbers)==
+

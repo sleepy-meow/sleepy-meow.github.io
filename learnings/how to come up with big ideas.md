@@ -1,3 +1,7 @@
+==to do: make an attempt to summarize, tie it somehow to the rest of the pages / explain "why these things matter"== 
+
+> No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple.
+
 
 %%
 > "we can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted"

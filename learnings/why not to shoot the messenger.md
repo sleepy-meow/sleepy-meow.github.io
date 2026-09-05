@@ -16,6 +16,7 @@ The more difficult of a topic, the more thank yous may be needed.
 
 > Note that this does not mean you have to agree with what someone said. You don't even have to like it. But you do have to appreciate the effort it took for her to say it.
 
+%%
 # "don't bring me problems, bring me solutions"
 The person raising the concern may not have the information or the means to bring you a solution served on a silver platter. 
 

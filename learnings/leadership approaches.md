@@ -36,8 +36,6 @@ The more creativity and innovation are required to achieve a goal, the more this
 | why people speak up      | they don't — fear is sensible; think carefully about what you reveal | because it improves decision-making and execution                                                            |
 | result                   | interpersonal fear is rational → silence                             | psychological safety becomes necessary → voice                                                               |
 
-or as brene brown puts it:
-> No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple.
 
 # armored vs daring leadership
 > [!tip] brene brown - dare to lead

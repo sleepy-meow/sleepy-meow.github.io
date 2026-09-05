@@ -10,8 +10,8 @@ It's not always obvious where to find the information to learn these skills. The
 
 Many of the topics covered here are not in any way exclusive to any job title. They're not even limited to the workplace. For the most part they're just about how to be a decent human being.
 
-While responsibility is proportional to power, many of the tools here are almost entirely usable without formal authority. For those that cannot, understanding them helps us recognize when that responsibility is being neglected.
-
+==While responsibility is proportional to power, many of the tools here are almost entirely usable without formal authority. For those that cannot, understanding them helps us recognize when that responsibility is being neglected.==
+%%
 I didn't specifically go looking for books in the leadership section, but through topics of culture, collaboration, communication, motivation, UX, cognitive and organizational psychology, facilitation, distributed decision making, etc. it's a tag that comes up quite often.
 # my background
 Over the past 10 years as a pipeline technical artist in the games industry, a lot of my work has involved building shared understanding across teams, initiating cross-functional conversations to understand workflows and constraints, understanding multiple perspectives, and facilitating alignment between technical and creative stakeholders, with the goal of enabling others to do their best work and making collaboration more efficient.
@@ -19,12 +19,6 @@ Over the past 10 years as a pipeline technical artist in the games industry, a l
 Or in other words, *"helping artists with the pain."*
 
 One day I picked up 'the culture code', and realized there's a whole world of interesting things to learn, so I just kept reading, and now it feels like I've read too much and the information in my head needs somewhere to go.
-
-%%
-# it's not 
-> The behaviors and skills that support seemingly simple values are not always as complex as those that undergird the assumption of positive intent; however, they are almost always more complex than what we assume. 
-
-The goal here isn't to make it sound like any of these topics are 
 
 
 

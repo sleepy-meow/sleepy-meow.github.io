@@ -1,5 +1,4 @@
-> we can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted
-
+> We can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted.
 # psychological safety
 *A team climate in which people feel safe to ask questions and raise concerns without fear of being thrown under the bus.*
 
@@ -15,11 +14,14 @@
 ![[Pasted image 20260822123258.png]]
 
 
-_Fear hijacks the brain_, drawing resources away from working memory and the ability to process new information. This makes analytical thinking, creative insight, and problem-solving more difficult. Psychological safety is essential for communicating, collaborating, experimenting, and ensuring the well-being of others, and has a strong influence on learning behaviors such as sharing information, asking for help, etc.
+_Fear hijacks the brain_, drawing resources away from working memory and the ability to process new information. This makes analytical thinking, creative insight, and problem-solving more difficult. Psychological safety is essential for communicating, collaborating, experimenting, ensuring the well-being of others, sharing information, asking for help, and a bunch of other things.
+
+In other words, a lack of it simply makes nearly every aspect of getting work done more difficult. And the impact of it extends beyond the workplace:
 
 > You can't be healthy, trusting, or feel you belong while marinating in cortisol.
 
 ## what causes the fear
+> *Hierarchy.. or, more specifically, the fear it creates when not handled well.. reduces psychological safety*. 
 
 *Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear. (see [[the leaders impact on psychological safety]] for more info)
 ## why it's bad for business
@@ -35,6 +37,16 @@ A lack of psychological safety can create an illusion of success that eventually
 
 %%No one gains from the silence. Teams miss out on insights. Those who fail to speak up often report regret or pain. Some wish they had spoken up. Others recognize they could be experiencing more fulfillment and meaning in their jobs were they more able to contribute. Those deprived of hearing a colleague's comments may not know what they are missing, but the fact is that problems go unreported, improvement opportunities are missed, and occasionally, tragic failures occur that could have been avoided.%%
 
+## predictability
+Psychological safety depends partly on accumulated evidence about how interpersonal risks are received. Consistent responses make that evidence easier to interpret.
+
+> [!EXAMPLE] [ambiguity, predictability, and psychological safety](https://psychsafety.com/ambiguity-predictability-and-psychological-safety/)
+
+**The usual gap: feeling less safe than you actually are.** The default human bias, most people systematically underweight how safe it really is. A leader can't just be safe — they have to actively, repeatedly demonstrate it, because people walk in assuming risk.
+
+**The dangerous gap: feeling safer than you actually are.** You believe it’s safe to raise a concern but get punished when you do. This is the more corrosive version, because it only takes one or two betrayals to teach a whole group the real lesson.
+
+Ambiguity is one of the biggest killers of psychological safety. Only consistent, demonstrated behaviour accumulates the evidence prediction needs.
 ## comfort vs anxiety zone
 
 > _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
@@ -49,9 +61,9 @@ Edmondson talks about four different zones:
 The danger here is mixing up the comfort zone and anxiety zone, and assuming that lack of progress means that people are just lazy. This incentivizes spending more energy on optics, sacrificing actual benefits.
 
 # well i'm not a lead, is there anything i can do?
-**Be the second voice.** The single highest-leverage thing available to anyone. When someone raises a concern and the room goes quiet, say "I noticed that too." You're not taking the risk they took — you're retroactively halving it, and you're breaking pluralistic ignorance for everyone else who was also thinking it. 
+**Be the second voice.** The single highest-leverage thing available to anyone. When someone raises a concern and the room goes quiet, say "I noticed that too." You're not taking the risk they took — you're retroactively halving it, and you're breaking the [collective illusion](https://en.wikipedia.org/wiki/Pluralistic_ignorance) for everyone else who was also thinking it. 
 
-**Don't leave the messenger alone afterwards.** Loop #2 closes when the person who spoke up gets punished and everyone watches. You can't stop the punishment, but you can change what the group learns from it: check in with them, say out loud that you thought raising it was right, don't let the story settle as "that was a mistake."
+**Don't leave the messenger alone afterwards.** The biggest damaging event is when the person who spoke up gets punished and everyone watches. You can't stop the punishment, but you can change what the group learns from it: check in with them, say out loud that you thought raising it was right, don't let the story settle as "that was a mistake."
 
 **Go first, sideways.** "I don't know." "I need help." "I made a mistake." "I'm sorry." Peer-to-peer these cost a fraction of what they cost upward, and they generate the same evidence. By acknowledging that you are a fallible human being, you give permission to others to do likewise.
 
@@ -92,15 +104,17 @@ But here's how doing this may help you too. By making your lead feel a little bi
 
 # what if everything is danger
 
- ![[Pasted image 20260905025238.png|426]]
+ ![[Pasted image 20260905025238.png|346]]
 
-**Write it down while you can still see it.** It's easy to get acclimatised to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But it's easy to get stuck. 
+It's easy to get acclimatised to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But it's easy to get stuck and think things can't get better.
 
-Think back to a time when you did feel safe and trusted, remember what that felt like, and set it as your standard. 
+If there was a time in the past when you did feel safe and trusted, remember what that felt like, and set it as your standard. It can also help to reach out to the pockets of safety that still exist, to remind yourself how people interact in a safe environment. Often times simply seeing the contrast can help recognize an abnormal situation.
 
-**Reach out to the pockets of safety** that still exist, they may be able to extend their circle, and can remind you what good looks like. Often times simply seeing the contrast can help recognize an abnormal situation.
 
-**Consider the long term impact.** As mentioned earlier, you can't be healthy, trusting, or feel you belong while marinating in cortisol. Chronic stress can wreak havoc on our bodies, and impact our relationships beyond just the office. 
+
+%%
+
+**Consider the long term impact.** Chronic stress can wreak havoc on our bodies, and impact our relationships beyond the office. 
 
 The responsibility is to the people aboard, not to going down with the ship.
 

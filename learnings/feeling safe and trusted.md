@@ -6,7 +6,9 @@
 
 > [!EXAMPLE] article: [what is psychological safety?](https://psychsafety.com/about-psychological-safety/)
 
-> [!TIP] amy edmondson - the fearless organization
+> [!EXAMPLE] [explore.psychsafety.com](https://explore.psychsafety.com/) (a nice network diagram to navigate the site)
+
+> [!TIP] amy edmondson - the fearless organization (for more in depth understanding)
 
 ## why it matters
 > It's hard for people to do their best work when they are afraid.
@@ -59,25 +61,6 @@ Edmondson talks about four different zones:
 | low psychological safety  | *Apathy Zone*   | *Anxiety Zone*                     |
 
 The danger here is mixing up the comfort zone and anxiety zone, and assuming that lack of progress means that people are just lazy. This incentivizes spending more energy on optics, sacrificing actual benefits.
-
-# well i'm not a lead, is there anything i can do?
-**Be the second voice.** The single highest-leverage thing available to anyone. When someone raises a concern and the room goes quiet, say "I noticed that too." You're not taking the risk they took — you're retroactively halving it, and you're breaking the [collective illusion](https://en.wikipedia.org/wiki/Pluralistic_ignorance) for everyone else who was also thinking it. 
-
-**Don't leave the messenger alone afterwards.** The biggest damaging event is when the person who spoke up gets punished and everyone watches. You can't stop the punishment, but you can change what the group learns from it: check in with them, say out loud that you thought raising it was right, don't let the story settle as "that was a mistake."
-
-**Go first, sideways.** "I don't know." "I need help." "I made a mistake." "I'm sorry." Peer-to-peer these cost a fraction of what they cost upward, and they generate the same evidence. By acknowledging that you are a fallible human being, you give permission to others to do likewise.
-
-**Ask instead of assert.** A question carries far less risk than a claim and does more work. "What am I missing?" / "What would have to be true for this to fail?" / "What are we actually trying to solve here?" — all available from any seat, and each one opens a gap someone else can step into. For more ideas, see [[how to ask the right questions]], it is almost entirely usable without authority.
-
-**Move things into the light.** "let's take this back to the public channel" — is the cheapest structural act anyone can perform. Same for writing a decision down where others can see it.
-
-**Keep your own log.** [[logging decisions]] works even if you're the only user. Two payoffs: it makes your reasoning legible to others, and — honestly — a contemporaneous factual record is the thing you'll want if this goes badly.
-
-**Build lateral connections.** You don't need everyone connected to everyone, just enough that a path exists between any two teams. Non-leads are usually better placed to do this than leads. It also means bad news has more than one route.
-
-> [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
-
-> [!EXAMPLE] https://explore.psychsafety.com/
 
 # a circle of safety
 

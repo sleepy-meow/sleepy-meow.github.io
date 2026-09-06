@@ -2,9 +2,6 @@
 [[introduction]] !!
 %%[[common misconceptions]] !!%%
 [[how to come up with big ideas]] !!
-
-
-
 # culture
 [[how to nurture a culture]] !! ?
 [[why to have a culture memo]] !! ?
@@ -35,7 +32,6 @@
 %%[[empathy misses]] !! ? %%
 [[how to cool conflict]] !!
 [[emergent facilitation]] !!
-%%[[the problem with culture fit]] !! ?%%
 
 # leadership
 [[the job of a leader]] !! ?

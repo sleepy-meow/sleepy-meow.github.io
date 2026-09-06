@@ -14,6 +14,7 @@
           "name": "how to come up with big ideas",
           "path": "learnings/how to come up with big ideas.md",
           "tags": [],
+          "draft": true,
           "done": true
         }
       ]
@@ -54,14 +55,14 @@
         },
         {
           "name": "the leaders impact on psychological safety",
-          "path": "learnings/the leaders impact on psychological safety.md",
+          "path": "2spicy4me/the leaders impact on psychological safety.md",
           "tags": [],
           "draft": true,
           "done": true
         },
         {
           "name": "how to psychological safety",
-          "path": "learnings/how to psychological safety.md",
+          "path": "2spicy4me/how to psychological safety.md",
           "tags": [],
           "done": true
         },

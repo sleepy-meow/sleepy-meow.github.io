@@ -1,7 +1,7 @@
 # start here
 [[introduction]] !!
 %%[[common misconceptions]] !!%%
-[[how to come up with big ideas]] !!
+[[how to come up with big ideas]] !! ?
 # culture
 [[how to nurture a culture]] !! ?
 [[why to have a culture memo]] !! ?

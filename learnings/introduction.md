@@ -7,14 +7,12 @@ It's not always obvious where to find the information to learn these skills. The
 
 > There's an entire section in the bookstore called self-help, but there's no section called help others. (simon sinek, leaders eat last)
 
-==(todo: explain why this is not necessarily true)==
-
 Many of the topics covered here are not in any way exclusive to any job title. They're not even limited to the workplace. For the most part they're just about how to be a decent human being.
-
+%%
 ==(todo: rephrase this somehow) While responsibility is proportional to power, many of the tools here are almost entirely usable without formal authority. For those that cannot, understanding them helps us recognize when that responsibility is being neglected.==
 
 ==todo: add something about my background + how this stuff has actually been useful==
-%%
+
 I didn't specifically go looking for books in the leadership section, but through topics of culture, collaboration, communication, motivation, UX, cognitive and organizational psychology, facilitation, distributed decision making, etc. it's a tag that comes up quite often.
 # my background
 Over the past 10 years as a pipeline technical artist in the games industry, a lot of my work has involved building shared understanding across teams, initiating cross-functional conversations to understand workflows and constraints, understanding multiple perspectives, and facilitating alignment between technical and creative stakeholders, with the goal of enabling others to do their best work and making collaboration more efficient.

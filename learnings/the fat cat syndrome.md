@@ -55,18 +55,19 @@ After a certain level of courage has been reached, this can become self sustaini
 
 > The cave you fear to enter holds the treasure you seek.
 
-# why to not give up hope
-As explained in [[a team of teams]], the rigid structures are simply by design incredibly inefficient. They may appear to work for a while, but often tend to collapse under its own weight, which may give a chance, sometimes through enough desperation, for the people who can actually make the changes needed to open up to new ideas.
 
-And this is where things like [[emergent facilitation]] techniques actually shine where all else fails. Many of them are well proven to solve seemingly impossible large scale problems.
+# why to not give up hope
+As explained in [[a team of teams]], the inefficiency may collapse under its own weight, which can possibly give an opportunity to open up to new ideas.
+
+And this is where things like [[emergent facilitation]] techniques actually shine where traditional methods have failed. Many of them have been proven to solve seemingly impossible large scale problems.
 
 # collective awareness
 > You can break out of this cycle by opening your eyes. And it is crucial to bring in outsiders and generalists whose perspective is not clouded with your habits. And you need to move fast and take serious action, before it is too late.
 
 If you can't fix the problem, just make it more difficult to ignore 
-
+%%
 # some caveats & etc
 
-%%Own the fear, find the cave, and write a new ending for yourself, for the people you're meant to serve and support, and for your culture. Choose courage over comfort. Choose whole hearts over armor. And choose the great adventure of being brave and afraid at the exact same time.
+Own the fear, find the cave, and write a new ending for yourself, for the people you're meant to serve and support, and for your culture. Choose courage over comfort. Choose whole hearts over armor. And choose the great adventure of being brave and afraid at the exact same time.
 
 > [!EXAMPLE] article: https://brenebrown.com/articles/2018/03/13/courage-comfort-rumbling-shame-accountability-failure-work/

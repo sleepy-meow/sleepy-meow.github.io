@@ -1,10 +1,7 @@
-https://psychsafety.com/giving-feedback-with-psychological-safety/
+> [!EXAMPLE] [giving feedback with psychological safety ](https://psychsafety.com/giving-feedback-with-psychological-safety/)
 # engaged feedback checklist
-
-> [!tip] brene brown - dare to lead
-#### I know that I’m ready to give feedback when …
-
 ```
+**I know that I’m ready to give feedback when …**
 1. I’m ready to sit next to you rather than across from you.
 2. I’m willing to put the problem in front of us rather than between us (or sliding it toward you).
 3. I’m ready to listen, ask questions, and accept that I may not fully understand the issue.
@@ -17,8 +14,8 @@ https://psychsafety.com/giving-feedback-with-psychological-safety/
 10. I can model the vulnerability and openness that I expect to see from you.
 11. I am aware of power dynamics, implicit bias, and stereotypes.
 ```
+[source](https://brenebrown.com/resources/the-engaged-feedback-checklist/)
 
-https://brenebrown.com/resources/the-engaged-feedback-checklist/
 # the effective feedback model
 
 > [!tip] John Amaechi - the promises of giants (chapter 9)

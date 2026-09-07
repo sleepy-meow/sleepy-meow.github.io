@@ -1,11 +1,92 @@
+## Fundamental requirements
 
-a collection of quotes from the following books:
+### Empathy
 
-> [!TIP] brene brown - dare to lead
+Leadership starts with genuine care and human connection. People are far more likely to trust and engage with leaders who see them as people, not simply as resources.
 
-> [!TIP] simon sinek - leaders eat last
+> “Daring leaders must care for and be connected to the people they lead.”  
+> — Brené Brown, _Dare to Lead_
 
-> [!TIP] simon sinek - start with why
+### Curiosity
+
+Strong leaders stay curious, especially when situations are uncertain or uncomfortable. Asking questions instead of rushing to judgment creates space for better understanding and better decisions.
+
+> “Curiosity is an irreducible component of courageous leadership.”  
+> — Brené Brown, _Dare to Lead_
+
+## Responsibilities
+
+### Psychological safety
+
+Leaders are responsible for creating an environment where people feel safe to speak, contribute, learn, disagree, and make mistakes without fear.
+
+> “It is the leader’s role to ensure that they do.”  
+> — Simon Sinek, _Leaders Eat Last_
+
+### Providing cover from above
+
+People are more willing to take responsibility and make difficult decisions when they know their leaders trust them and will support them.
+
+> The responsibility of a leader is to provide cover from above for their people who are working below. When the people feel that they have the control to do what's right, even if it sometimes means breaking the rules, then they will more likely do the right thing. Courage comes from above. Our confidence to do what's right is determined by how trusted we feel by our leaders. 
+> — Simon Sinek, _Leaders Eat Last_
+
+### Creating an environment where others can thrive
+
+Leadership is often less about fixing people and more about creating the conditions that allow good people to perform at their best.
+
+> What too many leaders of organizations fail to appreciate is that it's not the people that are the problem. The people are fine. Rather, it's the environment in which the people operate that is the problem. 
+> — Simon Sinek, _Leaders Eat Last_
+
+### Reducing cognitive load
+
+Stress consumes attention and mental capacity. Creating stability and safety allows people to focus their energy on solving problems and doing meaningful work.
+
+> Cortisol… increases blood pressure and inflammatory responses and impairs cognitive ability. It's harder to concentrate on things outside the organization if we are stressed about what's going on inside. 
+> — Simon Sinek, _Leaders Eat Last_
+
+### Finding potential in others
+
+Leadership means seeing what people and systems could become, then investing the time and courage required to develop that potential.
+
+> I define a leader as anyone who takes responsibility for finding the potential in people and processes, and who has the courage to develop that potential.
+> — Brené Brown, _Dare to Lead_
+
+### Conflict resolution
+
+Healthy teams address difficult issues directly. Avoiding uncomfortable conversations may feel polite in the moment, but over time it damages clarity, trust, and accountability.
+
+### Wellbeing of the team
+
+Leadership is ultimately a responsibility for people. Results matter, but sustainable results come from leaders who protect and support the human beings producing them.
+
+> “Leadership is about taking responsibility for lives and not numbers.”  
+> — Simon Sinek, _Leaders Eat Last_
+
+### Providing context and direction
+
+Leaders give people a clear sense of where they are going and why. With direction and protection in place, teams can take ownership of how to accomplish the mission.
+
+> Leadership requires two things: a vision of the world that does not yet exist and the ability to communicate it. 
+> — Simon Sinek
+
+### Producing more leaders
+
+The strongest leaders do not make themselves indispensable. They develop the confidence, judgment, and leadership capacity of the people around them.
+
+> “The goal of leadership is to produce more leaders, not followers.”
+
+### Staying humble
+
+Power can gradually distance leaders from the experiences of the people around them. Humility, self-restraint, and deliberate connection help leaders maintain empathy and perspective.
+
+
+### Holding the space
+
+Leadership sometimes means resisting the urge to immediately solve, judge, or control a situation. Instead, the leader creates enough safety and space for others to think, speak honestly, and work through difficult issues.
+
+
+
+%%
 ## Fundamental requirements 
 
 *empathy*
@@ -32,9 +113,6 @@ a collection of quotes from the following books:
  > Many managers assume that people who are afraid … will work hard to avoid unpleasant consequences, and good things will happen. This might make sense if the work is straightforward… But for jobs where learning or collaboration is required for success, fear is not an effective motivator.
 
 *providing cover from above*
-
-> Leaders would sooner sacrifice what is theirs to save what is ours. And they would never sacrifice what is ours to save what is theirs.
-
 > The responsibility of a leader is to provide cover from above for their people who are working below. When the people feel that they have the control to do what's right, even if it sometimes means breaking the rules, then they will more likely do the right thing. Courage comes from above. Our confidence to do what's right is determined by how trusted we feel by our leaders. 
 
 *creating an environment where others can thrive*
@@ -44,10 +122,6 @@ a collection of quotes from the following books:
 
 *reducing cognitive load*
 > Cortisol… increases blood pressure and inflammatory responses and impairs cognitive ability. It's harder to concentrate on things outside the organization if we are stressed about what's going on inside.
-
-> When we do not have a sense of belonging… then we are forced to invest time and energy to protect ourselves from each other. And in so doing, we inadvertently make ourselves more vulnerable to the outside threats and challenges. 
-
-> "It is not the demands of the job that cause the most stress, but the degree of control workers feel they have"
 
 *finding potential in others & developing skills*
 > I define a leader as anyone who takes responsibility for finding the potential in people and processes, and who has the courage to develop that potential.
@@ -68,18 +142,8 @@ a collection of quotes from the following books:
 *producing more leaders*
 > _"the goal of leadership is to produce more leaders, not followers"_
 
-*modeling good behavior*
-
-
 *staying humble*
 The temptation for self serving behavior is proportional to power. Doing this can gradually reduce the ability to feel empathy, Finding ways and self-restraint to keep your feet on the ground is essential.
 
 *holding the space*
 
-
-
-%%
-*Not panicking*
-
-*Giving the order to abandon ship*
-Sometimes the conditions or pressure may become too much to shield the team from harm. the captains responsibility isn't to go down with the ship, the first and foremost responsibility is to the people on board. 

@@ -6,18 +6,6 @@
 
 > [!tip] Daniel Pink - drive
 
-==todo: some topics to cover==
-- ==intrinsic vs extrinsic motivation & examples==
-- ==emphasizing sense of purpose==
-- ==literally seeing your work makes a difference==
-- =="what isn't measured won't be done" mentality==
-- ==constant reminders of money fuel selfish behavior==
-
-%%
-
-Emphasizing a sense of purpose is a key element of psychological safety. Motivating people by articulating a compelling purpose is a well-established leadership task. Leaders who remind people of why what they do matters - for customers, for the world - help create the energy that carries them through challenging moments.
-
-
 > *People are either motivated or they are not.* Unless we give motivated people something to believe in, they will motivate themselves to find a new job (simon sinek)
 
 
@@ -30,6 +18,33 @@ Emphasizing a sense of purpose is a key element of psychological safety. Motivat
 Purpose tends to create more lasting commitment than rewards or pressure alone—especially in complex, creative work.
 
 People still need to be paid, and being paid unfairly is its own demotivator. The question isn't which is nobler, it's which one you're relying on to produce the behaviour — because they hold up under very different conditions.
+
+# sense of purpose
+
+Emphasizing a sense of purpose is a key element of psychological safety. Motivating people by articulating a compelling purpose is a well-established leadership task. Leaders who remind people of why what they do matters help create the energy that carries them through challenging moments.
+
+> Believing a cause is important, and the cause should always be human & beyond themselves. When a company declares that its goal is to become a global leader or make the best products, those are selfish desires with no intended value beyond anyone than the company itself, and often not even everyone in the company - The cause should be bigger than the company.
+
+# seeing your work makes a difference
+> Our bosses telling us how important our work is, is nowhere near as powerful as us getting to see it ourselves.
+
+When we are able to physically see the positive impact of the decisions we make, it inspires us. Actually seeing the people you help vs just looking at numbers & data can have a dramatic effect on motivation.
+
+
+%%
+==todo: some topics to cover==
+- ==intrinsic vs extrinsic motivation & examples==
+- ==emphasizing sense of purpose==
+- ==literally seeing your work makes a difference==
+- =="what isn't measured won't be done" mentality==
+- ==constant reminders of money fuel selfish behavior==
+
+
+
+
+
+
+
 
 |              | extrinsic                                               | intrinsic                                           |
 | ------------ | ------------------------------------------------------- | --------------------------------------------------- |
@@ -48,7 +63,7 @@ Sinek's version of this is manipulation vs. inspiration. Price, promotions, fear
 
 
 # a sense of purpose
-> Believing a cause is important, and the cause should always be human & beyond themselves. When a company declares that its goal is to become a global leader or make the best products, those are selfish desires with no intended value beyond anyone than the company itself, and often not even everyone in the company - The cause should be bigger than the company.
+
 
 human beings thrive because they are inspired to serve others
 # seeing your work makes a difference

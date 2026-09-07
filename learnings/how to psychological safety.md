@@ -2,27 +2,53 @@
 
 > [!EXAMPLE] resource: [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
 
-The useful actions fall into three groups: Things *anyone can do* (not requiring any formal authority), things *most significant for leads*, and *structural* (taking weight off of individuals). Even when you can’t change them yourself, noticing them helps.
+## simple things anyone can do
+A few simple phrases can make a workplace feel more psychologically safe:
 
-# simple things anyone can do
-A few simple, uncommon, powerful phrases that anyone can utter to make the workplace feel just a tiny bit more psychologically safe:
-*I don't know.*
-*I need help.*
-*I made a mistake.*
-*I'm sorry.*
+_I don't know._  
+_I need help._  
+_I made a mistake._  
+_I'm sorry._
 
-By being willing to acknowledge that you are a fallible human being, you give permission to others to do likewise. Removing your mask helps others remove theirs. Of course, this means acting as if you feel psychologically safe, even if you might not be fully there yet.
+Acknowledging that you are a fallible human being gives others permission to do the same. You can also signal interest and availability with questions like:
 
-Similarly powerful in shaping the climate even if you are not the boss are words of interest and availability. For example, most of us face many opportunities to say things like these:
-*What can I do to help?*
-*What are you up against?*
-*What are your concerns?*
-## Most useful things if you're not a lead
-**Speak up when you safely can.** Saying the awkward thing does more than add information. It tells other people they’re not alone, and it gives the group a chance to respond well. One voice often makes the second easier—and the group’s response tells everyone what is likely to happen next time.
+_What can I do to help?_  
+_What are you up against?_  
+_What are your concerns?_
 
-This is basically what people mean when they say courage is contagious. The first person breaks the impression that everyone else is comfortable or agrees. The second turns an isolated risk into a shared position. Each voice makes the next one a little easier. What spreads is not fearlessness, but evidence that speaking is possible and that you might not have to stand alone.
+Small acts like these make openness easier for everyone else.
 
-**Be the second voice.** The single highest-leverage thing available to anyone. When someone raises a concern and the room goes quiet, say "I noticed that too." You're not taking the risk they took — you're retroactively halving it, and you're breaking the [collective illusion](https://en.wikipedia.org/wiki/Pluralistic_ignorance) for everyone else who was also thinking it. 
+## Useful things if you're not a lead
+1. **Speak up when you safely can.**  
+    Raising the awkward point gives others permission to do the same. One voice often makes the second easier.
+    
+2. **Be the second voice.**  
+    When someone raises a concern, back them: “I noticed that too.” A small show of support can break the impression that they are alone.
+    
+3. **Don't leave the messenger alone afterwards.**  
+    Check in with them, support them publicly where you can, and reinforce that raising the issue was worthwhile—especially if they face negative consequences.
+    
+4. **Go first, sideways.**  
+    Practice openness with peers: share unfinished thoughts, ask unpolished questions, and admit uncertainty. It lowers the pressure to perform certainty.
+    
+5. **Ask instead of assert.**  
+    Questions often create more room for discussion than claims: “What am I missing?”, “What would make this fail?”, or “What are we actually trying to solve?”
+    
+6. **Move things into the light.**  
+    Bring important discussions back to public channels and document decisions where affected people can see them.
+    
+7. **Keep your own log.**  
+    Record important decisions and reasoning. It makes your thinking easier to follow and provides a factual record if problems emerge later.
+    
+8. **Build lateral connections.**  
+    Maintain relationships across teams so information—and especially bad news—has more than one route to travel.
+    
+9. **Compare notes, then raise it together.**  
+    Check recurring concerns with others who are affected. If the pattern is shared, raise it together through a co-signed message, joint meeting, or explicit support for whoever speaks.
+
+Courage is contagious. The first person breaks the impression that everyone else is comfortable or agrees. The second turns an isolated risk into a shared position. Each voice makes the next one a little easier. What spreads is not fearlessness, but evidence that speaking is possible and that you might not have to stand alone.
+%%
+**Be the second voice.** The single highest-leverage thing available to anyone. When someone raises a concern and the room goes quiet, say "I noticed that too." You're not taking the risk they took — just a small slice of it, and you're breaking the [collective illusion](https://en.wikipedia.org/wiki/Pluralistic_ignorance) for everyone else who was also thinking it. 
 
 **Don't leave the messenger alone afterwards.** The biggest damaging event is when the person who spoke up gets punished and everyone watches. You can't stop the punishment, but you can change what the group learns from it: check in with them, say out loud that you thought raising it was right, don't let the story settle as "that was a mistake."
 
@@ -37,10 +63,8 @@ This is basically what people mean when they say courage is contagious. The firs
 **Build lateral connections.** You don't need everyone connected to everyone, just enough that a path exists between any two teams. Non-leads are usually better placed to do this than leads. It also means bad news has more than one route.
 
 **Compare notes, then raise it together.** Before raising a recurring problem alone, check your read with other people affected. You may discover that what looked like a personal frustration is actually a shared pattern. If others see it too, decide together how to raise it: co-sign a message, attend the meeting together, or have one person speak while the others explicitly back them. A concern supported by several people is harder to dismiss as one person being difficult.
-
-**Use that let concerns emerge.** Instead of asking “Does anyone disagree?” and waiting for the bravest person in the room, give people smaller and safer ways into the conversation. Let them reflect alone, compare notes in pairs, and look for patterns in small groups before bringing anything to the whole room. This helps people discover that a concern is shared, sharpen it together, and raise it without making one person its sole owner. The facilitator holds the process open rather than steering everyone toward a preferred answer. (see [[emergent facilitation]] for more info)
-
-# Most useful things (for leads) to do 
+%%
+## Most useful things (for leads) to do 
 > **The most useful thing a leader can do for psychological safety is make it demonstrably safe and worthwhile to tell them something they may not want to hear.**
 
 1. **Respond well when someone speaks up.**  
@@ -73,8 +97,8 @@ This is basically what people mean when they say courage is contagious. The firs
 10. **Make safety predictable through consistency.**  
     One good response cannot outweigh a long pattern of defensiveness or leadpunishment. Repeatedly responding with curiosity, fairness, clarity, and follow-through is what turns isolated moments into a trustworthy team norm.
 
-%%
-### What not to do (roughly in this order)
+
+## Things to avoid
 1. Retaliate against people for speaking up.  
 2. Humiliate, ridicule, intimidate, or explode at people. 
 3. Invite honesty, then use it against people.  

@@ -1,54 +1,56 @@
 # start here
 [[introduction]] !!
 %%[[common misconceptions]] !!%%
-[[how to come up with big ideas]] !! ?
+%%[[how to come up with big ideas]] !! ?%%
+%%
 # culture
 [[how to nurture a culture]] !! ?
 [[why to have a culture memo]] !! ?
-%%[[universal human needs]] !! %%
+[[universal human needs]] !! %%
 
 
 # psychological safety
 [[feeling safe and trusted]] !!
-[[the leaders impact on psychological safety]] !! ?
+%%[[the leaders impact on psychological safety]] !! ?%%
 [[how to psychological safety]] !!
 [[why not to shoot the messenger]] !!
 [[how to lower the bar for participation]] !!
-[[how to destroy psychological safety]] !!
+%%[[how to destroy psychological safety]] !!%%
 
-# learning & thinking
+%%# learning & thinking
 [[a learning mindset]] !! ?
 [[the science of failing well]] !! ?
 [[how to question your own thinking]] !! ?
-[[group flow]] !! ?
+[[group flow]] !! ?%%
 # ways of working
 [[how to make decisions]] !!
 [[logging decisions]] !!
-[[developer user experience]] !! ?
-
+%%[[developer user experience]] !! ?%%
+[[free flow of information]] !!
 
 # conversations
 [[feedback checklists]] !!
 [[identifying bullshit feedback]] !!
+[[high stakes feedback]] !!
 [[how to ask the right questions]] !!
 %%[[empathy misses]] !! ? %%
-[[how to cool conflict]] !! ?
+%%[[how to cool conflict]] !! ?%%
 [[emergent facilitation]] !!
 
-# misc
-[[the job of a leader]] !! ?
+# leadership
+[[responsibilities of a lead]] !!
 [[leadership approaches]] !!
-[[motivation]] !! ?
-[[courage is contagious]] !! ?
-[[confronting our freedom]] !! ?
+[[motivation]] !!
+%%[[courage is contagious]] !! ?%%
+%%[[confronting our freedom]] !! ?%%
 %%[[responsibility of the captain]] !! ? %%
-[[free flow of information]] !!
+
 # scaling teams
 [[a team of teams]] !!
 [[lines of communication]] !!
-[[the cost of context switching]] !! ?
+%%[[the cost of context switching]] !! ?%%
 [[the fat cat syndrome]] !!
-[[pitfalls of growing teams]] !! ?
+%%[[pitfalls of growing teams]] !! ?%%
 
 
 # other

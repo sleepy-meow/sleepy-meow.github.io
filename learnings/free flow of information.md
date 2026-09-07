@@ -56,14 +56,13 @@ Conway's Law isn't a curse; it's a tool. By *consciously designing communication
 - Whenever a slack conversation drifts into a locked channel or DM, just say 'hey let's move this conversation to a public channel so we don't risk needing to re-explain ourselves later'
 - Transparently communicating your own decision making. The more broadly a [[logging decisions|decision log]] is used, the more useful it is. But this doesn't prevent you from using it just for yourself. This can also help others identify the gaps in your own knowledge so you end up learning more. 
 
+%%
 ![[Pasted image 20260820121828.png|518]]
 
 Caveat: It's exactly the situations where transparency would be most useful (when psychological safety is low), that makes us want to hide away. But by staying in the light you create safety for yourself as well as for others.
 
 
 
-
-%%
 
 
 https://handbook.gitlab.com/

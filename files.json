@@ -9,32 +9,6 @@
           "path": "learnings/introduction.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "how to come up with big ideas",
-          "path": "learnings/how to come up with big ideas.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        }
-      ]
-    },
-    {
-      "name": "culture",
-      "files": [
-        {
-          "name": "how to nurture a culture",
-          "path": "learnings/how to nurture a culture.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        },
-        {
-          "name": "why to have a culture memo",
-          "path": "learnings/why to have a culture memo.md",
-          "tags": [],
-          "draft": true,
-          "done": true
         }
       ]
     },
@@ -45,13 +19,6 @@
           "name": "feeling safe and trusted",
           "path": "learnings/feeling safe and trusted.md",
           "tags": [],
-          "done": true
-        },
-        {
-          "name": "the leaders impact on psychological safety",
-          "path": "2spicy4me/the leaders impact on psychological safety.md",
-          "tags": [],
-          "draft": true,
           "done": true
         },
         {
@@ -70,45 +37,6 @@
           "name": "how to lower the bar for participation",
           "path": "learnings/how to lower the bar for participation.md",
           "tags": [],
-          "done": true
-        },
-        {
-          "name": "how to destroy psychological safety",
-          "path": "learnings/how to destroy psychological safety.md",
-          "tags": [],
-          "done": true
-        }
-      ]
-    },
-    {
-      "name": "learning & thinking",
-      "files": [
-        {
-          "name": "a learning mindset",
-          "path": "learnings/a learning mindset.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        },
-        {
-          "name": "the science of failing well",
-          "path": "learnings/the science of failing well.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        },
-        {
-          "name": "how to question your own thinking",
-          "path": "learnings/how to question your own thinking.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        },
-        {
-          "name": "group flow",
-          "path": "learnings/group flow.md",
-          "tags": [],
-          "draft": true,
           "done": true
         }
       ]
@@ -129,10 +57,9 @@
           "done": true
         },
         {
-          "name": "developer user experience",
-          "path": "learnings/developer user experience.md",
+          "name": "free flow of information",
+          "path": "learnings/free flow of information.md",
           "tags": [],
-          "draft": true,
           "done": true
         }
       ]
@@ -153,16 +80,15 @@
           "done": true
         },
         {
-          "name": "how to ask the right questions",
-          "path": "learnings/how to ask the right questions.md",
+          "name": "high stakes feedback",
+          "path": "learnings/high stakes feedback.md",
           "tags": [],
           "done": true
         },
         {
-          "name": "how to cool conflict",
-          "path": "learnings/how to cool conflict.md",
+          "name": "how to ask the right questions",
+          "path": "learnings/how to ask the right questions.md",
           "tags": [],
-          "draft": true,
           "done": true
         },
         {
@@ -174,13 +100,12 @@
       ]
     },
     {
-      "name": "misc",
+      "name": "leadership",
       "files": [
         {
-          "name": "the job of a leader",
-          "path": "learnings/the job of a leader.md",
+          "name": "responsibilities of a lead",
+          "path": "learnings/responsibilities of a lead.md",
           "tags": [],
-          "draft": true,
           "done": true
         },
         {
@@ -192,27 +117,6 @@
         {
           "name": "motivation",
           "path": "learnings/motivation.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        },
-        {
-          "name": "courage is contagious",
-          "path": "learnings/courage is contagious.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        },
-        {
-          "name": "confronting our freedom",
-          "path": "learnings/confronting our freedom.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        },
-        {
-          "name": "free flow of information",
-          "path": "learnings/free flow of information.md",
           "tags": [],
           "done": true
         }
@@ -234,23 +138,9 @@
           "done": true
         },
         {
-          "name": "the cost of context switching",
-          "path": "learnings/the cost of context switching.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        },
-        {
           "name": "the fat cat syndrome",
           "path": "learnings/the fat cat syndrome.md",
           "tags": [],
-          "done": true
-        },
-        {
-          "name": "pitfalls of growing teams",
-          "path": "learnings/pitfalls of growing teams.md",
-          "tags": [],
-          "draft": true,
           "done": true
         }
       ]

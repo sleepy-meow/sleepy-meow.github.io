@@ -1,18 +1,21 @@
 > We can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted. (simon sinek)
 # what is psychological safety really?
-*i.e. the team climate in which people feel safe to challenge the thinking of the person who has the power to throw them under the bus.*
+*- a team climate in which people feel safe to challenge the thinking of those who have the power to throw them under the bus.*
 
-Here is a simple video:
-> [!EXAMPLE] 3 minute video: [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0)
+> [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 
-While watching this is definitely useful, it may also be useful to understand the complexity of the topic (this network diagram may give some idea):
-> [!EXAMPLE] [explore.psychsafety.com]() 
+> [!EXAMPLE] [explore.psychsafety.com]() (a nice network diagram to demonstrate the actual complexity of the topic) 
 
-%%
-And here's the #1 book to cause frustration that no one else has read it: 
-> [!TIP] amy edmondson - the fearless organization
+> [!TIP] amy edmondson - the fearless organization (the #1 book to cause frustration about no one else having read it)
 
-%%
+## what a safe environment looks like
+People can speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't require profound courage or encouragement. 
+
+Speaking up is received with appreciation and curiosity. There's plenty of debate, questions, admitting mistakes early, half-formed ideas and suggestions, challenging each others thinking, and disagreeing openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person, and you can trust that if no one tells you that you've messed up, that everything is fine.
+
+
+## red flags of an unsafe environment
+Everyone just being very "nice", and the same few people talk all the time in meetings, reaching fast consensus with no dissent. Concerns come up in the hallway/DM afterward instead of the meeting, and bad news gets watered down upwards. People seem to be walking around on eggshells, but it can be hard to put your finger on where the fear is coming from.
 ## why it matters
 > No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple. (brene brown, the call to courage)
 
@@ -30,8 +33,6 @@ In other words, *low psychological safety gets in the way of nearly every aspect
 > *Hierarchy.. or, more specifically, the fear it creates when not handled well.. reduces psychological safety*. 
 
 *Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear.
-
-This can become a loop that fuels itself, 
 ## why it's bad for business
 A lack of psychological safety can create an illusion of success that eventually turns into serious business failures. Yet many organizational leaders genuinely believe that "no news" means that things are going well.
 
@@ -89,8 +90,6 @@ The danger here is to mix up the comfort zone and anxiety zone, interpreting the
 Telling someone who is afraid to simply try harder to focus, is like trying to smooth rough waters with a flat iron. It will only make it worse. 
 
 > [!EXAMPLE] video: [alan watts - the mind is a vicious cycle](https://www.youtube.com/watch?v=FAl9hw2nyzw) (if you're in the anxiety zone, watching this may also help)
-
-Your own mind can be a vicious cycle, but so is everyone elses. If you've ever had a panic attack, you may have also tried to force your way out of it, which doesn't work. In the same way, a lead demanding fearful employees to work harder, won't work either (at least not if their collective brain capacity is needed for anything).
 
 ## leaders want to feel safe too
 

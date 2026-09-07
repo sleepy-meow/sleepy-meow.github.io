@@ -20,9 +20,11 @@ Advice must be taken seriously, but it's only advice. No one, however senior, ca
 *Ownership of the issue stays clearly with one person: the decision maker.* Convinced of having made the best possible decision, they can see things through and accept responsibility for mistakes.
 
 
+
 # more info
 [https://reinventingorganizationswiki.com/en/theory/decision-making/](https://reinventingorganizationswiki.com/en/theory/decision-making/#:~:text=In%20Practice)
 [Advice process - A simple tool for group decision making](https://medium.com/enspiral-tales/use-advice-process-to-work-better-together-4cb127c83a39)
 
+%%
 Other decision making methods:
 [7 levels of delegation](https://medium.com/@jurgenappelo/the-7-levels-of-delegation-672ec2a48103) - decision-making technique, less corporate alternative than DACI/RACI

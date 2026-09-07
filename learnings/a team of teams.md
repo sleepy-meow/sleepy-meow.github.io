@@ -1,5 +1,3 @@
-*"A team of teams" — the problem you get once you outgrow a single team.*
-
 > [!tip] stanley mcchrystal - Team of Teams: New Rules of Engagement for a Complex World
 
 > [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/)
@@ -36,8 +34,8 @@ Associative thinking is the skill of connecting ideas, memories, or concepts tha
 
 > [!EXAMPLE] article: [associative thinking and creative potential](https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749)
 
-A team of teams is basically associative thinking at scale.
-
+This already great on an individual level. A team of teams is basically associative thinking on steroids.
+%%
 ##
 # cross team connectors
 These often end up being the ones whose brains already work this way, and whose knowledge spans across many different domains. This breadth of knowledge can be used to connect the right people with more depth in a single topic. 

@@ -4,7 +4,7 @@
 
 > [!EXAMPLE] [monkeys, bananas and ladder experiment: obeying absurd rules](https://psychologyfor.com/the-monkeys-bananas-and-ladder-experiment-obeying-absurd-rules/)
 
-- Accountability for decision-making. Similarly to the [[bullshit feedback|anonymous army in feedback]], saying "it has been decided" can be a way to obscure responsibility
+- Accountability for decision-making. Similarly to the [[identifying bullshit feedback|anonymous army in feedback]], saying "it has been decided" can be a way to obscure responsibility
 - Improves problem solving, learning from mistakes, and future decisions
 # how to do it
 All that's needed is:

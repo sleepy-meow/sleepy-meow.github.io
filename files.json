@@ -35,12 +35,6 @@
           "tags": [],
           "draft": true,
           "done": true
-        },
-        {
-          "name": "free flow of information",
-          "path": "learnings/free flow of information.md",
-          "tags": [],
-          "done": true
         }
       ]
     },
@@ -62,7 +56,7 @@
         },
         {
           "name": "how to psychological safety",
-          "path": "2spicy4me/how to psychological safety.md",
+          "path": "learnings/how to psychological safety.md",
           "tags": [],
           "done": true
         },
@@ -77,6 +71,12 @@
           "path": "learnings/how to lower the bar for participation.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "how to destroy psychological safety",
+          "path": "learnings/how to destroy psychological safety.md",
+          "tags": [],
+          "done": true
         }
       ]
     },
@@ -87,12 +87,14 @@
           "name": "a learning mindset",
           "path": "learnings/a learning mindset.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {
           "name": "the science of failing well",
           "path": "learnings/the science of failing well.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {
@@ -106,6 +108,7 @@
           "name": "group flow",
           "path": "learnings/group flow.md",
           "tags": [],
+          "draft": true,
           "done": true
         }
       ]
@@ -114,8 +117,8 @@
       "name": "ways of working",
       "files": [
         {
-          "name": "distributed decision making",
-          "path": "learnings/distributed decision making.md",
+          "name": "how to make decisions",
+          "path": "learnings/how to make decisions.md",
           "tags": [],
           "done": true
         },
@@ -129,6 +132,7 @@
           "name": "developer user experience",
           "path": "learnings/developer user experience.md",
           "tags": [],
+          "draft": true,
           "done": true
         }
       ]
@@ -143,8 +147,8 @@
           "done": true
         },
         {
-          "name": "bullshit feedback",
-          "path": "learnings/bullshit feedback.md",
+          "name": "identifying bullshit feedback",
+          "path": "learnings/identifying bullshit feedback.md",
           "tags": [],
           "done": true
         },
@@ -158,6 +162,7 @@
           "name": "how to cool conflict",
           "path": "learnings/how to cool conflict.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {
@@ -169,7 +174,7 @@
       ]
     },
     {
-      "name": "leadership",
+      "name": "misc",
       "files": [
         {
           "name": "the job of a leader",
@@ -188,25 +193,27 @@
           "name": "motivation",
           "path": "learnings/motivation.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {
           "name": "courage is contagious",
           "path": "learnings/courage is contagious.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {
           "name": "confronting our freedom",
           "path": "learnings/confronting our freedom.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {
-          "name": "responsibility of the captain",
-          "path": "learnings/responsibility of the captain.md",
+          "name": "free flow of information",
+          "path": "learnings/free flow of information.md",
           "tags": [],
-          "draft": true,
           "done": true
         }
       ]

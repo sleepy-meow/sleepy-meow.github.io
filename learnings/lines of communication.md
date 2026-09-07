@@ -16,6 +16,7 @@ This is why growing a team too large will slow everything down. It also reduces 
 %%
 The 2 pizza rule is a guideline that says a meeting (or team) should be small enough (6 or less) that two large pizzas can feed everyone there. 
 
+%%
 # the consequences
 
 Another typical response that follows (as a result of having added more and more people to the teams) is to start adding more management layers. ==todo: explain how this relates to the peter principle==

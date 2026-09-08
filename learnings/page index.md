@@ -25,7 +25,7 @@
 [[how to make decisions]] !!
 [[logging decisions]] !!
 [[developer user experience]] !!
-[[cognitive accessibility]] !!
+[[cognitive accessibility]] !! ?
 
 # conversations
 [[feedback checklists]] !!
@@ -50,7 +50,6 @@
 [[lines of communication]] !!
 %%[[the cost of context switching]] !! ?%%
 [[the fat cat syndrome]] !!
-%%[[pitfalls of growing teams]] !! ?%%
 
 
 # other

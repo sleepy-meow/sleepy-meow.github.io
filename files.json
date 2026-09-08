@@ -29,21 +29,21 @@
       "files": [
         {
           "name": "how to nurture a culture",
-          "path": "learnings/how to nurture a culture.md",
+          "path": "wip/how to nurture a culture.md",
           "tags": [],
           "draft": true,
           "done": true
         },
         {
           "name": "why to have a culture memo",
-          "path": "learnings/why to have a culture memo.md",
+          "path": "wip/why to have a culture memo.md",
           "tags": [],
           "draft": true,
           "done": true
         },
         {
           "name": "universal human needs",
-          "path": "learnings/universal human needs.md",
+          "path": "wip/universal human needs.md",
           "tags": [],
           "draft": true,
           "done": true
@@ -84,28 +84,28 @@
       "files": [
         {
           "name": "a learning mindset",
-          "path": "learnings/a learning mindset.md",
+          "path": "wip/a learning mindset.md",
           "tags": [],
           "draft": true,
           "done": true
         },
         {
           "name": "the science of failing well",
-          "path": "learnings/the science of failing well.md",
+          "path": "wip/the science of failing well.md",
           "tags": [],
           "draft": true,
           "done": true
         },
         {
           "name": "how to question your own thinking",
-          "path": "learnings/how to question your own thinking.md",
+          "path": "wip/how to question your own thinking.md",
           "tags": [],
           "draft": true,
           "done": true
         },
         {
           "name": "group flow",
-          "path": "learnings/group flow.md",
+          "path": "wip/group flow.md",
           "tags": [],
           "draft": true,
           "done": true
@@ -135,8 +135,9 @@
         },
         {
           "name": "cognitive accessibility",
-          "path": "learnings/cognitive accessibility.md",
+          "path": "wip/cognitive accessibility.md",
           "tags": [],
+          "draft": true,
           "done": true
         }
       ]
@@ -233,14 +234,14 @@
       "files": [
         {
           "name": "bad advice books",
-          "path": "learnings/bad advice books.md",
+          "path": "wip/bad advice books.md",
           "tags": [],
           "draft": true,
           "done": true
         },
         {
           "name": "first aid kit",
-          "path": "learnings/first aid kit.md",
+          "path": "wip/first aid kit.md",
           "tags": [],
           "draft": true,
           "done": true

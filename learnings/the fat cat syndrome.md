@@ -8,7 +8,7 @@
 
 The more successful / large a company becomes, the more pressure there is for leaders to become overly obsessed with outcomes and control - masking underlying inefficiencies and even sabotaging new initiatives and innovations to protect their jobs or position. (or as Eric Ries describes in his recent book Incorruptible: "financial gravity - a structural force, almost like physics")
 
-Contrary to popular belief, this is actually an extremely well researched topic, since it's how our brains have worked for at least the past 10,000 years. *This is also not inevitable.* it's just the outcome when nothing is done to prevent it. 
+This is how our brains have worked for at least the past 10,000 years. *This is also not inevitable.* it's just the natural course when nothing is done to prevent it. 
 
 > [!TIP] rutger bregman - humankind (chapter 11 specifically)
 
@@ -55,13 +55,13 @@ Fun fact: After a certain level of courage has been reached, this can become sel
 > The cave you fear to enter holds the treasure you seek.
 
 ## drawing attention to the inefficiency
-It's often difficult for us to comprehend the cumulative cost of inefficiency (which as explained on the page [[a team of teams]], hierarchical structures often are by design). Looking at the wasted time of one person for one day may lead to a reaction of "oh no, anyways", but when you multiply it by the number of people affected, over the course of a year + the indirect impact on top of that, they are often in magnitudes more scary numbers than we assume.
+> if you can't fix the problem, just make it more difficult to ignore
 
-Caveat: doing the math may be so jarring that it can easily also cause a panic reaction and make things worse, for example: [[lines of communication]].
+It's often difficult for us to comprehend the cumulative cost of inefficiency, especially when it's creeped up over time. Looking at the wasted time of one person for one day may lead to a reaction "oh no, anyways", but when you multiply it by the number of people affected, over the course of a year + the indirect impact on top of that, they are often in magnitudes more scary numbers than we assume.
 
 %%
 # why to not give up
-As explained in [[a team of teams]], inefficiency may collapse under its own weight, which can possibly give an opportunity to open up to new ideas.
+As explained in [[team of teams + innovation]], inefficiency may collapse under its own weight, which can possibly give an opportunity to open up to new ideas.
 
 And this is where things like [[emergent facilitation]] techniques actually shine where traditional methods have failed. Many of them have been proven to solve seemingly impossible large scale problems.
 

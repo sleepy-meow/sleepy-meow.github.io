@@ -1,12 +1,11 @@
 # start here
 [[introduction]] !!
-%%[[common misconceptions]] !!%%
-%%[[how to come up with big ideas]] !! ?%%
-%%
+[[how to come up with big ideas]] !!
+[[cross team connectors]] !!
 # culture
 [[how to nurture a culture]] !! ?
 [[why to have a culture memo]] !! ?
-[[universal human needs]] !! %%
+[[universal human needs]] !! ?
 
 
 # psychological safety
@@ -17,16 +16,16 @@
 [[how to lower the bar for participation]] !!
 %%[[how to destroy psychological safety]] !!%%
 
-%%# learning & thinking
+# learning & thinking
 [[a learning mindset]] !! ?
 [[the science of failing well]] !! ?
 [[how to question your own thinking]] !! ?
-[[group flow]] !! ?%%
+[[group flow]] !! ?
 # ways of working
 [[how to make decisions]] !!
 [[logging decisions]] !!
-%%[[developer user experience]] !! ?%%
-[[free flow of information]] !!
+[[developer user experience]] !!
+[[cognitive accessibility]] !!
 
 # conversations
 [[feedback checklists]] !!
@@ -46,7 +45,8 @@
 %%[[responsibility of the captain]] !! ? %%
 
 # scaling teams
-[[a team of teams]] !!
+[[free flow of information]] !!
+[[team of teams + innovation]] !!
 [[lines of communication]] !!
 %%[[the cost of context switching]] !! ?%%
 [[the fat cat syndrome]] !!

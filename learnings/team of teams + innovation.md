@@ -1,8 +1,6 @@
-> [!tip] stanley mcchrystal - Team of Teams: New Rules of Engagement for a Complex World
+> [!tip] stanley mcchrystal - Team of Teams
 
-> [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/)
-
-> [!EXAMPLE] article: [key takeaways](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
+> [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/) /  [key takeaways](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
 
 > Complex environments are, by definition, too complicated for any one person to grasp fully.
 
@@ -34,28 +32,7 @@ Associative thinking is the skill of connecting ideas, memories, or concepts tha
 
 > [!EXAMPLE] article: [associative thinking and creative potential](https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749)
 
-This already great on an individual level. A team of teams is basically associative thinking on steroids.
-%%
-##
-# cross team connectors
-These often end up being the ones whose brains already work this way, and whose knowledge spans across many different domains. This breadth of knowledge can be used to connect the right people with more depth in a single topic. 
+> *individual observations and suggestions build on each other, taking new shape and creating new value, especially compared to what happens when individual feedback is collected separately*
 
-These people are often not leads themselves, and 
-
-They're often also the ones who just don't fit into a narrowly shaped box of a rigid structure, whose job descriptions are often hard to define or to reduce to a simple measurable number and benefits come with more delay, so the work often goes underappreciated. it's something a rigid structure where people are told to "just focus on their own work", where "what isn't measured won't get done", you'll end up with a huge amount of wasted potential, with both problems and great ideas falling in between the cracks. 
-
-There's often a huge amount of untapped potential in this space (which is probably why tech artists not need to worry about running out of useful things to do)
-
-
-https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749
-
-
-
-
-A polymath is an individual whose knowledge spans many different subjects, known to draw on complex bodies of knowledge to solve specific problems.
-
-https://medium.com/@matthewbunce/the-wired-differently-problem-why-adhd-and-polymathy-are-the-same-cognitive-gift-224dc107eee7
-
-
-
+Innovation frequently happens between disciplines
 

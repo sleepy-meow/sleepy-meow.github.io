@@ -19,62 +19,78 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" />
 
 <style>
-  /* ────────────────────────────────────────────────────────
-     Palette mirrored from the "Things" Obsidian theme
-     (by @colineckert). Dark is the default; light follows the
-     OS preference. Base/accent values match Things' tokens.
-     ──────────────────────────────────────────────────────── */
+  /* ───────────────────────────────────────────────────────
+     Deep-plum base, violet links, teal quotes, one warm note
+     for emphasis. Dark is the default; light follows the OS
+     preference. Every colour in the page comes from a token
+     here — there is no bare hex below this block.
+     ────────────────────────────────────────────────────── */
   :root {
-    --bg:           #1c2127;  /* base-00  main window      */
-    --bg-soft:      #282c34;  /* base-10  code / surfaces   */
-    --sidebar:      #181c20;  /* base-20  nav background    */
-    --panel:        #2c313c;  /* base-25  inputs / hover    */
-    --border:       #35393e;  /* base-30  dividing lines    */
-    --text:         #dadada;  /* base-100 normal text       */
-    --muted:        #b3b9c0;  /* text-muted                 */
-    --faint:        #5f6b78;  /* text-faint                 */
-    --accent:       hsl(215, 75%, 70%);
-    --accent-hover: hsl(215, 75%, 80%);
-    --active:       #536e89;
-    --active-dim:   #3b4e60;  /* selected "?" draft page    */
-    --blue:         #2e80f2;  /* H3                         */
-    --yellow:       #e5b567;  /* H4                         */
-    --pink:         #ff82b2;  /* bold / italic              */
-    --green:        #3eb4bf;  /* blockquote / quoted text   */
-    --green-dim:    #2b858f;  /* "(source)" inside a quote  */
-    --quote-bar:    #4d8ce6;  /* blockquote left bar        */
-    --red:          #e83e3e;  /* H5                         */
-    --orange:       #d19a66;  /* **bold** inside code blocks */
-    --code-bg:      #282c34;
-    --highlight:    rgba(255, 208, 0, .4);
-    --radius:       8px;
-    --radius-s:     4px;
-    --sidebar-w:    290px;
+    /* surfaces, darkest → lightest */
+    --bg:             #090414;  /* page background            */
+    --sidebar:        #0e0820;  /* nav background             */
+    --bg-soft:        #150e26;  /* table header               */
+    --code-bg:        #150e26;  /* code                       */
+    --panel:          #1c1433;  /* inputs, hover              */
+    --border:         #251c3f;  /* dividing lines             */
+
+    /* text, brightest → faintest */
+    --text:           #c9c3d9;  /* body                       */
+    --muted:          #8f88a6;  /* secondary                  */
+    --faint:          #5f5878;  /* tertiary                   */
+
+    /* accents */
+    --accent:         #a892f0;  /* links                      */
+    --accent-hover:   #c3b3ff;
+    --ring:           rgba(168, 146, 240, .28);  /* focus ring */
+    --quote:          #6fc3c9;  /* quote text + its left bar  */
+    --emph:           #e0ab7c;  /* **bold** and *italic*      */
+    --orange:         #e0ab7c;  /* **bold** inside a fence    */
+    --pink:           #e08fb4;  /* "!!!" pages in the nav     */
+    --highlight:      rgba(232, 190, 106, .30);
+
+    /* sidebar chrome */
+    --nav:            #ada6c0;  /* idle nav link              */
+    --nav-heading:    #7d7595;  /* folder titles, WIP toggle  */
+    --nav-draft:      #6a6280;  /* "?" drafts                 */
+    --nav-active:     #37295f;  /* selected item background   */
+    --nav-active-dim: #221a3a;  /* selected "?" draft         */
+    --nav-active-tx:  #ece8f7;  /* selected item text         */
+    --nav-active-tx-dim: #9990b0;
+
+    --radius:         8px;
+    --radius-s:       4px;
+    --sidebar-w:      290px;
   }
   @media (prefers-color-scheme: light) {
     :root {
-      --bg:           #ffffff;
-      --bg-soft:      #f6f7f8;
-      --sidebar:      #f2f3f5;
-      --panel:        #ffffff;
-      --border:       #ebedf0;
-      --text:         #222222;
-      --muted:        #545b63;
-      --faint:        #9aa0a6;
-      --accent:       hsl(215, 75%, 60%);
-      --accent-hover: hsl(215, 75%, 50%);
-      --active:       #536e89;
-      --active-dim:   #3b4e60;
-      --blue:         #086ddd;
-      --yellow:       #bd8e37;
-      --pink:         #c32b74;
-      --green:        #2db7b5;
-      --green-dim:    #1d7a79;
-      --quote-bar:    #4d8ce6;
-      --red:          #c83232;
-      --orange:       #b06000;
-      --code-bg:      #f6f7f8;
-      --highlight:    rgba(255, 208, 0, .4);
+      --bg:             #fdfcff;
+      --sidebar:        #f4f1fa;
+      --bg-soft:        #f4f1fa;
+      --code-bg:        #f4f1fa;
+      --panel:          #ffffff;
+      --border:         #e6e0f2;
+
+      --text:           #2b2438;
+      --muted:          #6b6280;
+      --faint:          #9b93ad;
+
+      --accent:         #6b46d6;
+      --accent-hover:   #5231b5;
+      --ring:           rgba(107, 70, 214, .22);
+      --quote:          #26787f;
+      --emph:           #9a5d24;
+      --orange:         #9a5d24;
+      --pink:           #b04a78;
+      --highlight:      rgba(232, 190, 106, .50);
+
+      --nav:            #4c4460;
+      --nav-heading:    #7a7290;
+      --nav-draft:      #948bab;
+      --nav-active:     #ddd2f8;
+      --nav-active-dim: #ece7f6;
+      --nav-active-tx:  #2b2438;
+      --nav-active-tx-dim: #7d7594;
     }
   }
 
@@ -123,17 +139,17 @@
     font-size: .88rem; outline: none;
     transition: border-color .12s, box-shadow .12s;
   }
-  #search:focus { border-color: var(--accent); box-shadow: 0 0 0 2px hsl(215 75% 60% / .2); }
+  #search:focus { border-color: var(--accent); box-shadow: 0 0 0 2px var(--ring); }
 
   /* "Show WIP pages" switch — hides the "?" drafts from the nav by default. */
   .wip-toggle {
     display: flex; align-items: center; gap: 8px;
     padding: 2px 10px 12px; cursor: pointer; user-select: none;
     font-size: .72rem; text-transform: uppercase; letter-spacing: .08em;
-    font-weight: 700; color: #949799;
+    font-weight: 700; color: var(--nav-heading);
     transition: color .12s;
   }
-  .wip-toggle:hover { color: #b6b8ba; }
+  .wip-toggle:hover { color: var(--muted); }
   .wip-toggle input { position: absolute; opacity: 0; width: 0; height: 0; }
   .wip-switch {
     position: relative; flex: 0 0 auto;
@@ -144,25 +160,25 @@
   .wip-switch::after {
     content: ""; position: absolute; top: 2px; left: 2px;
     width: 9px; height: 9px; border-radius: 50%;
-    background: #949799; transition: transform .14s, background .14s;
+    background: var(--nav-heading); transition: transform .14s, background .14s;
   }
   .wip-toggle input:checked + .wip-switch {
-    background: var(--active); border-color: var(--active);
+    background: var(--nav-active); border-color: var(--nav-active);
   }
   .wip-toggle input:checked + .wip-switch::after {
-    transform: translateX(11px); background: #efefef;
+    transform: translateX(11px); background: var(--nav-active-tx);
   }
-  .wip-toggle input:focus-visible + .wip-switch { box-shadow: 0 0 0 2px hsl(0 0% 60% / .3); }
+  .wip-toggle input:focus-visible + .wip-switch { box-shadow: 0 0 0 2px var(--ring); }
 
   .folder { margin-bottom: 12px; }
   .folder > .folder-title {
     font-size: .72rem; text-transform: uppercase; letter-spacing: .08em;
-    color: #828181; font-weight: 700;
+    color: var(--nav-heading); font-weight: 700;
     padding: 6px 10px; display: flex; align-items: center; gap: 7px;
   }
   .folder-title::before { content: "▸"; font-size: .7em; opacity: .7; }
   nav a {
-    display: block; text-decoration: none; color: #c7c7c7;
+    display: block; text-decoration: none; color: var(--nav);
     padding: 5px 10px 5px 22px; border-radius: var(--radius-s);
     font-size: .9rem; transition: background .12s, color .12s;
     overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
@@ -174,16 +190,16 @@
   /* Pages marked "?" in the page index — grey, whatever else they're marked.
      Listed after .star so the "?" wins, and before .active so a selected
      draft still highlights normally. */
-  nav a.draft { color: #6b6f74; }
+  nav a.draft { color: var(--nav-draft); }
   nav a.draft:hover { color: var(--muted); }
   nav a.active {
-    background: var(--active);
-    color: #dadada; font-weight: 500;
+    background: var(--nav-active);
+    color: var(--nav-active-tx); font-weight: 500;
   }
   /* A selected "?" draft keeps the muted look: darker blue, dimmer text. */
   nav a.draft.active {
-    background: var(--active-dim);
-    color: #9aa4ae;
+    background: var(--nav-active-dim);
+    color: var(--nav-active-tx-dim);
   }
   /* ---------- Main ---------- */
 
@@ -220,8 +236,8 @@
   .md h5 { font-size: 1rem;   font-weight: 500; color: var(--text); }
   .md h6 { font-size: .9rem;  font-weight: 400; color: var(--text); }
   .md p, .md li { color: var(--text); }
-  .md strong { color: var(--pink); font-weight: 700; }
-  .md em { color: var(--pink); }
+  .md strong { color: var(--emph); font-weight: 700; }
+  .md em { color: var(--emph); }
   .md a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
   .md a:hover { color: var(--accent-hover); }
   /* Bold/italic inside a link should keep the link colour, not the strong/em colour. */
@@ -262,16 +278,16 @@
   .md hr { border: none; border-top: 1px solid var(--border); margin: 2em 0; }
   .md blockquote {
     margin: 1.2em 0; padding: .1em 0 .1em .6em;
-    border-left: 3px solid var(--green);
-    color: var(--green); font-style: italic;
+    border-left: 3px solid var(--quote);
+    color: var(--quote); font-style: italic;
   }
   /* Inner paragraphs inherit the quote colour and don't add big vertical gaps. */
   .md blockquote p, .md blockquote li,
-  .md blockquote strong, .md blockquote em { color: var(--green); }
+  .md blockquote strong, .md blockquote em { color: var(--quote); }
   .md blockquote > :first-child { margin-top: 0; }
   .md blockquote > :last-child { margin-bottom: 0; }
   /* "(author, book)" trailing a quote sits a shade back from the quote. */
-  .md blockquote .dim-paren { color: var(--green-dim); }
+  .md blockquote .dim-paren { color: var(--muted); }
   .md code {
     background: var(--code-bg); padding: .15em .4em;
     border-radius: var(--radius-s); font-size: .88em;
@@ -369,98 +385,596 @@
     main { margin-left: 0; padding: 70px 22px 40vh; }
   }
 
-  /* ═══════════════════════════════════════════════════════════════════
-     TEMPORARY — greyscale pass. Everything renders grey except:
-       · blockquotes / quoted text (and their "(source)" aside)
-       · *italic* and **bold** runs
-       · warning-family callouts ([!warning] / [!caution] / [!attention])
-       · [!tip] callouts (the book icon), at half saturation
-       · images and code blocks
-     Delete this whole block to restore the full palette. Nothing above
-     it was changed, so removal is the only step needed.
-     ═══════════════════════════════════════════════════════════════════ */
-  :root {
-    --accent:       hsl(0 0% 74%);
-    --accent-hover: hsl(0 0% 88%);
-    --active:       #4b4b4b;
-    --active-dim:   #363636;
-    --blue:         hsl(0 0% 72%);
-    --yellow:       hsl(0 0% 72%);
-    --red:          hsl(0 0% 72%);
-    --quote-bar:    hsl(0 0% 55%);
-    --highlight:    hsl(0 0% 62% / .38);
+
+  /* ---------- Theme control panel (hidden; toggle with "<") ---------- */
+  #theme-panel {
+    position: fixed; top: 0; right: 0; z-index: 40;
+    width: min(310px, 90vw); height: 100vh; overflow-y: auto;
+    background: var(--sidebar); border-left: 1px solid var(--border);
+    transform: translateX(101%); transition: transform .2s ease;
+    box-shadow: -10px 0 34px rgba(0, 0, 0, .38);
+    font-size: .85rem; color: var(--text);
   }
-  /* --pink (bold/italic) and --green (quotes) are deliberately left alone;
-     the two places they're used outside those roles are greyed here. */
-  nav a.star, nav a.star:hover { color: var(--muted); }
-  #search:focus { border-color: var(--accent); box-shadow: 0 0 0 2px hsl(0 0% 60% / .2); }
-
-  /* Sidebar tag pills (per-tag hues) */
-  .tag-list .tag { background: hsl(0 0% 55% / .16); color: hsl(0 0% 72%); }
-  .tag-list .tag:hover { background: hsl(0 0% 60% / .3); }
-  .tag-list .tag.active { background: hsl(0 0% 52%); color: #fff; }
-
-  /* Callouts, except the warning family and [!tip] (kept half-saturated below) */
-  .md .callout:not([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="tip"]) {
-    background: hsl(0 0% 50% / .1);
-    border-color: hsl(0 0% 50% / .22);
+  body.theme-open #theme-panel { transform: translateX(0); }
+  .tp-head {
+    position: sticky; top: 0; z-index: 1;
+    background: var(--sidebar); border-bottom: 1px solid var(--border);
+    padding: 16px 16px 12px;
   }
-  .md .callout:not([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="tip"]) .callout-title { color: hsl(0 0% 74%); }
-  .md .callout:not([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="tip"]) .callout-title .dim-paren { color: hsl(0 0% 56%); }
-
-  /* [!tip] (the book one) keeps its teal, at 50% saturation instead of 70% */
-  .md .callout[data-callout="tip"] {
-    background: hsl(var(--cl) 50% 50% / .1);
-    border-color: hsl(var(--cl) 50% 50% / .22);
+  .tp-title {
+    display: flex; align-items: baseline; gap: 8px;
+    font-size: .95rem; font-weight: 700;
   }
-  .md .callout[data-callout="tip"] .callout-title { color: hsl(var(--cl) 50% 68%); }
-  .md .callout[data-callout="tip"] .callout-title .dim-paren { color: hsl(var(--cl) 32% 55%); }
-
-  /* Images and code blocks (highlight.js) keep their colour — not greyed. */
-
-  @media (prefers-color-scheme: light) {
-    :root {
-      --accent:       hsl(0 0% 32%);
-      --accent-hover: hsl(0 0% 12%);
-      --active:       #6b6b6b;
-      --active-dim:   #8a8a8a;
-      --blue:         hsl(0 0% 30%);
-      --yellow:       hsl(0 0% 30%);
-      --red:          hsl(0 0% 30%);
-      --quote-bar:    hsl(0 0% 55%);
-      --highlight:    hsl(0 0% 55% / .32);
-    }
-    #search:focus { box-shadow: 0 0 0 2px hsl(0 0% 40% / .2); }
-    .tag-list .tag { background: hsl(0 0% 45% / .14); color: hsl(0 0% 32%); }
-    .tag-list .tag:hover { background: hsl(0 0% 45% / .26); }
-    .md .callout:not([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="tip"]) {
-      background: hsl(0 0% 45% / .08);
-      border-color: hsl(0 0% 45% / .25);
-    }
-    .md .callout:not([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="tip"]) .callout-title { color: hsl(0 0% 34%); }
-    .md .callout:not([data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="tip"]) .callout-title .dim-paren { color: hsl(0 0% 46%); }
-    .md .callout[data-callout="tip"] {
-      background: hsl(var(--cl) 45% 48% / .08);
-      border-color: hsl(var(--cl) 42% 45% / .25);
-    }
-    .md .callout[data-callout="tip"] .callout-title { color: hsl(var(--cl) 42% 40%); }
-    .md .callout[data-callout="tip"] .callout-title .dim-paren { color: hsl(var(--cl) 25% 32%); }
+  .tp-mode {
+    font-size: .68rem; font-weight: 700; letter-spacing: .08em;
+    text-transform: uppercase; color: var(--nav-heading);
   }
-
-  /* Body links keep their blue — only the chrome around them is greyed.
-     (Tag pills and links inside callouts are excluded, as above.) */
-  .md a:not(.tag) { color: hsl(215, 75%, 70%); }
-  .md a:not(.tag):hover { color: hsl(215, 75%, 80%); }
-  .md .callout a:not(.tag),
-  .md .callout a:not(.tag):hover { color: inherit; }
-  @media (prefers-color-scheme: light) {
-    .md a:not(.tag) { color: hsl(215, 75%, 60%); }
-    .md a:not(.tag):hover { color: hsl(215, 75%, 50%); }
-    .md .callout a:not(.tag),
-    .md .callout a:not(.tag):hover { color: inherit; }
+  .tp-close {
+    margin-left: auto; background: none; border: none; cursor: pointer;
+    color: var(--nav-heading); font-size: 1.1rem; line-height: 1; padding: 0 2px;
   }
-  /* ══════════════════ end TEMPORARY greyscale pass ══════════════════ */
+  .tp-close:hover { color: var(--text); }
+  .tp-actions { display: flex; gap: 6px; margin-top: 12px; }
+  .tp-btn {
+    flex: 1; padding: 6px 8px; cursor: pointer;
+    background: var(--panel); color: var(--text);
+    border: 1px solid var(--border); border-radius: var(--radius-s);
+    font: inherit; font-size: .78rem;
+    transition: background .12s, border-color .12s, color .12s;
+  }
+  .tp-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .tp-btn.primary { background: var(--nav-active); color: var(--nav-active-tx); }
+  .tp-btn.primary:hover { border-color: var(--accent); color: var(--nav-active-tx); }
+  .tp-btn.primary[data-dirty="0"] { opacity: .55; }
+  .tp-body { padding: 4px 16px 28px; }
+  .tp-group {
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .08em;
+    font-weight: 700; color: var(--nav-heading);
+    margin: 16px 0 4px;
+  }
+  .tp-row { display: flex; align-items: center; gap: 8px; padding: 3px 0; }
+  .tp-row .tp-label {
+    flex: 1; min-width: 0; color: var(--nav);
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  /* Alpha checkerboard, behind any colour that can be translucent. */
+  .tp-checker {
+    background-image:
+      linear-gradient(45deg, var(--border) 25%, transparent 25%, transparent 75%, var(--border) 75%),
+      linear-gradient(45deg, var(--border) 25%, transparent 25%, transparent 75%, var(--border) 75%);
+    background-size: 8px 8px;
+    background-position: 0 0, 4px 4px;
+  }
+  .tp-swatch {
+    position: relative; flex: 0 0 auto; width: 28px; height: 22px;
+    padding: 0; cursor: pointer; overflow: hidden;
+    border: 1px solid var(--border); border-radius: var(--radius-s);
+  }
+  .tp-swatch > span { position: absolute; inset: 0; }
+  .tp-swatch:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  /* Firefox-devtools-style picker: saturation/value square + hue + alpha. */
+  .tp-picker { padding: 10px 0 6px; }
+  .tp-picker[hidden] { display: none; }
+  .tp-sv {
+    position: relative; height: 130px; border-radius: var(--radius-s);
+    cursor: crosshair; touch-action: none;
+  }
+  .tp-track {
+    position: relative; height: 12px; margin-top: 10px;
+    border-radius: 999px; cursor: pointer; touch-action: none; overflow: hidden;
+  }
+  .tp-hue {
+    background: linear-gradient(to right, #f00 0%, #ff0 17%, #0f0 33%,
+                                          #0ff 50%, #00f 67%, #f0f 83%, #f00 100%);
+  }
+  .tp-alpha-fill { position: absolute; inset: 0; }
+  .tp-sv:focus-visible, .tp-track:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .tp-dot {
+    position: absolute; width: 12px; height: 12px; border-radius: 50%;
+    border: 2px solid #fff; box-shadow: 0 0 0 1px rgba(0, 0, 0, .5);
+    transform: translate(-50%, -50%); pointer-events: none;
+  }
+  .tp-track .tp-dot { top: 50%; }
+  .tp-row input[type="text"] {
+    flex: 0 0 auto; width: 94px; padding: 4px 6px;
+    background: var(--panel); color: var(--text);
+    border: 1px solid var(--border); border-radius: var(--radius-s);
+    font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: .74rem; outline: none;
+  }
+  .tp-row input[type="text"]:focus { border-color: var(--accent); }
+  .tp-note { margin-top: 18px; color: var(--faint); font-size: .74rem; line-height: 1.5; }
 </style>
+<script>
+/* ── Theme control panel ────────────────────────────────────────────────
+   Hidden by default; press "<" to open it (Esc or the × closes). Edits
+   apply live as inline custom properties on <html>, which beat the :root
+   palette in the stylesheet. "Save" persists them to localStorage, per
+   colour scheme, and they are re-applied here before first paint so there
+   is no flash of the default palette on reload.
+   ──────────────────────────────────────────────────────────────────── */
+(function () {
+  var GROUPS = [
+    ['Surfaces', [
+      ['--bg',            'Page'],
+      ['--sidebar',       'Sidebar'],
+      ['--bg-soft',       'Table header'],
+      ['--code-bg',       'Code'],
+      ['--panel',         'Inputs / hover'],
+      ['--border',        'Borders']
+    ]],
+    ['Text', [
+      ['--text',          'Body'],
+      ['--muted',         'Muted'],
+      ['--faint',         'Faint']
+    ]],
+    ['Accents', [
+      ['--accent',        'Links'],
+      ['--accent-hover',  'Links (hover)'],
+      ['--quote',         'Quotes'],
+      ['--emph',          'Bold / italic'],
+      ['--orange',        'Bold in code'],
+      ['--pink',          '"!!!" pages']
+    ]],
+    ['Sidebar', [
+      ['--nav',                'Link'],
+      ['--nav-heading',        'Headings'],
+      ['--nav-draft',          'Drafts'],
+      ['--nav-active',         'Selected bg'],
+      ['--nav-active-dim',     'Selected bg (draft)'],
+      ['--nav-active-tx',      'Selected text'],
+      ['--nav-active-tx-dim',  'Selected text (draft)']
+    ]],
+    ['Translucent', [
+      ['--highlight',     '==highlight=='],
+      ['--ring',          'Focus ring']
+    ]]
+  ];
+
+  var ALL = [];
+  GROUPS.forEach(function (g) {
+    g[1].forEach(function (row) { ALL.push(row[0]); });
+  });
+
+  /* ---------- colour maths ---------- */
+
+  function clamp01(n) { return n < 0 ? 0 : n > 1 ? 1 : n; }
+
+  function hsvToRgb(h, s, v) {
+    h = ((h % 360) + 360) % 360 / 60;
+    var c = v * s, x = c * (1 - Math.abs(h % 2 - 1)), m = v - c;
+    var r = [c, x, 0, 0, x, c][Math.floor(h)];
+    var g = [x, c, c, x, 0, 0][Math.floor(h)];
+    var b = [0, 0, x, c, c, x][Math.floor(h)];
+    return [Math.round((r + m) * 255), Math.round((g + m) * 255), Math.round((b + m) * 255)];
+  }
+
+  function rgbToHsv(r, g, b) {
+    r /= 255; g /= 255; b /= 255;
+    var max = Math.max(r, g, b), min = Math.min(r, g, b), d = max - min, h = 0;
+    if (d) {
+      if (max === r) h = ((g - b) / d + (g < b ? 6 : 0));
+      else if (max === g) h = (b - r) / d + 2;
+      else h = (r - g) / d + 4;
+      h *= 60;
+    }
+    return { h: h, s: max ? d / max : 0, v: max };
+  }
+
+  var probe = null;
+  function resolve(str) {
+    // Anything the regexes miss (named colours, hsl(), colour functions)
+    // goes through the browser, which hands back an rgb()/rgba() string.
+    if (!probe) {
+      probe = document.createElement('span');
+      probe.style.cssText = 'position:absolute;left:-9999px;width:0;height:0';
+      document.body.appendChild(probe);
+    }
+    probe.style.color = '';
+    probe.style.color = str;
+    if (!probe.style.color) return null;
+    return getComputedStyle(probe).color;
+  }
+
+  function parseColor(str) {
+    if (!str) return null;
+    str = String(str).trim();
+    var m = /^#([0-9a-f]{3,8})$/i.exec(str);
+    if (m) {
+      var h = m[1], p;
+      if (h.length === 3 || h.length === 4) {
+        p = h.split('').map(function (c) { return parseInt(c + c, 16); });
+      } else if (h.length === 6 || h.length === 8) {
+        p = h.match(/../g).map(function (c) { return parseInt(c, 16); });
+      } else return null;
+      var hsv = rgbToHsv(p[0], p[1], p[2]);
+      hsv.a = p.length === 4 ? p[3] / 255 : 1;
+      return hsv;
+    }
+    m = /^rgba?\(([^)]+)\)$/i.exec(str);
+    if (!m) {
+      var resolved = str === 'transparent' ? 'rgba(0, 0, 0, 0)' : resolve(str);
+      if (!resolved || resolved === str) return null;
+      return parseColor(resolved);
+    }
+    var parts = m[1].split(/[,\/]/).map(function (x) { return x.trim(); });
+    if (parts.length === 1) parts = m[1].trim().split(/\s+/);
+    var n = parts.map(parseFloat);
+    if (n.length < 3 || n.some(isNaN)) return null;
+    var out = rgbToHsv(n[0], n[1], n[2]);
+    out.a = n.length > 3 ? clamp01(/%$/.test(parts[3]) ? n[3] / 100 : n[3]) : 1;
+    return out;
+  }
+
+  function formatColor(c) {
+    var rgb = hsvToRgb(c.h, c.s, c.v);
+    if (c.a >= 1) {
+      return '#' + rgb.map(function (v) {
+        return ('0' + v.toString(16)).slice(-2);
+      }).join('');
+    }
+    return 'rgba(' + rgb[0] + ', ' + rgb[1] + ', ' + rgb[2] + ', ' +
+           (Math.round(c.a * 1000) / 1000) + ')';
+  }
+
+  function cssColor(c) {
+    var rgb = hsvToRgb(c.h, c.s, c.v);
+    return 'rgba(' + rgb.join(', ') + ', ' + c.a + ')';
+  }
+
+  // Compare through one normaliser, so "#A892F0" and "#a892f0" match.
+  function sameColor(a, b) {
+    var pa = parseColor(a), pb = parseColor(b);
+    if (!pa || !pb) return a === b;
+    return formatColor(pa) === formatColor(pb);
+  }
+
+  /* ---------- state ---------- */
+
+  var root = document.documentElement;
+  var mq = window.matchMedia('(prefers-color-scheme: light)');
+  var DEFAULTS = {};
+  var saved = {};
+  var current = {};
+
+  function mode() { return mq.matches ? 'light' : 'dark'; }
+  function storeKey() { return 'theme-overrides-' + mode(); }
+
+  function loadSaved() {
+    try { return JSON.parse(localStorage.getItem(storeKey())) || {}; }
+    catch { return {}; }
+  }
+
+  /* Read the stylesheet's own values, with any inline overrides lifted
+     first so we never capture an override as if it were the default. */
+  function captureDefaults() {
+    ALL.forEach(function (n) { root.style.removeProperty(n); });
+    var cs = getComputedStyle(root);
+    ALL.forEach(function (n) { DEFAULTS[n] = cs.getPropertyValue(n).trim(); });
+  }
+
+  function apply() {
+    ALL.forEach(function (n) {
+      if (current[n]) root.style.setProperty(n, current[n]);
+      else root.style.removeProperty(n);
+    });
+  }
+
+  function isDirty() { return JSON.stringify(current) !== JSON.stringify(saved); }
+
+  // Run before the body paints.
+  captureDefaults();
+  saved = loadSaved();
+  current = Object.assign({}, saved);
+  apply();
+
+  /* ---------- panel ---------- */
+
+  var panel, rows = {}, saveBtn, modeLabel, openPicker = null;
+
+  function valueOf(name) { return current[name] || DEFAULTS[name] || ''; }
+
+  function set(name, value) {
+    if (!value || sameColor(value, DEFAULTS[name])) delete current[name];
+    else current[name] = value;
+    apply();
+    syncInputs();
+  }
+
+  function syncInputs() {
+    ALL.forEach(function (n) {
+      var row = rows[n];
+      if (!row) return;
+      var v = valueOf(n);
+      if (document.activeElement !== row.text) row.text.value = v;
+      row.fill.style.background = v;
+      if (row.picker && !row.picker.hidden) paintPicker(row, parseColor(v));
+    });
+    if (saveBtn) saveBtn.dataset.dirty = isDirty() ? '1' : '0';
+    if (modeLabel) modeLabel.textContent = mode();
+  }
+
+  /* ---------- the picker ---------- */
+
+  function drag(el, onMove) {
+    function at(e) {
+      var r = el.getBoundingClientRect();
+      return {
+        x: clamp01((e.clientX - r.left) / r.width),
+        y: clamp01((e.clientY - r.top) / r.height)
+      };
+    }
+    el.addEventListener('pointerdown', function (e) {
+      e.preventDefault();
+      el.focus();
+      el.setPointerCapture(e.pointerId);
+      onMove(at(e));
+      function move(ev) { onMove(at(ev)); }
+      function up() {
+        el.removeEventListener('pointermove', move);
+        el.removeEventListener('pointerup', up);
+        el.removeEventListener('pointercancel', up);
+      }
+      el.addEventListener('pointermove', move);
+      el.addEventListener('pointerup', up);
+      el.addEventListener('pointercancel', up);
+    });
+  }
+
+  function paintPicker(row, c) {
+    if (!c) return;
+    row.hsva = c;
+    var pure = 'hsl(' + c.h + ', 100%, 50%)';
+    row.sv.style.background =
+      'linear-gradient(to top, #000, rgba(0,0,0,0)), ' +
+      'linear-gradient(to right, #fff, rgba(255,255,255,0)), ' + pure;
+    row.svDot.style.left = (c.s * 100) + '%';
+    row.svDot.style.top = ((1 - c.v) * 100) + '%';
+    row.hueDot.style.left = (c.h / 360 * 100) + '%';
+    row.alphaFill.style.background =
+      'linear-gradient(to right, rgba(0,0,0,0), ' + cssColor({ h: c.h, s: c.s, v: c.v, a: 1 }) + ')';
+    row.alphaDot.style.left = (c.a * 100) + '%';
+  }
+
+  function buildPicker(row, name) {
+    var box = document.createElement('div');
+    box.className = 'tp-picker';
+    box.hidden = true;
+    box.innerHTML =
+      '<div class="tp-sv" tabindex="0" role="slider" aria-label="Saturation and brightness">' +
+        '<div class="tp-dot"></div></div>' +
+      '<div class="tp-track tp-hue" tabindex="0" role="slider" aria-label="Hue">' +
+        '<div class="tp-dot"></div></div>' +
+      '<div class="tp-track tp-alpha tp-checker" tabindex="0" role="slider" aria-label="Opacity">' +
+        '<div class="tp-alpha-fill"></div><div class="tp-dot"></div></div>';
+
+    row.picker = box;
+    row.sv = box.querySelector('.tp-sv');
+    row.svDot = row.sv.querySelector('.tp-dot');
+    var hue = box.querySelector('.tp-hue');
+    row.hueDot = hue.querySelector('.tp-dot');
+    var alpha = box.querySelector('.tp-alpha');
+    row.alphaFill = alpha.querySelector('.tp-alpha-fill');
+    row.alphaDot = alpha.querySelector('.tp-dot');
+
+    function push(next) {
+      row.hsva = next;
+      set(name, formatColor(next));
+      paintPicker(row, next);
+    }
+    function cur() { return row.hsva || parseColor(valueOf(name)) || { h: 0, s: 0, v: 0, a: 1 }; }
+
+    drag(row.sv, function (p) {
+      var c = cur();
+      push({ h: c.h, s: p.x, v: 1 - p.y, a: c.a });
+    });
+    drag(hue, function (p) {
+      var c = cur();
+      push({ h: p.x * 360, s: c.s, v: c.v, a: c.a });
+    });
+    drag(alpha, function (p) {
+      var c = cur();
+      push({ h: c.h, s: c.s, v: c.v, a: p.x });
+    });
+
+    // Arrow keys: Shift for a coarse step.
+    function keys(el, fn) {
+      el.addEventListener('keydown', function (e) {
+        var d = { ArrowLeft: [-1, 0], ArrowRight: [1, 0], ArrowUp: [0, -1], ArrowDown: [0, 1] }[e.key];
+        if (!d) return;
+        e.preventDefault();
+        fn(d[0], d[1], e.shiftKey ? 10 : 1);
+      });
+    }
+    keys(row.sv, function (dx, dy, step) {
+      var c = cur();
+      push({ h: c.h, s: clamp01(c.s + dx * step / 100), v: clamp01(c.v - dy * step / 100), a: c.a });
+    });
+    keys(hue, function (dx, dy, step) {
+      var c = cur();
+      push({ h: (c.h + (dx + dy) * step + 360) % 360, s: c.s, v: c.v, a: c.a });
+    });
+    keys(alpha, function (dx, dy, step) {
+      var c = cur();
+      push({ h: c.h, s: c.s, v: c.v, a: clamp01(c.a + (dx - dy) * step / 100) });
+    });
+
+    return box;
+  }
+
+  function togglePicker(row) {
+    var wasOpen = openPicker === row;
+    if (openPicker) openPicker.picker.hidden = true;
+    openPicker = null;
+    if (wasOpen) return;
+    row.picker.hidden = false;
+    openPicker = row;
+    paintPicker(row, parseColor(valueOf(row.name)));
+    row.picker.scrollIntoView({ block: 'nearest' });
+  }
+
+  function build() {
+    panel = document.createElement('aside');
+    panel.id = 'theme-panel';
+
+    var head = document.createElement('div');
+    head.className = 'tp-head';
+    head.innerHTML =
+      '<div class="tp-title">Theme' +
+      '<span class="tp-mode"></span>' +
+      '<button class="tp-close" type="button" aria-label="Close">×</button></div>' +
+      '<div class="tp-actions">' +
+      '<button class="tp-btn primary" type="button" data-act="save" data-dirty="0">Save</button>' +
+      '<button class="tp-btn" type="button" data-act="reset">Reset</button>' +
+      '<button class="tp-btn" type="button" data-act="copy">Copy CSS</button>' +
+      '</div>';
+    panel.appendChild(head);
+    modeLabel = head.querySelector('.tp-mode');
+    saveBtn = head.querySelector('[data-act="save"]');
+
+    var body = document.createElement('div');
+    body.className = 'tp-body';
+    GROUPS.forEach(function (g) {
+      var h = document.createElement('div');
+      h.className = 'tp-group';
+      h.textContent = g[0];
+      body.appendChild(h);
+
+      g[1].forEach(function (def) {
+        var name = def[0], label = def[1];
+        var row = { name: name };
+
+        var el = document.createElement('div');
+        el.className = 'tp-row';
+
+        var lab = document.createElement('span');
+        lab.className = 'tp-label';
+        lab.textContent = label;
+        lab.title = name;
+        el.appendChild(lab);
+
+        var swatch = document.createElement('button');
+        swatch.type = 'button';
+        swatch.className = 'tp-swatch tp-checker';
+        swatch.setAttribute('aria-label', label + ' colour');
+        row.fill = document.createElement('span');
+        swatch.appendChild(row.fill);
+        swatch.addEventListener('click', function () { togglePicker(row); });
+        el.appendChild(swatch);
+
+        row.text = document.createElement('input');
+        row.text.type = 'text';
+        row.text.spellcheck = false;
+        row.text.setAttribute('aria-label', label + ' value');
+        row.text.addEventListener('change', function () {
+          var v = row.text.value.trim();
+          var parsed = parseColor(v);
+          if (parsed) row.hsva = parsed;
+          set(name, parsed ? formatColor(parsed) : v);
+        });
+        el.appendChild(row.text);
+
+        body.appendChild(el);
+        body.appendChild(buildPicker(row, name));
+        rows[name] = row;
+      });
+    });
+
+    var note = document.createElement('p');
+    note.className = 'tp-note';
+    note.textContent = 'Saved per colour scheme, in this browser only. ' +
+      '"Copy CSS" gives you the block to paste into index.html to make it permanent.';
+    body.appendChild(note);
+
+    panel.appendChild(body);
+    document.body.appendChild(panel);
+
+    head.addEventListener('click', function (e) {
+      var btn = e.target.closest('button');
+      if (!btn) return;
+      if (btn.classList.contains('tp-close')) return close();
+      var act = btn.dataset.act;
+      if (act === 'save') {
+        try { localStorage.setItem(storeKey(), JSON.stringify(current)); } catch {}
+        saved = Object.assign({}, current);
+        syncInputs();
+        btn.textContent = 'Saved';
+        setTimeout(function () { btn.textContent = 'Save'; }, 1200);
+      } else if (act === 'reset') {
+        current = {};
+        apply();
+        syncInputs();
+      } else if (act === 'copy') {
+        copyCss(btn);
+      }
+    });
+
+    syncInputs();
+  }
+
+  function copyCss(btn) {
+    var names = ALL.filter(function (n) { return current[n]; });
+    var pad = 0;
+    names.forEach(function (n) { pad = Math.max(pad, n.length); });
+    var lines = names.map(function (n) {
+      return '  ' + (n + ':').padEnd(pad + 2) + ' ' + current[n] + ';';
+    });
+    var css = !names.length
+      ? '/* no overrides — the palette matches index.html */'
+      : mode() === 'light'
+        ? '@media (prefers-color-scheme: light) {\n  :root {\n' +
+          lines.map(function (l) { return '  ' + l; }).join('\n') + '\n  }\n}'
+        : ':root {\n' + lines.join('\n') + '\n}';
+    var done = function (ok) {
+      btn.textContent = ok ? 'Copied' : 'Copy failed';
+      setTimeout(function () { btn.textContent = 'Copy CSS'; }, 1400);
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(css).then(function () { done(true); },
+                                              function () { done(false); });
+    } else { done(false); }
+  }
+
+  function open() { document.body.classList.add('theme-open'); }
+  function close() { document.body.classList.remove('theme-open'); }
+  function isOpen() { return document.body.classList.contains('theme-open'); }
+
+  function inField(el) {
+    return !!el && (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA' ||
+                    el.tagName === 'SELECT' || el.isContentEditable);
+  }
+
+  document.addEventListener('keydown', function (e) {
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    if (e.key === 'Escape' && isOpen()) {
+      // A open colour picker swallows the first Esc; the panel takes the next.
+      if (openPicker) togglePicker(openPicker); else close();
+      return;
+    }
+    // Don't hijack "<" while the search box (or a panel field) has focus.
+    if (inField(e.target)) return;
+    if (e.key === '<') {
+      e.preventDefault();
+      isOpen() ? close() : open();
+    }
+  });
+
+  // The OS scheme can flip while the page is open: swap to that mode's
+  // saved overrides and re-read the defaults underneath them.
+  mq.addEventListener('change', function () {
+    captureDefaults();
+    saved = loadSaved();
+    current = Object.assign({}, saved);
+    apply();
+    syncInputs();
+  });
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', build);
+  } else { build(); }
+})();
+</script>
 </head>
 <body>
   <button id="menu-toggle" aria-label="Toggle menu">☰</button>

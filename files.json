@@ -9,6 +9,44 @@
           "path": "learnings/introduction.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "how to come up with big ideas",
+          "path": "learnings/how to come up with big ideas.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "cross team connectors",
+          "path": "learnings/cross team connectors.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "culture",
+      "files": [
+        {
+          "name": "how to nurture a culture",
+          "path": "learnings/how to nurture a culture.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "why to have a culture memo",
+          "path": "learnings/why to have a culture memo.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "universal human needs",
+          "path": "learnings/universal human needs.md",
+          "tags": [],
+          "draft": true,
+          "done": true
         }
       ]
     },
@@ -42,6 +80,39 @@
       ]
     },
     {
+      "name": "learning & thinking",
+      "files": [
+        {
+          "name": "a learning mindset",
+          "path": "learnings/a learning mindset.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "the science of failing well",
+          "path": "learnings/the science of failing well.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "how to question your own thinking",
+          "path": "learnings/how to question your own thinking.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "group flow",
+          "path": "learnings/group flow.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        }
+      ]
+    },
+    {
       "name": "ways of working",
       "files": [
         {
@@ -57,8 +128,14 @@
           "done": true
         },
         {
-          "name": "free flow of information",
-          "path": "learnings/free flow of information.md",
+          "name": "developer user experience",
+          "path": "learnings/developer user experience.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "cognitive accessibility",
+          "path": "learnings/cognitive accessibility.md",
           "tags": [],
           "done": true
         }
@@ -126,8 +203,14 @@
       "name": "scaling teams",
       "files": [
         {
-          "name": "a team of teams",
-          "path": "learnings/a team of teams.md",
+          "name": "free flow of information",
+          "path": "learnings/free flow of information.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "team of teams + innovation",
+          "path": "learnings/team of teams + innovation.md",
           "tags": [],
           "done": true
         },

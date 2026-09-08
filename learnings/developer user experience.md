@@ -1,4 +1,4 @@
-*applying pipeline tech art ux learnings*
+*UX + ways of working*
 
 Most of us understand the value of ux in the products we build. But an often overlooked aspect is how those same principles can be applied to finding optimal ways of working and internal tooling.
 
@@ -6,6 +6,35 @@ Most of us understand the value of ux in the products we build. But an often ove
 
 > [!TIP] Reid Hoffman - Masters of Scale (the book, not the podcast)
 
+Some useful things to ask yourself when improving ways of working/workflows/pipelines:
+- *How does this impact the cognitive load of individuals and the team overall, in the long run?*
+- *How does this scale? (and does it need to)*
+- *What are we actually trying to solve here?*
+- 
+
+# useful methods
+## 5 whys
+To identify the root cause of a problem by asking **why** **5** times.
+
+## user centered design
+An iterative approach that involves users throughout the design process, ensuring a product reflects their real needs, goals, and context—not just the design team’s assumptions.
+
+It's basically *a continuous learning cycle*:
+
+1. Learn about users—their goals, context, needs, and difficulties.
+2. Design based on that understanding.
+3. Test with users and observe what works.
+4. Refine the design using what you learned.
+5. Repeat as users, needs, and circumstances change.
+
+The goal isn’t to understand users once—it’s to keep replacing assumptions with evidence throughout the product’s life.
+
+## UX maturity
+https://www.nngroup.com/articles/ux-maturity-model/
+
+
+
+%%
 ==todo: maybe just focus why this matters & leave the details on the original page + links to best practices + choose a few most important points to not make this page way too long==
 
 ==todo2: a few concrete examples + explain the reasoning behind them==
@@ -17,7 +46,7 @@ Most of us understand the value of ux in the products we build. But an often ove
 
 ==how to not get blind to all the wasted time==
 
-%%
+
 # start with the users
 > “You’ve got to start with the customer experience and work back toward the technology - not the other way around.” -Steve Jobs
 # Defining user experience

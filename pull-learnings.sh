@@ -5,8 +5,13 @@
 #     main-vault/sleepy/learnings/  ──►  <repo>/learnings/
 #     main-vault/sleepy/wip/        ──►  <repo>/wip/
 #
+# The vault's "<section>.<position> " order prefixes are stripped off on the
+# way back, from filenames and from the wikilinks that point at them, so the
+# repo copy keeps plain names — the website takes its order from the page
+# index itself. Images are NOT pulled back; push-learnings.sh owns those.
+#
 # This is a mirror, not a merge: files that exist in the repo copy but not
-# in the vault copy are DELETED. push-learnings.sh goes the other way.
+# in the vault copy are DELETED.
 #
 # Usage: ./pull-learnings.sh [-n|--dry-run] [-y|--yes]
 #   -n   show what would change, write nothing
@@ -17,6 +22,7 @@ FOLDERS="learnings wip"
 SITE="/Users/laura.koekoek/stuff/docs/vaults/sleepy-meow.github.io"
 SRC_ROOT="/Users/laura.koekoek/stuff/docs/vaults/main-vault/sleepy"
 DST_ROOT="$SITE"
+PREFIXER="$SITE/prefix-notes.py"
 
 # --times keeps modification dates; --perms is deliberately left off so the
 # copies get normal umask permissions instead of inheriting the vault's.
@@ -30,10 +36,12 @@ for arg in "$@"; do
   case "$arg" in
     -n|--dry-run) dry_run=1 ;;
     -y|--yes)     assume_yes=1 ;;
-    -h|--help)    sed -n '2,13p' "$0" | cut -c3-; exit 0 ;;
+    -h|--help)    sed -n '2,19p' "$0" | cut -c3-; exit 0 ;;
     *) echo "unknown option: $arg (try --help)" >&2; exit 2 ;;
   esac
 done
+
+[ -f "$PREFIXER" ] || { echo "helper missing: $PREFIXER" >&2; exit 1; }
 
 tmp="$(mktemp -d)"
 trap 'rm -rf "$tmp"' EXIT
@@ -58,10 +66,13 @@ for f in $FOLDERS; do
     continue
   fi
 
-  # No mkdir here: a --dry-run must not create anything. rsync plans a
-  # missing destination fine, and the apply loop below creates it.
-  "${RSYNC[@]}" --dry-run --itemize-changes "$src/" "$dst/" |
-    grep -v ' \./$' > "$tmp/$f.plan" || true
+  # Unprefixed copies are staged in a temp folder; the vault is never touched.
+  python3 "$PREFIXER" strip "$src" "$tmp/$f" >/dev/null
+
+  # No mkdir of $dst here: a --dry-run must not create anything. rsync plans
+  # a missing destination fine, and the apply loop below creates it.
+  "${RSYNC[@]}" --dry-run --itemize-changes "$tmp/$f/" "$dst/" |
+    grep -vE ' \./$|^created directory ' > "$tmp/$f.plan" || true
 
   synced="$synced $f"
   if [ -s "$tmp/$f.plan" ]; then
@@ -111,7 +122,7 @@ fi
 
 for f in $synced; do
   mkdir -p "$DST_ROOT/$f"
-  "${RSYNC[@]}" "$SRC_ROOT/$f/" "$DST_ROOT/$f/" >/dev/null
+  "${RSYNC[@]}" "$tmp/$f/" "$DST_ROOT/$f/" >/dev/null
 done
 echo "pulled$synced ← $SRC_ROOT"
 

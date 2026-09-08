@@ -6,19 +6,19 @@ Many of these ideas are useful for anyone who wants to make their environment a 
 
 Pick one from the sidebar to start reading!
 
+%%
 > [!INFO] TARGET AUDIENCE (small teams and people who may not necessarily be leads themselves)
 
 > [!INFO] SOURCES (learnings are mostly based on [this list of books & research papers](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b259?v=314d1f512d894da2916a46ebef5310cd&assetsVersion=23.13.20260627.0555&clientBuildTarget=clientExperimental))
 
-
-> [!WARNING] This page is still wip
+%%
+> [!WARNING] This page is still wip (but i'm starting to feel it will never be "done" either)
 
 %%
-# disclosure of AI usage:
- - mainly as an aid during the editing phase (helping reorganize chapters, finding inconsistencies, improving wording & sentences)
- - for finding things in the books where ctrl+f won't work
+> [!INFO] FEEDBACK THAT WOULD BE USEFUL: (does this page seem useful in general? while reading through this, was there anything specifically useful/interesting that stood out? does anything seem like bs? at what point did you lose interest in browsing through this?)
 
-It still feels a bit like a double edged sword, but i swear i've read the books and research papers referenced here, and the goal is to make the pages clear and concise, and more authentic and human rather than having perfect grammar
+%%
+%%
 
 
 

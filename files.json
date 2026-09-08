@@ -15,12 +15,6 @@
           "path": "learnings/how to come up with big ideas.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "cross team connectors",
-          "path": "learnings/cross team connectors.md",
-          "tags": [],
-          "done": true
         }
       ]
     },
@@ -66,14 +60,14 @@
           "done": true
         },
         {
-          "name": "why not to shoot the messenger",
-          "path": "learnings/why not to shoot the messenger.md",
+          "name": "how to lower the bar for participation",
+          "path": "learnings/how to lower the bar for participation.md",
           "tags": [],
           "done": true
         },
         {
-          "name": "how to lower the bar for participation",
-          "path": "learnings/how to lower the bar for participation.md",
+          "name": "why not to shoot the messenger",
+          "path": "learnings/why not to shoot the messenger.md",
           "tags": [],
           "done": true
         }
@@ -84,16 +78,14 @@
       "files": [
         {
           "name": "a learning mindset",
-          "path": "wip/a learning mindset.md",
+          "path": "learnings/a learning mindset.md",
           "tags": [],
-          "draft": true,
           "done": true
         },
         {
-          "name": "the science of failing well",
-          "path": "wip/the science of failing well.md",
+          "name": "how to fail",
+          "path": "wip/how to fail.md",
           "tags": [],
-          "draft": true,
           "done": true
         },
         {
@@ -131,6 +123,7 @@
           "name": "developer user experience",
           "path": "learnings/developer user experience.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {
@@ -143,17 +136,17 @@
       ]
     },
     {
-      "name": "conversations",
+      "name": "feedback",
       "files": [
         {
-          "name": "feedback checklists",
-          "path": "learnings/feedback checklists.md",
+          "name": "identifying bullshit feedback",
+          "path": "learnings/identifying bullshit feedback.md",
           "tags": [],
           "done": true
         },
         {
-          "name": "identifying bullshit feedback",
-          "path": "learnings/identifying bullshit feedback.md",
+          "name": "feedback without ownership",
+          "path": "learnings/feedback without ownership.md",
           "tags": [],
           "done": true
         },
@@ -163,6 +156,17 @@
           "tags": [],
           "done": true
         },
+        {
+          "name": "feedback checklists",
+          "path": "learnings/feedback checklists.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "other conversations",
+      "files": [
         {
           "name": "how to ask the right questions",
           "path": "learnings/how to ask the right questions.md",
@@ -203,6 +207,12 @@
     {
       "name": "scaling teams",
       "files": [
+        {
+          "name": "cross team connectors",
+          "path": "learnings/cross team connectors.md",
+          "tags": [],
+          "done": true
+        },
         {
           "name": "free flow of information",
           "path": "learnings/free flow of information.md",

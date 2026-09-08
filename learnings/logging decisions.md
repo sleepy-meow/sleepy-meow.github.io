@@ -1,4 +1,5 @@
-*Documenting the why.*
+> Ghosts: invisible specters often thought to be trapped between worlds, left to torment the living or act as a messenger from the beyond. They invoke fear because we can’t touch them, can’t see them, and we don’t fully understand their existence—much like the mysterious design decisions that often haunt your product. ([The Ghost of Decisions Past](https://52weeksofux.com/post/18016578806/the-ghost-of-decisions-past))
+
 - Constraints that shaped a decision get lost over time. A good log captures what was decided, who decided, when, and why.
 - To avoid re-deciding what was already decided, or drifting to "we've always done it that way" with no one able to say why.
 
@@ -29,7 +30,7 @@ Links:
 ```
 
 # what to document
-> Transparency doesn't mean sharing every detail. Transparency means providing the context for the decisions we make. (simon sinek)
+> Transparency doesn't mean sharing every detail. Transparency means providing the context for the decisions we make. 
 
 A useful rule is to document decisions that would be difficult to understand or safely reverse without knowing their original context.
 
@@ -48,8 +49,4 @@ Consider documenting a decision when:
 
 Usually, there is no need to document routine, easily reversible choices unless they form part of a larger pattern.
 
-# mystery design decisions
 
-> [!EXAMPLE] blog post: [The Ghost of Decisions Past](https://52weeksofux.com/post/18016578806/the-ghost-of-decisions-past)
-
-> Ghosts: invisible specters often thought to be trapped between worlds, left to torment the living or act as a messenger from the beyond. They invoke fear because we can’t touch them, can’t see them, and we don’t fully understand their existence—much like the mysterious design decisions that often haunt your product.

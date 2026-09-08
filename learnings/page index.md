@@ -1,7 +1,6 @@
 # start here
 [[introduction]] !!
 [[how to come up with big ideas]] !!
-[[cross team connectors]] !!
 # culture
 [[how to nurture a culture]] !! ?
 [[why to have a culture memo]] !! ?
@@ -12,25 +11,28 @@
 [[feeling safe and trusted]] !!
 %%[[the leaders impact on psychological safety]] !! ?%%
 [[how to psychological safety]] !!
-[[why not to shoot the messenger]] !!
 [[how to lower the bar for participation]] !!
+[[why not to shoot the messenger]] !!
 %%[[how to destroy psychological safety]] !!%%
 
 # learning & thinking
-[[a learning mindset]] !! ?
-[[the science of failing well]] !! ?
+[[a learning mindset]] !!
+%%[[curiosity gap]] !!%%
+[[how to fail]] !!
 [[how to question your own thinking]] !! ?
 [[group flow]] !! ?
 # ways of working
 [[how to make decisions]] !!
 [[logging decisions]] !!
-[[developer user experience]] !!
+[[developer user experience]] !! ?
 [[cognitive accessibility]] !! ?
 
-# conversations
-[[feedback checklists]] !!
+# feedback
 [[identifying bullshit feedback]] !!
+[[feedback without ownership]] !!
 [[high stakes feedback]] !!
+[[feedback checklists]] !!
+# other conversations
 [[how to ask the right questions]] !!
 %%[[empathy misses]] !! ? %%
 %%[[how to cool conflict]] !! ?%%
@@ -45,6 +47,7 @@
 %%[[responsibility of the captain]] !! ? %%
 
 # scaling teams
+[[cross team connectors]] !!
 [[free flow of information]] !!
 [[team of teams + innovation]] !!
 [[lines of communication]] !!

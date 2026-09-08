@@ -12,9 +12,11 @@ it may just take one or two cases to teach the entire group the lesson that it's
 When someone comes to you with a concern, thank them for bringing it up, it doesn't matter whether they are right or wrong (you can figure this out later). 
 
 ![[Pasted image 20260817203702.png]]
-The more difficult of a topic, the more thank yous may be needed.
+The more difficult of a topic, the more thank yous may be needed. 
 
 > Note that this does not mean you have to agree with what someone said. You don't even have to like it. But you do have to appreciate the effort it took for her to say it.
+
+Appreciation should be followed by understanding, action where appropriate, and follow-up.
 
 %%
 # "don't bring me problems, bring me solutions"

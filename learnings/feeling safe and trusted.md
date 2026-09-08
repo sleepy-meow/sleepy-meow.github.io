@@ -51,18 +51,7 @@ Sinek's starting point is that every organization faces two sets of dangers.
 
 Fear doesn't vanish when there's nothing to fear inside. It just gets pointed somewhere useful.
 
-%%
-When the danger is coming from inside the house, you can still build a small safe space, and extend it by checking who's outside it. The contractors, the new person, the one remote teammate, etc. *A circle drawn around a few people isn't a small Circle of Safety — it's an inner circle, and they produce opposite results.*
-%%
 
-%%
-> having information about shortcomings come to light earlier rather than later can nearly always mitigate the size and impact
-
-This drives spending more energy on optics, sacrificing actual benefits.
-%%
-
-
-%%No one gains from the silence. Teams miss out on insights. Those who fail to speak up often report regret or pain. Some wish they had spoken up. Others recognize they could be experiencing more fulfillment and meaning in their jobs were they more able to contribute. Those deprived of hearing a colleague's comments may not know what they are missing, but the fact is that problems go unreported, improvement opportunities are missed, and occasionally, tragic failures occur that could have been avoided.%%
 
 ## predictability
 Psychological safety depends partly on accumulated evidence about how interpersonal risks are received. 
@@ -95,12 +84,12 @@ Telling someone who is afraid to simply try harder to focus, is like trying to s
 
 >  Leaders want to feel safe too. every single person wants to feel like they are valued by the others in the group. So when our boss comes down hard on us and we don't know the reason, it is equally our responsibility to express concern for their wellbeing. (simon sinek, leaders eat last)
 
-I feel like this underweights how asking *"are you okay?"* here takes a shit load more courage than the other way around (depending on whether it's an one-off bad day or not).
+I feel like this underweights how asking *"are you okay?"* may take a lot more courage than the other way around (depending on whether it's an one-off bad day or not). Caring about a leader does not create an equal responsibility for managing their behavior.
 
 But here's how doing this may help you too. By making your lead feel a little bit safer as well, it increases their capacity to handle the pressure they likely are under themselves.
 
-> "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had."
 
+> "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had."
 
 
 # acclimatizing to the danger
@@ -117,12 +106,4 @@ If there was a time in the past when you did feel safe and trusted, remember wha
 
 
 > [!EXAMPLE] article: [the circle of safety](https://simonsinek.com/stories/the-circle-of-safety)
-
-%%
-
-**Consider the long term impact.** Chronic stress can wreak havoc on our bodies, and impact our relationships beyond the office. 
-
-The responsibility is to the people aboard, not to going down with the ship.
-
-> The loneliest steps are the ones between the city walls and the heart of the wilderness, where safety is in the rearview mirror, new territory remains to be seen, and the path out to the unknown seems empty. But put one foot in front of the other enough times, stay the course long enough to actually tunnel into the wilderness, and you'll be shocked how many people already live out there- thriving, dancing, creating, celebrating, belonging. It is not a barren wasteland. It is not unprotected territory. It is not void of human flourishing. The wilderness is where all the creatives and prophets and system-buckers and risk-takers have always lived, and it is stunningly vibrant. The walk out there is hard, but the authenticity out there is life. (brene brown, braving the wilderness)
 

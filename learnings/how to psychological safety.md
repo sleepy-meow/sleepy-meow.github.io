@@ -97,7 +97,7 @@ Courage is contagious. The first person breaks the impression that everyone else
 10. **Make safety predictable through consistency.**  
     One good response cannot outweigh a long pattern of defensiveness or leadpunishment. Repeatedly responding with curiosity, fairness, clarity, and follow-through is what turns isolated moments into a trustworthy team norm.
 
-
+%%
 ## Things to avoid
 1. Retaliate against people for speaking up.  
 2. Humiliate, ridicule, intimidate, or explode at people. 
@@ -109,6 +109,7 @@ Courage is contagious. The first person breaks the impression that everyone else
 8. Keep expectations vague and move the goalposts.  
 9. Dominate discussions and make participation performative.  
 10. Refuse to admit mistakes or repair harm.  
+%%
 
 %%
 # structural things

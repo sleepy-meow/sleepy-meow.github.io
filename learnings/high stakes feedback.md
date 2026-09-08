@@ -1,12 +1,12 @@
+part 2/3: [[feedback without ownership]]
+
 Feedback doesn't all need the same standard of evidence. An offhand suggestion from a colleague is different from feedback being used to make decisions about someone's performance, promotion, compensation, or employment.
 
 The greater the consequence, the stronger the need for specificity, context, examples, and an opportunity to respond.
 ## performance reviews
+> _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
+
 Performance reviews - often by design - revolve around anonymous feedback, and holding people accountable based on that anonymous feedback at the same time. If consequential criticism comes as a surprise and the person hasn't previously been given a fair opportunity to understand and address it, the review has failed as a feedback mechanism.
-
-> [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
-
-> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It. ](https://www.corporate-rebels.com/blog/annual-performance-reviews)
 
 questions to ask yourself:
 1. The content — is there something true here I need to act on?
@@ -22,15 +22,19 @@ The person who responds to vague criticism by becoming compliant, over-agreeable
 
 accountability is: "You own your mistakes, apologize, and make amends." Anonymous feedback (when it's specific) lets you do the first. It structurally forbids the other two. You cannot apologize to someone whose name is withheld. You cannot ask what it cost them, or check whether your fix actually landed for the person who was hurt.
 
-Another good take on 360 reviews, anonymous surveys, and accountability, can be found in this book:
-> [!TIP] Confronting Our Freedom (Peter Block, Peter Koestenbaum)
-
 ## you can't always drop things on the floor
 > Don't grab hurtful comments and pull them close to you by rereading them and ruminating on them. Don't play with them by rehearsing your badass comeback. And whatever you do, don't pull hatefulness close to your heart.
 > 
 > Cruelty is cheap, easy, and chickenshit. It doesn't deserve your energy or engagement. Just step over the comments and keep daring, always remembering that armor is too heavy a price to pay to engage with cheap-seat feedback.
 
 But when feedback has consequences, vague criticism can't necessarily just be “dropped on the floor.” If they can attach consequences to criticism that you aren't allowed to understand, question, or respond to, the problem isn't merely bad feedback anymore — it becomes a problem of how power is being exercised.
+
+
+> [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
+
+> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It. ](https://www.corporate-rebels.com/blog/annual-performance-reviews)
+
+> [!TIP] Peter Block, Peter Koestenbaum - Confronting Our Freedom (A good take on 360 reviews, anonymous surveys, and accountability)
 
 %%
 # what to do when you're on the receiving end

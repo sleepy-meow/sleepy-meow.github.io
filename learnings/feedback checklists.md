@@ -1,4 +1,4 @@
-> [!EXAMPLE] [giving feedback with psychological safety ](https://psychsafety.com/giving-feedback-with-psychological-safety/)
+
 # engaged feedback checklist
 ```
 **I know that I’m ready to give feedback when …**

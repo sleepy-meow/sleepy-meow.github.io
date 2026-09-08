@@ -25,17 +25,6 @@ Without specifics, your brain is left trying to fill in the blanks. Instead of a
 That said, just because something is accurate or factual doesn't mean it can't be used in a destructive manner: "Sorry. I'm just telling you the truth. These are just the facts."
 %%
 
-%%
-# vague feedback and shame
-
-Sharing a vague remark and calling it feedback can do more harm than good.
-
-Without a specific behaviour, a specific moment, a specific consequence, and ideally something that would have worked better instead, there is nowhere useful for the feedback to go.
-
-_"You interrupted me three times in that meeting, and I found it difficult to finish my point"_ gives you something to reflect on, _"You don't listen"_ does not. The first describes something you did. The second starts to sound like something you are.
-
-Guilt = _I did something bad_. Shame = _I am bad_. Guilt can support accountability because it can attach to a particular behaviour: you can understand what happened, apologize, repair it, and try something different next time. But shame is almost never useful: It turns attention away from the behaviour and toward the self. It works like a zoom lens, where all we see is ourselves alone and struggling.
-%%
 
 
 ## feedback needs context
@@ -52,7 +41,8 @@ Someone missing meetings might be disengaged. They might also be overloaded, con
 Struggles don't necessarily reveal an absence of ability or commitment. Sometimes they reveal the presence of adversity.
 
 Good feedback therefore stays as close as possible to what can actually be observed, explains the impact, and leaves room to understand the context.
-# feedback without ownership
+%%
+# Feedback without ownership
 ## anonymous feedback
 Anonymous feedback comes with structural limitations: you can't have a direct conversation with the person whose experience the feedback describes.
 
@@ -68,7 +58,22 @@ anonymous information can be useful as a signal; anonymous allegations shouldn't
 *Feedback used for accountability needs to support a conversation.* It's hard to give or receive feedback well if the other person is not in the room.
 
 This is problematic when it happens informally, but it becomes substantially more consequential when organizations build it into systems that determine people's careers.
+%%
+%%
+# vague feedback and shame
 
+Without a specific behaviour, a specific moment, a specific consequence, and ideally something that would have worked better instead, there is nowhere useful for the feedback to go.
+
+_"You interrupted me three times in that meeting, and I found it difficult to finish my point"_ gives you something to reflect on, _"You don't listen"_ does not. The first describes something you did. The second starts to sound like something you are.
+
+Guilt = _I did something bad_. Shame = _I am bad_. Guilt can support accountability because it can attach to a particular behaviour: you can understand what happened, apologize, repair it, and try something different next time. But shame doesn't have anything useful to say: It turns attention away from the behaviour and toward the self. It works like a zoom lens, where all we see is ourselves alone and struggling.
+%%
+
+
+> [!EXAMPLE] how-to guide: [giving feedback with psychological safety ](https://psychsafety.com/giving-feedback-with-psychological-safety/)
+
+part 2/3: [[feedback without ownership]]
+%%
 ## relevant cognitive biases
 
 > [!EXAMPLE] [fundamental attribution error](https://psychsafety.com/the-fundamental-attribution-error/)  (The reason it's called 'fundamental' is that it's something we all do. )

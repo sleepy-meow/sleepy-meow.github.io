@@ -1,20 +1,14 @@
-> [!tip] stanley mcchrystal - Team of Teams
+> The most effective teams are those that can rapidly adapt to the ever-changing environment. (stanley mcchrystal - Team of Teams)
 
-> [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/) /  [key takeaways](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
+Past a certain size no single team can hold the whole problem, so you split into many — and now individually excellent teams can still add up to a dysfunctional whole. ***Great teams that don't talk to each other aren't a great organization***; they're silos with good morale.
 
 > Complex environments are, by definition, too complicated for any one person to grasp fully.
 
-Past a certain size no single team can hold the whole problem, so you split into many — and now individually excellent teams can still add up to a dysfunctional whole. ***Great teams that don't talk to each other aren't a great organization***; they're silos with good morale.
+The book explains how traditional command and control structures are simply too slow and inefficient in the modern rapidly changing world.
 
 > *Organizations are too complex for any one person to make all the decisions.*
 > 
 > In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. Today organizations are too complex for management to do all the thinking.
-
-# why it matters
-
-> The most effective teams are those that can rapidly adapt to the ever-changing environment.
-
-The book explains how traditional command and control structures are simply too slow and inefficient in the modern rapidly changing world.
 
 # the solution: shared consciousness
 so instead of pushing decisions up, you push *understanding* down and out.
@@ -36,3 +30,4 @@ Associative thinking is the skill of connecting ideas, memories, or concepts tha
 
 Innovation frequently happens between disciplines
 
+> [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/) /  [key takeaways](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)

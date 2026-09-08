@@ -37,6 +37,7 @@
 %%[[empathy misses]] !! ? %%
 %%[[how to cool conflict]] !! ?%%
 [[emergent facilitation]] !!
+[[active listening]] !! ?
 
 # leadership
 [[responsibilities of a lead]] !!
@@ -45,9 +46,10 @@
 %%[[courage is contagious]] !! ?%%
 %%[[confronting our freedom]] !! ?%%
 %%[[responsibility of the captain]] !! ? %%
+[[rigid teams vs teaming]] !! ?
 
 # scaling teams
-[[cross team connectors]] !!
+[[cross team connectors]] !! ?
 [[free flow of information]] !!
 [[team of teams + innovation]] !!
 [[lines of communication]] !!

@@ -1,12 +1,8 @@
-*i.e. why to crawl out of bed in the morning*
-
-> *"If you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea."*
+> *People are either motivated or they are not.* Unless we give motivated people something to believe in, they will motivate themselves to find a new job (simon sinek)
 
 > [!tip] Simon Sinek - start with why
 
 > [!tip] Daniel Pink - drive
-
-> *People are either motivated or they are not.* Unless we give motivated people something to believe in, they will motivate themselves to find a new job (simon sinek)
 
 
 # intrinsic vs extrinsic motivation

@@ -99,9 +99,9 @@ But here's how doing this may help you too. By making your lead feel a little bi
 Just like a climate (or a house with a gas leak), we tend to get acclimatized bad conditions and stop registering them. 
 
 Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But when you're in it, it's easy to get stuck. Sometimes the safest move is to step outside for some fresh air and wait for your thinking to clear up.
-
+%%
 If there was a time in the past when you did feel safe and trusted, remember what that felt like, and set it as your standard. It can also help to reach out to the pockets of safety that still exist, to remember how people interact in a safe environment. Seeing the contrast can help recognize an abnormal situation.
-
+%%
 
 
 

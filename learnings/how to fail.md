@@ -9,14 +9,14 @@ This doesn't mean we should just take risks blindly. In *The Right Kind of Wrong
 3. **Intelligent** — a thoughtful foray into new territory that didn't work. Good news, because of the information it buys.
 
 # the swiss cheese model
-Preventable and complex failures can be avoided by multiple layers of preventative measures. They don't need to be bulletproof, just good enough for all the holes in the Swiss cheese to not line up at the same time.
+Preventable and complex failures can also be reduced by layering preventative measures. They don't need to be bulletproof, just good enough for all the holes in the cheese to not line up at the same time.
 
 This is not just about avoiding huge disasters, but also frees up mental bandwidth by adding peace of mind that you know, with some degree of certainty, that it's safe to fail.
 
 As a simple example of this would be an undo button in a tool that allows you to experiment and make mistakes without fear of losing your work.
 
+![[Pasted image 20260820092041.png|384]]
 
-![[Pasted image 20260820092041.png]]
 
 # making it safe to fail
 

@@ -84,7 +84,7 @@
         },
         {
           "name": "how to fail",
-          "path": "wip/how to fail.md",
+          "path": "learnings/how to fail.md",
           "tags": [],
           "done": true
         },
@@ -178,6 +178,13 @@
           "path": "learnings/emergent facilitation.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "active listening",
+          "path": "maybe add/active listening.md",
+          "tags": [],
+          "draft": true,
+          "done": true
         }
       ]
     },
@@ -201,6 +208,13 @@
           "path": "learnings/motivation.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "rigid teams vs teaming",
+          "path": "learnings/rigid teams vs teaming.md",
+          "tags": [],
+          "draft": true,
+          "done": true
         }
       ]
     },
@@ -209,8 +223,9 @@
       "files": [
         {
           "name": "cross team connectors",
-          "path": "learnings/cross team connectors.md",
+          "path": "wip/cross team connectors.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {

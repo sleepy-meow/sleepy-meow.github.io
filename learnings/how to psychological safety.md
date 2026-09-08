@@ -18,35 +18,7 @@ _What are your concerns?_
 
 Small acts like these make openness easier for everyone else.
 
-## Useful things if you're not a lead
-1. **Speak up when you safely can.**  
-    Raising the awkward point gives others permission to do the same. One voice often makes the second easier.
-    
-2. **Be the second voice.**  
-    When someone raises a concern, back them: “I noticed that too.” A small show of support can break the impression that they are alone.
-    
-3. **Don't leave the messenger alone afterwards.**  
-    Check in with them, support them publicly where you can, and reinforce that raising the issue was worthwhile—especially if they face negative consequences.
-    
-4. **Go first, sideways.**  
-    Practice openness with peers: share unfinished thoughts, ask unpolished questions, and admit uncertainty. It lowers the pressure to perform certainty.
-    
-5. **Ask instead of assert.**  
-    Questions often create more room for discussion than claims: “What am I missing?”, “What would make this fail?”, or “What are we actually trying to solve?”
-    
-6. **Move things into the light.**  
-    Bring important discussions back to public channels and document decisions where affected people can see them.
-    
-7. **Keep your own log.**  
-    Record important decisions and reasoning. It makes your thinking easier to follow and provides a factual record if problems emerge later.
-    
-8. **Build lateral connections.**  
-    Maintain relationships across teams so information—and especially bad news—has more than one route to travel.
-    
-9. **Compare notes, then raise it together.**  
-    Check recurring concerns with others who are affected. If the pattern is shared, raise it together through a co-signed message, joint meeting, or explicit support for whoever speaks.
 
-Courage is contagious. The first person breaks the impression that everyone else is comfortable or agrees. The second turns an isolated risk into a shared position. Each voice makes the next one a little easier. What spreads is not fearlessness, but evidence that speaking is possible and that you might not have to stand alone.
 %%
 **Be the second voice.** The single highest-leverage thing available to anyone. When someone raises a concern and the room goes quiet, say "I noticed that too." You're not taking the risk they took — just a small slice of it, and you're breaking the [collective illusion](https://en.wikipedia.org/wiki/Pluralistic_ignorance) for everyone else who was also thinking it. 
 
@@ -96,6 +68,37 @@ Courage is contagious. The first person breaks the impression that everyone else
     
 10. **Make safety predictable through consistency.**  
     One good response cannot outweigh a long pattern of defensiveness or leadpunishment. Repeatedly responding with curiosity, fairness, clarity, and follow-through is what turns isolated moments into a trustworthy team norm.
+
+## Useful things if you're not a lead
+1. **Speak up when you safely can.**  
+    Raising the awkward point gives others permission to do the same. One voice often makes the second easier.
+    
+2. **Be the second voice.**  
+    When someone raises a concern, back them: “I noticed that too.” A small show of support can break the impression that they are alone.
+    
+3. **Don't leave the messenger alone afterwards.**  
+    Check in with them, support them publicly where you can, and reinforce that raising the issue was worthwhile—especially if they face negative consequences.
+    
+4. **Go first, sideways.**  
+    Practice openness with peers: share unfinished thoughts, ask unpolished questions, and admit uncertainty. It lowers the pressure to perform certainty.
+    
+5. **Ask instead of assert.**  
+    Questions often create more room for discussion than claims: “What am I missing?”, “What would make this fail?”, or “What are we actually trying to solve?”
+    
+6. **Move things into the light.**  
+    Bring important discussions back to public channels and document decisions where affected people can see them.
+    
+7. **Keep your own log.**  
+    Record important decisions and reasoning. It makes your thinking easier to follow and provides a factual record if problems emerge later.
+    
+8. **Build lateral connections.**  
+    Maintain relationships across teams so information—and especially bad news—has more than one route to travel.
+    
+9. **Compare notes, then raise it together.**  
+    Check recurring concerns with others who are affected. If the pattern is shared, raise it together through a co-signed message, joint meeting, or explicit support for whoever speaks.
+
+Courage is contagious. The first person breaks the impression that everyone else is comfortable or agrees. The second turns an isolated risk into a shared position. Each voice makes the next one a little easier. What spreads is not fearlessness, but evidence that speaking is possible and that you might not have to stand alone.
+
 
 %%
 ## Things to avoid

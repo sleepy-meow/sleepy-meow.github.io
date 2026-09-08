@@ -40,7 +40,7 @@ An environment that welcomes ideas also needs to help people improve them.
 
 > The gardener cannot actually “grow” tomatoes, squash or beans - she can only foster an environment in which the plants do so.
 
-We can't guarantee that the next conversation will produce a breakthrough. We can make it easier for people to find each other, share what they notice, disagree, and try things. 
+We can't guarantee that the next conversation will produce a breakthrough. But we can make it easier for people to find each other, share what they notice, disagree, and try new things. 
 
 
 

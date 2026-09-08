@@ -20,7 +20,7 @@ Everyone just being very "nice", and the same few people talk all the time in me
 > No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple. (brene brown, the call to courage)
 
 It's hard to innovate when you're afraid. 
-![[Pasted image 20260822123258.png]]
+![[Pasted image 20260908202819.png|426]]
 
 
 _Fear hijacks the brain_, drawing resources away from working memory and the ability to process new information. This makes analytical thinking, creative insight, and problem-solving more difficult. Psychological safety is essential for communicating, collaborating, experimenting, ensuring the well-being of others, sharing information, asking for help, and a bunch of other things.
@@ -38,8 +38,9 @@ A lack of psychological safety can create an illusion of success that eventually
 
 > _When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside._
 
-![[Pasted image 20260822123427.png]]
-While I'm sure it's possible to come up with innovative ways to protect yourself from an intimidating boss, it's just not a very useful way to spend our time.
+![[Pasted image 20260908202757.png|356]]
+
+While I'm sure it's possible to come up with innovative office politics, it's just not a very good use of time and energy.
 
 ## the things we can control
 
@@ -96,7 +97,8 @@ But here's how doing this may help you too. By making your lead feel a little bi
 
  ![[Pasted image 20260905025238.png|346]]
 
-Just like a climate (or a house with a gas leak), we tend to get acclimatized bad conditions and stop registering them. 
+Just like a climate (or a house with a gas leak), we tend to get acclimatized bad conditions and stop registering them. It's easy to assume from the outside that people are making an informed decision to sell their souls, 
+(exchange their health for a paycheck)
 
 Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But when you're in it, it's easy to get stuck. Sometimes the safest move is to step outside for some fresh air and wait for your thinking to clear up.
 %%

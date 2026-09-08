@@ -12,6 +12,7 @@ questions to ask yourself:
 1. The content — is there something true here I need to act on?
 2. The channel — what did I, or the system I'm part of, do that made anonymity the safest available option?
 
+
 Caveat: When there's a power gradient — you hold their review, their contract, their renewal — anonymity may be the only reason the information reached you at all. That's what anonymity is genuinely good for. But it's a scaffold and a symptom, not a destination.
 
 The most accountable response to an anonymous note is not to solve the mystery. It's to ask why the front door was shut.
@@ -20,7 +21,9 @@ The person who responds to vague criticism by becoming compliant, over-agreeable
 
 ## Feedback and accountability
 
-accountability is: "You own your mistakes, apologize, and make amends." Anonymous feedback (when it's specific) lets you do the first. It structurally forbids the other two. You cannot apologize to someone whose name is withheld. You cannot ask what it cost them, or check whether your fix actually landed for the person who was hurt.
+accountability is: "You own your mistakes, apologize, and make amends." Anonymity can limit direct repair: you may be unable to ask the person what the experience cost them, apologize privately, or check with them whether things have improved. It does not prevent changing your behavior or correcting a harmful process.
+
+When feedback carries consequences, whoever acts on it must explain the basis for their decision and what improvement would look like, while protecting confidential sources where necessary. The recipient needs enough specificity to understand and respond to the assessment. They do not automatically need the reporter’s identity.
 
 ## you can't always drop things on the floor
 > Don't grab hurtful comments and pull them close to you by rereading them and ruminating on them. Don't play with them by rehearsing your badass comeback. And whatever you do, don't pull hatefulness close to your heart.

@@ -1,3 +1,13 @@
+_These pages focus on feedback about someone’s behavior or performance, especially when it comes with an expectation to change._
+
+Reporting a problem doesn’t require knowing the solution. “I lose my selection every time I switch modes” is useful feedback from an artist. “I couldn’t finish my point because you interrupted me” is useful feedback from a colleague. Both describe an experience we can investigate or discuss.
+
+The responsibility changes when we turn an observation into an assessment: “your work isn’t good enough,” “you communicate poorly,” or “you aren’t meeting expectations.” Whoever makes that judgment needs to explain what happened, what was expected, and where the gap is—and leave room for context they may be missing.
+
+A suggested alternative can help, but it doesn’t have to come from the person who first noticed the problem. We can work out what would help together. What isn’t fair is requiring someone to improve while leaving them to guess what improvement means.
+
+
+%%
 *good feedback is specific, actionable, contextual, and open to dialogue.*
 
 Real feedback comes with an example and a substitute: *here’s the moment, here’s what would have worked better*. Without those, it's just a verdict.
@@ -7,7 +17,7 @@ Feedback must be actionable. It’s stressful to hear feedback if we don’t kn
 For example, *"the outcome of this meeting was interpreted differently by participants, having clear action points at the end of the meeting would help."* would be useful feedback, _"you have poor communication skills and need to get better at communicating”_ is not. 
 
 Without specifics, your brain is left trying to fill in the blanks. Instead of asking _"what should I do differently?"_, you end up asking *"what is wrong with me?"*, which drives hiding, defensiveness, and rumination rather than curiosity, repair, and learning.
-
+%%
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
 # clear is kind
 > Clear is kind. Unclear is unkind.
@@ -41,25 +51,7 @@ Someone missing meetings might be disengaged. They might also be overloaded, con
 Struggles don't necessarily reveal an absence of ability or commitment. Sometimes they reveal the presence of adversity.
 
 Good feedback therefore stays as close as possible to what can actually be observed, explains the impact, and leaves room to understand the context.
-%%
-# Feedback without ownership
-## anonymous feedback
-Anonymous feedback comes with structural limitations: you can't have a direct conversation with the person whose experience the feedback describes.
 
-> If you are not in the arena getting your ass kicked on occasion, I'm not interested in or open to your feedback. 
-> 
-> There are a million cheap seats in the world today filled with people who will never be brave with their lives but who will spend every ounce of energy they have hurling advice and judgment at those who dare greatly. Their only contributions are criticism, cynicism, and fearmongering. If you're criticizing from a place where you're not also putting yourself on the line, I'm not interested in what you have to say.
-
-anonymous information can be useful as a signal; anonymous allegations shouldn't automatically become conclusions.
-
-## the invisible army
-> "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.
-
-*Feedback used for accountability needs to support a conversation.* It's hard to give or receive feedback well if the other person is not in the room.
-
-This is problematic when it happens informally, but it becomes substantially more consequential when organizations build it into systems that determine people's careers.
-%%
-%%
 # vague feedback and shame
 
 Without a specific behaviour, a specific moment, a specific consequence, and ideally something that would have worked better instead, there is nowhere useful for the feedback to go.

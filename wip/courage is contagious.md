@@ -17,15 +17,6 @@ Hope happens when..
 ..we believe in ourselves *"I can do this"*
 
 
-# confronting our freedom
-> [!TIP] peter block & peter koestenbaum - confronting our freedom
-
-> [!TIP] robert jackall - Moral Mazes: The World of Corporate Managers (good for motivation to not want to be in this picture)
-
-> [!TIP] stanley mcchrystal - risk: a user's guide (the last chapter)
-
-==todo: something about the contents of these books & learned helplessness / independence & responsibility / that one talk by mike monteiro==
-
 
 # courage is contagious
 

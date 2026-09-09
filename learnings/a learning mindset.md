@@ -24,24 +24,7 @@ Questions cry out for answers; they create a vacuum that serves as a voice oppor
 
 
 
-%%
-# Organizing to execute vs organizing to learn
-> Many organizations still rely on the top-down, command-and-control approaches that fueled growth and profitability in the industrial era. Some of the most basic tenets of this management style- ensuring control, eliminating variance, and rewarding conformance - inhibit collaboration and organizational learning.
 
-| Management Approach         | Organizing to Execute                                                             | Organizing to Learn                  |
-| --------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
-| *Hiring*                      | Conformers, rule followers.                                                       | Problem solvers, experimenters.      |
-| *Training*                    | Learning before doing.                                                            | Learning from doing.                 |
-| *Measuring performance*       | Did YOU do it right?                                                              | Did WE learn?                        |
-| *Structuring work*            | Separate expertise.                                                               | Integrate expertise.                 |
-| *Employee discretion allowed* | Choose among options.                                                             | Experiment through trial and error.  |
-| *Empowerment means*           | Employees can deviate from the script if special circumstances make it necessary. | There is no script. Improvise!       |
-| *Process goal*                | Drive out variance.                                                               | Use variance to analyze and improve. |
-| *Watercooler conversation*    | About the weather                                                                 | About the work                       |
-| *Business goal*               | Make money now.                                                                   | Make money later.                    |
-| *Works when*                  | Path forward is clear.                                                            | *Path forward is not clear.*         |
-
-%%
 # organizational knowledge
 > “Give away everything you know, and more will come back to you. – If you give away everything, you are left with nothing. This forces you to look, to be aware, to replenish.” (paul arden)
 

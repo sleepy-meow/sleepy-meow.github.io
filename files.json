@@ -124,13 +124,6 @@
           "path": "learnings/developer user experience.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "cognitive accessibility",
-          "path": "wip/cognitive accessibility.md",
-          "tags": [],
-          "draft": true,
-          "done": true
         }
       ]
     },
@@ -173,6 +166,20 @@
           "done": true
         },
         {
+          "name": "empathy misses",
+          "path": "wip/empathy misses.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "how to cool conflict",
+          "path": "wip/how to cool conflict.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
           "name": "emergent facilitation",
           "path": "learnings/emergent facilitation.md",
           "tags": [],
@@ -206,6 +213,13 @@
           "name": "motivation",
           "path": "learnings/motivation.md",
           "tags": [],
+          "done": true
+        },
+        {
+          "name": "confronting our freedom",
+          "path": "wip/confronting our freedom.md",
+          "tags": [],
+          "draft": true,
           "done": true
         },
         {

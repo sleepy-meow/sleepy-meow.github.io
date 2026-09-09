@@ -1,6 +1,14 @@
+An explanation can make perfect sense to us and still be missing something important. Questioning our thinking means asking: What am I assuming? What else could explain this? What would make me change my mind?
+
+Some good books on this topic:
+
 > [!TIP] adam grant - think again
 
+> [!TIP] nassim nicholas taleb - the black swan
+
+
 # cognitive biases
+Learning about cognitive biases can help identify where our own reasoning might need another look (not just finding labels for what everyone else gets wrong). Here are some that have seemed worth writing down to not forget about them:
 
 **curse of knowledge** - occurs when a person who has specialized knowledge assumes that others share in that knowledge
 
@@ -40,7 +48,6 @@ It’s easier to spot biases in the decision making of others than our own
 related: [dunning-kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) & [illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
 
 # resources
-- Rolf dobelli - The Art of Thinking Clearly (99 most common thinking errors)
 - cognitive biases [wiki](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 - anti-patterns [wiki](https://en.wikipedia.org/wiki/Anti-pattern)
 - fallacies [wiki](https://en.wikipedia.org/wiki/List_of_fallacies)
@@ -52,10 +59,11 @@ Caveat: Not all biases have equally strong research behind them (research often 
 # cognitive biases & AI
 LLMs are also equally susceptible to biases as humans, and can act as a feedback loop.
 
+%%
 # Doomscrolling
 As mentioned in [[feeling safe and trusted]], Fear hijacks the brain, and reading the daily news is great at instilling fear, (because of negativity bias, i.e. people paying more attention to negative things, news companies, social media, etc. are incentivized to focus on the negative.
 
 News articles are also often inclined to come up with narratives and causation where there is none / where it's unknown at the time, to get a catchy headline.
 
 In addition, it can simply make you worry about the wrong things, for example when small events get a disproportionate amount of attention.
-
+%%

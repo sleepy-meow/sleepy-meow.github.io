@@ -6,16 +6,16 @@ People closest to a problem often have useful knowledge about how to solve it. B
 
 The advice process lets them act while drawing on what others know. It avoids sending every decision up a hierarchy, while keeping responsibility for the choice clear.
 
-# what is it
+# how it works
 
-any person can make any decision after seeking advice from
+any person (when the organization has actually delegated that authority) can make any decision after seeking advice from
 
 1) everyone who will be meaningfully affected, and
 2) people with expertise in the matter.
 
 Sometimes it's useful to include in the first group people who have different perspectives as well as people who have expertise from a single specialist perspective.
 
-Advice must be taken seriously, but it's only advice. No one, however senior, can tell the decision-maker what to decide. 
+Advice must be taken seriously, but it's only advice. Advice does not give someone a veto simply because they are more senior.
 
 *Ownership of the issue stays clearly with one person: the decision maker.* Convinced of having made the best possible decision, they can see things through and accept responsibility for mistakes.
 

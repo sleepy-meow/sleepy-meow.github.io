@@ -1,8 +1,10 @@
 *..and better alternatives*
+
+%%
 # rachel botsman - how to trust and be trusted
 If you've read more in depth about any of the topics this short audiobook tries to cover in 3 hours, this can be fairly infuriating.
 
-The biggest problem is that it consistently ignores the role of power dynamics and psychological safety, oversimplfies a dozen complex topics, and leaves the listener standing on the peak of the dunning kruger effect. 
+The biggest problem is that it consistently ignores the role of power dynamics and psychological safety.
 
 (todo: add a concrete example)
 
@@ -10,10 +12,12 @@ The biggest problem is that it consistently ignores the role of power dynamics a
 
 Alternatives:
 - **david desteno - the truth about trust** (For a better take on the topic of trust)
+
+%%
 # 5 dysfunctions of a team
 Not every conflict, accountability or coordination failure originates in an absence of interpersonal trust. The book largely ignores the role of structures: incentives, power asymmetry, workload, who actually holds decision rights.
 
-It also reads like an advertisement for the myers briggs personality test, which is [widely regarded as pseudoscience](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Accuracy_and_validity). This may have made more sense when the book was published (1992 was around the peak hype), but this doesn't deserve the same weight in the modern day.
+It also reads like an advertisement for the myers briggs personality test, which is [widely regarded as pseudoscience](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Accuracy_and_validity). This may have made more sense when the book was published (2002 was around the peak hype), but this doesn't deserve the same weight in the modern day.
 
 %%It does have a point about trust being important, but just like maslow's [hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs), it oversimplifies more complex things into a simple pyramid. But just as [maslow's 'research'](https://en.wikipedia.org/wiki/Abraham_Maslow) doesn't survive closer inspection, neither do the arguments in this book. %%
 

@@ -25,7 +25,7 @@ Some examples:
 
 # vs. controlling the outcome
 
-The core difference with methods that already know the destination and steer the group there (presentation + Q&A, town halls, voting on pre-framed options, workshops run to a recommendation, classic project planning) is where the answer comes from. Destination-known methods ask _"do you agree?"_; emergent methods ask _"what should we even be asking?"_
+The key question is how much participants can influence the outcome. A planned workshop can leave the answer open; an open discussion can still be steered toward a predetermined conclusion. Be explicit about what participants can shape, what is already decided, and who makes the final call. Destination-known methods ask _"do you agree?"_; emergent methods ask _"what should we even be asking?"_
 
 %%
 # examples

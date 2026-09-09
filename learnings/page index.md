@@ -46,10 +46,8 @@
 
 # other things
 [[cross team connectors]] !! ?
-%%[[free flow of information2]] !!%%
 [[free flow of information]] !!
 [[lines of communication]] !! ?
-%%[[the cost of context switching]] !! ?%%
 [[the fat cat syndrome]] !!
 
 [[bad advice books]] !!

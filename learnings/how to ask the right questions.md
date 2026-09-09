@@ -2,11 +2,16 @@
 
 
 # rules for a good question
-1. You genuinely don't know the answer
-2. It can't be closed with Yes/No
-3. It's specific enough to give a foothold but open enough to invite their real view.
+1. Ask with the intention to understand, and be willing to revise what you think.
+2. When exploring someone’s perspective, invite more than agreement or disagreement. Closed questions can still help clarify facts or ask permission.
+3. Make the question specific enough to give them a starting point, while leaving room for an unexpected answer.
+%%
+4. You genuinely don't know the answer
+5. It can't be closed with Yes/No
+6. It's specific enough to give a foothold but open enough to invite their real view.
+%%
 # questions that create psychological safety
-a good question indicates to others that their voices are desired — instantly making that moment psychologically safe for offering a response.
+A genuine question can signal that someone’s perspective is wanted. Whether they feel safe answering also depends on how you have responded before, and what you do with their answer now.
 
 *“What are we actually trying to solve here?”*
 Shifts the conversation away from personal preferences and toward a shared goal. Once the purpose is clear, decisions become easier to evaluate together
@@ -56,16 +61,16 @@ it assumes the answer and signals the "correct" one, so you learn what people th
 **Closed / Yes-No questions**
 *"Does everyone agree?"*
 *"Any questions?" / "Are we good?"*
- the easiest answer is a nod or silence — which the voice/silence asymmetry guarantees you'll get. → Better: "What concerns do people still have?" / "What might we be missing?"
+A nod or silence may be the easiest response, especially when disagreeing feels risky. If you want to surface concerns, ask about them directly. → Better: "What concerns do people still have?" / "What might we be missing?"
 
 **The "gotcha" / interrogation**
 *"Why didn't you catch this?"*
 *"Who's responsible for this mess?"*
 Triggers self-protection and blame (the fundamental attribution error in action) — the fastest way to teach people to hide problems. → Better: "What did we learn from how this unfolded?" / "What in the system let this through?"
 
-**The test (a question you already know the answer to)**
+**Quizzing people without making the purpose clear**
 *"Can anyone tell me what our Q3 target was?"* (when you're quizzing, not asking)
-it's an exam, not inquiry. People feel the difference instantly, and the risk of "looking ignorant" shuts them up. → Genuine inquiry means you don't have the answer.
+When a question feels like an exam, people may focus on avoiding a wrong answer. If you’re checking shared understanding, explain that purpose and make uncertainty welcome.→ Genuine inquiry means being willing to learn something new.
 
 **The vague throwaway (no foothold)**
 *"Thoughts?" / "Any feedback?"*

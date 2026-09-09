@@ -8,8 +8,9 @@
 
 The more successful / large a company becomes, the more pressure there is for leaders to become overly obsessed with outcomes and control - masking underlying inefficiencies and even sabotaging new initiatives and innovations to protect their jobs or position. (or as Eric Ries describes in his recent book Incorruptible: "financial gravity - a structural force, almost like physics")
 
+%%
 This is how our brains have worked for at least the past 10,000 years, but *it is not inevitable.* it's just the natural course when nothing is done to prevent it. (source: rutger bregman - humankind, chapter 11)
-
+%%
 # what happens when nothing is done
 Over a certain group size it becomes statistically unlikely for everyone to posess the self-restraint needed. Unchecked power can also [reduce the ability to feel empathy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10461512/#:~:text=2%2E3%2E%20Power%20decreases%20empathy%20and%20compassion) (this generally doesn't improve over time). The person affected may become blind to it themselves, and interestingly, others [may become blind to it too](https://www.goodreads.com/en/book/show/16234073-blind-to-betrayal).
 

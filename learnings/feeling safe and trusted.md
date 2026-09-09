@@ -5,7 +5,7 @@
 ## what a safe environment looks like
 People can speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't require profound courage or encouragement. 
 
-Speaking up is received with appreciation and curiosity. There's plenty of debate, questions, admitting mistakes early, half-formed ideas and suggestions, challenging each others thinking, and disagreeing openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person, and you can trust that if no one tells you that you've messed up, that everything is fine.
+Speaking up is received with appreciation and curiosity. There's plenty of debate, questions, admitting mistakes early, half-formed ideas and suggestions, challenging each others thinking, and disagreeing openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person.
 
 
 ## red flags of an unsafe environment
@@ -102,7 +102,7 @@ If there was a time in the past when you did feel safe and trusted, remember wha
 # resources
 > [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 
-> [!EXAMPLE] [explore.psychsafety.com]() (a nice network diagram to demonstrate the actual complexity of the topic) 
+> [!EXAMPLE] [explore.psychsafety.com](https://explore.psychsafety.com/) (a cool network diagram to demonstrate the actual complexity of the topic) 
 
 > [!TIP] amy edmondson - the fearless organization (the #1 book to cause frustration about no one else having read it)
 

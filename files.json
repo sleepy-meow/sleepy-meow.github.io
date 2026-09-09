@@ -264,6 +264,12 @@
           "path": "learnings/bad advice books.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "learning resources",
+          "path": "learnings/learning resources.md",
+          "tags": [],
+          "done": true
         }
       ]
     }

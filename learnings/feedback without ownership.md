@@ -1,5 +1,4 @@
 part 1/3: [[identifying bullshit feedback]]
-# Feedback without ownership
 ## anonymous feedback
 Anonymous feedback comes with structural limitations: you can't have a direct conversation with the person whose experience the feedback describes.
 

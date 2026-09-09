@@ -131,6 +131,12 @@
       "name": "feedback",
       "files": [
         {
+          "name": "feedback checklists",
+          "path": "learnings/feedback checklists.md",
+          "tags": [],
+          "done": true
+        },
+        {
           "name": "identifying bullshit feedback",
           "path": "learnings/identifying bullshit feedback.md",
           "tags": [],
@@ -145,12 +151,6 @@
         {
           "name": "high stakes feedback",
           "path": "learnings/high stakes feedback.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "feedback checklists",
-          "path": "learnings/feedback checklists.md",
           "tags": [],
           "done": true
         }

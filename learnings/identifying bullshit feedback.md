@@ -83,18 +83,12 @@ Without specifics, your brain is left trying to fill in the blanks. Instead of a
 
 *"the meeting was interpreted differently by participants"* gives you something useful to reflect on, _"you have poor communication skills and need to get better at communicating”_ does not. The first points to something specific and opens a conversation about what was unclear. The second makes a broad judgment about your ability without explaining what needs to change.
 
-Guilt = _I did something bad_. Shame = _I am bad_. Guilt can support accountability because it can attach to a particular behaviour: you can understand what happened, apologize, repair it, and try something different next time. But shame doesn't have anything useful to say: It turns attention away from the behaviour and toward the self. It works like a zoom lens, where all we see is ourselves alone and struggling.
+This turns attention away from the behaviour and toward the self. It works like a zoom lens, where all we see is ourselves alone and struggling.
+
+%%
+Guilt = _I did something bad_. Shame = _I am bad_. Guilt can support accountability because it can attach to a particular behaviour: you can understand what happened, apologize, repair it, and try something different next time. But shame doesn't have anything useful to say: 
+%%
 
 
-> [!EXAMPLE] how-to guide: [giving feedback with psychological safety ](https://psychsafety.com/giving-feedback-with-psychological-safety/)
-
-
-## related ideas
-
-> [!EXAMPLE] [fundamental attribution error](https://psychsafety.com/the-fundamental-attribution-error/)  (The reason it's called 'fundamental' is that it's something we all do. )
-
-> [!EXAMPLE] [local rationality](https://psychsafety.com/local-rationality/)
-
-> [!EXAMPLE] [all feedback is subjective](https://psychsafety.com/all-feedback-is-subjective/)
 
 part 2/3: [[feedback without ownership]]

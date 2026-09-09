@@ -1,5 +1,8 @@
 *These checklists help you prepare to give feedback aimed at helping someone learn or improve; you don’t need to meet every condition here before raising a concern, describing harm, or setting a boundary.*
 
+
+> [!EXAMPLE] how-to guide: [giving feedback with psychological safety ](https://psychsafety.com/giving-feedback-with-psychological-safety/)
+
 # Before having the meeting
 Ask if they want to have the conversation now or some other time
 
@@ -49,3 +52,10 @@ You're not obligated to make feedback feel good—critical feedback often doesn'
 Would your assessment come as no surprise to others familiar with the situation? Or are you alone in it? An outside opinion is a valuable sanity check—and if others are directly affected, it may be worth consulting them too.
 ```
 
+# other relevant topics
+
+> [!EXAMPLE] [fundamental attribution error](https://psychsafety.com/the-fundamental-attribution-error/)  (The reason it's called 'fundamental' is that it's something we all do. )
+
+> [!EXAMPLE] [local rationality](https://psychsafety.com/local-rationality/)
+
+> [!EXAMPLE] [all feedback is subjective](https://psychsafety.com/all-feedback-is-subjective/)

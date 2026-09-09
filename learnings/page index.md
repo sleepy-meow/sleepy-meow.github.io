@@ -25,10 +25,11 @@
 [[developer user experience]] !!
 
 # feedback
+[[feedback checklists]] !!
 [[identifying bullshit feedback]] !!
 [[feedback without ownership]] !!
 [[high stakes feedback]] !!
-[[feedback checklists]] !!
+
 # other conversations
 [[how to ask the right questions]] !!
 [[empathy misses]] !! ? 

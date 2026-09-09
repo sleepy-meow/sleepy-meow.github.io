@@ -21,7 +21,7 @@ When feedback carries consequences, whoever acts on it must explain the basis fo
 
 But when feedback has consequences, vague criticism can't necessarily just be disregarded. If they can attach consequences to criticism that you aren't allowed to understand, question, or respond to, the problem isn't merely bad feedback anymore — it becomes a problem of how power is being exercised.
 
-
+### further reading:
 > [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
 
 > [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It. ](https://www.corporate-rebels.com/blog/annual-performance-reviews)

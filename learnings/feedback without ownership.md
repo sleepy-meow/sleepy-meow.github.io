@@ -5,13 +5,13 @@ Anonymous feedback comes with structural limitations: you can't have a direct co
 
 A person reporting an experience and a person making a performance judgment carry different responsibilities.
 
-Someone may need confidentiality to describe what happened safely. Their report can still be specific and useful. Protecting their identity does not make their experience irrelevant, nor does it automatically establish every interpretation as fact.
-
-If a manager uses that report to assess someone’s performance, the manager must own the assessment. “People say you’re difficult” doesn’t explain what happened, what the manager has established, or what change is expected. An unnamed group cannot substitute for that explanation.
+Someone may need confidentiality to describe what happened safely. Their report can still be specific and useful. Protecting their identity does not make their experience irrelevant, nor does it automatically establish every interpretation as fact. “People say you’re difficult” doesn’t explain what happened, or what change is expected. An unnamed group cannot substitute for that explanation.
 
 The question is not simply whether the source is named. It is whether someone takes responsibility for checking the information, explaining the judgment, and giving the person affected a meaningful opportunity to respond.
 
 anonymous information can be useful as a signal; anonymous allegations shouldn't automatically become conclusions.
+
+*Also: If you leave feedback up to someone else to deliver, you can't assume that it has actually been received in the way you intended, or gotten lost along the way.*
 
 ## the invisible army
 > "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.

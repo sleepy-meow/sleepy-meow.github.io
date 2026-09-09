@@ -1,20 +1,20 @@
-_These pages focus on feedback about someone’s behavior or performance, especially when it comes with an expectation to change._
+Feedback can be an opening for a conversation or an assessment. Those come with different responsibilities.
 
-Reporting a problem doesn’t require knowing the solution. “I lose my selection every time I switch modes” is useful feedback from an artist. “I couldn’t finish my point because you interrupted me” is useful feedback from a colleague. Both describe an experience we can investigate or discuss.
+**As an opening for a conversation**, feedback shares an experience or points out a problem we can explore together. *“I lose my selection every time I switch modes”* or *“I left that meeting unsure what we had agreed to”* gives us somewhere to start. Reporting a problem doesn’t require knowing the solution. The person raising it may not yet know why it happened or what would help.
 
-The responsibility changes when we turn an observation into a vague assessment: “your work isn’t good enough,” “you communicate poorly,” or “you aren’t meeting expectations.” Whoever makes that judgment needs to explain what happened, what was expected, and where the gap is—and leave room for context they may be missing.
+**As an assessment**, feedback makes a judgment about someone’s work, behaviour, or performance. Especially when that judgment comes with an expectation to change, the person making it needs to explain what happened, what was expected, and where the gap is. An assessment should still be open to conversation, including context that might change the judgment.
 
-A suggested alternative can help, but it doesn’t have to come from the person who first noticed the problem. *What isn’t fair is requiring someone to improve while leaving them to guess what improvement means.*
+*“Participants left the meeting with different understandings of the next steps. We needed a shared set of actions; ending with a recap of decisions and owners would help”* makes the assessment and a possible improvement clear. *“You have poor communication skills and need to get better at communicating”* leaves the person guessing about both.
+
+A suggested alternative can help, but the solution can also be worked out together. *What isn’t fair is requiring someone to improve while leaving them to guess what improvement means.*
 
 
 %%
-*good feedback is specific, actionable, contextual, and open to dialogue.*
+*Good feedback is specific, actionable, contextual, and open to dialogue.*
 
+*Here’s the moment, here’s what would have worked better*. Without those, it's just a verdict.
 
-
- *here’s the moment, here’s what would have worked better*. Without those, it's just a verdict.
-
-Feedback must be actionable. It’s stressful to hear feedback if we don’t know how to act upon it. Vague feedback just causes anxiety.
+When feedback is about someone’s behavior or performance, especially when it comes with an expectation to change, it must be actionable. It’s stressful to hear feedback if we don’t know how to act upon it. Vague feedback just causes anxiety.
 
 For example, *"the outcome of this meeting was interpreted differently by participants, having clear action points at the end of the meeting would help."* would be useful feedback, _"you have poor communication skills and need to get better at communicating”_ is not. 
 

@@ -1,3 +1,4 @@
+#index
 # start here
 [[introduction]] !!
 [[how to come up with big ideas]] !!

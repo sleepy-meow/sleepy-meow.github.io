@@ -16,9 +16,9 @@ anonymous information can be useful as a signal; anonymous allegations shouldn't
 ## the invisible army
 > "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.
 
-*Feedback used for accountability needs to support a conversation.* The person responsible for the assessment is available to explain and discuss it.
+*Feedback used for accountability needs to support a conversation.* The person responsible for the assessment must be available to explain and discuss it.
 
-This is problematic when it happens informally, but it becomes substantially more consequential when organizations build it into systems that determine people's careers.
+Using unnamed others to avoid owning a judgment is problematic informally, and substantially more consequential when built into systems that determine people’s careers.
 
 ## anonymity and power
 *The case for anonymity depends partly on who needs protection from whom.*
@@ -29,6 +29,16 @@ A manager may still need to protect a less powerful person whose concern they ar
 
 The more power someone has to attach consequences to their criticism, the stronger the expectation that they own it, explain its basis, and remain available for questions.
 
+%%
+questions to ask yourself:
+1. The content — is there something true here I need to act on?
+2. The channel — what did I, or the system I'm part of, do that made anonymity the safest available option?
 
 
+Caveat: When there's a power gradient — you hold their review, their contract, their renewal — anonymity may be the only reason the information reached you at all. That's what anonymity is genuinely good for. But it's a scaffold and a symptom, not a destination.
+
+The most accountable response to an anonymous note is not to solve the mystery. It's to ask why the front door was shut.
+
+The person who responds to vague criticism by becoming compliant, over-agreeable, and quietly stops pushing back looks like someone who took the feedback well. It gets praised in the next review. It's a shame shield, not learning.
+%%
 part 3/3: [[high stakes feedback]]

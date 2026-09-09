@@ -36,10 +36,14 @@ The core difference with methods that already know the destination and steer the
 http://www.allancohen.com/
 *"For senior leadership teams in seemingly impossible circumstances or with seemingly impossible ambitions who want to break with the strategies of the past and create an unprecedented future"*
 
+
+[[how to ask the right questions]]
+
+%%
 # other links
 https://participedia.net/method/dynamic-facilitation
 
-%%
+
 
 ## links
 https://www.peterblock.com/the-six-conversations/

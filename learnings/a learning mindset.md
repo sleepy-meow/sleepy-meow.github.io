@@ -49,3 +49,5 @@ Questions cry out for answers; they create a vacuum that serves as a voice oppor
 
 Learnings only become organizational when they are shared. Without this step you have a lot of learning individuals and an organization that learns nothing.
 
+[[free flow of information]]
+[[how to fail]]

@@ -6,18 +6,7 @@ The greater the consequence, the stronger the need for specificity, context, exa
 ## performance reviews
 > _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
 
-Performance reviews - often by design - revolve around anonymous feedback, and holding people accountable based on that anonymous feedback at the same time. If consequential criticism comes as a surprise and the person hasn't previously been given a fair opportunity to understand and address it, the review has failed as a feedback mechanism.
-
-questions to ask yourself:
-1. The content — is there something true here I need to act on?
-2. The channel — what did I, or the system I'm part of, do that made anonymity the safest available option?
-
-
-Caveat: When there's a power gradient — you hold their review, their contract, their renewal — anonymity may be the only reason the information reached you at all. That's what anonymity is genuinely good for. But it's a scaffold and a symptom, not a destination.
-
-The most accountable response to an anonymous note is not to solve the mystery. It's to ask why the front door was shut.
-
-The person who responds to vague criticism by becoming compliant, over-agreeable, and quietly stops pushing back looks like someone who took the feedback well. It gets praised in the next review. It's a shame shield, not learning.
+Performance reviews that use anonymous feedback still need to give the person being assessed a fair opportunity to understand and respond to the criticism. Whether the source is anonymous or named, a review has failed as a feedback mechanism if consequential criticism comes as a surprise and the person has not previously been given a fair opportunity to understand and address it.
 
 ## Feedback and accountability
 

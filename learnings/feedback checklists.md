@@ -1,3 +1,9 @@
+*These checklists help you prepare to give feedback aimed at helping someone learn or improve; you don’t need to meet every condition here before raising a concern, describing harm, or setting a boundary.*
+
+# Before having the meeting
+Ask if they want to have the conversation now or some other time
+
+
 
 # engaged feedback checklist
 ```

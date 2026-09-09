@@ -6,15 +6,18 @@
 
 > [!EXAMPLE] article: [The fat cat syndrome prevents innovation and opens the door for disruption](https://medium.com/@arnoldbeekes/the-fat-cat-syndrome-prevents-innovation-and-opens-the-door-for-disruption-9a37643d38a4)
 
-The more successful / large a company becomes, the more pressure there is for leaders to become overly obsessed with outcomes and control - masking underlying inefficiencies and even sabotaging new initiatives and innovations to protect their jobs or position. (or as Eric Ries describes in his recent book Incorruptible: "financial gravity - a structural force, almost like physics")
+The more successful / large a company becomes, the more pressure there is for protecting the status quo (usually by people who are benefiting from it the most) - masking underlying inefficiencies and even sabotaging new initiatives and innovations to protect their jobs or position.
 
-%%
-This is how our brains have worked for at least the past 10,000 years, but *it is not inevitable.* it's just the natural course when nothing is done to prevent it. (source: rutger bregman - humankind, chapter 11)
-%%
+A common misconception is that this would be somehow inevitable, but it's not. It is just a pattern that can develop when success goes unquestioned (or as Eric Ries describes in his recent book Incorruptible: "financial gravity - a structural force, almost like physics").
+
 # what happens when nothing is done
-Over a certain group size it becomes statistically unlikely for everyone to posess the self-restraint needed. Unchecked power can also [reduce the ability to feel empathy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10461512/#:~:text=2%2E3%2E%20Power%20decreases%20empathy%20and%20compassion) (this generally doesn't improve over time). The person affected may become blind to it themselves, and interestingly, others [may become blind to it too](https://www.goodreads.com/en/book/show/16234073-blind-to-betrayal).
+Accountability should not depend solely on the self-restraint of the people holding power. Unchecked power can [reduce the ability to feel empathy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10461512/#:~:text=2%2E3%2E%20Power%20decreases%20empathy%20and%20compassion) (which generally doesn't improve over time). The person affected may become blind to it themselves, and interestingly, others [may become blind to it too](https://www.goodreads.com/en/book/show/16234073-blind-to-betrayal).
 
 Questioning the status quo starts getting more risky, and lack of dissent in itself reduces divergent thinking (required for innovation) in the group as a whole. Problems start piling up and often only draw broader attention when a bigger shit hits the fan for the first time.
+
+The end result may look something like this:
+
+> [!TIP] Robert Jackall - Moral Mazes: The World of Corporate Managers (good for motivation to not want to be in this picture)
 
 # what to do about it
 
@@ -37,40 +40,26 @@ The reason these work is precisely why they're uncomfortable. If it doesn't cost
 ## character development
 Integrity is not just a static character trait, but a skill that can be developed. That said, *it's a lot easier when you have the support*. While there are individual differences in our capacity to feel empathy, at the end of the day what we actually do is still a choice.
 
-(see [[confronting our freedom]] for more on this).
-
 **Why it matters**
-Fat-cat syndrome is basically armored leadership. protecting position, being right, staying in control are all ways of dodging vulnerability. Every guardrail above requires the opposite: the courage to be wrong, to be told so, to be replaceable. The guardrails are the what; courage is what makes you actually do them when it costs you.
+Fat-cat syndrome is basically [[leadership approaches|armored leadership]]. Protecting position, being right, staying in control are all ways of dodging vulnerability. Every guardrail above requires the opposite: the courage to be wrong, to be told so, to be replaceable. The guardrails are the what; courage is what makes you actually do them when it costs you.
 
 ## increasing the collective level of courage
 > Courage is contagious.
 
-Whatever a leader models spreads through the organization: a fat cat protecting position teaches everyone below to manage internal danger, but the reverse is just as true — one visible act of courage lowers the cost of speaking for everyone watching, and reopens the upward flow of bad news that the syndrome shuts down. Individual courage is the seed of a courageous culture — as long as the structure doesn't keep rewarding the armor.
+Whatever a leader models spreads through the organization: A leader protecting their position teaches everyone below to manage internal danger, but the reverse is just as true: Visible acts of courage, backed by consistent support, can make speaking up feel less risky, and reopen the upward flow of bad news that the syndrome shuts down. Individual courage is the seed of a courageous culture - as long as the structure doesn't keep rewarding the armor.
 
-**Courage isn't priced equally.** The higher the position, the less courage a brave act costs — and the more it costs the people below you to be honest with you. Fat-cat syndrome leaves the highest courage-cost to those with the least power, while the leader, who could be brave cheaply, spends nothing. The leader's real job is to spend their own low-cost courage to lower everyone else's. At the end of the day, none of us should need to be afraid.
+**Courage isn’t priced equally.** Speaking honestly can carry very different consequences depending on your position. Challenging someone who controls your opportunities or employment is different from inviting criticism of your own decisions.
 
-Fun fact: After a certain level of courage has been reached, this can become self sustaining (todo: find the research paper)
+Leaders face risks too, but they have greater power to shape what honesty costs others. They can admit mistakes, protect people who raise concerns, and challenge retaliation—even when doing so costs them approval or influence. The responsibility is to use that power so that speaking up requires less courage from the people with the least protection.
 
-> The cave you fear to enter holds the treasure you seek.
+This can become a reinforcing cycle: people speak, receive support, see that something changes, and become more willing to speak again.
 
-## drawing attention to the inefficiency
-> if you can't fix the problem, just make it more difficult to ignore
+## shared consciousness
+Sharing observations across teams can reveal that what looks like a minor local frustration is a recurring problem across the organization.
 
-It's often difficult for us to comprehend the cumulative cost of inefficiency, especially when it's creeped up over time. Looking at the wasted time of one person for one day may lead to a reaction "oh no, anyways", but when you multiply it by the number of people affected, over the course of a year + the indirect impact on top of that, they are often in magnitudes more scary numbers than we assume.
-
-%%
-# why to not give up
-As explained in [[team of teams + innovation]], inefficiency may collapse under its own weight, which can possibly give an opportunity to open up to new ideas.
-
-And this is where things like [[emergent facilitation]] techniques actually shine where traditional methods have failed. Many of them have been proven to solve seemingly impossible large scale problems.
-
-# why knowledge sharing matters
 > You can break out of this cycle by opening your eyes. And it is crucial to bring in outsiders and generalists whose perspective is not clouded with your habits. And you need to move fast and take serious action, before it is too late.
 
-If you can't fix the problem, just make it more difficult to ignore 
+It's often difficult for us to comprehend the cumulative cost of inefficiency, especially when it's creeped up over time. Looking at the wasted time of one person for one day may lead to a reaction "oh no, anyways", but when you multiply it by the number of people affected, over the course of a year, it often adds up to numbers that will get people's attention. (pro tip: it may be worth watching this video first)
 
-# some caveats & etc
+> [!EXAMPLE] video: [how to create change (simon sinek)](https://www.youtube.com/watch?v=fDILpuiLuAI)
 
-Own the fear, find the cave, and write a new ending for yourself, for the people you're meant to serve and support, and for your culture. Choose courage over comfort. Choose whole hearts over armor. And choose the great adventure of being brave and afraid at the exact same time.
-
-> [!EXAMPLE] article: https://brenebrown.com/articles/2018/03/13/courage-comfort-rumbling-shame-accountability-failure-work/

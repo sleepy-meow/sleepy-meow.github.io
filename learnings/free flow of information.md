@@ -1,71 +1,47 @@
 > Free flow of information is one of the fundamental requirements for self-management of organizations. 
 
-> [!EXAMPLE] [reinventing organizations wiki - information flow](https://reinventingorganizationswiki.com/en/theory/information-flow/)
+Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. This boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
 
+Some benefits include:
+- **decision quality** - pooling information across members leads to more optimal decisions
+- **decision speed** - raw data is useful, curated data is slow and loses context
+- **innovation through unexpected connections** - Ideas often emerge when information from one domain meets a person working in another. 
+- **accountability** - Transparency makes it easier for people to hold themselves and each other accountable, because actions and reasoning are visible.
 
-Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. Boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
+# A team of teams
+In the book Team of Teams, stanley mcchrystal explains how hierarchical communication and decision making structures collapse under their own weight simply because of the limits of individual brain capacity.
 
-# benefits
+> Complex environments are, by definition, too complicated for any one person to grasp fully.
 
-**decision quality** - pooling information across members leads to more optimal decisions
+Past a certain size no single team can hold the whole problem, so you split into many — and now individually excellent teams can still add up to a dysfunctional whole. ***Great teams that don't talk to each other aren't a great organization***; they're silos with good morale.
 
-> [!EXAMPLE] Article: [AI, Teams, and the Common Information Effect](https://medium.com/@damjangataric/ai-teams-and-the-common-information-effect-5dad5c78304f)
+> The most effective teams are those that can rapidly adapt to the ever-changing environment. 
 
-**decision speed** - raw data is useful, curated data is slow and loses context
+The book explains how traditional command and control structures are simply too slow and inefficient in the modern rapidly changing world.
 
-**innovation through unexpected connections** - Ideas often emerge when information from one domain meets a person working in another. 
+> *Organizations are too complex for any one person to make all the decisions.*
+> 
+> In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. Today organizations are too complex for management to do all the thinking.
 
-**accountability** - Transparency makes it easier for people to hold themselves and each other accountable, because actions and reasoning are visible.
-# context of decisions
-> Transparency doesn't mean sharing every detail. Transparency means providing the context for the decisions we make.
+# the solution: shared consciousness
+so instead of pushing decisions up, you push *understanding* down and out.
 
-> [!EXAMPLE] article: [information without context](https://fs.blog/information-without-context/)
+- **Shared consciousness** — everyone holds a holistic picture of what the whole organization is doing and why, built through radically transparent communication
+- **Empowered execution** — once people share that picture, they can act without asking permission, because they can predict what the org would want. Distributed decision-making requires shared consciousness — empower people without context and they just fumble in the dark.
+- **Connectivity, not full connection** — you don't need everyone to know everyone, but you need enough cross-team relationships that *"if everyone knows a couple of people, there's likely a connection to every other team."
 
-> _“in the absence of data we will always make up stories - it’s how our brains function."_
+> **To contend with complexity, everyone in the organization must see how everything works together.** They have to understand the interdependencies and how the organization operates as a whole. When people understand these things, they make good decisions, quicker.
 
-The lack of context creates an information gap, and when the information is not available, all the question marks in your head will involuntarily be filled with some assumptions. It's something that cannot be stopped. 
-
-The same happens when the something about the context given doesn't make sense. Telling your brain to stop trying to understand is like telling it not to notice a missing stair. The gap itself demands attention.
-
-When the reasoning behind a decision is unclear, people are left to construct their own confabulations from whatever information they have. Those explanations may be wrong, but they are rarely random: they are shaped by past experiences, existing levels of trust, and who appears to benefit from the decision.
-
-This is why communicating a decision is not the same as communicating its context. _“We have decided to reorganize the team”_ tells people what will happen, but leaves the important questions unanswered: What problem is this meant to solve? What constraints shaped the choice? What alternatives were considered? Who was involved? What remains uncertain?
-
-Providing context does not require sharing every private detail or inviting everyone to agree. It means giving people enough information to understand how the decision makes sense, even if they would have made a different one. Without that context, the organization does not avoid telling a story; it simply leaves everyone to invent their own.
-# what happens in the shadows
-
-Self-serving behavior depends on opacity, so transparency reduces the likelihood that informal hierarchies will emerge. Informational power is arguably the greatest power of them all, the solution is for no one person to have it. %%A boss terrorising a teammate rarely happens in broad daylight.%%
-
-When transparency is the default, it's the opacity that draws attention.
-
-# One-way glass isn't transparency
-If information only moves upwards, that is not shared consciousness — it's surveillance, and it teaches people to hide, which is the thing you were trying to stop.
-
-Transparency is what you pay for autonomy. And when it's paid, the need for control evaporates on its own.
-
-%%
-# Conway's law
-> Organizations which design systems (in the broad sense used here) are constrained to produce designs which are copies of the communication structures of these organizations.
-
-Conway's Law isn't a curse; it's a tool. By *consciously designing communication structures that encourage innovation*, we can break free from the paralysis.
-%%
-
-(todo: elaborate this)
-> ...we had made the mistake of confusing the communication structure with the organizational structure.. ..anyone should be able to talk to anyone else, at any level, at any time, without fear of reprimand. (ed catmull - creativity inc)
-# simple things anyone can do
-- Whenever a slack conversation drifts into a locked channel or DM, just say 'hey let's move this conversation to a public channel so we don't risk needing to re-explain ourselves later'
-- Transparently communicating your own decision making. The more broadly a [[logging decisions|decision log]] is used, the more useful it is. But this doesn't prevent you from using it just for yourself. This can also help others identify the gaps in your own knowledge so you end up learning more. 
-
-%%
-![[Pasted image 20260820121828.png|518]]
-
-Caveat: It's exactly the situations where transparency would be most useful (when psychological safety is low), that makes us want to hide away. But by staying in the light you create safety for yourself as well as for others.
+![[Pasted image 20260627140901.png]]
 
 
 
+# why this leads to more innovation
+Associative thinking is the skill of connecting ideas, memories, or concepts that don’t seem related at first glance. It’s the essence of creativity, making it possible to see patterns, develop unique solutions, and bring fresh ideas into any field.
+
+> [!EXAMPLE] article: [associative thinking and creative potential](https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749)
+
+> *individual observations and suggestions build on each other, taking new shape and creating new value, especially compared to what happens when individual feedback is collected separately*
 
 
-https://handbook.gitlab.com/
-
-- Deliberately leaving out information = bad, signals "I don't trust you"
-- A bullshit reason for a decision = bad, people will notice
+> [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/) /  [key takeaways](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)

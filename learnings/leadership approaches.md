@@ -1,14 +1,18 @@
-*a comparison of different approaches*
+*some interesting tables i've come across that compare different approaches*
 
+%%
 > Many organizations still rely on the top-down, command-and-control approaches that fueled growth and profitability in the industrial era. Some of the most basic tenets of this management style- ensuring control, eliminating variance, and rewarding conformance - inhibit collaboration and organizational learning.
 
 The hierarchical approach may work just fine when managing a well optimized assembly plant factory line (as long as nothing breaks down or any changes need to be made). 
 
 But the more creativity and innovation (which are, by definition, messy and unpredictable) are needed to achieve a goal, the more learning is needed.
+%%
 
+---
 
-# organizing to execute vs organizing to learn
 > [!tip] amy edmondson - teaming
+
+**organizing to execute vs organizing to learn**
 
 | Management Approach         | Organizing to Execute                                                             | Organizing to Learn                  |
 | --------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
@@ -23,7 +27,7 @@ But the more creativity and innovation (which are, by definition, messy and unpr
 | Business goal               | Make money now.                                                                   | Make money later.                    |
 | Works when                  | Path forward is clear.                                                            | Path forward is not clear.           |
 
-reframing the boss
+**reframing the boss**
 The more creativity and innovation are required to achieve a goal, the more this reframe is needed:
 
 | dimension                | default frame                                                        | reframe                                                                                                      |
@@ -35,9 +39,11 @@ The more creativity and innovation are required to achieve a goal, the more this
 | why people speak up      | they don't — fear is sensible; think carefully about what you reveal | because it improves decision-making and execution                                                            |
 | result                   | interpersonal fear is rational → silence                             | psychological safety becomes necessary → voice                                                               |
 
+---
 
-# armored vs daring leadership
 > [!tip] brene brown - dare to lead
+
+**armored vs daring leadership**
 
 | Armored                                                          | Daring                                                                    |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |

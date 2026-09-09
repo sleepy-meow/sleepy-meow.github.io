@@ -20,7 +20,7 @@ Coming up with something new involves connecting things we know, noticing what w
 ## Innovation frequently happens between disciplines. 
 An unexpected connection might begin with seeing how another discipline works, hearing someone describe a frustration, or finding out why a decision was made.
 
-This is why the [[free flow of information]] matters. People need enough context to notice where their knowledge could help, including outside their own assigned work. As teams grow, keeping those connections alive takes more deliberate effort: [[team of teams + innovation|great teams also need to be able to think together]].
+This is why the [[free flow of information2]] matters. People need enough context to notice where their knowledge could help, including outside their own assigned work. As teams grow, keeping those connections alive takes more deliberate effort: [[free flow of information|great teams also need to be able to think together]].
 
 > We can only think smarter if others in the room speak their minds
 

@@ -123,7 +123,6 @@
           "name": "developer user experience",
           "path": "learnings/developer user experience.md",
           "tags": [],
-          "draft": true,
           "done": true
         },
         {
@@ -213,13 +212,12 @@
           "name": "rigid teams vs teaming",
           "path": "learnings/rigid teams vs teaming.md",
           "tags": [],
-          "draft": true,
           "done": true
         }
       ]
     },
     {
-      "name": "scaling teams",
+      "name": "other things",
       "files": [
         {
           "name": "cross team connectors",
@@ -235,15 +233,10 @@
           "done": true
         },
         {
-          "name": "team of teams + innovation",
-          "path": "learnings/team of teams + innovation.md",
-          "tags": [],
-          "done": true
-        },
-        {
           "name": "lines of communication",
           "path": "learnings/lines of communication.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {
@@ -251,24 +244,11 @@
           "path": "learnings/the fat cat syndrome.md",
           "tags": [],
           "done": true
-        }
-      ]
-    },
-    {
-      "name": "other",
-      "files": [
-        {
-          "name": "bad advice books",
-          "path": "wip/bad advice books.md",
-          "tags": [],
-          "draft": true,
-          "done": true
         },
         {
-          "name": "first aid kit",
-          "path": "wip/first aid kit.md",
+          "name": "bad advice books",
+          "path": "learnings/bad advice books.md",
           "tags": [],
-          "draft": true,
           "done": true
         }
       ]

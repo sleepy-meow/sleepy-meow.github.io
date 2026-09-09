@@ -11,9 +11,11 @@ This doesn't mean we should just take risks blindly. In *The Right Kind of Wrong
 # the swiss cheese model
 Preventable and complex failures can also be reduced by layering preventative measures. They don't need to be bulletproof, just good enough for all the holes in the cheese to not line up at the same time.
 
-This is not just about avoiding huge disasters, but also frees up mental bandwidth by adding peace of mind that you know, with some degree of certainty, that it's safe to fail.
+The goal of these layers should be to free up mental bandwidth by not needing to think about accidentally causing a huge disaster, leaving more room for experimentation. They should not, on the other hand, be too constraining than needed.
 
-As a simple example of this would be an undo button in a tool that allows you to experiment and make mistakes without fear of losing your work.
+A simple example of this would be an undo button in a tool that allows you to experiment and make mistakes without fear of losing your work.
+
+
 
 ![[Pasted image 20260820092041.png|384]]
 

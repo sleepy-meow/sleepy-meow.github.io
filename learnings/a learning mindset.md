@@ -6,8 +6,6 @@ Learning is essential in any complex work, simply because we are generally prett
 
 Unless you know all the steps in advance to reach a goal, and know the goal itself won't change along the way, then learning and adapting along the way is needed.
 
-> [!tip] amy edmondson - teaming (a practical guide for collaboration and learning)
-
 Also, the more creativity and innovation are needed to achieve a goal (which are, by definition, messy and unpredictable), the more learning is needed.
 
 # The curiosity gap
@@ -49,5 +47,5 @@ Questions cry out for answers; they create a vacuum that serves as a voice oppor
 
 Learnings only become organizational when they are shared. Without this step you have a lot of learning individuals and an organization that learns nothing.
 
-[[free flow of information]]
+[[free flow of information2]]
 [[how to fail]]

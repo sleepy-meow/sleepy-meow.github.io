@@ -24,6 +24,7 @@ A person communicating a decision may not have made it, and shouldn’t have to 
 Owning a decision doesn’t mean everyone must agree with it. It means making clear who made it, why, and how affected people can raise questions. A decision log helps preserve that context, but the person or group responsible must still be available to explain the decision.
 
 # what to document
+> Transparency doesn't mean sharing every detail. Transparency means providing the context for the decisions we make.
 
 Document decisions that someone may later need to understand, question, or revisit—and whose reasoning won’t be obvious from the outcome alone.
 

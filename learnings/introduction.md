@@ -6,7 +6,7 @@ It's not always obvious where to find the information to learn these skills. The
 
 > There's an entire section in the bookstore called self-help, but there's no section called help others. (simon sinek, leaders eat last)
 
-Many of the skills taught in these books are not exclusive to any job title though, they're not even only limited to the workplace. For the most part they're just about how to be a decent human being.
+Many of the skills are not exclusive to any job title though, they're not even only limited to the workplace. For the most part they're just about how to be a decent human being.
 
 %%
 When I went to pick up strong ground from the bookstore, the employee there just went "..you know, this is a management book." (giving me this puzzled look like.. *are you sure?* ) It wasn't in a dedicated section but somewhere in the back, but a lot of it did seem to revolve around helping others.

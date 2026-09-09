@@ -1,10 +1,95 @@
 *UX + ways of working*
 
 Most of us understand the value of ux in the products we build. But an often overlooked aspect is how those same principles can be applied to finding optimal ways of working and internal tooling.
+# ways of working have a user experience
+
+A tool, a meeting, a handoff, or a process can either make that work easier, or require people to remember unwritten rules, search for information, repeat themselves, and work around obstacles.
+
+The same questions we ask about a user interface apply here: Is it clear what to do next? Can people find what they need? Do they know what happened after taking action? Can they recover from a mistake?
+
+[Usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) provide useful prompts for noticing this friction. A request that disappears without acknowledgment is a visibility problem. A workflow that depends on remembering instructions from a meeting places a burden on memory. A temporary process with no way to revisit it leaves people stuck.
+
+Some useful questions
+- *How does this impact the cognitive load of individuals and the team overall, in the long run?*
+- *How does this scale? (and does it need to)*
+- *What are we actually trying to solve here?*
+
+# example: daily team updates
+Suppose we want people to keep up to date what their teammates are working on.
+
+**Option 1: a bot asks “what is everyone working on?” in the team channel each day, with updates collected in a thread.**
+The prompt removes the need to remember to post. But responding means pausing work, recalling progress, deciding what matters, and composing an update, even when nothing has changed since yesterday. 
+
+Readers have work to do too. The first person to post sees an empty thread. To learn what others are doing, they need to return as replies arrive and distinguish new information from what they’ve already read. Previous days’ threads become buried among unrelated messages. Following someone’s progress means finding several threads and mentally piecing their updates together.
+
+**Option 2: a dedicated channel, with updates when something changes.**
+People can catch up and post in one visit at a convenient time. The continuous history includes everyone’s latest updates, even for the first person checking that morning. There is no need to wait for replies to a new daily thread.
+
+The agreement is that an update remains current until replaced, so unchanged work doesn’t need another report. Discussion stays beneath each post. This reduces duplicate writing, repeat visits, and the effort of piecing together information across daily threads. 
+
+Small things like these add up over time, and we tend to often vastly underestimate the scale of recurring interruptions that affect many people. 
+# the cost of interrupted work
+*Spending 50% on one project and 50% on another does not add up to 100%.*
+
+On average, 9-23 minutes is lost each time context switching. Our brains cannot actually focus on two things at the same time, but rapidly switch between the two.
+
+![[Pasted image 20260831150953.png|425]]
+
+> [!EXAMPLE] [context switching - how to reduce it and achieve flow state](https://www.taskade.com/blog/reduce-context-switching)
+
+*"some people are just better at multitasking"*
+Self-perception of being good at multitasking or getting more done while multitasking is frequently inaccurate. Multitasking is mentally and physically stressful for everyone to the point that multitasking is used in laboratory experiments to study stressful environments.
+
+The distance between contexts also matters. This is why an artist solving a technical issue will expend more energy than a programmer who is already in a technical problem solving mindset.
+
+
+> [!EXAMPLE] research paper: [The Cost of Interrupted Work: More Speed and Stress](https://ics.uci.edu/~gmark/chi08-mark.pdf)
+
+This is also why it's a good idea to have breaks in between meetings. Running from one meeting to the next without any space in between may feel productive, but whether you're actually present at the beginning and end of the meeting is another question.
+
+# cognitive accessibility
+> “No single way of working, from where or when we work to how we communicate, is optimal for all of us. Implementing flexibility at the core of policies and practices can be a game changer for your teams’ efficiency.”
+
+Our brains work in different ways, and what may seem trivial to one person may be very draining for someone else. This isn't a deficiency, just that people have different strengths, and accommodating them increases the amount of divergent thinking, which in turn, leads to more innovation.
+
+(For reasons you may not want for everyone in the room to think the same way, check out this article about [groupthink](https://www.atlassian.com/blog/teamwork/groupthink))
+
+> [!EXAMPLE] [unlocking the power of neurodiversity in game development](https://news.ubisoft.com/en-us/article/4MdbqYqnJ4Mk2PGD5hjdYf/gdc-2023-unlocking-the-power-of-neurodiversity-in-game-development)
+
+> [!EXAMPLE] [Beyond Compliance_A User-Autonomy Framework for Inclusive and Customizable Web Accessibility.pdf](attachment:704d9525-a9b2-4cc3-a82e-32e9fd7eb5bc:Beyond_Compliance_A_User-Autonomy_Framework_for_Inclusive_and_Customizable_Web_Accessibility.pdf)
+
+# understanding UX helps us make better decisions
+
+Understanding UX gives us a better basis for choosing tools and ways of working, and helps us ask better questions before committing to a solution. 
+
+This is where [UX maturity](https://www.nngroup.com/articles/ux-maturity-model/) becomes relevant. An organization can have people who understand these issues, yet make decisions without using their knowledge. Greater maturity means giving that understanding (and evidence from the people doing the work) a consistent role in priorities, design choices, and evaluation.
+
+The principles don’t tell us which option is always best. They help us notice the trade-offs, test our assumptions, and make more informed decisions.
+
 
 > [!TIP] [Designing the User Experience of Game Development Tools](https://uxofgametools.com/) (the best book ever on this topic, very condensed and practical advice)
 
 > [!TIP] Reid Hoffman - Masters of Scale (the book, not the podcast)
+
+
+%%
+# watch where the effort goes
+
+People get used to inefficient workflows. They may stop noticing the workarounds, assume nothing can change, or blame themselves for finding something difficult. A lack of complaints doesn’t tell us that the experience is good.
+
+Sit with someone while they do the work. Notice where they pause, search, switch tools, repeat information, or ask someone for help. Ask what they are trying to accomplish and why they take those steps.
+
+Then consider the whole workflow. Does the proposed improvement reduce effort overall, or just move it to someone else? A daily update might make a lead’s job easier while requiring twenty people to duplicate information already available elsewhere. Fewer clicks aren’t necessarily better if the remaining steps require more thinking and remembering.
+
+# improve it with the people using it
+
+Start with a specific difficulty and try a small change. That might be a scrappy tool prototype, a clearer handoff, a shorter meeting, or an example added where people regularly get stuck.
+
+Involve the people affected while their input can still change the design. Watch whether the change helps, including what it costs to learn and maintain, then adjust.
+
+The aim is to spend less effort navigating the tools and processes around the work, leaving more attention for the work itself.
+
+
 
 Some useful things to ask yourself when improving ways of working/workflows/pipelines:
 - *How does this impact the cognitive load of individuals and the team overall, in the long run?*
@@ -29,12 +114,9 @@ It's basically *a continuous learning cycle*:
 
 The goal isn’t to understand users once—it’s to keep replacing assumptions with evidence throughout the product’s life.
 
-## UX maturity
-https://www.nngroup.com/articles/ux-maturity-model/
 
 
 
-%%
 ==todo: maybe just focus why this matters & leave the details on the original page + links to best practices + choose a few most important points to not make this page way too long==
 
 ==todo2: a few concrete examples + explain the reasoning behind them==

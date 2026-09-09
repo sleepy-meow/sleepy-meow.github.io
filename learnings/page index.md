@@ -25,7 +25,7 @@
 # ways of working
 [[how to make decisions]] !!
 [[logging decisions]] !!
-[[developer user experience]] !! ?
+[[developer user experience]] !!
 [[cognitive accessibility]] !! ?
 
 # feedback
@@ -47,18 +47,15 @@
 %%[[courage is contagious]] !! ?%%
 %%[[confronting our freedom]] !! ?%%
 %%[[responsibility of the captain]] !! ? %%
-[[rigid teams vs teaming]] !! ?
+[[rigid teams vs teaming]] !!
 
-# scaling teams
+# other things
 [[cross team connectors]] !! ?
+%%[[free flow of information2]] !!%%
 [[free flow of information]] !!
-[[team of teams + innovation]] !!
-[[lines of communication]] !!
+[[lines of communication]] !! ?
 %%[[the cost of context switching]] !! ?%%
 [[the fat cat syndrome]] !!
 
-
-# other
-[[bad advice books]] !! ?
-[[first aid kit]] !! ?
-
+[[bad advice books]] !!
+%%[[first aid kit]] !! ?%%

@@ -2,12 +2,6 @@
 # what is psychological safety really?
 *- a team climate in which people feel safe to challenge the thinking of those who have the power to throw them under the bus.*
 
-> [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
-
-> [!EXAMPLE] [explore.psychsafety.com]() (a nice network diagram to demonstrate the actual complexity of the topic) 
-
-> [!TIP] amy edmondson - the fearless organization (the #1 book to cause frustration about no one else having read it)
-
 ## what a safe environment looks like
 People can speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't require profound courage or encouragement. 
 
@@ -105,7 +99,12 @@ Very few of us would voluntarily seek to work in an environment where we don't f
 If there was a time in the past when you did feel safe and trusted, remember what that felt like, and set it as your standard. It can also help to reach out to the pockets of safety that still exist, to remember how people interact in a safe environment. Seeing the contrast can help recognize an abnormal situation.
 %%
 
+# resources
+> [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 
+> [!EXAMPLE] [explore.psychsafety.com]() (a nice network diagram to demonstrate the actual complexity of the topic) 
+
+> [!TIP] amy edmondson - the fearless organization (the #1 book to cause frustration about no one else having read it)
 
 > [!EXAMPLE] article: [the circle of safety](https://simonsinek.com/stories/the-circle-of-safety)
 

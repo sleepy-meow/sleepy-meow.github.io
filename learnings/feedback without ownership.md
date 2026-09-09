@@ -29,6 +29,12 @@ A manager may still need to protect a less powerful person whose concern they ar
 
 The more power someone has to attach consequences to their criticism, the stronger the expectation that they own it, explain its basis, and remain available for questions.
 
+The same problem appears when decisions are communicated as “it has been decided” or “the company wants,” without anyone owning the reasoning or answering questions. See [[logging decisions#decisions without ownership|decisions without ownership]].
+
+
+
+
+
 %%
 questions to ask yourself:
 1. The content — is there something true here I need to act on?

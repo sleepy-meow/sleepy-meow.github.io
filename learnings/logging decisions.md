@@ -17,9 +17,7 @@ These phrases can leave the authority behind a decision unquestionable and its r
 
 A person communicating a decision may not have made it, and shouldn’t have to pretend otherwise. But there should still be a clear path to whoever is responsible. Collective decisions can have ownership too: a group can explain its reasoning and identify someone who will answer for it.
 
-%%
-“The leads decided to postpone this because the release needs the same people. I’m coordinating the change, and I’ll take questions about the priorities back to them” gives people something to work with. “The company wants us to stop” leaves them facing an instruction with no explanation and no one to ask.
-%%
+
 
 Owning a decision doesn’t mean everyone must agree with it. It means making clear who made it, why, and how affected people can raise questions. A decision log helps preserve that context, but the person or group responsible must still be available to explain the decision.
 

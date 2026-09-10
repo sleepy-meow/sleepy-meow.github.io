@@ -117,18 +117,6 @@ The goal isn’t to understand users once—it’s to keep replacing assumptions
 
 
 
-==todo: maybe just focus why this matters & leave the details on the original page + links to best practices + choose a few most important points to not make this page way too long==
-
-==todo2: a few concrete examples + explain the reasoning behind them==
-- ==that one tool everyone used and it took ages for the first person to complain about it==
-- ==daily syncs / updates==
-- 
-
-==todo3: explain how the whole ux maturity thing matters==
-
-==how to not get blind to all the wasted time==
-
-
 # start with the users
 > “You’ve got to start with the customer experience and work back toward the technology - not the other way around.” -Steve Jobs
 # Defining user experience

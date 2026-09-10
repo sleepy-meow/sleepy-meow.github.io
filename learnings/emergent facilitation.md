@@ -28,23 +28,20 @@ Some examples:
 The key question is how much participants can influence the outcome. A planned workshop can leave the answer open; an open discussion can still be steered toward a predetermined conclusion. Be explicit about what participants can shape, what is already decided, and who makes the final call. Destination-known methods ask _"do you agree?"_; emergent methods ask _"what should we even be asking?"_
 
 %%
-# examples
-==todo: add some cool example of how these have actually been used to solve some seemingly impossible problems==
-# useful links
-==todo: list some consultants + links to guides==
+
 
 http://www.allancohen.com/
 *"For senior leadership teams in seemingly impossible circumstances or with seemingly impossible ambitions who want to break with the strategies of the past and create an unprecedented future"*
 
 
-[[how to ask the right questions]]
 
-%%
+
 # other links
 https://participedia.net/method/dynamic-facilitation
 
 
-
+%%
 ## links
 https://www.peterblock.com/the-six-conversations/
 https://www.mind.org.uk/media/4924/open-space-method.pdf
+

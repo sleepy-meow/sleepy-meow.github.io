@@ -48,7 +48,6 @@
 # other things
 [[cross team connectors]] !! ?
 [[free flow of information]] !!
-[[lines of communication]] !! ?
 [[the fat cat syndrome]] !!
 
 [[bad advice books]] !!

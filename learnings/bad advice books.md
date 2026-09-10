@@ -39,10 +39,8 @@ Alternatives:
 # measure what matters
 OKRs can help make priorities visible and coordinate work. The problem begins when numerical targets are treated as a theory of motivation or a substitute for judgment. Metrics direct attention toward what can be counted, make difficult-to-measure work less visible and create incentives to optimize the measure rather than the underlying purpose. Alignment is not the same as motivation, and measurement is not the same as understanding.
 
-Alternatives:%%
-- **Jerry Z. Muller – _The Tyranny of Metrics_** for metric fixation and gaming.%%
-- **Daniel Pink – _Drive_** as an accessible introduction to autonomy, mastery and purpose.%%
-- **Edward Deci and Richard Ryan** for the underlying research on autonomy, competence and relatedness. [Self-determination theory](https://selfdeterminationtheory.org/the-theory/?utm_source=chatgpt.com) is a stronger evidential foundation.%%
+Alternatives:
+- **Daniel Pink – _Drive_** as an accessible introduction to autonomy, mastery and purpose.
 - **Simon Sinek – _Start With Why_** specifically for articulating purpose, not as a complete account of motivation, and some good points about the "what isn't measured won't be done" mindset.
 # stolen focus
 The book is most convincing when it describes attention as something industries compete to capture. It is much weaker when it discusses ADHD. It moves too easily from differences in diagnosis or medication rates to causal stories about schools and culture, without establishing that the statistics are comparable. It also treats legitimate debates about prescribing as evidence for a much broader suspicion of medication.

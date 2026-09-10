@@ -14,16 +14,8 @@ Pick one from the sidebar to start reading!
 %%
 > [!WARNING] This page is still wip (but i'm starting to feel it will never be "done" either)
 
-%%
-> [!INFO] FEEDBACK THAT WOULD BE USEFUL: (does this page seem useful in general? while reading through this, was there anything specifically useful/interesting that stood out? does anything seem like bs? at what point did you lose interest in browsing through this?)
 
 %%
-%%
-
-
-
-
-
 > [!WARNING] this page is still wip
 
 > [!DANGER] contains some ai generated paragraphs (temporarily for editing purposes) or stuff copypasted from elsewhere that still need to be turned into something more original
@@ -42,10 +34,9 @@ The main topics:
 *Learning & improvement* - How teams learn from mistakes, share knowledge, and continuously improve the way they work.
 
 *Practical tools* - Simple frameworks and techniques you can try in your own team.
-%%
 
-%%
 
 https://sleepy-meow.github.io
 http://localhost:8000/#
 
+%%

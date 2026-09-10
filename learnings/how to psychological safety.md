@@ -18,24 +18,6 @@ _What are your concerns?_
 
 Small acts like these make openness easier for everyone else.
 
-
-%%
-**Be the second voice.** The single highest-leverage thing available to anyone. When someone raises a concern and the room goes quiet, say "I noticed that too." You're not taking the risk they took — just a small slice of it, and you're breaking the [collective illusion](https://en.wikipedia.org/wiki/Pluralistic_ignorance) for everyone else who was also thinking it. 
-
-**Don't leave the messenger alone afterwards.** The biggest damaging event is when the person who spoke up gets punished and everyone watches. You can't stop the punishment, but you can change what the group learns from it: check in with them, say out loud that you thought raising it was right, don't let the story settle as "that was a mistake."
-
-**Go first, sideways.** Practice openness with peers, where it often costs less than doing it upward. Share an unfinished thought, ask a question before you have polished it, or admit when you are uncertain. Each small act gives other people evidence that they do not have to perform certainty either.
-
-**Ask instead of assert.** A question carries far less risk than a claim and does more work. "What am I missing?" / "What would have to be true for this to fail?" / "What are we actually trying to solve here?" — all available from any seat, and each one opens a gap someone else can step into. For more ideas, see [[how to ask the right questions]], it is almost entirely usable without authority.
-
-**Move things into the light.** “Let’s take this back to the public channel” is one of the cheapest structural moves anyone can make. So is writing down a decision where the affected people can see it.
-
-**Keep your own log.** [[logging decisions]] works even if you're the only user. Two payoffs: it makes your reasoning legible to others, and — honestly — a contemporaneous factual record is the thing you'll want if this goes badly.
-
-**Build lateral connections.** You don't need everyone connected to everyone, just enough that a path exists between any two teams. Non-leads are usually better placed to do this than leads. It also means bad news has more than one route.
-
-**Compare notes, then raise it together.** Before raising a recurring problem alone, check your read with other people affected. You may discover that what looked like a personal frustration is actually a shared pattern. If others see it too, decide together how to raise it: co-sign a message, attend the meeting together, or have one person speak while the others explicitly back them. A concern supported by several people is harder to dismiss as one person being difficult.
-%%
 ## Most useful things (for leads) to do 
 > **The most useful thing a leader can do for psychological safety is make it demonstrably safe and worthwhile to tell them something they may not want to hear.**
 
@@ -105,35 +87,6 @@ Small acts like these make openness easier for everyone else.
 
 Courage is contagious. The first person breaks the impression that everyone else is comfortable or agrees. The second turns an isolated risk into a shared position. Each voice makes the next one a little easier. What spreads is not fearlessness, but evidence that speaking is possible and that you might not have to stand alone.
 
-
-%%
-## Things to avoid
-1. Retaliate against people for speaking up.  
-2. Humiliate, ridicule, intimidate, or explode at people. 
-3. Invite honesty, then use it against people.  
-4. Protect favorites and apply standards selectively.  
-5. Blame people for mistakes instead of learning from them.  
-6. Treat disagreement as a character problem.  
-7. Let concerns disappear into a void.  
-8. Keep expectations vague and move the goalposts.  
-9. Dominate discussions and make participation performative.  
-10. Refuse to admit mistakes or repair harm.  
-%%
-
-%%
-# structural things
-I'm not going to go into the details here, but it can be useful to be aware that the larger the organization, the more important organizational safeguards are. (more info on this [[the fat cat syndrome|here]])
-> In our experience, the single most effective practice for increasing psychological safety is to level the power gradient within a group ([source](https://psychsafety.com/reducing-power-gradients/))
-
-# What if speaking up is actually risky?
-
-Sometimes it is. Psychological safety is not a confidence trick, and you do not owe an unsafe workplace a heroic act of vulnerability.
-
-Start with the lowest-risk useful move available: ask a question, check your read with someone you trust, support a person who has already spoken, document what happened, or use a safer escalation route. 
-
-The aim is not to make individuals braver indefinitely. It is to make bravery less necessary.
-
-> [!TIP] Brene Brown - Dare to Lead (a practical guide to having difficult conversations, admitting uncertainty, and building trust without pretending vulnerability is easy)
 
 
 

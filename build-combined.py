@@ -6,12 +6,18 @@ its pages together in index order, keeping the index's "# heading" lines as
 section headings. Useful for printing, exporting, or handing the whole thing
 to something that wants one file.
 
+Only finished pages go in: an entry needs the "!!" (or "!!!") marker, and one
+also marked "?" is still a work in progress and is left out — the same set the
+site shows before you flip its "very WIP" switch. Entries commented out with
+%%…%% are skipped, and %%…%% inside a note is dropped from its body.
+
 Each page is separated from the next by a horizontal rule, its own heading,
 and an HTML comment naming the note it came from.
 
   python3 build-combined.py                 # -> combined.md
   python3 build-combined.py -o ~/notes.md   # somewhere else
   python3 build-combined.py --no-toc        # skip the table of contents
+  python3 build-combined.py --all           # every indexed page, WIP included
 
 Nothing here touches files.json or the site — run build-index.py for that.
 """
@@ -45,9 +51,10 @@ MAX_LEVEL = 6
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
 FENCE_RE = re.compile(r"^\s*(```|~~~)")
-# Index entry: [[note]] or [[note|alias]], optionally followed by a state
-# marker ("?", "!!", "!!!"). The marker is index bookkeeping, not content.
-ENTRY_RE = re.compile(r"\[\[([^\]|#]+)[^\]]*\]\][ \t]*(\?|!{2,})?")
+# Index entry: [[note]] or [[note|alias]] plus its trailing state markers.
+# Markers combine and can be spaced freely ("!! ?"), so the whole run is
+# captured and read as a set — matching how build-index.py reads them.
+ENTRY_RE = re.compile(r"\[\[([^\]|#]+)[^\]]*\]\][ \t]*((?:[!?][ \t]*)*)")
 # Obsidian embeds and links, as index.html's renderer understands them.
 EMBED_RE = re.compile(r"!\[\[([^\]|]+)(?:\|([^\]]*))?\]\]")
 LINK_RE = re.compile(r"(?<!!)\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]*))?\]\]")
@@ -128,16 +135,22 @@ def find_special(name: str):
     return None
 
 
-def parse_index(index_path: str, notes: dict):
+def parse_index(index_path: str, notes: dict, only_done: bool = True):
     """Read the page index into [(section, [(title, path), …]), …].
 
     "# heading" lines open a section; the [[wikilinks]] under it are its pages,
     in order. Unresolved links and repeats are reported and skipped.
+
+    With `only_done` (the default), a page is included just when it carries
+    "!!" or "!!!" and is not also marked "?" — the finished set, matching what
+    the site shows before its "very WIP" switch is flipped. Entries inside
+    %%…%% are gone before this runs, so they never appear either.
     """
     with open(index_path, encoding="utf-8") as fh:
         text = strip_comments(fh.read())
 
     sections, current, seen, missing, dupes = [], None, set(), [], []
+    skipped = []
     for line in text.splitlines():
         s = line.strip()
         if not s:
@@ -150,6 +163,10 @@ def parse_index(index_path: str, notes: dict):
         for m in ENTRY_RE.finditer(s):
             name = m.group(1).strip()
             key = name.lower()
+            marker = re.sub(r"[ \t]", "", m.group(2) or "")
+            if only_done and not (marker.count("!") >= 2 and "?" not in marker):
+                skipped.append(name)
+                continue
             path = notes.get(key)
             if path is None:
                 missing.append(name)
@@ -161,7 +178,7 @@ def parse_index(index_path: str, notes: dict):
                 continue
             seen.add(key)
             current[1].append((title_from(os.path.basename(path)), path))
-    return [s for s in sections if s[1]], missing, dupes
+    return [s for s in sections if s[1]], missing, dupes, skipped
 
 
 def convert_embeds(text: str, assets: dict, out_dir: str) -> tuple:
@@ -284,6 +301,8 @@ def main() -> None:
                     help=f"where to write the combined file (default: {DEFAULT_OUTPUT})")
     ap.add_argument("--no-toc", dest="toc", action="store_false",
                     help="leave out the table of contents")
+    ap.add_argument("--all", dest="only_done", action="store_false",
+                    help='include every indexed page, not just finished "!!" ones')
     args = ap.parse_args()
 
     index_path = find_special(INDEX_FILE)
@@ -291,7 +310,7 @@ def main() -> None:
         raise SystemExit(f"{INDEX_FILE} not found — nothing to combine.")
 
     notes = find_notes()
-    sections, missing, dupes = parse_index(index_path, notes)
+    sections, missing, dupes, skipped = parse_index(index_path, notes, args.only_done)
     if not sections:
         raise SystemExit(f"{INDEX_FILE} lists no notes that exist.")
 
@@ -307,6 +326,9 @@ def main() -> None:
     words = len(text.split())
     rel = os.path.relpath(out_path, ROOT)
     print(f"Wrote {rel} — {len(sections)} section(s), {pages} page(s), {words} words.")
+    if skipped:
+        print(f"  left out {len(skipped)} unfinished page(s): "
+              + ", ".join(sorted(skipped)))
 
     for name in missing:
         warnings.insert(0, f"{INDEX_FILE}: [[{name}]] has no matching note — skipped")

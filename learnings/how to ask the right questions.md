@@ -5,11 +5,7 @@
 1. Ask with the intention to understand, and be willing to revise what you think.
 2. When exploring someone’s perspective, invite more than agreement or disagreement. Closed questions can still help clarify facts or ask permission.
 3. Make the question specific enough to give them a starting point, while leaving room for an unexpected answer.
-%%
-4. You genuinely don't know the answer
-5. It can't be closed with Yes/No
-6. It's specific enough to give a foothold but open enough to invite their real view.
-%%
+
 # questions that create psychological safety
 A genuine question can signal that someone’s perspective is wanted. Whether they feel safe answering also depends on how you have responded before, and what you do with their answer now.
 

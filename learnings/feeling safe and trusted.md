@@ -1,6 +1,6 @@
 > We can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted. (simon sinek)
 # what is psychological safety really?
-*- a team climate in which people feel safe to challenge the thinking of those who have the power to throw them under the bus.*
+*tldr: a team climate in which people feel safe to challenge the thinking of those who have the power to throw them under the bus.*
 
 ## what a safe environment looks like
 People can speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't require profound courage or encouragement. 

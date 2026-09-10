@@ -1,12 +1,6 @@
 *some interesting tables i've come across that compare different approaches*
 
-%%
-> Many organizations still rely on the top-down, command-and-control approaches that fueled growth and profitability in the industrial era. Some of the most basic tenets of this management style- ensuring control, eliminating variance, and rewarding conformance - inhibit collaboration and organizational learning.
 
-The hierarchical approach may work just fine when managing a well optimized assembly plant factory line (as long as nothing breaks down or any changes need to be made). 
-
-But the more creativity and innovation (which are, by definition, messy and unpredictable) are needed to achieve a goal, the more learning is needed.
-%%
 
 ---
 
@@ -58,21 +52,3 @@ The more creativity and innovation are required to achieve a goal, the more this
 | Tolerating Discrimination and a "Fitting-In" Culture             | Cultivating a Culture of Belonging, Inclusivity, and Diverse Perspectives |
 | Zigzagging and Avoiding                                          | Talking Straight and Taking Action                                        |
 | Leading from Hurt                                                | Leading from Heart                                                        |
-%%
-# why the armor?
-> "Don't let what looks like a bloated ego and narcissism fool you into thinking there's a lack of shame. Shame and fear are almost always driving that unethical behavior… I define narcissism as the shame-based fear of being ordinary."
-
-> "Grandiosity and bluster are easy to assign to an overinflated ego. It's tough to get a glimpse of the fear and lack of self-worth that are actually behind the posturing."
-
-> "Developing grounded confidence is driven by a commitment to learning and improving. Its near enemy is knowing and proving… we're quick to mistake knowing and proving for confidence, when they're actually a function of low self-worth. Fragile self-worth is the far enemy of grounded confidence. A fragile self-worth drives us to self-protect at all costs." 
-
-![[Pasted image 20260823141210.png]]
-
-# what can help
-1. **Accountability, not shame.** "The last thing people like that need is more shame. More accountability for their behavior and lack of empathy? Yes. More shame just makes them more dangerous, gives them the opportunity to redirect attention to the shaming behavior, and, weirdly, can drum up support from others."
-2. **Name it — clear is kind.** "I'd like for you to work on your curiosity and critical thinking skills. You're often quick with answers, which can be helpful, but not as helpful as having the right questions, which is how you'll grow as a leader. We can work together on this." knowers usually have people talking behind their backs, and that's unkind.
-3. **Shift the target from being right to getting it right.** "I'm here to get it right, not to be right." Humility isn't downplaying yourself — that's modesty. It's "openness to new learning combined with a balanced and accurate assessment of our contributions."
-4. **Give them their actual value.** Sit down and name where this person genuinely contributes. "Once everyone understands their value, we stop hustling for worthiness and lean into our gifts."
-
-**Caveat:** While "it's really shame underneath" reading is compassionate, it's also the thing that keeps a lot of people absorbing behavior they shouldn't. Understanding why someone postures doesn't obligate you to keep paying for it.
-

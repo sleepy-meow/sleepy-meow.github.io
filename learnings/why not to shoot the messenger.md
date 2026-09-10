@@ -18,11 +18,3 @@ The more difficult of a topic, the more thank yous may be needed.
 
 
 
-
-
-%%
-# "don't bring me problems, bring me solutions"
-The person raising the concern may not have the information or the means to bring you a solution served on a silver platter. 
-
-They may even struggle to articulate it clearly. As explained on the previous page, fear incapacitates our thinking, including the language center of the brain. 
-

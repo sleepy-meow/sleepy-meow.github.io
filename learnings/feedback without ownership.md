@@ -33,17 +33,4 @@ The same problem appears when decisions are communicated as *“it has been deci
 
 
 
-
-%%
-questions to ask yourself:
-1. The content — is there something true here I need to act on?
-2. The channel — what did I, or the system I'm part of, do that made anonymity the safest available option?
-
-
-Caveat: When there's a power gradient — you hold their review, their contract, their renewal — anonymity may be the only reason the information reached you at all. That's what anonymity is genuinely good for. But it's a scaffold and a symptom, not a destination.
-
-The most accountable response to an anonymous note is not to solve the mystery. It's to ask why the front door was shut.
-
-The person who responds to vague criticism by becoming compliant, over-agreeable, and quietly stops pushing back looks like someone who took the feedback well. It gets praised in the next review. It's a shame shield, not learning.
-%%
 part 3/3: [[high stakes feedback]]

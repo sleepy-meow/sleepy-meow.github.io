@@ -11,32 +11,8 @@ _What isn’t fair is requiring someone to improve while leaving them to guess w
 *Here’s the moment, here’s what would have worked better* (or alternatively, "i don't have all the specifics but let's talk about it"). Without those, it's just a verdict.
 %%
 
-%%
-When feedback is about someone’s behavior or performance, especially when it comes with an expectation to change, it must be actionable. It’s stressful to hear feedback if we don’t know how to act upon it. Vague feedback just causes anxiety.
-%%
-
-%%
-
-%%
 
 
-%%
-When feedback can be an opening for a conversation or an assessment. Those come with different responsibilities.
-
-**As an opening for a conversation**, feedback shares an experience or points out a problem that can be explored together. *“I lose my selection every time I switch modes”* or *“I left that meeting unsure what we had agreed to”* gives us somewhere to start. Reporting a problem doesn’t require knowing the solution. The person raising it may not yet know why it happened or what would help.
-
-**As an assessment**, feedback makes a judgment about someone’s work, behaviour, or performance. Especially when that judgment comes with an expectation to change, the person making it needs to explain what happened, what was expected, and where the gap is. An assessment should still be open to conversation, including context that might change the judgment.
-
-*“Participants left the meeting with different understandings of the next steps. We needed a shared set of actions; ending with a recap of decisions and owners would help”* makes the assessment and a possible improvement clear. *“You have poor communication skills and need to get better at communicating”* leaves the person guessing about both.
-%%
-
-
-
-%%
-
-
-
-%%
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
 
 Here's what brene brown has to say about the topic (from the book dare to lead):
@@ -52,14 +28,9 @@ And here's the definition of [bullshit](https://jbaron.org/journal/15/15923a/jdm
 
 > .. To specifically refer to statements produced without particular concern for truth, clarity, or meaning, (distinguishing "bullshit" from a deliberate, manipulative lie intended to subvert the truth).
 
-
-
-
 %%
 That said, just because something is accurate or factual doesn't mean it can't be used in a destructive manner: "Sorry. I'm just telling you the truth. These are just the facts."
 %%
-
-
 
 ## feedback needs context
 Good feedback also separates what happened from the story we tell ourselves about why it happened.
@@ -85,9 +56,6 @@ Without specifics, your brain is left trying to fill in the blanks. Instead of a
 
 This turns attention away from the behaviour and toward the self. It works like a zoom lens, where all we see is ourselves alone and struggling.
 
-%%
-Guilt = _I did something bad_. Shame = _I am bad_. Guilt can support accountability because it can attach to a particular behaviour: you can understand what happened, apologize, repair it, and try something different next time. But shame doesn't have anything useful to say: 
-%%
 
 
 

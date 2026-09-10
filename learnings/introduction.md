@@ -7,6 +7,6 @@ It's not always obvious where to find the information to learn these skills. The
 Most of these skills are not exclusive to any job title, they're not even only limited to the workplace. For the most part they're just about how to be a decent human being. (For the parts where the job title does matter, it may still be useful information)
 
 
-
+%%
 
 https://reinventingorganizationswiki.com/en/theory/self-management/

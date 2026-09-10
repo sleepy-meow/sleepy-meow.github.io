@@ -51,5 +51,5 @@
 [[the fat cat syndrome]] !!
 
 [[bad advice books]] !!
-[[learning resources]] !!
+[[links & resource]] !!
 %%[[first aid kit]] !! ?%%

@@ -6,13 +6,13 @@
       "files": [
         {
           "name": "introduction",
-          "path": "learnings 1/introduction.md",
+          "path": "learnings/introduction.md",
           "tags": [],
           "done": true
         },
         {
           "name": "how to come up with big ideas",
-          "path": "learnings 1/how to come up with big ideas.md",
+          "path": "learnings/how to come up with big ideas.md",
           "tags": [],
           "done": true
         }
@@ -49,25 +49,25 @@
       "files": [
         {
           "name": "feeling safe and trusted",
-          "path": "learnings 1/feeling safe and trusted.md",
+          "path": "learnings/feeling safe and trusted.md",
           "tags": [],
           "done": true
         },
         {
           "name": "how to psychological safety",
-          "path": "learnings 1/how to psychological safety.md",
+          "path": "learnings/how to psychological safety.md",
           "tags": [],
           "done": true
         },
         {
           "name": "how to lower the bar for participation",
-          "path": "learnings 1/how to lower the bar for participation.md",
+          "path": "learnings/how to lower the bar for participation.md",
           "tags": [],
           "done": true
         },
         {
           "name": "why not to shoot the messenger",
-          "path": "learnings 1/why not to shoot the messenger.md",
+          "path": "learnings/why not to shoot the messenger.md",
           "tags": [],
           "done": true
         }
@@ -78,13 +78,13 @@
       "files": [
         {
           "name": "a learning mindset",
-          "path": "learnings 1/a learning mindset.md",
+          "path": "learnings/a learning mindset.md",
           "tags": [],
           "done": true
         },
         {
           "name": "how to fail",
-          "path": "learnings 1/how to fail.md",
+          "path": "learnings/how to fail.md",
           "tags": [],
           "done": true
         },
@@ -109,19 +109,19 @@
       "files": [
         {
           "name": "how to make decisions",
-          "path": "learnings 1/how to make decisions.md",
+          "path": "learnings/how to make decisions.md",
           "tags": [],
           "done": true
         },
         {
           "name": "logging decisions",
-          "path": "learnings 1/logging decisions.md",
+          "path": "learnings/logging decisions.md",
           "tags": [],
           "done": true
         },
         {
           "name": "developer user experience",
-          "path": "learnings 1/developer user experience.md",
+          "path": "learnings/developer user experience.md",
           "tags": [],
           "done": true
         }
@@ -132,25 +132,25 @@
       "files": [
         {
           "name": "feedback checklists",
-          "path": "learnings 1/feedback checklists.md",
+          "path": "learnings/feedback checklists.md",
           "tags": [],
           "done": true
         },
         {
           "name": "identifying bullshit feedback",
-          "path": "learnings 1/identifying bullshit feedback.md",
+          "path": "learnings/identifying bullshit feedback.md",
           "tags": [],
           "done": true
         },
         {
           "name": "feedback without ownership",
-          "path": "learnings 1/feedback without ownership.md",
+          "path": "learnings/feedback without ownership.md",
           "tags": [],
           "done": true
         },
         {
           "name": "high stakes feedback",
-          "path": "learnings 1/high stakes feedback.md",
+          "path": "learnings/high stakes feedback.md",
           "tags": [],
           "done": true
         }
@@ -161,7 +161,7 @@
       "files": [
         {
           "name": "how to ask the right questions",
-          "path": "learnings 1/how to ask the right questions.md",
+          "path": "learnings/how to ask the right questions.md",
           "tags": [],
           "done": true
         },
@@ -181,7 +181,7 @@
         },
         {
           "name": "emergent facilitation",
-          "path": "learnings 1/emergent facilitation.md",
+          "path": "learnings/emergent facilitation.md",
           "tags": [],
           "done": true
         },
@@ -199,19 +199,19 @@
       "files": [
         {
           "name": "responsibilities of a lead",
-          "path": "learnings 1/responsibilities of a lead.md",
+          "path": "learnings/responsibilities of a lead.md",
           "tags": [],
           "done": true
         },
         {
           "name": "leadership approaches",
-          "path": "learnings 1/leadership approaches.md",
+          "path": "learnings/leadership approaches.md",
           "tags": [],
           "done": true
         },
         {
           "name": "motivation",
-          "path": "learnings 1/motivation.md",
+          "path": "learnings/motivation.md",
           "tags": [],
           "done": true
         },
@@ -224,7 +224,7 @@
         },
         {
           "name": "rigid teams vs teaming",
-          "path": "learnings 1/rigid teams vs teaming.md",
+          "path": "learnings/rigid teams vs teaming.md",
           "tags": [],
           "done": true
         }
@@ -242,32 +242,25 @@
         },
         {
           "name": "free flow of information",
-          "path": "learnings 1/free flow of information.md",
+          "path": "learnings/free flow of information.md",
           "tags": [],
-          "done": true
-        },
-        {
-          "name": "lines of communication",
-          "path": "learnings 1/lines of communication.md",
-          "tags": [],
-          "draft": true,
           "done": true
         },
         {
           "name": "the fat cat syndrome",
-          "path": "learnings 1/the fat cat syndrome.md",
+          "path": "learnings/the fat cat syndrome.md",
           "tags": [],
           "done": true
         },
         {
           "name": "bad advice books",
-          "path": "learnings 1/bad advice books.md",
+          "path": "learnings/bad advice books.md",
           "tags": [],
           "done": true
         },
         {
-          "name": "learning resources",
-          "path": "learnings 1/learning resources.md",
+          "name": "links & resource",
+          "path": "learnings/links & resource.md",
           "tags": [],
           "done": true
         }

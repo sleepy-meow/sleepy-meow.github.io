@@ -6,6 +6,8 @@
 
 > [!EXAMPLE] article: [The fat cat syndrome prevents innovation and opens the door for disruption](https://medium.com/@arnoldbeekes/the-fat-cat-syndrome-prevents-innovation-and-opens-the-door-for-disruption-9a37643d38a4)
 
+https://psychsafety.com/plan-continuation-bias/
+
 The more successful / large a company becomes, the more pressure there is for protecting the status quo (usually by people who are benefiting from it the most) - masking underlying inefficiencies and even sabotaging new initiatives and innovations to protect their jobs or position.
 
 A common misconception is that this would be somehow inevitable, but it's not. It is just a pattern that can develop when success goes unquestioned (or as Eric Ries describes in his recent book Incorruptible: "financial gravity - a structural force, almost like physics").

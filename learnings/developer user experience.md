@@ -72,9 +72,15 @@ The principles don’t tell us which option is always best. They help us notice 
 > [!TIP] Reid Hoffman - Masters of Scale (the book, not the podcast)
 
 ## links
-https://52weeksofux.com/post/531355908/the-process-police
-https://www.nngroup.com/articles/ux-collaboration-challenges/
-https://www.nngroup.com/articles/communication-practices/
+> [!EXAMPLE] article: [the process police](https://52weeksofux.com/post/531355908/the-process-police)
+
+> [!EXAMPLE] [UX Crossfunctional Collaboration: Challenges and Strategies for Success](https://www.nngroup.com/articles/ux-collaboration-challenges/)
+
+> [!EXAMPLE] [Communication Practices for Increasing UX Maturity](https://www.nngroup.com/articles/communication-practices/)
+
+
+
+
 
 %%
 # watch where the effort goes

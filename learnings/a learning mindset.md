@@ -30,4 +30,6 @@ Questions cry out for answers; they create a vacuum that serves as a voice oppor
 
 Learnings only become organizational when they are shared. Without this step you have a lot of learning individuals and an organization that learns nothing.
 
-https://amycedmondson.com/todays-leaders-must-learn-to-think-like-scientists/
+> [!EXAMPLE] article: [amy edmondson - todays leaders must think like scientists](https://amycedmondson.com/todays-leaders-must-learn-to-think-like-scientists/)
+
+

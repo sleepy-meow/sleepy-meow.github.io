@@ -28,10 +28,19 @@ Some examples:
 The key question is how much participants can influence the outcome. A planned workshop can leave the answer open; an open discussion can still be steered toward a predetermined conclusion. Be explicit about what participants can shape, what is already decided, and who makes the final call. Destination-known methods ask _"do you agree?"_; emergent methods ask _"what should we even be asking?"_
 
 ## links
-https://www.peterblock.com/the-six-conversations/
-https://www.mind.org.uk/media/4924/open-space-method.pdf
-https://psychsafety.com/psychological-safety-93-lean-coffee/
-https://www.liberatingstructures.com/
+> [!EXAMPLE] [peter block - the six conversations](https://www.peterblock.com/the-six-conversations/)
+
+> [!EXAMPLE] [open space method](https://www.mind.org.uk/media/4924/open-space-method.pdf)
+
+> [!EXAMPLE] [lean coffee](https://psychsafety.com/psychological-safety-93-lean-coffee/)
+
+> [!EXAMPLE] [liberating structures](https://www.liberatingstructures.com/)
+
+
+
+
+
+
 
 %%
 

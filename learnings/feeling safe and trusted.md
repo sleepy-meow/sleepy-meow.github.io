@@ -3,7 +3,7 @@
 *tldr: a team climate in which people feel safe to challenge the thinking of those who have the power to throw them under the bus.*
 
 > [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
-## why it matters
+# why it matters
 > No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple. (brene brown, the call to courage)
 
 It's hard for anyone to do their best work when they're afraid.
@@ -16,10 +16,6 @@ In other words, *low psychological safety gets in the way of nearly every aspect
 
 > You can't be healthy, trusting, or feel you belong while marinating in cortisol.
 
-## what causes the fear
-> *Hierarchy.. or, more specifically, the fear it creates when not handled well.. reduces psychological safety*. 
-
-*Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear.
 ## why it's bad for business
 Since a lack of psychological safety effectively prevents bad news from traveling upwards, it can create an illusion of success that eventually turns into serious business failures. Yet many organizational leaders genuinely believe that "no news" means that things are going well.
 
@@ -37,18 +33,6 @@ In the book *Leaders Eat Last*, Sinek argues that every organization faces two s
 
 Fear doesn't vanish when there's nothing to fear inside. It just gets pointed somewhere useful.
 
-
-
-## predictability
-Psychological safety depends partly on accumulated evidence about how interpersonal risks are received. 
-
-**The usual gap: feeling less safe than you actually are.** The default human bias, most people systematically underweight how safe it really is. A leader can't just be safe: they have to actively, repeatedly demonstrate it, because people walk in assuming risk.
-
-**The dangerous gap: feeling safer than you actually are.** You believe it’s safe to raise a concern but get punished when you do. This is the more corrosive version, because it only takes one or two betrayals to teach a whole group the real lesson.
-
-Ambiguity is one of the biggest killers of psychological safety. Only consistent, demonstrated behaviour accumulates the evidence prediction needs.
-
-> [!EXAMPLE] [ambiguity, predictability, and psychological safety](https://psychsafety.com/ambiguity-predictability-and-psychological-safety/)
 ## being lazy vs. anxiety
 
 > _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
@@ -66,18 +50,27 @@ Telling someone who is afraid to simply try harder to focus, is like trying to s
 
 > [!EXAMPLE] video: [alan watts - the mind is a vicious cycle](https://www.youtube.com/watch?v=FAl9hw2nyzw) (if you're in the anxiety zone, watching this may also help)
 
-## leaders want to feel safe too
+# what causes the fear
+> *Hierarchy.. or, more specifically, the fear it creates when not handled well.. reduces psychological safety*. 
 
->  Leaders want to feel safe too. every single person wants to feel like they are valued by the others in the group. So when our boss comes down hard on us and we don't know the reason, it is equally our responsibility to express concern for their wellbeing. (simon sinek, leaders eat last)
+*Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear.
+## predictability
+Psychological safety depends partly on accumulated evidence about how interpersonal risks are received. 
 
-I feel like this underweights how asking *"are you okay?"* may take a lot more courage than the other way around (depending on whether it's an one-off bad day or not). Caring about a leader does not create an equal responsibility for managing their behavior.
+**The usual gap: feeling less safe than you actually are.** The default human bias, most people systematically underweight how safe it really is. A leader can't just be safe: they have to actively, repeatedly demonstrate it, because people walk in assuming risk.
 
+**The dangerous gap: feeling safer than you actually are.** You believe it’s safe to raise a concern but get punished when you do. This is the more corrosive version, because it only takes one or two betrayals to teach a whole group the real lesson.
+
+Ambiguity is one of the biggest killers of psychological safety. Only consistent, demonstrated behaviour accumulates the evidence prediction needs.
+
+> [!EXAMPLE] [ambiguity, predictability, and psychological safety](https://psychsafety.com/ambiguity-predictability-and-psychological-safety/)
+
+%%
 But here's how doing this may help you too. By making your lead feel a little bit safer as well, it increases their capacity to handle the pressure they likely are under themselves.
-
 
 > "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had."
 
-
+%%
 # acclimatizing to the danger
 
  ![[Pasted image 20260905025238.png|346]]
@@ -96,6 +89,13 @@ Everyone just being very "nice", and the same few people talk all the time in me
 If there was a time in the past when you did feel safe and trusted, remember what that felt like, and set it as your standard. It can also help to reach out to the pockets of safety that still exist, to remember how people interact in a safe environment. Seeing the contrast can help recognize an abnormal situation.
 %%
 
+# leaders want to feel safe too
+
+>  Leaders want to feel safe too. every single person wants to feel like they are valued by the others in the group. So when our boss comes down hard on us and we don't know the reason, it is equally our responsibility to express concern for their wellbeing. (simon sinek, leaders eat last)
+
+I feel like this underweights how asking *"are you okay?"* may take a lot more courage than the other way around (depending on whether it's an one-off bad day or not). Caring about a leader does not create an equal responsibility for managing their behavior.
+
+For practical ways to build these conditions, see [[how to psychological safety]]
 # resources
 
 > [!EXAMPLE] [explore.psychsafety.com](https://explore.psychsafety.com/) (a cool network diagram to demonstrate the actual complexity of the topic) 

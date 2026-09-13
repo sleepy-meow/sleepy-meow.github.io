@@ -2,7 +2,7 @@
 > 
 > *Between them, they might have everything they need. Whether anything comes of it depends on whether those pieces ever meet.*
 
-It's easy to look at a team that isn't producing new ideas and assume it needs more creative people. But how would we know? The people already there may be noticing problems they don't mention, carrying knowledge around in their heads nobody knows to ask for, or sitting on suggestions they don't think it's their place to make.
+It's easy to look at a team that isn't producing new ideas and assume it needs more creative people. But how would we know? The people already there may be noticing problems they don't mention, carrying knowledge around in their heads nobody knows to ask for, or holding back ideas because they don’t feel it’s their place to mention them.
 
 Some of that potential only becomes visible when people can compare what they know. A half-formed thought gives someone else something to build on. A question exposes an assumption. A small experiment tells us whether the connection is useful.
 
@@ -12,21 +12,23 @@ This makes the way we work together part of the creative process. Who gets to sp
 > (Art Fry, the 3M scientist who co-invented the post-it note)
 
 ## Innovation frequently happens between disciplines. 
-An unexpected connection might begin with seeing how another discipline works, hearing someone describe a frustration, or finding out why a decision was made.
+An unexpected connection might begin with seeing how another team or discipline works, hearing someone describe a frustration, or finding out why a decision was made.
 
 This is why [[free flow of information]] matters. People need enough context to notice where their knowledge could help, including outside their own work. As teams grow, keeping those connections alive takes more deliberate effort.
 
 > We can only think smarter if others in the room speak their minds
 
 “This might be a stupid question, but…” can be followed by something useful. It can also be the point where someone decides to stay quiet. If every contribution has to arrive polished and defensible, we miss the ideas that needed someone else's perspective before they could make sense.
-
+%%
 > *individual observations and suggestions build on each other, taking new shape and creating new value, especially compared to what happens when individual feedback is collected separately*
+
+%%
 
 [[feeling safe and trusted|Feeling safe enough to speak]] and [[how to lower the bar for participation|making it easy to contribute]] give people a chance to build on each other's thinking while it's still taking shape.
 
 ## ideas need iteration
 
-Once an idea is out in the open, it needs questions. What problem would this solve? What are we assuming? What does someone closer to the work see that we don't?
+Once an idea is out in the open, it needs questions. What problem would this solve? What are we assuming? What does someone closer to the work see that others don't?
 
 This takes [[how to ask the right questions|good questions]], honest feedback, and a willingness to rethink our own thinking. Then we need to try something small enough to learn from if it doesn't work, and share our learnings.
 
@@ -36,6 +38,8 @@ An environment that welcomes ideas also needs to help people improve them.
 
 All the ingredients for great ideas may already be in the room, just distributed between different people. We can't guarantee that the next conversation will produce a breakthrough, but we can build an environment where they have a better chance of finding each other.
 
-https://thinkjarcollective.com/tools/reversing-assumptions-technique
+> [!EXAMPLE] [reversing assumptions technique](https://thinkjarcollective.com/tools/reversing-assumptions-technique)
 
-https://52weeksofux.com/post/358515571/constraints-fuel-creativity
+> [!EXAMPLE] [constraints fuel creativity](https://52weeksofux.com/post/358515571/constraints-fuel-creativity)
+
+

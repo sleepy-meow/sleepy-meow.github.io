@@ -6,7 +6,7 @@
 ## why it matters
 > No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple. (brene brown, the call to courage)
 
-It's hard to innovate when you're afraid. 
+It's hard for anyone to do their best work when they're afraid.
 ![[Pasted image 20260908202819.png|426]]
 
 
@@ -21,21 +21,19 @@ In other words, *low psychological safety gets in the way of nearly every aspect
 
 *Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear.
 ## why it's bad for business
-A lack of psychological safety can create an illusion of success that eventually turns into serious business failures. Yet many organizational leaders genuinely believe that "no news" means that things are going well.
-
-> _When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside._
+Since a lack of psychological safety effectively prevents bad news from traveling upwards, it can create an illusion of success that eventually turns into serious business failures. Yet many organizational leaders genuinely believe that "no news" means that things are going well.
 
 ![[Pasted image 20260908202757.png|356]]
+
+> _When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside._
 
 While I'm sure it's possible to come up with innovative office politics, it's just not a very good use of time and energy.
 
 ## the things we can control
 
-> [!TIP] simon sinek - leaders eat last
-
-Sinek's starting point is that every organization faces two sets of dangers. 
+In the book *Leaders Eat Last*, Sinek argues that every organization faces two sets of dangers:
 - **Outside:** competitors, the market, a technology that makes your product obsolete. Constant, indifferent, mostly outside your control.
-- **Inside:** intimidation, humiliation, isolation, politics, the fear that someone's trying to keep you down to get ahead. Also constant — but *variable, and well within our control.*
+- **Inside:** intimidation, humiliation, isolation, politics, the fear that someone's trying to keep you down to get ahead. Also constant, but *variable, and well within our control.*
 
 Fear doesn't vanish when there's nothing to fear inside. It just gets pointed somewhere useful.
 
@@ -44,7 +42,7 @@ Fear doesn't vanish when there's nothing to fear inside. It just gets pointed so
 ## predictability
 Psychological safety depends partly on accumulated evidence about how interpersonal risks are received. 
 
-**The usual gap: feeling less safe than you actually are.** The default human bias, most people systematically underweight how safe it really is. A leader can't just be safe — they have to actively, repeatedly demonstrate it, because people walk in assuming risk.
+**The usual gap: feeling less safe than you actually are.** The default human bias, most people systematically underweight how safe it really is. A leader can't just be safe: they have to actively, repeatedly demonstrate it, because people walk in assuming risk.
 
 **The dangerous gap: feeling safer than you actually are.** You believe it’s safe to raise a concern but get punished when you do. This is the more corrosive version, because it only takes one or two betrayals to teach a whole group the real lesson.
 

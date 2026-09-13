@@ -6,11 +6,12 @@ An observation, a concern, or a sense that something isn’t working can open a 
 
 > Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind.
 
-Raising a concern and making a performance judgment carry different responsibilities. Whoever expects you to change needs to explain what happened, what was expected, and where they see a gap. They also need to hear your account of it.
+Opening a conversation and drawing a conclusion are two different things.  initially vague feedback can turn into *"Here’s the moment, here’s what would have worked better"* (or alternatively, "i don't have all the specifics but let's talk about it"). Without those, it's just a verdict.
+
+The test isn’t whether feedback starts out vague, but whether the person giving it is willing to examine it and help make it clear. What isn’t fair is requiring someone to improve while leaving them to guess what improvement means.
 
 > Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. 
 
-_What isn’t fair is requiring someone to improve while leaving them to guess what improvement means._ The test isn’t whether feedback starts out vague, but whether the person giving it is willing to examine it and help make it clear.
 
 
 
@@ -48,7 +49,7 @@ The further feedback moves from observable behaviour toward inferred motives, pe
 
 Someone missing meetings might be disengaged. They might also be overloaded, confused about expectations, dealing with conflicting priorities, or operating under constraints you don't know about. The behaviour may still need to change, but understanding it requires curiosity about context rather than certainty about character.
 
-Struggles don't necessarily reveal an absence of ability or commitment. Sometimes they reveal the presence of adversity.
+Struggles don't necessarily reveal an absence of ability or commitment, often they reveal the presence of adversity.
 
 Good feedback therefore stays as close as possible to what can actually be observed, explains the impact, and leaves room to understand the context.
 

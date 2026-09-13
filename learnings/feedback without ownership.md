@@ -6,11 +6,13 @@ Someone may need confidentiality to describe what happened safely. Their report 
 
 The question is not simply whether the source is named. It is whether someone takes responsibility for checking the information, explaining the judgment, and giving the person affected a meaningful opportunity to respond.
 
-anonymous information can be useful as a signal; anonymous allegations shouldn't automatically become conclusions.
+Anonymous information can be useful as a signal; anonymous allegations shouldn't automatically become conclusions.
 
 > Communication is not about speaking what we think. Communication is about ensuring others hear what we mean.
 
 When feedback is left to someone else to deliver, you can’t assume it reached the recipient or conveyed what you intended.
+
+> If you're criticizing from a place where you're not also putting yourself on the line, I'm not interested in what you have to say.
 
 ## the invisible army
 > "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.

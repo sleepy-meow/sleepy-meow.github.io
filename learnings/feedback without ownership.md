@@ -1,16 +1,16 @@
-part 1/3: [[identifying bullshit feedback]]
+part 1/3: [[clear is kind]]
 ## anonymous feedback
 Anonymous feedback comes with structural limitations: you can't have a direct conversation with the person whose experience the feedback describes.
 
-A person reporting an experience and a person making a performance judgment carry different responsibilities.
-
-Someone may need confidentiality to describe what happened safely. Their report can still be specific and useful. Protecting their identity does not make their experience irrelevant, nor does it automatically establish every interpretation as fact. “People say you’re difficult” doesn’t explain what happened, or what change is expected. An unnamed group cannot substitute for that explanation.
+Someone may need confidentiality to describe what happened safely. Their report can still be specific and useful. Protecting their identity does not make their experience irrelevant, nor does it automatically establish every interpretation as fact. But “people say you’re difficult” doesn’t explain what happened, or what change is expected. An unnamed group cannot substitute for that explanation.
 
 The question is not simply whether the source is named. It is whether someone takes responsibility for checking the information, explaining the judgment, and giving the person affected a meaningful opportunity to respond.
 
 anonymous information can be useful as a signal; anonymous allegations shouldn't automatically become conclusions.
 
-*Also: If you leave feedback up to someone else to deliver, you can't assume that it has actually been received in the way you intended, or gotten lost along the way.*
+> Communication is not about speaking what we think. Communication is about ensuring others hear what we mean.
+
+When feedback is left to someone else to deliver, you can’t assume it reached the recipient or conveyed what you intended.
 
 ## the invisible army
 > "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.
@@ -18,6 +18,15 @@ anonymous information can be useful as a signal; anonymous allegations shouldn't
 *Feedback used for accountability needs to support a conversation.* The person responsible for the assessment must be available to explain and discuss it.
 
 Using unnamed others to avoid owning a judgment is problematic informally, and substantially more consequential when built into systems that determine people’s careers.
+## Feedback and accountability
+Accountability means: *owning your mistakes, apologizing, and making amends*. 
+Anonymity can limit direct repair: you may be unable to ask the person what the experience cost them, apologize privately, or check with them whether things have improved. It does not prevent changing your behavior or correcting a harmful process.
+
+The decision-maker is accountable for how they assess and use the feedback. A manager who uses feedback to make a consequential decision must explain why they found it persuasive, consider the recipient's response, and be willing to revise their assessment.
+
+They do not automatically need to reveal the reporter's identity. They do need to provide enough specificity for the recipient to understand and respond. If protecting the source limits what can be shared or checked, that limitation should also constrain the conclusions drawn from it.
+
+
 
 ## anonymity and power
 *The case for anonymity depends partly on who needs protection from whom.*
@@ -30,7 +39,16 @@ The more power someone has to attach consequences to their criticism, the strong
 
 The same problem appears when decisions are communicated as *“it has been decided”* without anyone owning the reasoning or answering questions. (see [[logging decisions#decisions without ownership|decisions without ownership]])
 
+## the direction of feedback matters
 
+The same sentence can carry very different weight depending on who says it. A manager saying:
+> “I think you need to communicate differently.”
+
+can affect the employee's career. An employee saying the same thing to their manager may put **the employee's own career or relationship with the manager** at risk.
+
+That difference in power creates different responsibilities. Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case.
+
+The responsibility for investigating a concern belongs to the people handling it. If they use it to make a consequential judgment, they must be able to explain that judgment. The reporter does not have to do their work for them.
 
 
 part 3/3: [[high stakes feedback]]

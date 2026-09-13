@@ -26,7 +26,7 @@
 
 # feedback
 [[feedback checklists]] !!
-[[identifying bullshit feedback]] !!
+[[clear is kind]] !!
 [[feedback without ownership]] !!
 [[high stakes feedback]] !!
 

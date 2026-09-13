@@ -1,60 +1,72 @@
 part 2/3: [[feedback without ownership]]
 
-Not all feedback needs same standard of evidence. An offhand suggestion from a colleague is different from feedback being used to make decisions about someone's performance, promotion, compensation, or employment.
+Not all feedback needs the same standard of evidence. An offhand suggestion from a colleague is different from feedback used to decide someone's performance rating, promotion, compensation, or continued employment.
 
-The greater the consequence, the stronger the need for specificity, context, examples, and an opportunity to respond.
+**The greater the consequence, the stronger the need for specificity, context, and an opportunity to respond.** Whoever makes the decision is responsible for checking the information and explaining the judgment, even when the source needs to remain confidential.
+
 ## performance reviews
+
 > _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
 
-Performance reviews that use anonymous feedback still need to give the person being assessed a fair opportunity to understand and respond to it. Whether the source is anonymous or named, a review has failed as a feedback mechanism if consequential criticism comes as a surprise and the person has not previously been given a fair opportunity to understand and address it.
+A gap between expectations and results is a starting point for inquiry. Were the expectations clear? What was within the person's control? What part did priorities, resources, dependencies, or management decisions play?
 
-## Feedback and accountability
+Performance reviews should bring together conversations that have already happened. If a concern was known earlier, saving it for the review denies the person a chance to understand and address it when it could have made a difference.
 
-accountability is: "You own your mistakes, apologize, and make amends." Anonymity can limit direct repair: you may be unable to ask the person what the experience cost them, apologize privately, or check with them whether things have improved. It does not prevent changing your behavior or correcting a harmful process.
+New information can still emerge. The problem is treating it as a settled judgment before the person has had a meaningful chance to respond. Whether the source is anonymous or named, a fair assessment should make clear:
 
-When feedback has consequences, whoever acts on it must explain their decision and what improvement would look like. They do not automatically need to reveal the reporter’s identity, but the recipient needs enough specificity to understand and respond to the assessment. 
+- What happened, with enough concrete detail to understand the concern.
+- Which expectation was not met, and whether it had been communicated.
+- How the person's context and explanation were considered.
+- Who owns the assessment and how it affects the decision.
+- What improvement would look like, with what support and follow-up.
+
+“People say you need to communicate better” doesn't meet that standard. It leaves the recipient guessing about both the evidence and the remedy.
+
+
+
 
 ## you can't always drop things on the floor
+
 > Don't grab hurtful comments and pull them close to you by rereading them and ruminating on them. Don't play with them by rehearsing your badass comeback. And whatever you do, don't pull hatefulness close to your heart.
 > 
 > Cruelty is cheap, easy, and chickenshit. It doesn't deserve your energy or engagement. Just step over the comments and keep daring, always remembering that armor is too heavy a price to pay to engage with cheap-seat feedback.
 
-When feedback has consequences, it can't just be disregarded. If you aren't allowed to understand, question, or respond to it, the problem isn't merely bad feedback anymore, it becomes a problem of how power is being exercised.
+There is a limit to the advice to let hurtful comments go: when someone uses them to determine your rating, pay, or future at work, they have consequences whether or not you take them to heart.
 
-### further reading:
+You can reject a comment as a verdict on your worth and still need to challenge its role in a decision. Asking for examples, questioning an interpretation, or correcting the record is part of responding to an assessment.
+
+If you aren't allowed to understand, question, or respond to consequential criticism, the problem is also how power is being exercised.
+
+# What to do if you're on the receiving end
+
+> Seek first to understand, then to be understood.
+
+**Staying curious.** Ask for something you can act on. You don't have to agree with an assessment to try to understand it. Ask:
+
+- “Can you give me a concrete example?”
+- “What was expected, and what should I have done differently?”
+- “What would improvement look like, and when will we review it?”
+
+Vague feedback isn't automatically wrong. These questions help establish whether there is something you can learn from, correct, or reasonably challenge.
+
+**Bring the conversation back to the substance.** If asking for clarification gets you labelled “sensitive” or “defensive,” you can return to the question: “I'm trying to understand the concern so I can respond to it. Can we go back to the example?”
+
+You don't have to keep pressing in a conversation that has stopped being useful. You can ask for time, follow up in writing, or seek support from someone you trust.
+
+**Keep a clear record.** After a consequential conversation, write down your understanding of the concern, your response, the decision, and any agreed next steps. Share a short recap and invite corrections. Record disagreements as well as agreements; you don't need to pretend the assessment is settled.
+
+**choose whose judgment you trust.** Seek perspective from people who know your work, care about you, and will tell you when you've got something wrong. You need people who can help you distinguish an uncomfortable truth from an unfair judgment, and support you in responding to either.
+
+**stay open without putting your whole self on trial.** Notice when a specific criticism becomes “there's something wrong with me.” Take time to settle, talk it through with someone you trust, and return to what actually happened.
+
+Integrity gives you a starting point: you can examine your actions honestly, own a mistake, and make amends. You can also challenge an interpretation that the evidence doesn't support.
+
+
+These steps can help you respond. The responsibility for a fair process still belongs to the people making the decision.
+## further reading
+
 > [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
 
-> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It. ](https://www.corporate-rebels.com/blog/annual-performance-reviews)
+> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It.](https://www.corporate-rebels.com/blog/annual-performance-reviews)
 
 > [!TIP] Peter Block, Peter Koestenbaum - Confronting Our Freedom (A good take on 360 reviews, anonymous surveys, and accountability)
-
-%%
-# what to do when you're on the receiving end
-
-## 1. staying curious.
-The antidote is to simply stay curious. The most terrifying thing to the cheap seats is someone who doesn't accept the vagueness and despite it being scary, just keeps asking *"help me understand what am i supposed to do differently"*. Because if the feedback is bullshit (and the more vague and unspecific, the more likely it is to be), it's a question that either won't have an answer at all, or the answer can't survive in broad daylight. 
-
-> Embracing the vulnerability it takes to rise up from a fall and grow stronger makes us a little dangerous. People who don't stay down after they fall down or are tripped, are often troublemakers, hard to control, which is the best kind of dangerous possible. They are the artists, the innovators, and the change makers.
-
-Caveat: The gaslighting language of shame "You're so sensitive." "I didn't realize you were so fragile." "You're so defensive." "I guess I'll have to watch what I say around you." "It's all in your head." "You seem really hostile." is the predictable reply to someone who keeps asking to understand. "what's wrong with me" back into "this isn't about me."
-
-## 2. deciding whose judgment deserves weight
-When we define ourselves by what everyone thinks, it's hard to be brave. When we don't care about what anyone thinks, we miss out on authentic connection. So how do we get clear on whose opinions of us matter?
-
-> Get a one-inch by one-inch piece of paper and write down the names of the people whose opinions of you matter. It needs to be small because it forces you to edit. Fold it and put it in your wallet. Then take ten minutes to reach out to those people-your square squad-and share a little gratitude.
-
-The people on your list should be the people who love you not despite your vulnerability and imperfections, but because of them. They should also not be "yes" people, but who respect you enough to say "I think you were out of your integrity in that situation, and you need to clean it up and apologize. I'll be here to support you through that." Or "Yes, that was a huge setback, but you were brave and I'll dust you off and cheer you on when you go back into the arena."
-
-Not every opinion deserves equal weight. That doesn't mean surrounding yourself with people who agree with you; it means learning whose judgment you trust enough to take seriously.
-
-## 3. building shame resilience
-- recognize your triggers
-- practice critical awareness 
-- reaching out
-- speaking about shame
-## 4. integrity gives a solid ground
-It's easy for your imagination to run wild when receiving vague criticism, like being stuck in airport security watching them plow through your stuff looking for anything suspicious. But this is the upside of not having knowingly hidden skeletons in the closets: when someone comes to you with a comment of the likes of *"i know what you did last summer"*, this will allow you to simply say *"well let's go look and find out what it is then"*.
-
-The findings may be that you had a bad day or made a honest mistake, but this is comparable to a customs officer looking for something serious and just discovering a bunch of dirty underwear. 
-
-%%

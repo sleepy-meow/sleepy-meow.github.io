@@ -1,10 +1,18 @@
 *Good feedback is specific, actionable, contextual, and open to dialogue.*
 
-Feedback doesn’t need to have all the answers right away. An observation, a concern, or a sense that something isn’t working can be an opening for a conversation. The specifics and possible solutions can be explored together.
+> Clear is kind. Unclear is unkind. 
 
-The problem comes when you’re held accountable for feedback that hasn’t been made clear. If someone expects you to change, they have a responsibility to explain what happened, what was expected, and where they see a gap. They don’t need to arrive with a ready-made solution, but they do need to help make the feedback clear enough to act on.
+An observation, a concern, or a sense that something isn’t working can open a conversation. The person raising it doesn’t need all the details or a ready-made solution.
 
-_What isn’t fair is requiring someone to improve while leaving them to guess what improvement means._
+> Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind.
+
+Raising a concern and making a performance judgment carry different responsibilities. Whoever expects you to change needs to explain what happened, what was expected, and where they see a gap. They also need to hear your account of it.
+
+> Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. 
+
+_What isn’t fair is requiring someone to improve while leaving them to guess what improvement means._ The test isn’t whether feedback starts out vague, but whether the person giving it is willing to examine it and help make it clear.
+
+
 
 %%
 
@@ -15,18 +23,15 @@ _What isn’t fair is requiring someone to improve while leaving them to guess w
 
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
 
-Here's what brene brown has to say about the topic (from the book dare to lead):
-> Clear is kind. Unclear is unkind.
-> 
-> Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. 
-> 
-> Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind.
-> 
-> Talking about people rather than to them is unkind.
 
+%%
 And here's the definition of [bullshit](https://jbaron.org/journal/15/15923a/jdm15923a.html):
 
 > .. To specifically refer to statements produced without particular concern for truth, clarity, or meaning, (distinguishing "bullshit" from a deliberate, manipulative lie intended to subvert the truth).
+
+%%
+
+
 
 %%
 That said, just because something is accurate or factual doesn't mean it can't be used in a destructive manner: "Sorry. I'm just telling you the truth. These are just the facts."
@@ -50,12 +55,13 @@ Good feedback therefore stays as close as possible to what can actually be obser
 # vague feedback and shame
 Feedback needs enough concrete detail for the person to understand what is being assessed and discuss it.
 
-Without specifics, your brain is left trying to fill in the blanks. Instead of asking _"what should I do differently?"_, you end up asking *"what is wrong with me?"*, which can lead to hiding, defensiveness, and rumination rather than curiosity, repair, and learning.
+Without specifics, you may find yourself filling in the blanks. Instead of asking _"what should I do differently?"_, you may start asking *"what is wrong with me?"*, which can lead to hiding, defensiveness, and rumination rather than curiosity, repair, and learning.
 
-*"the meeting was interpreted differently by participants"* gives you something useful to reflect on, _"you have poor communication skills and need to get better at communicating”_ does not. The first points to something specific and opens a conversation about what was unclear. The second makes a broad judgment about your ability without explaining what needs to change.
+*“After Tuesday’s meeting, two people understood the deadline as Friday and another understood it as next week. Can we look at how the deadline was communicated?”*
 
-This turns attention away from the behaviour and toward the self. It works like a zoom lens, where all we see is ourselves alone and struggling.
+This identifies a specific misunderstanding without assuming what caused it. By comparison, _"you have poor communication skills and need to get better at communicating”_ makes a broad judgment about your ability without explaining what needs to change.
 
+Clear feedback gives you something to understand, discuss, and work on. The next question is who takes responsibility for making that conversation possible.
 
 
 

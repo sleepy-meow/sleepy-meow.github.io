@@ -1057,6 +1057,26 @@ function resolveNote(target) {
   return null;
 }
 
+// A note's hash route is its file name slugified — "#some-note" — with the
+// folder and extension dropped, since note names are unique across the vault.
+function slugFor(path) {
+  return path.split('/').pop()
+    .replace(/\.md$/i, '')
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}]+/gu, '-')   // spaces, "&", punctuation → one dash
+    .replace(/^-+|-+$/g, '');
+}
+
+// The reverse: find the note a hash route points at. Slugifying the route too
+// means the old links ("#learnings/some note.md") still resolve.
+function pathForSlug(slug) {
+  const key = slugFor(slug);
+  for (const folder of manifest.folders)
+    for (const f of folder.files)
+      if (slugFor(f.path) === key) return f.path;
+  return slug;   // not in the manifest — try it as a path anyway
+}
+
 marked.setOptions({
   breaks: true,   /* Obsidian treats a single newline as a line break */
   gfm: true
@@ -1232,7 +1252,7 @@ marked.use({ extensions: [
   renderer(token) {
     const text = (token.alias || token.target).replace(/&/g, '&amp;').replace(/</g, '&lt;');
     const path = resolveNote(token.target);
-    if (path) return '<a href="#' + encodeURIComponent(path) + '">' + text + '</a>';
+    if (path) return '<a href="#' + encodeURIComponent(slugFor(path)) + '">' + text + '</a>';
     return '<span class="wikilink-missing">' + text + '</span>';
   }
 }
@@ -1265,7 +1285,7 @@ function buildNav(folders) {
     wrap.appendChild(t);
     folder.files.forEach(file => {
       const a = document.createElement('a');
-      a.href = '#' + encodeURIComponent(file.path);
+      a.href = '#' + encodeURIComponent(slugFor(file.path));
       a.textContent = file.name;
       a.dataset.path = file.path;
       if (file.draft) a.classList.add('draft');
@@ -1439,8 +1459,13 @@ wipCheck.addEventListener('change', () => {
 });
 
 function route() {
-  const path = decodeURIComponent(location.hash.slice(1));
-  if (path) loadFile(path); else showWelcome();
+  const slug = decodeURIComponent(location.hash.slice(1));
+  if (!slug) { showWelcome(); return; }
+  const path = pathForSlug(slug);
+  // Rewrite old folder-qualified links to the short form, in place.
+  const canon = encodeURIComponent(slugFor(path));
+  if (location.hash.slice(1) !== canon) history.replaceState(null, '', '#' + canon);
+  loadFile(path);
 }
 window.addEventListener('hashchange', route);
 
@@ -1457,7 +1482,8 @@ async function refreshManifest() {
     buildNav(manifest.folders);
     buildTags(manifest.folders);
     applyFilter();
-    setActive(decodeURIComponent(location.hash.slice(1)) || null);
+    const slug = decodeURIComponent(location.hash.slice(1));
+    setActive(slug ? pathForSlug(slug) : null);
   } catch {}
 }
 window.addEventListener('focus', refreshManifest);

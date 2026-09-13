@@ -1,5 +1,5 @@
 part 1/3: [[clear is kind]]
-## anonymous feedback
+## Anonymous feedback
 Anonymous feedback comes with structural limitations: you can't have a direct conversation with the person whose experience the feedback describes.
 
 Someone may need confidentiality to describe what happened safely. Their report can still be specific and useful. Protecting their identity does not make their experience irrelevant, nor does it automatically establish every interpretation as fact. But “people say you’re difficult” doesn’t explain what happened, or what change is expected. An unnamed group cannot substitute for that explanation.
@@ -7,19 +7,28 @@ Someone may need confidentiality to describe what happened safely. Their report 
 The question is not simply whether the source is named. It is whether someone takes responsibility for checking the information, explaining the judgment, and giving the person affected a meaningful opportunity to respond.
 
 Anonymous information can be useful as a signal; anonymous allegations shouldn't automatically become conclusions.
+%%
+> If you're criticizing from a place where you're not also putting yourself on the line, I'm not interested in what you have to say. (brene brown, dare to lead)
+
+%% 
 
 > Communication is not about speaking what we think. Communication is about ensuring others hear what we mean.
 
 When feedback is left to someone else to deliver, you can’t assume it reached the recipient or conveyed what you intended.
 
-> If you're criticizing from a place where you're not also putting yourself on the line, I'm not interested in what you have to say.
 
-## the invisible army
+## The invisible army
 > "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.
 
 *Feedback used for accountability needs to support a conversation.* The person responsible for the assessment must be available to explain and discuss it.
 
 Using unnamed others to avoid owning a judgment is problematic informally, and substantially more consequential when built into systems that determine people’s careers.
+%%
+# The cheap seats
+> The third thing I learned has turned into a mandate by which I live: If you are not in the arena getting your ass kicked on occasion, I'm not interested in or open to your feedback. There are a million cheap seats in the world today filled with people who will never be brave with their lives but who will spend every ounce of energy they have hurling advice and judgment at those who dare greatly. Their only contributions are criticism, cynicism, and fearmongering.
+
+%%
+
 ## Feedback and accountability
 Accountability means: *owning your mistakes, apologizing, and making amends*. 
 Anonymity can limit direct repair: you may be unable to ask the person what the experience cost them, apologize privately, or check with them whether things have improved. It does not prevent changing your behavior or correcting a harmful process.
@@ -52,5 +61,11 @@ That difference in power creates different responsibilities. Giving downward fee
 
 The responsibility for investigating a concern belongs to the people handling it. If they use it to make a consequential judgment, they must be able to explain that judgment. The reporter does not have to do their work for them.
 
+## Responsibility of the messenger
+Simply relaying a vague, anonymous comment doesn’t let you off the hook. *“I’m just passing on what I heard”* may feel neutral, but choosing to repeat a judgment gives it an audience and, depending on your role, authority.
+
+Before passing feedback on, ask what the recipient can reasonably do with it. See how many boxes it checks in [[feedback checklists|the effective feedback model]]. If it doesn't, consider whether it needs to be said at all.
+
+*When the source is not disclosed, you take responsibility for the feedback you choose to deliver.* The recipient cannot discuss it directly with the person who raised it, so you need to answer for its basis, acknowledge what remains uncertain, and be willing to reconsider it in light of their response. “I can’t tell you who said it” cannot also mean “I don’t have to explain or discuss it.”
 
 part 3/3: [[high stakes feedback]]

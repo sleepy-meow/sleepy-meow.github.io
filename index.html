@@ -13,10 +13,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/atom-one-light.min.css" media="(prefers-color-scheme: light)" />
 <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/highlight.min.js"></script>
 
-<!-- Inter — the text font configured in the source Obsidian vault -->
+<!-- Inter — the text font configured in the source Obsidian vault.
+     Archivo — headings only (variable weight axis). -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400..700&family=Inter:wght@400;500;600;700&display=swap" />
 
 <style>
   /* ───────────────────────────────────────────────────────
@@ -35,6 +36,7 @@
     --border:         #383838;  /* dividing lines             */
 
     /* text, brightest → faintest */
+    --heading:        #bfbbb7;  /* h1–h6 + the page title     */
     --text:           #aeaba7;  /* body                       */
     --muted:          #a69a88;  /* secondary                  */
     --faint:          #786d58;  /* tertiary                   */
@@ -62,6 +64,12 @@
     --radius:         8px;
     --radius-s:       4px;
     --sidebar-w:      290px;
+
+    /* Headings: a slightly condensed grotesque against the Inter body. */
+    --font-heading:   "Archivo", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+
+    /* The single hue used when monochrome mode is on (set from the "<" panel). */
+    --mono-h:         210;
   }
   @media (prefers-color-scheme: light) {
     :root {
@@ -72,6 +80,7 @@
       --panel:          #ffffff;
       --border:         #e6e0f2;
 
+      --heading:        #2b2438;
       --text:           #2b2438;
       --muted:          #6b6280;
       --faint:          #9b93ad;
@@ -164,7 +173,7 @@
     transition: color .12s;
   }
   .wip-toggle:hover { color: var(--muted); }
-  .wip-toggle input { position: absolute; opacity: 0; width: 0; height: 0; }
+  .wip-toggle input, .tp-toggle input { position: absolute; opacity: 0; width: 0; height: 0; }
   .wip-switch {
     position: relative; flex: 0 0 auto;
     width: 26px; height: 15px; border-radius: 999px;
@@ -176,13 +185,15 @@
     width: 9px; height: 9px; border-radius: 50%;
     background: var(--nav-wip); transition: transform .14s, background .14s;
   }
-  .wip-toggle input:checked + .wip-switch {
+  .wip-toggle input:checked + .wip-switch, .tp-toggle input:checked + .wip-switch {
     background: var(--nav-active); border-color: var(--nav-active);
   }
-  .wip-toggle input:checked + .wip-switch::after {
+  .wip-toggle input:checked + .wip-switch::after,
+  .tp-toggle input:checked + .wip-switch::after {
     transform: translateX(11px); background: var(--nav-active-tx);
   }
-  .wip-toggle input:focus-visible + .wip-switch { box-shadow: 0 0 0 2px var(--ring); }
+  .wip-toggle input:focus-visible + .wip-switch,
+  .tp-toggle input:focus-visible + .wip-switch { box-shadow: 0 0 0 2px var(--ring); }
 
   .folder { margin-bottom: 12px; }
   .folder > .folder-title {
@@ -235,20 +246,37 @@
   .welcome h1 { color: var(--text); }
 
   /* ---------- Rendered markdown ---------- */
-  .md h1, .md h2, .md h3, .md h4, .md h5, .md h6 {
-    line-height: 1.3; margin: 1.9em 0 .7em;
+  /* Note headings, the page title and callout titles share the heading face.
+     The sidebar stays on the body font — its labels are chrome, not content. */
+  .md h1, .md h2, .md h3, .md h4, .md h5, .md h6,
+  .md .page-title, .md .callout-title {
+    font-family: var(--font-heading);
   }
-  .md h1, .md .page-title { font-size: 1.7rem; font-weight: 700; color: var(--text); }
+  .md h1, .md h2, .md h3, .md h4, .md h5, .md h6 {
+    line-height: 1.3; margin: 2.3em 0 1.0em;
+  }
+  /* The note's own headings all sit at 500 — size alone carries the hierarchy.
+     Notes write their sections as "# ", so those are real <h1>s; only the
+     generated page title above them stays at 700. */
+  .md h1 { font-size: 1.7rem; font-weight: 500; color: var(--heading); }
   /* Only the page title (and a note's very first element) hugs the top. */
   .md .page-title, .md > :first-child { margin-top: 0; }
-  .md .page-title { color: var(--text); font-size: 2rem; padding: .5em 0 0; margin-bottom: 0; }
+  .md .page-title { color: var(--heading); font-weight: 700; font-size: 2rem;
+                    padding: .5em 0 0; margin-bottom: 20px; }
   .md .page-title + * { margin-top: .2em; }
-  .md h2 { font-size: 1.5rem; font-weight: 700; color: var(--text);
-           border-bottom: 2px solid var(--border); padding-bottom: 3px; }
-  .md h3 { font-size: 1.2rem; font-weight: 600; color: var(--text); }
-  .md h4 { font-size: 1.1rem; font-weight: 500; color: var(--text); }
-  .md h5 { font-size: 1rem;   font-weight: 500; color: var(--text); }
-  .md h6 { font-size: .9rem;  font-weight: 400; color: var(--text); }
+  /* The notes are written with lowercase headings. Capitalise the first
+     letter on screen, so the markdown in the vault stays as authored. The
+     page title comes from the filename, so it is left exactly as named. */
+  .md h1::first-letter, .md h2::first-letter, .md h3::first-letter,
+  .md h4::first-letter, .md h5::first-letter, .md h6::first-letter {
+    text-transform: uppercase;
+  }
+  .md .page-title::first-letter { text-transform: none; }
+  .md h2 { font-size: 1.5rem; font-weight: 500; color: var(--heading); }
+  .md h3 { font-size: 1.2rem; font-weight: 500; color: var(--heading); }
+  .md h4 { font-size: 1.1rem; font-weight: 500; color: var(--heading); }
+  .md h5 { font-size: 1rem;   font-weight: 500; color: var(--heading); }
+  .md h6 { font-size: .9rem;  font-weight: 500; color: var(--heading); }
   .md p, .md li { color: var(--text); }
   .md strong { color: var(--emph); font-weight: 700; }
   .md em { color: var(--emph); }
@@ -380,6 +408,12 @@
   }
   .tag-count { opacity: .55; font-size: .85em; font-variant-numeric: tabular-nums; }
 
+  /* Monochrome mode: callouts and sidebar tags carry their own hue as an
+     inline style, so folding them into the single hue needs !important. */
+  .mono .md .callout { --cl: var(--mono-h) !important; }
+  .mono .md a.tag,
+  .mono .tag-list .tag { --th: var(--mono-h) !important; }
+
   /* Tags pane under the note list in the sidebar */
   #tags { margin-top: 18px; padding-top: 14px; padding-bottom: 8px;
           border-top: 1px solid var(--border); }
@@ -508,6 +542,21 @@
   }
   .tp-row input[type="text"]:focus { border-color: var(--accent); }
   .tp-note { margin-top: 18px; color: var(--faint); font-size: .74rem; line-height: 1.5; }
+
+  /* ---------- Monochrome: one hue for the whole page ---------- */
+  .tp-toggle {
+    display: flex; align-items: center; gap: 8px; padding: 4px 0;
+    cursor: pointer; user-select: none; color: var(--nav);
+    transition: color .12s;
+  }
+  .tp-toggle:hover { color: var(--text); }
+  .tp-deg {
+    margin-left: auto; font-variant-numeric: tabular-nums;
+    font-size: .74rem; color: var(--faint);
+  }
+  .tp-mono .tp-track { margin-top: 8px; transition: opacity .14s; }
+  .tp-mono[data-on="0"] .tp-track { opacity: .4; }
+  .tp-mono .tp-note { margin-top: 8px; }
 </style>
 <script>
 /* ── Theme control panel ────────────────────────────────────────────────
@@ -528,6 +577,7 @@
       ['--border',        'Borders']
     ]],
     ['Text', [
+      ['--heading',       'Headings'],
       ['--text',          'Body'],
       ['--muted',         'Muted'],
       ['--faint',         'Faint']
@@ -590,6 +640,7 @@
   function resolve(str) {
     // Anything the regexes miss (named colours, hsl(), colour functions)
     // goes through the browser, which hands back an rgb()/rgba() string.
+    if (!document.body) return null;   // called before first paint
     if (!probe) {
       probe = document.createElement('span');
       probe.style.cssText = 'position:absolute;left:-9999px;width:0;height:0';
@@ -661,13 +712,27 @@
   var DEFAULTS = {};
   var saved = {};
   var current = {};
+  // Monochrome: a filter over the palette rather than a set of overrides —
+  // every colour keeps its saturation and brightness but is forced onto one hue.
+  var MONO_OFF = { on: false, h: 210 };
+  var savedMono = Object.assign({}, MONO_OFF);
+  var mono = Object.assign({}, MONO_OFF);
 
   function mode() { return mq.matches ? 'light' : 'dark'; }
   function storeKey() { return 'theme-overrides-' + mode(); }
+  function monoKey() { return 'theme-mono-' + mode(); }
 
   function loadSaved() {
     try { return JSON.parse(localStorage.getItem(storeKey())) || {}; }
     catch { return {}; }
+  }
+
+  function loadMono() {
+    try {
+      var m = JSON.parse(localStorage.getItem(monoKey()));
+      if (!m || typeof m.h !== 'number') return Object.assign({}, MONO_OFF);
+      return { on: !!m.on, h: ((m.h % 360) + 360) % 360 };
+    } catch { return Object.assign({}, MONO_OFF); }
   }
 
   /* Read the stylesheet's own values, with any inline overrides lifted
@@ -678,24 +743,43 @@
     ALL.forEach(function (n) { DEFAULTS[n] = cs.getPropertyValue(n).trim(); });
   }
 
-  function apply() {
-    ALL.forEach(function (n) {
-      if (current[n]) root.style.setProperty(n, current[n]);
-      else root.style.removeProperty(n);
-    });
+  /* What a token actually paints as: the edited value (or the stylesheet's),
+     re-hued when monochrome is on. Neutral greys have no hue to move, so they
+     are left alone and stay the scheme's neutrals. */
+  function effective(name) {
+    var v = current[name] || DEFAULTS[name] || '';
+    if (!mono.on || !v) return v;
+    var c = parseColor(v);
+    if (!c || !c.s) return v;
+    return formatColor({ h: mono.h, s: c.s, v: c.v, a: c.a });
   }
 
-  function isDirty() { return JSON.stringify(current) !== JSON.stringify(saved); }
+  function apply() {
+    ALL.forEach(function (n) {
+      var v = effective(n);
+      if (v && v !== DEFAULTS[n]) root.style.setProperty(n, v);
+      else root.style.removeProperty(n);
+    });
+    root.style.setProperty('--mono-h', mono.h);
+    root.classList.toggle('mono', mono.on);
+  }
+
+  function isDirty() {
+    return JSON.stringify(current) !== JSON.stringify(saved) ||
+           mono.on !== savedMono.on || (mono.on && mono.h !== savedMono.h);
+  }
 
   // Run before the body paints.
   captureDefaults();
   saved = loadSaved();
   current = Object.assign({}, saved);
+  savedMono = loadMono();
+  mono = Object.assign({}, savedMono);
   apply();
 
   /* ---------- panel ---------- */
 
-  var panel, rows = {}, saveBtn, modeLabel, openPicker = null;
+  var panel, rows = {}, saveBtn, modeLabel, openPicker = null, monoUI = null;
 
   function valueOf(name) { return current[name] || DEFAULTS[name] || ''; }
 
@@ -715,8 +799,20 @@
       row.fill.style.background = v;
       if (row.picker && !row.picker.hidden) paintPicker(row, parseColor(v));
     });
+    if (monoUI) {
+      monoUI.box.dataset.on = mono.on ? '1' : '0';
+      monoUI.check.checked = mono.on;
+      monoUI.dot.style.left = (mono.h / 360 * 100) + '%';
+      monoUI.deg.textContent = Math.round(mono.h) + '°';
+    }
     if (saveBtn) saveBtn.dataset.dirty = isDirty() ? '1' : '0';
     if (modeLabel) modeLabel.textContent = mode();
+  }
+
+  function setMono(next) {
+    mono = { on: !!next.on, h: ((next.h % 360) + 360) % 360 };
+    apply();
+    syncInputs();
   }
 
   /* ---------- the picker ---------- */
@@ -743,6 +839,16 @@
       el.addEventListener('pointermove', move);
       el.addEventListener('pointerup', up);
       el.addEventListener('pointercancel', up);
+    });
+  }
+
+  // Arrow keys on a slider: Shift for a coarse step.
+  function keys(el, fn) {
+    el.addEventListener('keydown', function (e) {
+      var d = { ArrowLeft: [-1, 0], ArrowRight: [1, 0], ArrowUp: [0, -1], ArrowDown: [0, 1] }[e.key];
+      if (!d) return;
+      e.preventDefault();
+      fn(d[0], d[1], e.shiftKey ? 10 : 1);
     });
   }
 
@@ -802,15 +908,6 @@
       push({ h: c.h, s: c.s, v: c.v, a: p.x });
     });
 
-    // Arrow keys: Shift for a coarse step.
-    function keys(el, fn) {
-      el.addEventListener('keydown', function (e) {
-        var d = { ArrowLeft: [-1, 0], ArrowRight: [1, 0], ArrowUp: [0, -1], ArrowDown: [0, 1] }[e.key];
-        if (!d) return;
-        e.preventDefault();
-        fn(d[0], d[1], e.shiftKey ? 10 : 1);
-      });
-    }
     keys(row.sv, function (dx, dy, step) {
       var c = cur();
       push({ h: c.h, s: clamp01(c.s + dx * step / 100), v: clamp01(c.v - dy * step / 100), a: c.a });
@@ -838,6 +935,43 @@
     row.picker.scrollIntoView({ block: 'nearest' });
   }
 
+  /* The monochrome block: a switch plus its own hue track, above the palette
+     it filters. Dragging the track turns the switch on, so the slider always
+     does what it looks like it does. */
+  function buildMono() {
+    var box = document.createElement('div');
+    box.className = 'tp-mono';
+    box.dataset.on = mono.on ? '1' : '0';
+    box.innerHTML =
+      '<label class="tp-toggle">' +
+        '<input type="checkbox" autocomplete="off" />' +
+        '<span class="wip-switch" aria-hidden="true"></span>' +
+        '<span>Single hue</span><span class="tp-deg"></span>' +
+      '</label>' +
+      '<div class="tp-track tp-hue" tabindex="0" role="slider" aria-label="Monochrome hue" ' +
+           'aria-valuemin="0" aria-valuemax="359"><div class="tp-dot"></div></div>' +
+      '<p class="tp-note">Forces every colour onto one hue, keeping its ' +
+      'saturation and brightness. Neutral greys stay grey.</p>';
+
+    var track = box.querySelector('.tp-track');
+    monoUI = {
+      box: box,
+      check: box.querySelector('input'),
+      dot: track.querySelector('.tp-dot'),
+      deg: box.querySelector('.tp-deg')
+    };
+
+    monoUI.check.addEventListener('change', function () {
+      setMono({ on: monoUI.check.checked, h: mono.h });
+    });
+    drag(track, function (p) { setMono({ on: true, h: p.x * 360 }); });
+    keys(track, function (dx, dy, step) {
+      setMono({ on: true, h: mono.h + (dx + dy) * step });
+    });
+
+    return box;
+  }
+
   function build() {
     panel = document.createElement('aside');
     panel.id = 'theme-panel';
@@ -859,6 +993,13 @@
 
     var body = document.createElement('div');
     body.className = 'tp-body';
+
+    var monoHead = document.createElement('div');
+    monoHead.className = 'tp-group';
+    monoHead.textContent = 'Monochrome';
+    body.appendChild(monoHead);
+    body.appendChild(buildMono());
+
     GROUPS.forEach(function (g) {
       var h = document.createElement('div');
       h.className = 'tp-group';
@@ -920,13 +1061,18 @@
       if (btn.classList.contains('tp-close')) return close();
       var act = btn.dataset.act;
       if (act === 'save') {
-        try { localStorage.setItem(storeKey(), JSON.stringify(current)); } catch {}
+        try {
+          localStorage.setItem(storeKey(), JSON.stringify(current));
+          localStorage.setItem(monoKey(), JSON.stringify(mono));
+        } catch {}
         saved = Object.assign({}, current);
+        savedMono = Object.assign({}, mono);
         syncInputs();
         btn.textContent = 'Saved';
         setTimeout(function () { btn.textContent = 'Save'; }, 1200);
       } else if (act === 'reset') {
         current = {};
+        mono = Object.assign({}, MONO_OFF);
         apply();
         syncInputs();
       } else if (act === 'copy') {
@@ -938,11 +1084,13 @@
   }
 
   function copyCss(btn) {
-    var names = ALL.filter(function (n) { return current[n]; });
+    // Emit what the page actually paints, so a monochrome palette pastes in
+    // as plain colours rather than needing the filter to be reproduced.
+    var names = ALL.filter(function (n) { return effective(n) !== DEFAULTS[n]; });
     var pad = 0;
     names.forEach(function (n) { pad = Math.max(pad, n.length); });
     var lines = names.map(function (n) {
-      return '  ' + (n + ':').padEnd(pad + 2) + ' ' + current[n] + ';';
+      return '  ' + (n + ':').padEnd(pad + 2) + ' ' + effective(n) + ';';
     });
     var css = !names.length
       ? '/* no overrides — the palette matches index.html */'
@@ -990,6 +1138,8 @@
     captureDefaults();
     saved = loadSaved();
     current = Object.assign({}, saved);
+    savedMono = loadMono();
+    mono = Object.assign({}, savedMono);
     apply();
     syncInputs();
   });

@@ -13,3 +13,5 @@ The useful group emerges as the problem becomes clearer. If collaboration stops 
 Stable teams can provide continuity and established relationships. Teaming lets those teams reach beyond their boundaries when the work requires it. The aim is to make collaboration possible without reorganizing everyone each time a problem crosses the org chart.
 
 > [!tip] amy edmondson - teaming (a practical guide for collaboration and learning)
+
+> [!EXAMPLE] article: [how teams grow organically](https://frederickvanbrabant.com/blog/2025-08-22-how-teams-grow-organically/)

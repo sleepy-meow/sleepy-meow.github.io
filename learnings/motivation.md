@@ -26,6 +26,10 @@ Emphasizing a sense of purpose is a key element of psychological safety. Motivat
 
 When we are able to physically see the positive impact of the decisions we make, it inspires us. Actually seeing the people you help vs just looking at numbers & data can have a dramatic effect on motivation.
 
+> [!EXAMPLE] [reinventing organizations: listening to purpose](https://reinventingorganizationswiki.com/en/theory/listening-to-purpose/)
+
+
+
 
 %%
 ==todo: some topics to cover==

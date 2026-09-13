@@ -71,6 +71,10 @@ The principles don’t tell us which option is always best. They help us notice 
 
 > [!TIP] Reid Hoffman - Masters of Scale (the book, not the podcast)
 
+## links
+https://52weeksofux.com/post/531355908/the-process-police
+https://www.nngroup.com/articles/ux-collaboration-challenges/
+https://www.nngroup.com/articles/communication-practices/
 
 %%
 # watch where the effort goes

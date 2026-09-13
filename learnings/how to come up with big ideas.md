@@ -35,3 +35,7 @@ An environment that welcomes ideas also needs to help people improve them.
 > The gardener cannot actually “grow” tomatoes, squash or beans - she can only foster an environment in which the plants do so.
 
 All the ingredients for great ideas may already be in the room, just distributed between different people. We can't guarantee that the next conversation will produce a breakthrough, but we can build an environment where they have a better chance of finding each other.
+
+https://thinkjarcollective.com/tools/reversing-assumptions-technique
+
+https://52weeksofux.com/post/358515571/constraints-fuel-creativity

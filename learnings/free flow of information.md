@@ -54,3 +54,6 @@ Associative thinking is the skill of connecting ideas, memories, or concepts tha
 
 Another fundamental issue with everyone focusing on their own narrow field is that in addition to ideas, many problems fall between the gaps as well. The person who notices it often isn't who can fix it. Or the one who can fix it simply doesn't know how big of a problem some easy fix is elsewhere in the company.
 
+> [!EXAMPLE] [people, processes, technology and information](https://frederickvanbrabant.com/blog/2025-05-16-people-processes-technology-and-information/)
+
+

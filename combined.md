@@ -34,7 +34,7 @@
   - [free flow of information](#free-flow-of-information)
   - [the fat cat syndrome](#the-fat-cat-syndrome)
   - [bad advice books](#bad-advice-books)
-  - [learning resources](#learning-resources)
+  - [links & resource](#links-resource)
 
 ---
 
@@ -51,11 +51,6 @@ It's not always obvious where to find the information to learn these skills. The
 > There's an entire section in the bookstore called self-help, but there's no section called help others. (simon sinek, leaders eat last)
 
 Most of these skills are not exclusive to any job title, they're not even only limited to the workplace. For the most part they're just about how to be a decent human being. (For the parts where the job title does matter, it may still be useful information)
-
-
-
-
-https://reinventingorganizationswiki.com/en/theory/self-management/
 
 ---
 
@@ -101,6 +96,10 @@ An environment that welcomes ideas also needs to help people improve them.
 
 All the ingredients for great ideas may already be in the room, just distributed between different people. We can't guarantee that the next conversation will produce a breakthrough, but we can build an environment where they have a better chance of finding each other.
 
+https://thinkjarcollective.com/tools/reversing-assumptions-technique
+
+https://52weeksofux.com/post/358515571/constraints-fuel-creativity
+
 ---
 
 ## psychological safety
@@ -110,17 +109,10 @@ All the ingredients for great ideas may already be in the room, just distributed
 ### feeling safe and trusted
 
 > We can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted. (simon sinek)
-#### what is psychological safety really?
+#### what is psychological safety
 *tldr: a team climate in which people feel safe to challenge the thinking of those who have the power to throw them under the bus.*
 
-##### what a safe environment looks like
-People can speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't require profound courage or encouragement. 
-
-Speaking up is received with appreciation and curiosity. There's plenty of debate, questions, admitting mistakes early, half-formed ideas and suggestions, challenging each others thinking, and disagreeing openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person.
-
-
-##### red flags of an unsafe environment
-Everyone just being very "nice", and the same few people talk all the time in meetings, reaching fast consensus with no dissent. Concerns come up in the hallway/DM afterward instead of the meeting, and bad news gets watered down upwards. People seem to be walking around on eggshells, but it can be hard to put your finger on where the fear is coming from.
+> [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 ##### why it matters
 > No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple. (brene brown, the call to courage)
 
@@ -202,14 +194,19 @@ But here's how doing this may help you too. By making your lead feel a little bi
 
  <img src="pasted%20images/Pasted%20image%2020260905025238.png" alt="Pasted image 20260905025238.png" width="346">
 
-Just like a climate (or a house with a gas leak), we tend to get acclimatized bad conditions and stop registering them. It's easy to assume from the outside that people are making an informed decision to sell their souls, 
-(exchange their health for a paycheck)
+Just like a climate (or a house with a gas leak), we tend to get acclimatized to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But when you're in it, it's easy to get stuck. 
 
-Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But when you're in it, it's easy to get stuck. Sometimes the safest move is to step outside for some fresh air and wait for your thinking to clear up.
+##### what a safe environment looks like
+People can speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't require profound courage or encouragement. 
+
+Speaking up is received with appreciation and curiosity. There's plenty of debate, questions, admitting mistakes early, half-formed ideas and suggestions, challenging each others thinking, and disagreeing openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person.
+
+
+##### red flags of an unsafe environment
+Everyone just being very "nice", and the same few people talk all the time in meetings, reaching fast consensus with no dissent. Concerns come up in the hallway/DM afterward instead of the meeting, and bad news gets watered down upwards. People seem to be walking around on eggshells, but it can be hard to put your finger on where the fear is coming from.
 
 
 #### resources
-> [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 
 > [!EXAMPLE] [explore.psychsafety.com](https://explore.psychsafety.com/) (a cool network diagram to demonstrate the actual complexity of the topic) 
 
@@ -225,7 +222,13 @@ Very few of us would voluntarily seek to work in an environment where we don't f
 
 *some practical tips*
 
-> [!EXAMPLE] resource: [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
+> [!EXAMPLE] [top 10 ways to foster psychological safety](https://psychsafety.com/top-10-ways-to-foster-psychological-safety-in-the-workplace/)
+
+
+> [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
+
+
+
 
 ##### simple things anyone can do
 A few simple phrases can make a workplace feel more psychologically safe:
@@ -243,7 +246,7 @@ _What are your concerns?_
 
 Small acts like these make openness easier for everyone else.
 
-##### Most useful things (for leads) to do 
+##### Useful things for leads
 > **The most useful thing a leader can do for psychological safety is make it demonstrably safe and worthwhile to tell them something they may not want to hear.**
 
 1. **Respond well when someone speaks up.**  
@@ -270,8 +273,8 @@ Small acts like these make openness easier for everyone else.
 8. **Apply standards consistently.**  
     Address bullying, interruption, contempt, and retaliation even when the person responsible is senior or highly valued. Distinguish good-faith mistakes from clear violations of agreed standards. People judge the real culture by what influential people are allowed to do. 
     
-9. **Lower the practical cost of participating.**  
-    Welcome rough ideas, incomplete questions, early drafts, and concerns without ready-made solutions. ([how to lower the bar for participation](#how-to-lower-the-bar-for-participation))
+9. **Lower the bar for participation.**  
+    Welcome rough ideas, incomplete questions, early drafts, and concerns without ready-made solutions. ([more tips here](#how-to-lower-the-bar-for-participation))
 
 10. **Explain the nature and purpose of the work.**
 	What’s uncertain, why learning will involve small failures, who benefits, and what’s at stake.
@@ -475,6 +478,8 @@ Questions cry out for answers; they create a vacuum that serves as a voice oppor
 
 Learnings only become organizational when they are shared. Without this step you have a lot of learning individuals and an organization that learns nothing.
 
+> [!EXAMPLE] article: [amy edmondson - todays leaders must think like scientists](https://amycedmondson.com/todays-leaders-must-learn-to-think-like-scientists/)
+
 ---
 
 <!-- learnings/how to fail.md -->
@@ -485,11 +490,18 @@ Discovering great ideas usually involves going through a dozen ideas that won't 
 
 We might not even entirely know what we are looking for in advance, but stumble upon an invention through failing at something else.
 
-This doesn't mean we should just take risks blindly. In *The Right Kind of Wrong*, amy edmondson defines three categories of failures:
+This doesn't mean we should just take risks blindly. In the book *The Right Kind of Wrong*, amy edmondson defines three categories of failures:
 
 1. **Preventable** — deviation from a known good procedure in routine work. Never good news. Fix with training and system design.
 2. **Complex** — a novel confluence of factors in a familiar system, but not preventable in the conventional sense. Fix by analyzing the system, not the person.
 3. **Intelligent** — a thoughtful foray into new territory that didn't work. Good news, because of the information it buys.
+
+> [!EXAMPLE] video: [It doesn’t matter if you fail. It matters *how* you fail](https://www.youtube.com/watch?v=Gb9tjnJWu5g)
+
+> [!EXAMPLE] podcast: [how to succeed at failing ](https://freakonomics.com/podcast-tag/how-to-succeed-at-failing/)
+
+> [!EXAMPLE] video: [Sidney Dekker: Learning from mistakes: No-blame management and accountable teams.](https://www.youtube.com/watch?v=5SsFOwtCYzY)
+
 
 #### the swiss cheese model
 Preventable and complex failures can also be reduced by layering preventative measures. They don't need to be bulletproof, just good enough for all the holes in the cheese to not line up at the same time.
@@ -501,11 +513,6 @@ A simple example of this would be an undo button in a tool that allows you to ex
 
 
 <img src="pasted%20images/Pasted%20image%2020260820092041.png" alt="Pasted image 20260820092041.png" width="384">
-
-
-#### making it safe to fail
-
-> [!EXAMPLE] video: [Sidney Dekker: Learning from mistakes: No-blame management and accountable teams.](https://www.youtube.com/watch?v=5SsFOwtCYzY)
 
 ---
 
@@ -713,6 +720,13 @@ The principles don’t tell us which option is always best. They help us notice 
 > [!TIP] [Designing the User Experience of Game Development Tools](https://uxofgametools.com/) (the best book ever on this topic, very condensed and practical advice)
 
 > [!TIP] Reid Hoffman - Masters of Scale (the book, not the podcast)
+
+##### links
+> [!EXAMPLE] article: [the process police](https://52weeksofux.com/post/531355908/the-process-police)
+
+> [!EXAMPLE] [UX Crossfunctional Collaboration: Challenges and Strategies for Success](https://www.nngroup.com/articles/ux-collaboration-challenges/)
+
+> [!EXAMPLE] [Communication Practices for Increasing UX Maturity](https://www.nngroup.com/articles/communication-practices/)
 
 ---
 
@@ -1048,10 +1062,14 @@ Some examples:
 
 The key question is how much participants can influence the outcome. A planned workshop can leave the answer open; an open discussion can still be steered toward a predetermined conclusion. Be explicit about what participants can shape, what is already decided, and who makes the final call. Destination-known methods ask _"do you agree?"_; emergent methods ask _"what should we even be asking?"_
 
-
 ##### links
-https://www.peterblock.com/the-six-conversations/
-https://www.mind.org.uk/media/4924/open-space-method.pdf
+> [!EXAMPLE] [peter block - the six conversations](https://www.peterblock.com/the-six-conversations/)
+
+> [!EXAMPLE] [open space method](https://www.mind.org.uk/media/4924/open-space-method.pdf)
+
+> [!EXAMPLE] [lean coffee](https://psychsafety.com/psychological-safety-93-lean-coffee/)
+
+> [!EXAMPLE] [liberating structures](https://www.liberatingstructures.com/)
 
 ---
 
@@ -1232,6 +1250,8 @@ Emphasizing a sense of purpose is a key element of psychological safety. Motivat
 
 When we are able to physically see the positive impact of the decisions we make, it inspires us. Actually seeing the people you help vs just looking at numbers & data can have a dramatic effect on motivation.
 
+> [!EXAMPLE] [reinventing organizations: listening to purpose](https://reinventingorganizationswiki.com/en/theory/listening-to-purpose/)
+
 ---
 
 <!-- learnings/rigid teams vs teaming.md -->
@@ -1254,6 +1274,8 @@ Stable teams can provide continuity and established relationships. Teaming lets 
 
 > [!tip] amy edmondson - teaming (a practical guide for collaboration and learning)
 
+> [!EXAMPLE] article: [how teams grow organically](https://frederickvanbrabant.com/blog/2025-08-22-how-teams-grow-organically/)
+
 ---
 
 ## other things
@@ -1266,14 +1288,21 @@ Stable teams can provide continuity and established relationships. Teaming lets 
 
 Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. This boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
 
-Some benefits include:
+Some other benefits include:
 - **decision quality** - pooling information across members leads to more optimal decisions
 - **decision speed** - raw data is useful, curated data is slow and loses context
 - **innovation through unexpected connections** - Ideas often emerge when information from one domain meets a person working in another. 
 - **accountability** - Transparency makes it easier for people to hold themselves and each other accountable, because actions and reasoning are visible.
 
+##### shared information bias
+Whether all the participants have the same information available or not has a dramatic effect on decision making quality:
+> Teams systematically over-discuss information that everyone already knows and underweight information that is unique, privately held, or uncomfortable. Decades of research show that this effect is so strong that it routinely defeats the very purpose of teamwork: combining diverse knowledge into better decisions. ([source](https://medium.com/@damjangataric/ai-teams-and-the-common-information-effect-5dad5c78304f))
+
+<img src="pasted%20images/Pasted%20image%2020260910163235.png" alt="Pasted image 20260910163235.png" width="421">
+
+
 #### A team of teams
-In the book Team of Teams, stanley mcchrystal explains how hierarchical communication and decision making structures collapse under their own weight simply because of the limits of individual brain capacity.
+In the book Team of Teams, stanley mcchrystal explains how one of the limiting factors of hierarchical communication and decision making structures is simply individual brain capacity.
 
 > Complex environments are, by definition, too complicated for any one person to grasp fully.
 
@@ -1281,10 +1310,8 @@ Past a certain size no single team can hold the whole problem, so you split into
 
 > The most effective teams are those that can rapidly adapt to the ever-changing environment. 
 
-The book explains how traditional command and control structures are simply too slow and inefficient in the modern rapidly changing world.
+The ability to learn, adapt, and innovate is what sets successful teams apart from their competitors.
 
-> *Organizations are too complex for any one person to make all the decisions.*
-> 
 > In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. Today organizations are too complex for management to do all the thinking.
 
 #### the solution: shared consciousness
@@ -1298,8 +1325,6 @@ so instead of pushing decisions up, you push *understanding* down and out.
 
 ![Pasted image 20260627140901.png](pasted%20images/Pasted%20image%2020260627140901.png)
 
-
-
 #### why this leads to more innovation
 Associative thinking is the skill of connecting ideas, memories, or concepts that don’t seem related at first glance. It’s the essence of creativity, making it possible to see patterns, develop unique solutions, and bring fresh ideas into any field.
 
@@ -1309,6 +1334,13 @@ Associative thinking is the skill of connecting ideas, memories, or concepts tha
 
 
 > [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/) /  [key takeaways](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
+
+
+> A company's communicationstructure should not mirror its organizational structure. Everybody should be able to talk to anybody. (Ed Catmull, Creativity inc)
+
+Another fundamental issue with everyone focusing on their own narrow field is that in addition to ideas, many problems fall between the gaps as well. The person who notices it often isn't who can fix it. Or the one who can fix it simply doesn't know how big of a problem some easy fix is elsewhere in the company.
+
+> [!EXAMPLE] [people, processes, technology and information](https://frederickvanbrabant.com/blog/2025-05-16-people-processes-technology-and-information/)
 
 ---
 
@@ -1323,6 +1355,8 @@ Associative thinking is the skill of connecting ideas, memories, or concepts tha
 > [!EXAMPLE] podcast episode: [worklife with adam grant: the creative power of misfits](https://www.ted.com/talks/worklife_with_adam_grant_the_creative_power_of_misfits)
 
 > [!EXAMPLE] article: [The fat cat syndrome prevents innovation and opens the door for disruption](https://medium.com/@arnoldbeekes/the-fat-cat-syndrome-prevents-innovation-and-opens-the-door-for-disruption-9a37643d38a4)
+
+https://psychsafety.com/plan-continuation-bias/
 
 The more successful / large a company becomes, the more pressure there is for protecting the status quo (usually by people who are benefiting from it the most) - masking underlying inefficiencies and even sabotaging new initiatives and innovations to protect their jobs or position.
 
@@ -1345,6 +1379,10 @@ Easiest to put them in place *before* they are actually needed.
 > [!TIP] Kim Nordström - Up Down Up (many useful things, including before founding a company)
 
 > [!TIP] Eric Ries - Incorruptible (practical things aimed more at established companies, good thoughts on why the timing matters)
+
+##### establishing shared norms
+https://psychsafety.com/top-10-ways-to-foster-psychological-safety-in-the-workplace/
+
 ##### making yourself accountable
 One way to reduce the temptation to cut corners, is *to make yourself accountable for your own actions*, in a way that isn't easy to back out of later, for example:
 - putting your personal reputation on the line
@@ -1372,12 +1410,17 @@ Leaders face risks too, but they have greater power to shape what honesty costs 
 
 This can become a reinforcing cycle: people speak, receive support, see that something changes, and become more willing to speak again.
 
+The counter argument to this:
+> [!EXAMPLE] article: [psychological bravery](psychsafety.com/psychological-bravery/)
+
+> So yes, the risk is there, and the need for courage is real. But when we demand “psychological bravery” instead of fostering psychological safety, we shift responsibility back to individuals instead of the collective work of reducing the risks.
+
 ##### shared consciousness
 Sharing observations across teams can reveal that what looks like a minor local frustration is a recurring problem across the organization.
 
 > You can break out of this cycle by opening your eyes. And it is crucial to bring in outsiders and generalists whose perspective is not clouded with your habits. And you need to move fast and take serious action, before it is too late.
 
-It's often difficult for us to comprehend the cumulative cost of inefficiency, especially when it's creeped up over time. Looking at the wasted time of one person for one day may lead to a reaction "oh no, anyways", but when you multiply it by the number of people affected, over the course of a year, it often adds up to numbers that will get people's attention. (pro tip: it may be worth watching this video first)
+It's often difficult for us to comprehend the cumulative cost of inefficiency, especially when it's creeped up over time. 
 
 > [!EXAMPLE] video: [how to create change (simon sinek)](https://www.youtube.com/watch?v=fDILpuiLuAI)
 
@@ -1427,12 +1470,61 @@ Alternatives:
 
 ---
 
-<!-- learnings/learning resources.md -->
+<!-- learnings/links & resource.md -->
 
-### learning resources
+### links & resource
 
 *a list of resources, sorted by topic*
 
 my recent [reading list](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b259?v=314d1f512d894da2916a46ebef5310cd), books that seemed most useful are in the <3 category
 
-(I'll add a more focused list sorted by specific topics soon)
+**Psychological safety**
+- The Fearless Organization (Amy Edmondson)
+- explore.psychologicalsafety.com
+
+**Collaboration**
+- Teaming (Amy Edmondson)
+- Team of Teams (Stanley McChrystal)
+
+**Conversations**
+- Dare to Lead (Brené Brown)
+- Say What You Mean (Oren Jay Sofer)
+- Crucial Conversations
+- You're Not Listening (Kate Murphy)
+
+**Creativity**
+- Creativity (Mihaly Csikszentmihalyi)
+- The Practice: Shipping Creative Work (Seth Godin)
+- The Creative Act (Rick Rubin)
+- Originals (Adam Grant)
+
+**Organizations & ways of working**
+- Reinventing Organizations (Frederic Laloux)
+- Up Down Up (Kim Nordström) _(running game companies)_
+- Masters of Scale (Reid Hoffman)
+
+**Learning**
+- Right Kind of Wrong: The Science of Failing Well (Amy Edmondson)
+- Think Again (Adam Grant)
+
+**Trust**
+- The Truth About Trust (David DeSteno)
+
+**UX**
+- Designing the User Experience of Game Development Tools (David Lightbown)
+- The Gamer's Brain (Celia Hodent)
+- The Design of Everyday Things (Donald Norman)
+
+**Culture**
+- The Culture Code (Daniel Coyle)
+- The Culture Playbook (Daniel Coyle)
+
+**Motivation**
+- Start with Why (Simon Sinek)
+- Drive (Daniel Pink)
+- Flow (Mihaly Csikszentmihalyi)
+- The Practice (Seth Godin)
+
+**Leadership**
+- Leaders Eat Last (Simon Sinek)
+- Strong Ground (Brené Brown)

@@ -1,25 +1,25 @@
 part 2/3: [[feedback without ownership]]
 
-Feedback doesn't all need the same standard of evidence. An offhand suggestion from a colleague is different from feedback being used to make decisions about someone's performance, promotion, compensation, or employment.
+Not all feedback needs same standard of evidence. An offhand suggestion from a colleague is different from feedback being used to make decisions about someone's performance, promotion, compensation, or employment.
 
 The greater the consequence, the stronger the need for specificity, context, examples, and an opportunity to respond.
 ## performance reviews
 > _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
 
-Performance reviews that use anonymous feedback still need to give the person being assessed a fair opportunity to understand and respond to the criticism. Whether the source is anonymous or named, a review has failed as a feedback mechanism if consequential criticism comes as a surprise and the person has not previously been given a fair opportunity to understand and address it.
+Performance reviews that use anonymous feedback still need to give the person being assessed a fair opportunity to understand and respond to it. Whether the source is anonymous or named, a review has failed as a feedback mechanism if consequential criticism comes as a surprise and the person has not previously been given a fair opportunity to understand and address it.
 
 ## Feedback and accountability
 
 accountability is: "You own your mistakes, apologize, and make amends." Anonymity can limit direct repair: you may be unable to ask the person what the experience cost them, apologize privately, or check with them whether things have improved. It does not prevent changing your behavior or correcting a harmful process.
 
-When feedback carries consequences, whoever acts on it must explain the basis for their decision and what improvement would look like, while protecting confidential sources where necessary. The recipient needs enough specificity to understand and respond to the assessment. They do not automatically need the reporter’s identity.
+When feedback has consequences, whoever acts on it must explain their decision and what improvement would look like. They do not automatically need to reveal the reporter’s identity, but the recipient needs enough specificity to understand and respond to the assessment. 
 
 ## you can't always drop things on the floor
 > Don't grab hurtful comments and pull them close to you by rereading them and ruminating on them. Don't play with them by rehearsing your badass comeback. And whatever you do, don't pull hatefulness close to your heart.
 > 
 > Cruelty is cheap, easy, and chickenshit. It doesn't deserve your energy or engagement. Just step over the comments and keep daring, always remembering that armor is too heavy a price to pay to engage with cheap-seat feedback.
 
-But when feedback has consequences, vague criticism can't necessarily just be disregarded. If they can attach consequences to criticism that you aren't allowed to understand, question, or respond to, the problem isn't merely bad feedback anymore — it becomes a problem of how power is being exercised.
+When feedback has consequences, it can't just be disregarded. If you aren't allowed to understand, question, or respond to it, the problem isn't merely bad feedback anymore, it becomes a problem of how power is being exercised.
 
 ### further reading:
 > [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)

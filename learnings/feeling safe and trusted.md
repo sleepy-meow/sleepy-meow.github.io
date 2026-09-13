@@ -1,15 +1,8 @@
 > We can't demand people to trust us, or instruct them to come up with big ideas. and certainly can't demand people to cooperate. these are always results of feeling safe and trusted. (simon sinek)
-# what is psychological safety really?
+# what is psychological safety
 *tldr: a team climate in which people feel safe to challenge the thinking of those who have the power to throw them under the bus.*
 
-## what a safe environment looks like
-People can speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't require profound courage or encouragement. 
-
-Speaking up is received with appreciation and curiosity. There's plenty of debate, questions, admitting mistakes early, half-formed ideas and suggestions, challenging each others thinking, and disagreeing openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person.
-
-
-## red flags of an unsafe environment
-Everyone just being very "nice", and the same few people talk all the time in meetings, reaching fast consensus with no dissent. Concerns come up in the hallway/DM afterward instead of the meeting, and bad news gets watered down upwards. People seem to be walking around on eggshells, but it can be hard to put your finger on where the fear is coming from.
+> [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 ## why it matters
 > No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple. (brene brown, the call to courage)
 
@@ -91,16 +84,21 @@ But here's how doing this may help you too. By making your lead feel a little bi
 
  ![[Pasted image 20260905025238.png|346]]
 
-Just like a climate (or a house with a gas leak), we tend to get acclimatized bad conditions and stop registering them. It's easy to assume from the outside that people are making an informed decision to sell their souls, 
-(exchange their health for a paycheck)
+Just like a climate (or a house with a gas leak), we tend to get acclimatized to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But when you're in it, it's easy to get stuck. 
 
-Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But when you're in it, it's easy to get stuck. Sometimes the safest move is to step outside for some fresh air and wait for your thinking to clear up.
+## what a safe environment looks like
+People can speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't require profound courage or encouragement. 
+
+Speaking up is received with appreciation and curiosity. There's plenty of debate, questions, admitting mistakes early, half-formed ideas and suggestions, challenging each others thinking, and disagreeing openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person.
+
+
+## red flags of an unsafe environment
+Everyone just being very "nice", and the same few people talk all the time in meetings, reaching fast consensus with no dissent. Concerns come up in the hallway/DM afterward instead of the meeting, and bad news gets watered down upwards. People seem to be walking around on eggshells, but it can be hard to put your finger on where the fear is coming from.
 %%
 If there was a time in the past when you did feel safe and trusted, remember what that felt like, and set it as your standard. It can also help to reach out to the pockets of safety that still exist, to remember how people interact in a safe environment. Seeing the contrast can help recognize an abnormal situation.
 %%
 
 # resources
-> [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 
 > [!EXAMPLE] [explore.psychsafety.com](https://explore.psychsafety.com/) (a cool network diagram to demonstrate the actual complexity of the topic) 
 

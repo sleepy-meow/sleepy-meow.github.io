@@ -1,6 +1,12 @@
 *some practical tips*
 
-> [!EXAMPLE] resource: [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
+> [!EXAMPLE] [top 10 ways to foster psychological safety](https://psychsafety.com/top-10-ways-to-foster-psychological-safety-in-the-workplace/)
+
+
+> [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
+
+
+
 
 ## simple things anyone can do
 A few simple phrases can make a workplace feel more psychologically safe:
@@ -18,7 +24,7 @@ _What are your concerns?_
 
 Small acts like these make openness easier for everyone else.
 
-## Most useful things (for leads) to do 
+## Useful things for leads
 > **The most useful thing a leader can do for psychological safety is make it demonstrably safe and worthwhile to tell them something they may not want to hear.**
 
 1. **Respond well when someone speaks up.**  
@@ -45,8 +51,8 @@ Small acts like these make openness easier for everyone else.
 8. **Apply standards consistently.**  
     Address bullying, interruption, contempt, and retaliation even when the person responsible is senior or highly valued. Distinguish good-faith mistakes from clear violations of agreed standards. People judge the real culture by what influential people are allowed to do. 
     
-9. **Lower the practical cost of participating.**  
-    Welcome rough ideas, incomplete questions, early drafts, and concerns without ready-made solutions. ([[how to lower the bar for participation]])
+9. **Lower the bar for participation.**  
+    Welcome rough ideas, incomplete questions, early drafts, and concerns without ready-made solutions. ([[how to lower the bar for participation|more tips here]])
 
 10. **Explain the nature and purpose of the work.**
 	What’s uncertain, why learning will involve small failures, who benefits, and what’s at stake.

@@ -9,7 +9,7 @@ Some other benefits include:
 - **accountability** - Transparency makes it easier for people to hold themselves and each other accountable, because actions and reasoning are visible.
 
 ## shared information bias
-Whether all the participants have the same information available or not has a dramatic effect on decision making quality.
+Whether all the participants have the same information available or not has a dramatic effect on decision making quality:
 > Teams systematically over-discuss information that everyone already knows and underweight information that is unique, privately held, or uncomfortable. Decades of research show that this effect is so strong that it routinely defeats the very purpose of teamwork: combining diverse knowledge into better decisions. ([source](https://medium.com/@damjangataric/ai-teams-and-the-common-information-effect-5dad5c78304f))
 
 ![[Pasted image 20260910163235.png|421]]
@@ -24,10 +24,8 @@ Past a certain size no single team can hold the whole problem, so you split into
 
 > The most effective teams are those that can rapidly adapt to the ever-changing environment. 
 
-The book explains how traditional command and control structures are simply too slow and inefficient in the modern rapidly changing world.
+The ability to learn, adapt, and innovate is what sets successful teams apart from their competitors.
 
-> *Organizations are too complex for any one person to make all the decisions.*
-> 
 > In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. Today organizations are too complex for management to do all the thinking.
 
 # the solution: shared consciousness

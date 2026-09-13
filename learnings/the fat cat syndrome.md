@@ -29,6 +29,10 @@ Easiest to put them in place *before* they are actually needed.
 > [!TIP] Kim Nordström - Up Down Up (many useful things, including before founding a company)
 
 > [!TIP] Eric Ries - Incorruptible (practical things aimed more at established companies, good thoughts on why the timing matters)
+
+## establishing shared norms
+https://psychsafety.com/top-10-ways-to-foster-psychological-safety-in-the-workplace/
+
 ## making yourself accountable
 One way to reduce the temptation to cut corners, is *to make yourself accountable for your own actions*, in a way that isn't easy to back out of later, for example:
 - putting your personal reputation on the line
@@ -56,12 +60,17 @@ Leaders face risks too, but they have greater power to shape what honesty costs 
 
 This can become a reinforcing cycle: people speak, receive support, see that something changes, and become more willing to speak again.
 
+The counter argument to this:
+> [!EXAMPLE] article: [psychological bravery](psychsafety.com/psychological-bravery/)
+
+> So yes, the risk is there, and the need for courage is real. But when we demand “psychological bravery” instead of fostering psychological safety, we shift responsibility back to individuals instead of the collective work of reducing the risks.
+
 ## shared consciousness
 Sharing observations across teams can reveal that what looks like a minor local frustration is a recurring problem across the organization.
 
 > You can break out of this cycle by opening your eyes. And it is crucial to bring in outsiders and generalists whose perspective is not clouded with your habits. And you need to move fast and take serious action, before it is too late.
 
-It's often difficult for us to comprehend the cumulative cost of inefficiency, especially when it's creeped up over time. Looking at the wasted time of one person for one day may lead to a reaction "oh no, anyways", but when you multiply it by the number of people affected, over the course of a year, it often adds up to numbers that will get people's attention. (pro tip: it may be worth watching this video first)
+It's often difficult for us to comprehend the cumulative cost of inefficiency, especially when it's creeped up over time. 
 
 > [!EXAMPLE] video: [how to create change (simon sinek)](https://www.youtube.com/watch?v=fDILpuiLuAI)
 

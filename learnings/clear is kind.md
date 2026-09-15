@@ -4,14 +4,19 @@
 
 An observation, a concern, or a sense that something isn’t working can open a conversation. The person raising it doesn’t need all the details or a ready-made solution.
 
-> Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind.
+> Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. 
+
+
+
 
 Opening a conversation and drawing a conclusion are two different things.  initially vague feedback can turn into *"Here’s the moment, here’s what would have worked better"* (or alternatively, "i don't have all the specifics but let's talk about it"). Without those, it's just a verdict.
 
 The test isn’t whether feedback starts out vague, but whether the person giving it is willing to examine it and help make it clear. What isn’t fair is requiring someone to improve while leaving them to guess what improvement means.
 
-> Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. 
+> Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind.
 
+> [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
+# what is feedback?
 
 The word *feedback* is often used for almost any reaction to someone’s work or behaviour. Here, **developmental feedback means information offered to help someone understand their work or behaviour, its effects, and what they might continue or change.**
 

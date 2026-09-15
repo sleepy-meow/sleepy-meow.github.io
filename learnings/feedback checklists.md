@@ -3,10 +3,8 @@
 
 > [!EXAMPLE] how-to guide: [giving feedback with psychological safety ](https://psychsafety.com/giving-feedback-with-psychological-safety/)
 
-# Before having the meeting
+# Before the meeting
 Ask if they want to have the conversation now or some other time
-
-
 
 # engaged feedback checklist
 ```

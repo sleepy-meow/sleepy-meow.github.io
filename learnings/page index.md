@@ -33,9 +33,10 @@
 # other conversations
 [[how to ask the right questions]] !!
 [[empathy misses]] !! ? 
-[[heated debates]] !!
+
 [[emergent facilitation]] !!
 [[active listening]] !! ?
+[[heated debates]] !!
 
 # leadership
 [[responsibilities of a lead]] !!

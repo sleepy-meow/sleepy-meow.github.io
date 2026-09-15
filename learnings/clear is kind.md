@@ -4,30 +4,27 @@
 
 An observation, a concern, or a sense that something isn’t working can open a conversation. The person raising it doesn’t need all the details or a ready-made solution.
 
+%%Feedback is: *"Here’s the moment, here’s what would have worked better"*. Without those, it's just a verdict.%%
 
+The test isn’t whether the conversation starts out vague, but whether the person giving it is willing to examine it and help make it clear. What isn’t fair is requiring someone to improve while leaving them to guess what improvement means.
 
-
-
-
-Opening a conversation and drawing a conclusion are two different things.  initially vague feedback can turn into *"Here’s the moment, here’s what would have worked better"* (or alternatively, "i don't have all the specifics but let's talk about it"). Without those, it's just a verdict.
-
-The test isn’t whether feedback starts out vague, but whether the person giving it is willing to examine it and help make it clear. What isn’t fair is requiring someone to improve while leaving them to guess what improvement means.
-
-> Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind.
+> Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. 
+> 
+> Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind. (Brene Brown - Dare to Lead)
 
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
-# what is feedback?
+# What is feedback?
 
-The word *feedback* is often used for almost any reaction to someone’s work or behaviour. Here, **developmental feedback means information offered to help someone understand their work or behaviour, its effects, and what they might continue or change.**
+The word *feedback* is often used for almost any reaction to someone’s work or behaviour. Here, developmental feedback means information offered to help someone understand their work or behaviour, its effects, and what they might continue or change.
 
 Other kinds of messages can contribute to feedback, but aren’t automatically feedback on their own:
 
-**Observations** describes what you noticed: “You spoke three times during the meeting.”
-**Interpretations** assign meaning or motive: “You wanted to dominate the discussion.”
-**Preferences** express what you like: “I prefer shorter updates.”
-**Requests or instructions** ask for an action: “Send the draft by Friday.”
-**Venting** expresses frustration: “I’m so tired of having this conversation.”
-**Personal judgments** label someone: “You’re difficult.”
+- **Observations** describes what you noticed: “You spoke three times during the meeting.”
+- **Interpretations** assign meaning or motive: “You wanted to dominate the discussion.”
+- **Preferences** express what you like: “I prefer shorter updates.”
+- **Requests or instructions** ask for an action: “Send the draft by Friday.”
+- **Venting** expresses frustration: “I’m so tired of having this conversation.”
+- **Personal judgments** label someone: “You’re difficult.”
 
 Their role depends on the context and how they are used. An observation can help explain an impact. A preference can open a discussion about expectations. But calling something feedback does not turn an assumption into evidence, a preference into a requirement, or an insult into guidance.
 

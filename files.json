@@ -173,12 +173,6 @@
           "done": true
         },
         {
-          "name": "heated debates",
-          "path": "learnings/heated debates.md",
-          "tags": [],
-          "done": true
-        },
-        {
           "name": "emergent facilitation",
           "path": "learnings/emergent facilitation.md",
           "tags": [],
@@ -189,6 +183,12 @@
           "path": "maybe add/active listening.md",
           "tags": [],
           "draft": true,
+          "done": true
+        },
+        {
+          "name": "heated debates",
+          "path": "learnings/heated debates.md",
+          "tags": [],
           "done": true
         }
       ]

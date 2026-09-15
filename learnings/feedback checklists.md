@@ -54,8 +54,4 @@ Would your assessment come as no surprise to others familiar with the situation?
 
 # other relevant topics
 
-> [!EXAMPLE] [fundamental attribution error](https://psychsafety.com/the-fundamental-attribution-error/)  (The reason it's called 'fundamental' is that it's something we all do. )
-
-> [!EXAMPLE] [local rationality](https://psychsafety.com/local-rationality/)
-
 > [!EXAMPLE] [all feedback is subjective](https://psychsafety.com/all-feedback-is-subjective/)

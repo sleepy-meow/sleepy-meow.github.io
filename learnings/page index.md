@@ -33,7 +33,7 @@
 # other conversations
 [[how to ask the right questions]] !!
 [[empathy misses]] !! ? 
-[[how to cool conflict]] !!
+[[heated debates]] !!
 [[emergent facilitation]] !!
 [[active listening]] !! ?
 

@@ -13,6 +13,22 @@ The test isn’t whether feedback starts out vague, but whether the person givin
 > Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. 
 
 
+The word *feedback* is often used for almost any reaction to someone’s work or behaviour. Here, **developmental feedback means information offered to help someone understand their work or behaviour, its effects, and what they might continue or change.**
+
+Other kinds of messages can contribute to feedback, but aren’t automatically feedback on their own:
+
+**Observations** describes what you noticed: “You spoke three times during the meeting.”
+**Interpretations** assign meaning or motive: “You wanted to dominate the discussion.”
+**Preferences** express what you like: “I prefer shorter updates.”
+**Requests or instructions** ask for an action: “Send the draft by Friday.”
+**Venting** expresses frustration: “I’m so tired of having this conversation.”
+**Personal judgments** label someone: “You’re difficult.”
+
+Their role depends on the context and how they are used. An observation can help explain an impact. A preference can open a discussion about expectations. But calling something feedback does not turn an assumption into evidence, a preference into a requirement, or an insult into guidance.
+
+Feedback aimed at improvement needs to give the recipient something they can understand and work with, while leaving room for their context and response.
+
+Other conversations have legitimate purposes of their own. Someone raising a concern, describing harm, or setting a boundary does not need to turn their experience into a development opportunity for the person they are addressing.
 
 
 %%
@@ -22,7 +38,7 @@ The test isn’t whether feedback starts out vague, but whether the person givin
 
 
 
-> [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
+
 
 
 %%

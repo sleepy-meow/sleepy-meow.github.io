@@ -1,36 +1,26 @@
-> [!TIP] crucial conversations
-
-> [!TIP] say what you mean
-
-useful things to remember:
-> *most disagreements revolve around 5% of differences*
-
-> People don't get angry when they're confident, but scared.
-
-==todo: try to explain these in a very simple way==
-- ==general mindset==
-- ==general stuff==
-- ==simple things to do==
-- ==simple things what not to do==
-- ==examples / methods / resources==
-
-
-%%
-# simple things that can help
-Simply being in the same room, talking in person vs on slack / video call.
-
 # general stuff
 - *Identify the Nature of Conflict*: Though a difference of opinion about a product design or a work process is useful, personal friction and personality clashes are counterproductive. Understanding the differences between types of conflict (task vs relationship conflict) allows leaders to better manage contentious exchanges.
 - ﻿﻿*Model Good Communication*: Good communication when confronting conflict, especially heated conflict, combines thoughtful statements with thoughtful questions, so as to allow people to understand the true basis of a disagreement and to identify the rationale behind each position.
 - ﻿﻿*Start from Common Ground*: By identifying and also embracing shared goals, teams are able to overcome the fundamental attribution errors that erode respect and instead develop an environment of trust.
-- ﻿﻿*Encourage Difficult Conversations*: Through good communication, as just defined, it's useful to engage in authentic conversations that help build resilient relationships and put aside ideological and personal differences.
+- ﻿﻿*Encourage Difficult Conversations*: Through good communication, as just defined, it's useful to engage in authentic conversations that help build resilient relationships and put aside ideological and personal differences. Start with easy things to normalize conflict, i.e. "pineapple on pizza"
+
+# useful things to remember
+> *most disagreements revolve around 5% of differences*
+
+> People don't get angry when they're confident, but scared.
+
+
+> Communication usually fails, except by accident (*[wiios law](https://en.wikipedia.org/wiki/Wiio%27s_laws))
+
+- fundamental attribution error
+- local rationality
 
 # useful sentences
-> *Here's the story I'm telling myself."*
+> *Here's the story I'm telling myself.."*
 
 "You were quiet in that meeting, and the story I'm telling myself is that you were pissed about the sprint split. Can we talk about it?"
 
-*"What are we actually trying to solve here?"*
+> *What are we actually trying to solve here?* / What is this disagreement really about?
 
 # useful things when walking into a scary conversation
 
@@ -38,17 +28,22 @@ Simply being in the same room, talking in person vs on slack / video call.
 
 > "I'm brave enough to listen. I don't need to take it all in, but I'm brave enough to listen"
 
+# what not to do
+
+
+# useful books
+> [!TIP] crucial conversations
+
+> [!TIP] say what you mean
+
+> [!TIP] the art of fighting
+
+> [!TIP] dare to lead
 
 
 
-
-*[wiios law](https://en.wikipedia.org/wiki/Wiio%27s_laws): "Communication usually fails, except by accident”.*
-fundamental attribution error
-local rationality
-
-
+%%
 separate needs (see [[universal human needs]]) vs wants
-
 # example
 
 a teammate comes to you with a concern about someone else.

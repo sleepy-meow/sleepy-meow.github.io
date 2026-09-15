@@ -1,8 +1,6 @@
 part 2/3: [[feedback without ownership]]
 
-Not all feedback needs the same standard of evidence. An offhand suggestion from a colleague is different from feedback used to decide someone's performance rating, promotion, compensation, or continued employment.
-
-**The greater the consequence, the stronger the need for specificity, context, and an opportunity to respond.** Whoever makes the decision is responsible for checking the information and explaining the judgment, even when the source needs to remain confidential.
+Not all feedback needs the same standard of evidence. An offhand suggestion from a colleague is different from feedback used to decide someone's performance rating, promotion, compensation, or continued employment. The greater the consequence, the stronger the need for specificity, context, and an opportunity to respond.
 
 ## performance reviews
 
@@ -37,8 +35,8 @@ You can reject a comment as a verdict on your worth and still need to challenge 
 
 If you aren't allowed to understand, question, or respond to consequential criticism, the problem is also how power is being exercised.
 
-# What to do if you're on the receiving end
-
+%%
+# If you're on the receiving end
 > Seek first to understand, then to be understood.
 
 **Staying curious.** Ask for something you can act on. You don't have to agree with an assessment to try to understand it. Ask:
@@ -48,6 +46,11 @@ If you aren't allowed to understand, question, or respond to consequential criti
 - “What would improvement look like, and when will we review it?”
 
 Vague feedback isn't automatically wrong. These questions help establish whether there is something you can learn from, correct, or reasonably challenge.
+
+This may feel very scary, but sometimes the best antidote to bullshit is to simply 
+
+...
+
 
 **Bring the conversation back to the substance.** If asking for clarification gets you labelled “sensitive” or “defensive,” you can return to the question: “I'm trying to understand the concern so I can respond to it. Can we go back to the example?”
 
@@ -63,10 +66,13 @@ Integrity gives you a starting point: you can examine your actions honestly, own
 
 
 These steps can help you respond. The responsibility for a fair process still belongs to the people making the decision.
+%%
 ## further reading
 
 > [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
 
 > [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It.](https://www.corporate-rebels.com/blog/annual-performance-reviews)
+
+> [!TIP] Peter Block, Peter Koestenbaum - Confronting Our Freedom (A good take on 360 reviews, anonymous surveys, and accountability)
 
 > [!TIP] Peter Block, Peter Koestenbaum - Confronting Our Freedom (A good take on 360 reviews, anonymous surveys, and accountability)

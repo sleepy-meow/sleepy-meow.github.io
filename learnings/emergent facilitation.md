@@ -1,17 +1,20 @@
 *change begins in a shift in narrative*
 
 Emergent facilitation sets up conditions for a group's direction to arise from participants rather than from a pre-built agenda, and let solutions emerge organically.
-# why
+# what is it?
 You don't change a group by handing it answers — you change it by **shifting the conversation**. The idea is to turn passive attendees into owners, surface the intelligence already in the room, and work precisely where top-down planning fails: large groups, ambiguous problems, no single right answer.
 
 - **Participant-led, not agenda-led** — the group sets the direction, so what emerges is theirs to carry.
 - **Generate ownership and commitment, not just ideas** — engagement is a *result* of being trusted to shape the outcome, not something you can demand.
 - **Scale to large, diverse groups** and to adaptive challenges where the answer can't be pre-scripted.
 
-Some examples:
+# examples
 **6 conversations** (Peter Block) — a sequence of six questions (invitation, possibility, ownership, dissent, commitment, gifts) that deliberately shifts a group out of blame and problem-solving and into accountability and belonging. Useful when you want the *quality* of the conversation to change, not just its topic. 
 
 **open space** — a self-organising format where participants build the agenda around what they most care about and move freely between sessions. Useful when the issue is complex and urgent, energy and ownership matter, and you genuinely don't know the answer in advance. 
+
+# emergent vs. controlling the outcome
+The key question is how much participants can influence the outcome. A planned workshop can leave the answer open; an open discussion can still be steered toward a predetermined conclusion. Be explicit about what participants can shape, what is already decided, and who makes the final call. Destination-known methods ask _"do you agree?"_; emergent methods ask _"what should we even be asking?"_
 
 |                    | **emergent**                                                       | **outcome-controlling**                                                          |
 | ------------------ | ------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
@@ -23,9 +26,8 @@ Some examples:
 | main risk          | messy, unpredictable; no guaranteed output                         | manufactured consensus; people comply but don't commit; dissent goes underground |
 
 
-# vs. controlling the outcome
 
-The key question is how much participants can influence the outcome. A planned workshop can leave the answer open; an open discussion can still be steered toward a predetermined conclusion. Be explicit about what participants can shape, what is already decided, and who makes the final call. Destination-known methods ask _"do you agree?"_; emergent methods ask _"what should we even be asking?"_
+
 
 ## links
 > [!EXAMPLE] [peter block - the six conversations](https://www.peterblock.com/the-six-conversations/)

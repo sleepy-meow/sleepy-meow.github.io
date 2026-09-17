@@ -10,6 +10,7 @@ Only finished pages go in: an entry needs the "!!" (or "!!!") marker, and one
 also marked "?" is still a work in progress and is left out — the same set the
 site shows before you flip its "very WIP" switch. Entries commented out with
 %%…%% are skipped, and %%…%% inside a note is dropped from its body.
+(For the WIP pages as well, run build-combined-wip.py, which reuses this one.)
 
 Each page is separated from the next by a horizontal rule, its own heading,
 and an HTML comment naming the note it came from.
@@ -135,16 +136,33 @@ def find_special(name: str):
     return None
 
 
-def parse_index(index_path: str, notes: dict, only_done: bool = True):
+# Which pages to take, read off an index entry's trailing markers. These are
+# the site's sidebar switches: "!!"/"!!!" is finished, "?" is a draft.
+def keep_done(marker: str) -> bool:
+    """Finished pages only — what the site shows by default."""
+    return marker.count("!") >= 2 and "?" not in marker
+
+
+def keep_done_or_wip(marker: str) -> bool:
+    """Finished pages plus the drafts — the site's "very WIP" view."""
+    return marker.count("!") >= 2
+
+
+def keep_all(marker: str) -> bool:
+    """Every indexed page, whatever it's marked."""
+    return True
+
+
+def parse_index(index_path: str, notes: dict, keep=keep_done):
     """Read the page index into [(section, [(title, path), …]), …].
 
     "# heading" lines open a section; the [[wikilinks]] under it are its pages,
     in order. Unresolved links and repeats are reported and skipped.
 
-    With `only_done` (the default), a page is included just when it carries
-    "!!" or "!!!" and is not also marked "?" — the finished set, matching what
-    the site shows before its "very WIP" switch is flipped. Entries inside
-    %%…%% are gone before this runs, so they never appear either.
+    `keep` decides which pages make it in, from an entry's trailing markers —
+    by default the finished ones, matching what the site shows before its
+    "very WIP" switch is flipped. Entries inside %%…%% are gone before this
+    runs, so they never appear either.
     """
     with open(index_path, encoding="utf-8") as fh:
         text = strip_comments(fh.read())
@@ -164,7 +182,7 @@ def parse_index(index_path: str, notes: dict, only_done: bool = True):
             name = m.group(1).strip()
             key = name.lower()
             marker = re.sub(r"[ \t]", "", m.group(2) or "")
-            if only_done and not (marker.count("!") >= 2 and "?" not in marker):
+            if not keep(marker):
                 skipped.append(name)
                 continue
             path = notes.get(key)
@@ -294,15 +312,18 @@ def build(sections, assets, out_dir: str, toc: bool) -> tuple:
     return "\n".join(parts).rstrip() + "\n", warnings
 
 
-def main() -> None:
-    ap = argparse.ArgumentParser(description=__doc__,
+def main(keep=keep_done, default_output: str = DEFAULT_OUTPUT,
+         description: str = __doc__) -> None:
+    """Run the combine. `keep` and `default_output` let a sibling script reuse
+    all of this with a different set of pages — see build-combined-wip.py."""
+    ap = argparse.ArgumentParser(description=description,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("-o", "--output", default=os.path.join(ROOT, DEFAULT_OUTPUT),
-                    help=f"where to write the combined file (default: {DEFAULT_OUTPUT})")
+    ap.add_argument("-o", "--output", default=os.path.join(ROOT, default_output),
+                    help=f"where to write the combined file (default: {default_output})")
     ap.add_argument("--no-toc", dest="toc", action="store_false",
                     help="leave out the table of contents")
-    ap.add_argument("--all", dest="only_done", action="store_false",
-                    help='include every indexed page, not just finished "!!" ones')
+    ap.add_argument("--all", dest="all_pages", action="store_true",
+                    help="include every indexed page, whatever it's marked")
     args = ap.parse_args()
 
     index_path = find_special(INDEX_FILE)
@@ -310,7 +331,8 @@ def main() -> None:
         raise SystemExit(f"{INDEX_FILE} not found — nothing to combine.")
 
     notes = find_notes()
-    sections, missing, dupes, skipped = parse_index(index_path, notes, args.only_done)
+    sections, missing, dupes, skipped = parse_index(
+        index_path, notes, keep_all if args.all_pages else keep)
     if not sections:
         raise SystemExit(f"{INDEX_FILE} lists no notes that exist.")
 

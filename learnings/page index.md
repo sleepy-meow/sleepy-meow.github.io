@@ -36,7 +36,7 @@
 
 [[emergent facilitation]] !!
 [[active listening]] !! ?
-[[heated debates]] !!
+[[how to heated debates]] !!
 
 # leadership
 [[responsibilities of a lead]] !!

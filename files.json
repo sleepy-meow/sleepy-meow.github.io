@@ -15,6 +15,12 @@
           "path": "learnings/how to come up with big ideas.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "toolkits",
+          "path": "learnings/toolkits.md",
+          "tags": [],
+          "done": true
         }
       ]
     },

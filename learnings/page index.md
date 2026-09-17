@@ -2,6 +2,7 @@
 # start here
 [[introduction]] !!
 [[how to come up with big ideas]] !!
+[[toolkits]] !!
 # culture
 [[how to nurture a culture]] !! ?
 [[why to have a culture memo]] !! ?

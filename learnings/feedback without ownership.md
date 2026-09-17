@@ -71,4 +71,13 @@ Before passing feedback on, ask what the recipient can reasonably do with it. Se
 
 *When the source is not disclosed, you take responsibility for the feedback you choose to deliver.* The recipient cannot discuss it directly with the person who raised it, so you need to answer for its basis, acknowledge what remains uncertain, and be willing to reconsider it in light of their response. “I can’t tell you who said it” cannot also mean “I don’t have to explain or discuss it.”
 
+# talking about people
+> Talking about people is unkind. (Brene brown, dare to lead)
+
+> The gossip taboo benefits the powerful.
+> 
+> Gossip can of course be used to destroy or disparage unhelpfully and recklessly. But what is labeled "gossiping" can also be a process of people pooling information that fragmented go nowhere and pooled together can change things. (Priya parker, The art of fighting)
+
+
+
 part 3/3: [[high stakes feedback]]

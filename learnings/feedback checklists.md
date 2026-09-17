@@ -1,5 +1,4 @@
-*These checklists help you prepare to give feedback aimed at helping someone learn or improve; you don’t need to meet every condition here before raising a concern, describing harm, or setting a boundary.*
-
+*These checklists help you prepare to give feedback aimed at helping someone learn or improve*
 
 > [!EXAMPLE] how-to guide: [giving feedback with psychological safety ](https://psychsafety.com/giving-feedback-with-psychological-safety/)
 

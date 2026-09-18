@@ -2,7 +2,7 @@
 # start here
 [[introduction]] !!
 [[how to come up with big ideas]] !!
-[[toolkits]] !!
+
 # culture
 [[how to nurture a culture]] !! ?
 [[why to have a culture memo]] !! ?
@@ -40,7 +40,7 @@
 [[how to heated debates]] !!
 
 # leadership
-[[responsibilities of a lead]] !!
+%%[[responsibilities of a lead]] !!%%
 [[leadership approaches]] !!
 [[motivation]] !!
 %%[[courage is contagious]] !! ?%%

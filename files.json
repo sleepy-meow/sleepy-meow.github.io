@@ -15,12 +15,6 @@
           "path": "learnings/how to come up with big ideas.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "toolkits",
-          "path": "learnings/toolkits.md",
-          "tags": [],
-          "done": true
         }
       ]
     },
@@ -202,12 +196,6 @@
     {
       "name": "leadership",
       "files": [
-        {
-          "name": "responsibilities of a lead",
-          "path": "learnings/responsibilities of a lead.md",
-          "tags": [],
-          "done": true
-        },
         {
           "name": "leadership approaches",
           "path": "learnings/leadership approaches.md",

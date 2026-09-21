@@ -239,9 +239,8 @@
       "files": [
         {
           "name": "cross team connectors",
-          "path": "wip/cross team connectors.md",
+          "path": "learnings/cross team connectors.md",
           "tags": [],
-          "draft": true,
           "done": true
         },
         {

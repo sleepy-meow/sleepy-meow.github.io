@@ -1,4 +1,4 @@
-*i.e. "this ship can never sink"*
+# "this ship can never sink"
 
 > The state of mind one possesses when one becomes so successful, he/she disregards the inefficiencies and lost opportunities.
 
@@ -6,9 +6,59 @@
 
 > [!EXAMPLE] article: [The fat cat syndrome prevents innovation and opens the door for disruption](https://medium.com/@arnoldbeekes/the-fat-cat-syndrome-prevents-innovation-and-opens-the-door-for-disruption-9a37643d38a4)
 
-https://psychsafety.com/plan-continuation-bias/
+The more successful / large a company becomes, the more pressure there is for protecting the status quo - masking underlying inefficiencies and even sabotaging new initiatives and innovations to protect jobs or position.
 
-The more successful / large a company becomes, the more pressure there is for protecting the status quo (usually by people who are benefiting from it the most) - masking underlying inefficiencies and even sabotaging new initiatives and innovations to protect their jobs or position.
+# plan continuation bias
+*also known as “Get-There-Itis”*
+The unconscious cognitive bias to continue with the original plan despite of changing conditions.
+
+> [!EXAMPLE] https://psychsafety.com/plan-continuation-bias/
+
+
+# rapid hiring
+## structural guardrails don't keep up
+Easiest to put them in place *before* they are actually needed. 
+
+> [!TIP] Kim Nordström - Up Down Up (many useful things, including before founding a company)
+
+> [!TIP] Eric Ries - Incorruptible (practical things aimed more at established companies, good thoughts on why the timing matters)
+
+## the peter principle
+As a company grows, people get promoted past their abilities.
+
+## Culture transfer rate
+> We often think we can hire better and faster than we actually can. You need to create clear principles and Ways of Working around recruitment and hiring, and more importantly, constantly work with the teams so they don’t aim to “solve problems by throwing more people on them”.
+
+> Johan Kristiansson, former CEO at Starbreeze during the years 2004-2011 said that during the years when they created the games Riddick and the Darkness, **they grew on average 15-20% per year**. “We managed our growth carefully to make sure we didn’t interrupt the core of our teams. I believe that 20-25% is the maximum that a company can manage to grow in employees every year.
+
+> It takes time to train people, to get to know each other, to find relationships and build trust in the teams and so on”.
+
+> A large company is like a huge ship. It takes time to get it up to speed, and when it's up to speed, it's tough to stop, but what's fascinating is that when you turn the steering wheel - it feels like nothing happens. It takes forever before the ship reacts; in the meantime, you might have been turning that steering wheel repeatedly. Big companies are the same, changing direction takes forever. So before becoming a large ship, make sure your direction is clear. Because changing it won’t come easy, fast, or cheap.
+
+## ways of working
+workflows that may have been fine for a small team don't necessarily work for a larger team.
+
+> Adding more people to a team increases the communication overhead exponentially
+
+![[Pasted image 20260627135045.png]]
+
+This is why growing a team too large will slow everything down. It also reduces psychological safety.
+
+> [!EXAMPLE] article: [lines of communication and team size - applying brooks law](https://www.liminalarc.co/2018/02/lines-of-communication-team-size-applying-brooks-law/)
+> 
+> 
+
+> [!EXAMPLE] article: [dunbar's number, psychological safety and team size](https://psychsafety.com/psychological-safety-82-dunbars-number-and-team-size/)
+
+
+> The typical response to slow progress is to add more and more people to the teams.
+
+%%
+# the 2 pizza rule
+![[Pasted image 20260817200244.png]]
+%%
+
+%%
 
 A common misconception is that this would be somehow inevitable, but it's not. It is just a pattern that can develop when success goes unquestioned (or as Eric Ries describes in his recent book Incorruptible: "financial gravity - a structural force, almost like physics").
 

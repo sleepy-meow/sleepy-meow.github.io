@@ -3,8 +3,9 @@
 
 Reads `page index.md` — the same note that defines the sidebar — and stitches
 its pages together in index order, keeping the index's "# heading" lines as
-section headings. Useful for printing, exporting, or handing the whole thing
-to something that wants one file.
+section headings. `landing page.md` goes in first, as the site's welcome page
+does. Useful for printing, exporting, or handing the whole thing to something
+that wants one file.
 
 Only finished pages go in: an entry needs the "!!" (or "!!!") marker, and one
 also marked "?" is still a work in progress and is left out — the same set the
@@ -18,6 +19,7 @@ and an HTML comment naming the note it came from.
   python3 build-combined.py                 # -> combined.md
   python3 build-combined.py -o ~/notes.md   # somewhere else
   python3 build-combined.py --no-toc        # skip the table of contents
+  python3 build-combined.py --no-landing    # skip the landing page
   python3 build-combined.py --all           # every indexed page, WIP included
 
 Nothing here touches files.json or the site — run build-index.py for that.
@@ -49,6 +51,9 @@ RULE = "---"
 SECTION_LEVEL = 2
 NOTE_LEVEL = SECTION_LEVEL + 1
 MAX_LEVEL = 6
+# The landing page has no heading of its own — the document title is its
+# heading — so its own headings only drop far enough to sit under that.
+LANDING_LEVEL = SECTION_LEVEL - 1
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
 FENCE_RE = re.compile(r"^\s*(```|~~~)")
@@ -261,7 +266,31 @@ def shift_headings(text: str, by: int) -> str:
     return "\n".join(out)
 
 
-def build(sections, assets, out_dir: str, toc: bool) -> tuple:
+def render_body(path: str, title: str, shift: int, assets: dict,
+                anchors: dict, out_dir: str, warnings: list) -> str:
+    """Read one note and make it fit the combined document: comments and
+    frontmatter gone, embeds and wikilinks converted, headings pushed down
+    `shift` levels. Anything that couldn't be resolved is noted in `warnings`."""
+    with open(path, encoding="utf-8") as fh:
+        body = strip_comments(strip_frontmatter(fh.read()))
+    body, missing_imgs = convert_embeds(body, assets, out_dir)
+    body, missing_links = convert_links(body, anchors)
+
+    for name in missing_imgs:
+        warnings.append(f"{title}: image not found — {name}")
+    for name in sorted(set(missing_links)):
+        warnings.append(f"{title}: link to a page outside the index — [[{name}]]")
+
+    return shift_headings(body, shift).strip()
+
+
+def source_comment(path: str) -> str:
+    """An HTML comment naming the note a chunk came from: invisible once
+    rendered, but it makes the raw file easy to trace back to a note."""
+    return f"<!-- {os.path.relpath(path, ROOT).replace(os.sep, '/')} -->"
+
+
+def build(sections, assets, out_dir: str, toc: bool, landing=None) -> tuple:
     """Render the combined document. Returns the text and a warnings list."""
     warnings = []
 
@@ -274,7 +303,22 @@ def build(sections, assets, out_dir: str, toc: bool) -> tuple:
 
     parts = [f"# {TITLE}", ""]
 
+    def add_rule():
+        """A rule between top-level chunks — skipped while we're still right
+        under the title, or if the last chunk already ended with one."""
+        if parts[-2:] not in ([f"# {TITLE}", ""], [RULE, ""]):
+            parts.extend([RULE, ""])
+
+    # The landing page opens the document, the way it opens the site — under
+    # the title, above the contents, with no heading of its own.
+    if landing:
+        body = render_body(landing, title_from(os.path.basename(landing)),
+                           LANDING_LEVEL, assets, anchors, out_dir, warnings)
+        if body:
+            parts += [source_comment(landing), "", body, ""]
+
     if toc:
+        add_rule()
         parts += ["## contents", ""]
         for section, pages in sections:
             parts.append(f"- **{section}**")
@@ -283,8 +327,7 @@ def build(sections, assets, out_dir: str, toc: bool) -> tuple:
         parts.append("")
 
     for section, pages in sections:
-        if parts[-2:] != [f"# {TITLE}", ""]:
-            parts += [RULE, ""]
+        add_rule()
         parts += ["#" * SECTION_LEVEL + f" {section}", ""]
         for i, (title, path) in enumerate(pages):
             # Pages inside a section are only told apart by their title, so
@@ -292,21 +335,9 @@ def build(sections, assets, out_dir: str, toc: bool) -> tuple:
             # section heading above it.
             if i:
                 parts += [RULE, ""]
-            with open(path, encoding="utf-8") as fh:
-                body = strip_comments(strip_frontmatter(fh.read()))
-            body, missing_imgs = convert_embeds(body, assets, out_dir)
-            body, missing_links = convert_links(body, anchors)
-            body = shift_headings(body, NOTE_LEVEL).strip()
-
-            for name in missing_imgs:
-                warnings.append(f"{title}: image not found — {name}")
-            for name in sorted(set(missing_links)):
-                warnings.append(f"{title}: link to a page outside the index — [[{name}]]")
-
-            # The source path is an HTML comment: invisible once rendered,
-            # but it makes the raw file easy to trace back to a note.
-            source = os.path.relpath(path, ROOT).replace(os.sep, "/")
-            parts += [f"<!-- {source} -->", "",
+            body = render_body(path, title, NOTE_LEVEL, assets, anchors,
+                               out_dir, warnings)
+            parts += [source_comment(path), "",
                       "#" * NOTE_LEVEL + f" {title}", "", body, ""]
 
     return "\n".join(parts).rstrip() + "\n", warnings
@@ -322,6 +353,8 @@ def main(keep=keep_done, default_output: str = DEFAULT_OUTPUT,
                     help=f"where to write the combined file (default: {default_output})")
     ap.add_argument("--no-toc", dest="toc", action="store_false",
                     help="leave out the table of contents")
+    ap.add_argument("--no-landing", dest="landing", action="store_false",
+                    help=f"leave out {LANDING_FILE}")
     ap.add_argument("--all", dest="all_pages", action="store_true",
                     help="include every indexed page, whatever it's marked")
     args = ap.parse_args()
@@ -336,9 +369,12 @@ def main(keep=keep_done, default_output: str = DEFAULT_OUTPUT,
     if not sections:
         raise SystemExit(f"{INDEX_FILE} lists no notes that exist.")
 
+    landing_path = find_special(LANDING_FILE) if args.landing else None
+
     out_path = os.path.abspath(args.output)
     out_dir = os.path.dirname(out_path) or "."
-    text, warnings = build(sections, find_assets(), out_dir, args.toc)
+    text, warnings = build(sections, find_assets(), out_dir, args.toc,
+                           landing_path)
 
     os.makedirs(out_dir, exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as fh:
@@ -347,11 +383,15 @@ def main(keep=keep_done, default_output: str = DEFAULT_OUTPUT,
     pages = sum(len(p) for _, p in sections)
     words = len(text.split())
     rel = os.path.relpath(out_path, ROOT)
-    print(f"Wrote {rel} — {len(sections)} section(s), {pages} page(s), {words} words.")
+    lead = " + the landing page" if landing_path else ""
+    print(f"Wrote {rel} — {len(sections)} section(s), "
+          f"{pages} page(s){lead}, {words} words.")
     if skipped:
         print(f"  left out {len(skipped)} unfinished page(s): "
               + ", ".join(sorted(skipped)))
 
+    if args.landing and not landing_path:
+        warnings.insert(0, f"{LANDING_FILE} not found — left out")
     for name in missing:
         warnings.insert(0, f"{INDEX_FILE}: [[{name}]] has no matching note — skipped")
     for name in dupes:

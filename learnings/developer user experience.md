@@ -47,17 +47,6 @@ The distance between contexts also matters. This is why an artist solving a tech
 
 This is also why it's a good idea to have breaks in between meetings. Running from one meeting to the next without any space in between may feel productive, but whether you're actually present at the beginning and end of the meeting is another question.
 
-# cognitive accessibility
-> “No single way of working, from where or when we work to how we communicate, is optimal for all of us. Implementing flexibility at the core of policies and practices can be a game changer for your teams’ efficiency.”
-
-Our brains work in different ways, and what may seem trivial to one person may be very draining for someone else. This isn't a deficiency, just that people have different strengths, and accommodating them increases the amount of divergent thinking, which in turn, leads to more innovation.
-
-(For reasons you may not want for everyone in the room to think the same way, check out this article about [groupthink](https://www.atlassian.com/blog/teamwork/groupthink))
-
-> [!EXAMPLE] [unlocking the power of neurodiversity in game development](https://news.ubisoft.com/en-us/article/4MdbqYqnJ4Mk2PGD5hjdYf/gdc-2023-unlocking-the-power-of-neurodiversity-in-game-development)
-
-> [!EXAMPLE] [Beyond Compliance_A User-Autonomy Framework for Inclusive and Customizable Web Accessibility.pdf](attachment:704d9525-a9b2-4cc3-a82e-32e9fd7eb5bc:Beyond_Compliance_A_User-Autonomy_Framework_for_Inclusive_and_Customizable_Web_Accessibility.pdf)
-
 # understanding UX helps us make better decisions
 
 Understanding UX gives us a better basis for choosing tools and ways of working, and helps us ask better questions before committing to a solution. 

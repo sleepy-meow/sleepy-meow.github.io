@@ -24,6 +24,7 @@
 [[how to make decisions]] !!
 [[logging decisions]] !!
 [[developer user experience]] !!
+[[cognitive accessibility]] !!
 
 # feedback
 [[feedback checklists]] !!
@@ -33,14 +34,14 @@
 
 # other conversations
 [[how to ask the right questions]] !!
-[[empathy misses]] !! ? 
+[[empathy misses]] !!
 
 [[emergent facilitation]] !!
 [[active listening]] !! ?
 [[how to heated debates]] !!
 
 # leadership
-%%[[responsibilities of a lead]] !!%%
+[[responsibilities of a lead]] !!
 [[leadership approaches]] !!
 [[motivation]] !!
 %%[[courage is contagious]] !! ?%%
@@ -50,7 +51,7 @@
 # other things
 [[cross team connectors]] !! ?
 [[free flow of information]] !!
-[[the fat cat syndrome]] !!
+[[some pitfalls]] !!
 
 [[bad advice books]] !!
 [[links & resource]] !!

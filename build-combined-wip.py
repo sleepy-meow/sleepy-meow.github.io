@@ -6,13 +6,14 @@ the page index is a draft and that script leaves it out, while this one keeps
 it. So the result is the set the site shows once you flip its "very WIP"
 switch: everything marked "!!", drafts and all.
 
-Everything else — index order, section headings, wikilink and image
-conversion, the table of contents — is build-combined.py's code, imported from
-it, so the two can't drift apart.
+Everything else — the landing page, index order, section headings, wikilink
+and image conversion, the table of contents — is build-combined.py's code,
+imported from it, so the two can't drift apart.
 
   python3 build-combined-wip.py                     # -> combined-wip.md
   python3 build-combined-wip.py -o ~/notes.md       # somewhere else
   python3 build-combined-wip.py --no-toc            # skip the table of contents
+  python3 build-combined-wip.py --no-landing        # skip the landing page
   python3 build-combined-wip.py --all               # every indexed page, "!!" or not
 
 Nothing here touches files.json or the site — run build-index.py for that.

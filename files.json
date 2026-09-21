@@ -124,6 +124,12 @@
           "path": "learnings/developer user experience.md",
           "tags": [],
           "done": true
+        },
+        {
+          "name": "cognitive accessibility",
+          "path": "learnings/cognitive accessibility.md",
+          "tags": [],
+          "done": true
         }
       ]
     },
@@ -167,9 +173,8 @@
         },
         {
           "name": "empathy misses",
-          "path": "wip/empathy misses.md",
+          "path": "learnings/empathy misses.md",
           "tags": [],
-          "draft": true,
           "done": true
         },
         {
@@ -196,6 +201,12 @@
     {
       "name": "leadership",
       "files": [
+        {
+          "name": "responsibilities of a lead",
+          "path": "learnings/responsibilities of a lead.md",
+          "tags": [],
+          "done": true
+        },
         {
           "name": "leadership approaches",
           "path": "learnings/leadership approaches.md",
@@ -240,8 +251,8 @@
           "done": true
         },
         {
-          "name": "the fat cat syndrome",
-          "path": "learnings/the fat cat syndrome.md",
+          "name": "some pitfalls",
+          "path": "learnings/some pitfalls.md",
           "tags": [],
           "done": true
         },

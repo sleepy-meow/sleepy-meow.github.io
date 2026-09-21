@@ -19,10 +19,6 @@ Pick one from the sidebar to start reading!
 - **start here**
   - [introduction](#introduction)
   - [how to come up with big ideas](#how-to-come-up-with-big-ideas)
-- **culture**
-  - [how to nurture a culture](#how-to-nurture-a-culture)
-  - [why to have a culture memo](#why-to-have-a-culture-memo)
-  - [universal human needs](#universal-human-needs)
 - **psychological safety**
   - [feeling safe and trusted](#feeling-safe-and-trusted)
   - [how to psychological safety](#how-to-psychological-safety)
@@ -31,12 +27,11 @@ Pick one from the sidebar to start reading!
 - **learning & thinking**
   - [a learning mindset](#a-learning-mindset)
   - [how to fail](#how-to-fail)
-  - [how to question your own thinking](#how-to-question-your-own-thinking)
-  - [group flow](#group-flow)
 - **ways of working**
   - [how to make decisions](#how-to-make-decisions)
   - [logging decisions](#logging-decisions)
   - [developer user experience](#developer-user-experience)
+  - [cognitive accessibility](#cognitive-accessibility)
 - **feedback**
   - [feedback checklists](#feedback-checklists)
   - [clear is kind](#clear-is-kind)
@@ -46,18 +41,15 @@ Pick one from the sidebar to start reading!
   - [how to ask the right questions](#how-to-ask-the-right-questions)
   - [empathy misses](#empathy-misses)
   - [emergent facilitation](#emergent-facilitation)
-  - [active listening](#active-listening)
   - [how to heated debates](#how-to-heated-debates)
 - **leadership**
   - [responsibilities of a lead](#responsibilities-of-a-lead)
   - [leadership approaches](#leadership-approaches)
   - [motivation](#motivation)
-  - [confronting our freedom](#confronting-our-freedom)
   - [rigid teams vs teaming](#rigid-teams-vs-teaming)
 - **other things**
-  - [cross team connectors](#cross-team-connectors)
   - [free flow of information](#free-flow-of-information)
-  - [pitfalls of success](#pitfalls-of-success)
+  - [some pitfalls](#some-pitfalls)
   - [bad advice books](#bad-advice-books)
   - [links & resource](#links-resource)
 
@@ -123,109 +115,6 @@ All the ingredients for great ideas may already be in the room, just distributed
 > [!EXAMPLE] [reversing assumptions technique](https://thinkjarcollective.com/tools/reversing-assumptions-technique)
 
 > [!EXAMPLE] [constraints fuel creativity](https://52weeksofux.com/post/358515571/constraints-fuel-creativity)
-
----
-
-## culture
-
-<!-- wip/how to nurture a culture.md -->
-
-### how to nurture a culture
-
-> If character describes how an individual thinks and acts, then the culture of an organization describes the character of a group of people and how they think and act as a collective. (simon sinek, leaders eat last)
-
-
-The practical moves are nearly always changes to *how the work is done* — how decisions get made, what happens after a failure, what's visible to whom — with the culture arriving behind them as a result.
-
-> A learning culture emerges as a by-product of practice with a new way of working — not the other way around. Many change efforts fail because they focus on shifting the culture. (amy edmondson, teaming)
-
-(todo: maybe add a separate page of what a good culture can look like)
-#### practical tools
-> [!TIP] daniel coyle - the culture playbook (lots of small everyday practical things)
-
-> [!TIP] amy edmondson - teaming (collaboration & organizational learning)
-
-> [!EXAMPLE] [reinventing organizations wiki](https://reinventingorganizationswiki.com/en/) (concrete practices — decision making, conflict resolution, feedback, compensation — and case studies of companies actually doing it)
-
-> [!EXAMPLE] [corporate rebels - the 8 trends](https://www.corporate-rebels.com/bucketlist/the-8-trends) (8 shifts from traditional to progressive ways of working, distilled from visiting the workplaces doing it)
-
-(todo: find some other good lists from bookmarks)
-
-#### why to not take it for granted
-> A culture isn’t something that we should just assume will always be there. It doesn’t happen just automatically. A strong culture is durable, yes, but it is not immune to corruption and collapse. It requires care and maintenance – from all of us.
-
-Although the responsiblity is proportional to the fanciness of the job title, you don't have to be the boss to be a leader. The leader's job is to create and nurture the culture we all need to do our best work. And so anytime you play a role in doing that, you are exercising leadership. (amy edmondson, the fearless organization)
-
-> "As employees or members of the group, we need the courage to take care of each other when our leaders don't. And in doing so, we become the leaders we wish we had."
-#### for inspiration
-> [!TIP] daniel coyle - the culture code
-
----
-
-<!-- wip/why to have a culture memo.md -->
-
-### why to have a culture memo
-
-> By taking the time to write down what the culture of the company is, and sharing it, you create accountability not only for the leaders but for everyone in the company.
-
-**Why to share it publicly:** When your culture is shared out in the open, acting against it will come at a higher cost. In the long run, it will provide protection from the temptation to start cutting corners later.
-> When something is live and public there is a stronger feeling of accountability. It signals intent far more strongly than just publishing something on your intranet. 
-
-#### A culture memo
-> [!TIP] kim nordström - up down up (chapter: take the time to write down your principles)
-
-Companies often compress countless unspoken principles into a few polished statements. This tends to make them shallow, generic, and difficult to apply because they lack *context, explanation, and examples*.
-
-Phrases about openness, fairness, trust, and innovation may sound admirable, but almost any modern company could claim them. Catch-all language obscures what makes a company distinctive and offers little practical guidance.
-
-> "At some point, we felt we had too many values and that no one could remember them. So we tried to simplify them to short memorable catchphrases in a slide deck that we tried to make as short as possible. But that led to problems: people interpreted these phrases in different ways and it was not clear what we meant by them."
-
-
-
-#### example of a principle
-**Principle: We believe in transparency**
-
-We communicate openly and honestly, build trust through transparency, and ensure everyone feels informed and included. By sharing information and working together, we create a culture where every voice matters.
-
-_Why it’s unactionable:_ It doesn’t specify what should be shared, when people should be consulted, who makes the final decision, or how to handle urgency and confidentiality.
-
-**Principle: Share decisions while they can still be influenced**
-
-**Context:** Decisions often affect people who were not involved in making them. Sharing only the final outcome can create confusion and prevent useful input.
-
-**Explanation:** Transparency means communicating the problem, constraints, decision-maker, and opportunities for input—not involving everyone in every decision. Ask for feedback early enough for it to matter, then explain the final decision and its reasoning.
-
-**Examples:**
-Before changing a team workflow, share the problem and proposed approach with the people who use it. If a decision must be made urgently, make it—but explain the reasoning afterward. If information is confidential, say what cannot be shared and why rather than pretending the process is fully open.
-
-#### integrity
-Only establish principles you genuinely intend to follow. Integrity matters: principles aren’t meant to please everyone, but to create clarity and alignment. Some healthy controversy is valuable—if they don’t spark discussion, they may not be pointed enough.
-
-> If we as leaders of our own company can not follow our own principles, then we will destroy the trust of the teams and it would destroy our culture.
-
-
-#### examples for inspiration
-> [!EXAMPLE] [netflix culture memo](https://jobs.netflix.com/culture)
-
-> [!EXAMPLE] [valve employee handbook](https://www.valvesoftware.com/en/publications)
-
----
-
-<!-- wip/universal human needs.md -->
-
-### universal human needs
-
-*what every single person on the planet needs*
-
-> [!TIP] oren jay sofer - say what you mean (mindul nonviolent communication + some other stuff)
-> as opposed to the original nvc book by rosenberg, it also explains the context, has lots of great exercises, and overall many things to think about
-
-The deeper values beneath all our actions — universal, shared by everyone, met through countless different strategies. Not a complete list, but a map of what matters most.
-
-Seeing every action, your own and others', as an attempt to meet a need — is a doorway to clarity, choice, and compassion.
-
-
-![Pasted image 20260629205535.png](pasted%20images/Pasted%20image%2020260629205535.png)
 
 ---
 
@@ -645,116 +534,6 @@ Failing well means being thoughtful about what we try, limiting the potential do
 
 ---
 
-<!-- wip/how to question your own thinking.md -->
-
-### how to question your own thinking
-
-An explanation can make perfect sense to us and still be missing something important. Questioning our thinking means asking: What am I assuming? What else could explain this? What would make me change my mind?
-
-Some good books on this topic:
-
-> [!TIP] adam grant - think again
-
-> [!TIP] nassim nicholas taleb - the black swan
-
-
-#### cognitive biases
-Learning about cognitive biases can help identify where our own reasoning might need another look (not just finding labels for what everyone else gets wrong). Here are some that have seemed worth writing down to not forget about them:
-
-**curse of knowledge** - occurs when a person who has specialized knowledge assumes that others share in that knowledge
-
-**fundamental attribution error** - when something goes wrong, we blame the person, not the situation.
-
-**motive attribution asymmetry** - overattributing bad intent to others.
-
-**groupthink** - Occurs within a group of people in which the desire for harmony or conformity in the group results in an irrational or dysfunctional decision-making outcome.
-[symptoms & preventative measures](https://www.atlassian.com/blog/teamwork/groupthink)
-
-**pluralistic ignorance** - A phenomenon in which people mistakenly believe that others predominantly hold an opinion different from their own.
-
-**shared information bias** - the tendency to spend more time discussing information that all members are already familiar with vs information that only some members are aware of. 
-
-**anchoring bias** - the first opinion stated in a meeting influences others perception
-
-**escalation of commitment** - when a person or group facing increasingly negative outcomes from a decision nevertheless continue the behavior instead of altering course.
-
-**information overload** - “the difficulty in understanding an issue and effectively making decisions when one has too much information about it, and is generally associated with the excessive quantity of daily information.”
-
-**social proof** - the assumption that the surrounding people possess more knowledge about the current situation.
-
-**diffusion of responsibility** - i.e. the bystander effect
-
-**authority bias** - an assumption that a fancy title comes with enhanced brain capacity
-
-**illusory truth effect** - the tendency to believe false information to be correct after repeated exposure.
-
-**confirmation bias** - the tendency to search for, interpret, favor and recall information in a way that confirms or supports one's prior beliefs or values
-
-**response bias** - a wide range of tendencies for participants to respond inaccurately or falsely to questions, and can have a large impact on the validity of questionnaires or surveys.
-
-**automation bias** - i.e. "computer says no".
-
-**bias blind spot**
-It’s easier to spot biases in the decision making of others than our own
-related: [dunning-kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) & [illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
-
-#### resources
-- cognitive biases [wiki](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
-- anti-patterns [wiki](https://en.wikipedia.org/wiki/Anti-pattern)
-- fallacies [wiki](https://en.wikipedia.org/wiki/List_of_fallacies)
-- social phenomena [wiki]
-- [cognitive bias codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
-
-Caveat: Not all biases have equally strong research behind them (research often comes from some kind of catastrophic failure), and as any aspect of psychology, it's not an exact science.
-
-#### cognitive biases & AI
-LLMs are also equally susceptible to biases as humans, and can act as a feedback loop.
-
----
-
-<!-- wip/group flow.md -->
-
-### group flow
-
-*Group flow is the shared, energized state where a team becomes so absorbed in a task together that ideas and actions click effortlessly, the group performs at its peak, and members lose track of self and time.*
-
-> [!EXAMPLE] article: [Flow at Workplace — How to incorporate an environment which is conducive to Flow](https://medium.com/@arjunvijeth/flow-at-workplace-how-organization-could-incorporate-an-environment-which-is-conducive-to-flow-80e7788b66d3)
-
-> [!TIP] Daniel Coyle - Flourish
-
-==todo: dig up the practical methods iirc in the book==
-
-```
-**A jazz ensemble improvising**
-musicians riffing off each other, no one leading, the music seeming to play itself
-**A sports team "in the zone"**
-a basketball team on a fast break where passes land without anyone looking, everyone anticipating the next move.
-**A surgical or emergency team working a crisis**
-in tight, wordless coordination, each person moving as the situation demands.
-```
-
-The common thread: shared goal, constant communication/listening, equal participation, and deep collective absorption — the same conditions Edmondson's "teaming" and psychological safety make possible.
-
-```
-conditions of group flow
-**Shared horizon**
-a clear, team-level common goal, which is internalized by all members of the team
-**Ownership**
-ability to take meaningful responsibility for a piece of the whole 
-**Autonomy**
-the absence of coercion (move, adapt, improvise without needing permission)
-```
-
-```
-Other things that make group flow likely to emerge:
-**Constant communication**
-when everyone is fully engaged and deep listening, when focused on the natural progress emerging from members’ work, not on meeting a deadline set by management.
-**Equal participation**
-when all participants play an equal role in the collective creation of the final performance.
-```
-
----
-
 ## ways of working
 
 <!-- learnings/how to make decisions.md -->
@@ -936,17 +715,6 @@ The distance between contexts also matters. This is why an artist solving a tech
 
 This is also why it's a good idea to have breaks in between meetings. Running from one meeting to the next without any space in between may feel productive, but whether you're actually present at the beginning and end of the meeting is another question.
 
-#### cognitive accessibility
-> “No single way of working, from where or when we work to how we communicate, is optimal for all of us. Implementing flexibility at the core of policies and practices can be a game changer for your teams’ efficiency.”
-
-Our brains work in different ways, and what may seem trivial to one person may be very draining for someone else. This isn't a deficiency, just that people have different strengths, and accommodating them increases the amount of divergent thinking, which in turn, leads to more innovation.
-
-(For reasons you may not want for everyone in the room to think the same way, check out this article about [groupthink](https://www.atlassian.com/blog/teamwork/groupthink))
-
-> [!EXAMPLE] [unlocking the power of neurodiversity in game development](https://news.ubisoft.com/en-us/article/4MdbqYqnJ4Mk2PGD5hjdYf/gdc-2023-unlocking-the-power-of-neurodiversity-in-game-development)
-
-> [!EXAMPLE] [Beyond Compliance_A User-Autonomy Framework for Inclusive and Customizable Web Accessibility.pdf](attachment:704d9525-a9b2-4cc3-a82e-32e9fd7eb5bc:Beyond_Compliance_A_User-Autonomy_Framework_for_Inclusive_and_Customizable_Web_Accessibility.pdf)
-
 #### understanding UX helps us make better decisions
 
 Understanding UX gives us a better basis for choosing tools and ways of working, and helps us ask better questions before committing to a solution. 
@@ -966,6 +734,84 @@ The principles don’t tell us which option is always best. They help us notice 
 > [!EXAMPLE] [UX Crossfunctional Collaboration: Challenges and Strategies for Success](https://www.nngroup.com/articles/ux-collaboration-challenges/)
 
 > [!EXAMPLE] [Communication Practices for Increasing UX Maturity](https://www.nngroup.com/articles/communication-practices/)
+
+---
+
+<!-- learnings/cognitive accessibility.md -->
+
+### cognitive accessibility
+
+> “No single way of working, from where or when we work to how we communicate, is optimal for all of us. Implementing flexibility at the core of policies and practices can be a game changer for your teams’ efficiency.”
+
+Our brains work in different ways, and what may seem trivial to one person may be very draining for someone else. This isn't a deficiency, just that people have different strengths, and accommodating them increases the amount of divergent thinking, which in turn, leads to more innovation.
+
+> [!EXAMPLE]  https://embrace-autism.com/autistic-and-adhd-traits/
+
+> [!EXAMPLE]  https://embrace-autism.com/workplace-accommodations-for-autism-and-audhd/
+
+#### Groupthink
+Lack of accommodation to different ways of thinking can contribute to [groupthink](https://www.atlassian.com/blog/teamwork/groupthink), which leads to poor decision-making.
+
+#### recognizing individual strengths
+**Associative thinking** is the skill of connecting ideas, memories, or concepts that don’t seem related at first glance. It’s the essence of creativity, making it possible to see patterns, develop unique solutions, and bring fresh ideas into any field.
+
+> [!EXAMPLE] article: [associative thinking and creative potential](https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749)
+
+**Hyperfocus on genuinely interesting problems**. Long, deep, uninterrupted stretches on something that has hooked the interest — often producing in a day what a scattered week wouldn't.
+**Crisis performance**. Urgency and high stakes supply the stimulation that ordinary work doesn't. Many people with ADHD are notably calm and decisive when everything's on fire, while others freeze.
+**Divergent thinking and idea generation.** Weaker filtering means more remote associations surface. Valuable in early-stage ideation, naming, design, strategy — the messy front end where the "obvious" answer is the enemy.
+**Pattern-spotting across domains**. A wide, magpie-ish base of half-absorbed knowledge means noticing that this problem is structurally the same as one from a completely unrelated field.
+**Tolerance for ambiguity and change**. Novelty is rewarding rather than threatening. Reorgs, pivots, and undefined briefs that destabilize others can be energizing.
+**Willingness to question the process**. Low tolerance for pointless friction leads to "why do we do it this way?" — sometimes annoying, often the origin of a real improvement.
+**Directness and low tact-filtering**. Genuinely useful in cultures that want candor: the thing nobody's saying often gets said. (Double-edged — it can land badly, and the same trait produces interruptions.)
+**Empathy for the struggling**. Many have a long personal history of being the one who's behind, and become unusually good at noticing when a colleague is drowning and quietly not making it worse.
+**Urgency and bias to action**. Prototypes get built while others are still scoping. Momentum, at the cost of polish.
+**Recovery from setbacks**. Frequent small failures build a durable working relationship with being wrong — useful in any team that actually needs to learn rather than look right.
+#### Unhelpful approaches
+> [!EXAMPLE] article: [ADHD, Accountability, and Shame: Why "Just Try Harder" Never Works](https://adhdreimagined.substack.com/p/adhd-accountability-and-shame-why)
+
+- **“This works for me, so it should work for you.”** Assuming your own experience is a reliable guide to someone else’s effort, attention, or support needs.
+    
+- **Confusing fairness with identical treatment.** Requiring everyone to use the same working methods, even when different approaches could meet the same expectations.
+    
+- **Judging contribution by communication style.** Treating quick answers, frequent speaking, or visible confidence as the main signs of competence and engagement.
+    
+- **Expecting everyone to think on the spot.** Making meetings and spontaneous debate the only opportunities to contribute, without time to prepare or respond afterward.
+    
+- **Imposing a preferred productivity system.** Insisting on one way to plan, take notes, or organize tasks without checking whether it helps the person using it.
+    
+- **Leaving expectations implicit.** Relying on unwritten rules, vague requests, or competing “urgent” priorities, then blaming people for interpreting them differently.
+    
+- **Turning difficulties into character judgments.** Reading a missed detail as carelessness, a request for clarity as resistance, or a need for quiet as lack of team spirit.
+    
+- **Focusing feedback only on friction.** Spending every conversation on what someone finds difficult while overlooking their contributions and where their strengths could be better used.
+    
+- **Assigning strengths based on a label.** Assuming someone must be creative, analytical, good in a crisis, or detail-oriented because of a diagnosis.
+    
+- **Turning a strength into a permanent expectation.** Relying on someone’s ability to handle emergencies or become deeply absorbed in work as their everyday operating mode.
+    
+- **Making support conditional on exceptional performance.** Expecting someone to demonstrate a special talent or consistently outperform others to justify flexibility.
+    
+- **Deciding what helps without asking.** Removing responsibilities, prescribing accommodations, or narrowing someone’s role without involving them.
+    
+- **Treating an adjustment as a finished solution.** Assuming that something which helped once will work for every task, environment, or stage of someone’s life.
+
+#### Flexibility
+
+> [!EXAMPLE] [unlocking the power of neurodiversity in game development](https://news.ubisoft.com/en-us/article/4MdbqYqnJ4Mk2PGD5hjdYf/gdc-2023-unlocking-the-power-of-neurodiversity-in-game-development)
+
+> [!EXAMPLE] [Beyond Compliance_A User-Autonomy Framework for Inclusive and Customizable Web Accessibility.pdf](attachment:704d9525-a9b2-4cc3-a82e-32e9fd7eb5bc:Beyond_Compliance_A_User-Autonomy_Framework_for_Inclusive_and_Customizable_Web_Accessibility.pdf)
+
+#### Tools
+> [!EXAMPLE] [neurodiversity and ux - essential resources for cognitive accessibility](https://stephaniewalter.design/blog/neurodiversity-and-ux-essential-resources-for-cognitive-accessibility/)
+
+> [!EXAMPLE] [how to design for neurodiversity - inclusive content and ux](https://www.interaction-design.org/master-classes/how-to-design-for-neurodiversity-inclusive-content-and-ux)
+    
+#### simulator games
+
+> [!EXAMPLE] [adhd dinosaur](https://wild-babou.itch.io/adhd) (A short game where you play a dinosaur with severe ADHD, but none of the NPCs relate.)
+
+> [!EXAMPLE] [a game that simulates how it is to have adhd](https://wild-babou.itch.io/adhd)
 
 ---
 
@@ -1335,7 +1181,7 @@ stacks multiple questions plus a buried accusation, so people answer the safest 
 
 ---
 
-<!-- wip/empathy misses.md -->
+<!-- learnings/empathy misses.md -->
 
 ### empathy misses
 
@@ -1436,24 +1282,6 @@ The key question is how much participants can influence the outcome. A planned w
 > [!EXAMPLE] [lean coffee](https://psychsafety.com/psychological-safety-93-lean-coffee/)
 
 > [!EXAMPLE] [liberating structures](https://www.liberatingstructures.com/)
-
----
-
-<!-- maybe add/active listening.md -->
-
-### active listening
-
-you're not listening (kate murphy)
-*good stuff on what gets in the way of listening in the modern day & what to do about it*
-
-how to know a person (david brooks)
-*more focused on the why - from a relationship perspective*
-
-say what you mean (oren jay sofer)
-*more focused on the how & lots of exercises that i tend to procrastinate and then regret not doing when ending up in a train wreck of a conversation (also has good advice on how to salvage the train wreck conversations, and how to be less hard on yourself about it)*
-
-dare to lead (brene brown)
-*how to difficult conversations at work - how to choose courage over comfort*
 
 ---
 
@@ -1710,18 +1538,6 @@ When we are able to physically see the positive impact of the decisions we make,
 
 ---
 
-<!-- wip/confronting our freedom.md -->
-
-### confronting our freedom
-
-> [!TIP] peter block & peter koestenbaum - confronting our freedom
-
-> [!TIP] stanley mcchrystal - risk: a user's guide (the last chapter)
-
-==todo: something about the contents of these books & learned helplessness==
-
----
-
 <!-- learnings/rigid teams vs teaming.md -->
 
 ### rigid teams vs teaming
@@ -1747,22 +1563,6 @@ Stable teams can provide continuity and established relationships. Teaming lets 
 ---
 
 ## other things
-
-<!-- wip/cross team connectors.md -->
-
-### cross team connectors
-
-These are often individuals whose knowledge spans across many different domains. This breadth of knowledge can be used to connect the right people with more depth in a single topic. 
-
-They're often the ones who don't fit into a narrowly shaped box, and whose job descriptions may be hard to define. (it's hard to reduce "glue between teams" to a single measurable number)
-
-The benefits also show up with some delay, and the person who "just talks with people and things move to a better direction" may not get much credit for it.
-
-> We know true collaboration happened when the idea can no longer be traced to one person.
-
-In an environment that doesn't support them, they may be seen as unfocused, or spending too much time on exploratory topics,
-
----
 
 <!-- learnings/free flow of information.md -->
 
@@ -1828,9 +1628,9 @@ Another fundamental issue with everyone focusing on their own narrow field is th
 
 ---
 
-<!-- learnings/pitfalls of success.md -->
+<!-- learnings/some pitfalls.md -->
 
-### pitfalls of success
+### some pitfalls
 
 #### "this ship can never sink"
 
@@ -1843,11 +1643,49 @@ Another fundamental issue with everyone focusing on their own narrow field is th
 The more successful / large a company becomes, the more pressure there is for protecting the status quo - masking underlying inefficiencies and even sabotaging new initiatives and innovations to protect jobs or position.
 
 #### plan continuation bias
-https://psychsafety.com/plan-continuation-bias/
+*also known as “Get-There-Itis”*
+The unconscious cognitive bias to continue with the original plan despite of changing conditions.
 
-#### lack of structural guardrails
+> [!EXAMPLE] https://psychsafety.com/plan-continuation-bias/
 
-#### the peter principle
+
+#### rapid hiring
+##### structural guardrails don't keep up
+Easiest to put them in place *before* they are actually needed. 
+
+> [!TIP] Kim Nordström - Up Down Up (many useful things, including before founding a company)
+
+> [!TIP] Eric Ries - Incorruptible (practical things aimed more at established companies, good thoughts on why the timing matters)
+
+##### the peter principle
+As a company grows, people get promoted past their abilities.
+
+##### Culture transfer rate
+> We often think we can hire better and faster than we actually can. You need to create clear principles and Ways of Working around recruitment and hiring, and more importantly, constantly work with the teams so they don’t aim to “solve problems by throwing more people on them”.
+
+> Johan Kristiansson, former CEO at Starbreeze during the years 2004-2011 said that during the years when they created the games Riddick and the Darkness, **they grew on average 15-20% per year**. “We managed our growth carefully to make sure we didn’t interrupt the core of our teams. I believe that 20-25% is the maximum that a company can manage to grow in employees every year.
+
+> It takes time to train people, to get to know each other, to find relationships and build trust in the teams and so on”.
+
+> A large company is like a huge ship. It takes time to get it up to speed, and when it's up to speed, it's tough to stop, but what's fascinating is that when you turn the steering wheel - it feels like nothing happens. It takes forever before the ship reacts; in the meantime, you might have been turning that steering wheel repeatedly. Big companies are the same, changing direction takes forever. So before becoming a large ship, make sure your direction is clear. Because changing it won’t come easy, fast, or cheap.
+
+##### ways of working
+workflows that may have been fine for a small team don't necessarily work for a larger team.
+
+> Adding more people to a team increases the communication overhead exponentially
+
+![Pasted image 20260627135045.png](pasted%20images/Pasted%20image%2020260627135045.png)
+
+This is why growing a team too large will slow everything down. It also reduces psychological safety.
+
+> [!EXAMPLE] article: [lines of communication and team size - applying brooks law](https://www.liminalarc.co/2018/02/lines-of-communication-team-size-applying-brooks-law/)
+> 
+> 
+
+> [!EXAMPLE] article: [dunbar's number, psychological safety and team size](https://psychsafety.com/psychological-safety-82-dunbars-number-and-team-size/)
+
+
+> The typical response to slow progress is to add more and more people to the teams.
 
 ---
 

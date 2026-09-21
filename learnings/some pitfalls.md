@@ -53,6 +53,11 @@ This is why growing a team too large will slow everything down. It also reduces 
 
 > The typical response to slow progress is to add more and more people to the teams.
 
+# the culture of busyness
+> _‘Psychological safety is definitely important to me, but if I ask people to speak up, I’ve no time to deal with what they say.’_
+
+> [!EXAMPLE]  [spaciousness](https://www.meganreitz.com/spaciousness)
+
 %%
 # the 2 pizza rule
 ![[Pasted image 20260817200244.png]]

@@ -2,15 +2,17 @@
 
 my recent [reading list](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b259?v=314d1f512d894da2916a46ebef5310cd), books that seemed most useful are in the <3 category
 
-**toolkits**
+# toolkits
 > [!EXAMPLE] [sociocracy 3.0](https://sociocracy30.org/) (a toolkit for how people work and make decisions together)
 
 > [!EXAMPLE] [reinventingorganizationswiki.com](https://reinventingorganizationswiki.com/en/) (a reference library for self-managing organizations)
 
+> [!EXAMPLE] https://explore.psychologicalsafety.com
+# books
 
 **Psychological safety**
 - The Fearless Organization (Amy Edmondson)
-- explore.psychologicalsafety.com
+
 
 **Collaboration**
 - Teaming (Amy Edmondson)
@@ -21,6 +23,9 @@ my recent [reading list](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b2
 - Say What You Mean (Oren Jay Sofer)
 - Crucial Conversations
 - You're Not Listening (Kate Murphy)
+
+**Conflict**
+- The Art of Fighting (Priya Parker)
 
 **Creativity**
 - Creativity (Mihaly Csikszentmihalyi)

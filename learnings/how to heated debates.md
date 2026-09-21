@@ -1,4 +1,10 @@
 *Most of us aren't taught how to disagree well.*
+
+
+> [!INFO] Can conflict actually make our relationships stronger? (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/0iBQFU9NuiYOYa5s3ByZXR?si=6e54f47b478f4cc6)
+
+> [!TIP] Priya Parker - The Art of Fighting: The Transformative Power of Conflict
+
 # conflict avoidance
 
 Avoiding conflict can bring immediate relief. We let something slide, agree before we're ready, or save our concerns for a private conversation with someone else. Sometimes we call this being kind. Sometimes we're afraid of damaging the relationship, looking difficult, or making things worse.
@@ -50,11 +56,7 @@ Circling back is a specific move rather than a vague intention: name what you di
 Be specific about what you did, make room for how it affected the other person, and follow through. You can apologise for how you handled a disagreement while still having a different view on the issue itself.
 
 This connects to [[feeling safe and trusted|psychological safety]]  too. Owning a mistake and repairing it can give people evidence that a difficult moment doesn't have to end the conversation. That evidence becomes stronger when your behaviour changes. An apology followed by the same pattern gives people a different lesson.
-# Some useful resources
-
-> [!INFO] Can conflict actually make our relationships stronger? (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/0iBQFU9NuiYOYa5s3ByZXR?si=6e54f47b478f4cc6)
-
-> [!TIP] Priya Parker - The Art of Fighting: The Transformative Power of Conflict
+# More useful resources
 
 > [!TIP] Patterson, Grenny, McMillan & Switzler - [Crucial Conversations: Tools for Talking When Stakes Are High](https://cruciallearning.com/books/crucial-conversations-book/)
 

@@ -1,6 +1,6 @@
 part 2/3: [[feedback without ownership]]
 
-Not all feedback needs the same standard of evidence. An offhand suggestion from a colleague is different from feedback used to decide someone's performance rating, promotion, compensation, or continued employment. The greater the consequence, the stronger the need for specificity, context, and an opportunity to respond.
+Not all feedback needs the same standard of evidence. An offhand suggestion from a colleague is different from feedback with consequences. The greater the consequence, the stronger the need for specificity, context, and an opportunity to respond.
 
 ## performance reviews
 
@@ -75,4 +75,3 @@ These steps can help you respond. The responsibility for a fair process still be
 
 > [!TIP] Peter Block, Peter Koestenbaum - Confronting Our Freedom (A good take on 360 reviews, anonymous surveys, and accountability)
 
-> [!TIP] Peter Block, Peter Koestenbaum - Confronting Our Freedom (A good take on 360 reviews, anonymous surveys, and accountability)

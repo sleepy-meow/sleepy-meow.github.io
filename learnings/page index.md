@@ -49,7 +49,7 @@
 [[rigid teams vs teaming]] !!
 
 # other things
-[[cross team connectors]] !! ?
+[[cross team connectors]] !!
 [[free flow of information]] !!
 [[some pitfalls]] !!
 

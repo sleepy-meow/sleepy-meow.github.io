@@ -6,6 +6,9 @@ Our brains work in different ways, and what may seem trivial to one person may b
 
 > [!EXAMPLE]  https://embrace-autism.com/workplace-accommodations-for-autism-and-audhd/
 
+- [Neuroinclusion Success Plan Workbook](https://www.scotlink.org/wp-content/uploads/2025/04/Neuroinclusion-workbook-2025.pdf) – discussion prompts covering communication, meetings, feedback, task management and more
+- [ASAN AUNZ Self-Advocacy Toolkit](https://www.asan-aunz.org/wp-content/uploads/2024/11/asan_aunz_self_advocacy_toolkit_1_5_2024_print-1.pdf) – practical guidance for preparing conversations, meetings, emails and other forms of self-advocacy
+- https://www.hachette.co.uk/titles/niamh-garvey/the-autistic-guide-to-communicating-and-connecting/9781805012580
 # Groupthink
 Lack of accommodation to different ways of thinking can contribute to [groupthink](https://www.atlassian.com/blog/teamwork/groupthink), which leads to poor decision-making.
 

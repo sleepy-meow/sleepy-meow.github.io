@@ -1,6 +1,6 @@
 part 2/3: [[feedback without ownership]]
 
-Not all feedback needs the same standard of evidence. An offhand suggestion from a colleague is different from feedback with consequences. The greater the consequence, the stronger the need for specificity, context, and an opportunity to respond.
+Not all feedback needs the same standard of evidence, but the greater the consequence, the stronger the need for specificity, context, and an opportunity to respond.
 
 ## performance reviews
 

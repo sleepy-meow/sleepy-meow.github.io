@@ -5,7 +5,7 @@
 > [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 
 ## What a safe environment looks like
-People can speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't require profound courage or encouragement. 
+People speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't need profound courage or encouragement. 
 
 Speaking up is received with appreciation and curiosity. There's plenty of debate, questions, admitting mistakes early, half-formed ideas and suggestions, challenging each others thinking, and disagreeing openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person.
 
@@ -21,14 +21,18 @@ It's hard for anyone to do their best work when they're afraid.
 
 > _Fear inhibits learning_, drawing resources away from working memory and the ability to process new information. This makes analytical thinking, creative insight, and problem-solving more difficult. 
 
-Psychological safety is essential for communicating, collaborating, experimenting, ensuring the well-being of others, sharing information, asking for help, and a bunch of other things.
-
-In other words, *low psychological safety gets in the way of nearly every aspect of getting actual work done*. It's also hard to be healthy, trusting, or feel you belong while marinating in cortisol.
+Psychological safety is essential for communicating, collaborating, experimenting, ensuring the well-being of others, sharing information, asking for help, and a bunch of other things. *i.e. it can get in the way of nearly every aspect of getting work done*. 
 
 # What causes the fear
+Leaders have a significant influence on psychological safety, but it's also influenced by the structures, systems, incentives, pressures, history, culture, neurodiversities and experiences that people have and observe.
+
 > *Hierarchy.. or, more specifically, the fear it creates when not handled well.. reduces psychological safety*. 
 
 *Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear.
+
+Power gradients are the single most important thing to address with respect to psychological safety, and often the most difficult, because people in power rarely want to dismantle the power structures that they’re standing on.
+
+
 ## Predictability
 Psychological safety depends partly on accumulated evidence about how interpersonal risks are received. 
 
@@ -92,6 +96,11 @@ Just like a climate (or a house with a gas leak), we tend to get acclimatized to
 %%
 If there was a time in the past when you did feel safe and trusted, remember what that felt like, and set it as your standard. It can also help to reach out to the pockets of safety that still exist, to remember how people interact in a safe environment. Seeing the contrast can help recognize an abnormal situation.
 %%
+
+Another danger we come across with measurement is survey fatigue, where employees are endlessly surveyed about any and all aspects of their work experience, and the related phenomenon, survey theatre, where despite these near-constant requests to complete yet more engagement surveys, very little seems to change as a result. In these cases, the surveys are performative – they serve to provide the appearance of “doing employee engagement” or “consulting staff” without taking on any of the hard work of actually changing things for the better.  When survey metrics replace actual dialogue, measurement has become part of the problem. 
+
+https://psychsafety.com/a-team-is-only-as-safe-as-the-least-safe-person/
+
 
 %%
 # Leaders want to feel safe too

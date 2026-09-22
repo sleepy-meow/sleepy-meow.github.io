@@ -15,7 +15,7 @@ Some useful questions
 - *What are we actually trying to solve here?*
 
 # example: daily team updates
-Suppose we want people to keep up to date what their teammates are working on.
+Suppose we want to keep up to date what teammates are working on.
 
 **Option 1: a bot asks “what is everyone working on?” in the team channel each day, with updates collected in a thread.**
 The prompt removes the need to remember to post. But responding means pausing work, recalling progress, deciding what matters, and composing an update, even when nothing has changed since yesterday. 
@@ -25,9 +25,9 @@ Readers have work to do too. The first person to post sees an empty thread. To l
 **Option 2: a dedicated channel, with updates when something changes.**
 People can catch up and post in one visit at a convenient time. The continuous history includes everyone’s latest updates, even for the first person checking that morning. There is no need to wait for replies to a new daily thread.
 
-The agreement is that an update remains current until replaced, so unchanged work doesn’t need another report. Discussion stays beneath each post. This reduces duplicate writing, repeat visits, and the effort of piecing together information across daily threads. 
+Unchanged work doesn’t need another report. Discussion stays beneath each post. This reduces duplicate writing, repeat visits, and the effort of piecing together information across daily threads. 
 
-Small things like these add up over time, and we tend to often vastly underestimate the scale of recurring interruptions that affect many people. 
+Small things like these add up over time, and we often vastly underestimate the scale of recurring interruptions that affect many people. 
 # the cost of interrupted work
 *Spending 50% on one project and 50% on another does not add up to 100%.*
 
@@ -38,14 +38,9 @@ On average, 9-23 minutes is lost each time context switching. Our brains cannot 
 > [!EXAMPLE] [context switching - how to reduce it and achieve flow state](https://www.taskade.com/blog/reduce-context-switching)
 
 *"some people are just better at multitasking"*
-Self-perception of being good at multitasking or getting more done while multitasking is frequently inaccurate. Multitasking is mentally and physically stressful for everyone to the point that multitasking is used in laboratory experiments to study stressful environments.
+Self-perception of being good at multitasking or getting more done while multitasking is often inaccurate. Multitasking is mentally and physically stressful for everyone to the point that multitasking is used in laboratory experiments to study stressful environments.
 
-The distance between contexts also matters. This is why an artist solving a technical issue will expend more energy than a programmer who is already in a technical problem solving mindset.
-
-
-> [!EXAMPLE] research paper: [The Cost of Interrupted Work: More Speed and Stress](https://ics.uci.edu/~gmark/chi08-mark.pdf)
-
-This is also why it's a good idea to have breaks in between meetings. Running from one meeting to the next without any space in between may feel productive, but whether you're actually present at the beginning and end of the meeting is another question.
+The distance between contexts matters. An artist solving a technical issue will expend more energy than a programmer who is already in a technical problem solving mindset.
 
 # understanding UX helps us make better decisions
 
@@ -54,6 +49,22 @@ Understanding UX gives us a better basis for choosing tools and ways of working,
 This is where [UX maturity](https://www.nngroup.com/articles/ux-maturity-model/) becomes relevant. An organization can have people who understand these issues, yet make decisions without using their knowledge. Greater maturity means giving that understanding (and evidence from the people doing the work) a consistent role in priorities, design choices, and evaluation.
 
 The principles don’t tell us which option is always best. They help us notice the trade-offs, test our assumptions, and make more informed decisions.
+
+## user centered design
+An iterative approach that involves users throughout the design process, ensuring a product reflects their real needs, goals, and context—not just the design team’s assumptions.
+
+It's basically *a continuous learning cycle*:
+
+1. Learn about users—their goals, context, needs, and difficulties.
+2. Design based on that understanding.
+3. Test with users and observe what works.
+4. Refine the design using what you learned.
+5. Repeat as users, needs, and circumstances change.
+
+The goal isn’t to understand users once—it’s to keep replacing assumptions with evidence throughout the product’s life.
+
+## user task flows
+High-level task flows reveal dependencies and bottlenecks that may otherwise be too abstract to communicate
 
 
 > [!TIP] [Designing the User Experience of Game Development Tools](https://uxofgametools.com/) (the best book ever on this topic, very condensed and practical advice)
@@ -100,18 +111,7 @@ Some useful things to ask yourself when improving ways of working/workflows/pipe
 ## 5 whys
 To identify the root cause of a problem by asking **why** **5** times.
 
-## user centered design
-An iterative approach that involves users throughout the design process, ensuring a product reflects their real needs, goals, and context—not just the design team’s assumptions.
 
-It's basically *a continuous learning cycle*:
-
-1. Learn about users—their goals, context, needs, and difficulties.
-2. Design based on that understanding.
-3. Test with users and observe what works.
-4. Refine the design using what you learned.
-5. Repeat as users, needs, and circumstances change.
-
-The goal isn’t to understand users once—it’s to keep replacing assumptions with evidence throughout the product’s life.
 
 
 
@@ -265,8 +265,7 @@ Mistakes
     - People will always make mistakes
     - Stress = more mistakes
 
-# user task flows
-High-level task flows reveal dependencies and bottlenecks that may otherwise be too abstract to communicate
+
 
 # flexibility
 _“No single way of working, from where or when we work to how we communicate, is optimal for all of us. Implementing flexibility at the core of policies and practices can be a game changer for your teams’ efficiency.” ([blog post from ubisoft](https://news.ubisoft.com/en-us/article/4MdbqYqnJ4Mk2PGD5hjdYf/gdc-2023-unlocking-the-power-of-neurodiversity-in-game-development))_

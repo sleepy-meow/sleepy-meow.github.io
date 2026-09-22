@@ -3,6 +3,7 @@
 [[introduction]] !!
 [[how to come up with big ideas]] !!
 
+
 # culture
 [[how to nurture a culture]] !! ?
 [[why to have a culture memo]] !! ?
@@ -23,8 +24,10 @@
 # ways of working
 [[how to make decisions]] !!
 [[logging decisions]] !!
+
 [[developer user experience]] !!
-[[cognitive accessibility]] !!
+[[start with the users]] !!
+[[cognitive accessibility]] !! ?
 
 # feedback
 [[feedback checklists]] !!
@@ -38,7 +41,7 @@
 
 [[emergent facilitation]] !!
 [[active listening]] !! ?
-[[how to heated debates]] !!
+[[conflict avoidance]] !!
 
 # leadership
 [[responsibilities of a lead]] !!

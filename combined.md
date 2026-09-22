@@ -48,6 +48,7 @@ Pick one from the sidebar to start reading!
   - [motivation](#motivation)
   - [rigid teams vs teaming](#rigid-teams-vs-teaming)
 - **other things**
+  - [cross team connectors](#cross-team-connectors)
   - [free flow of information](#free-flow-of-information)
   - [some pitfalls](#some-pitfalls)
   - [bad advice books](#bad-advice-books)
@@ -749,6 +750,9 @@ Our brains work in different ways, and what may seem trivial to one person may b
 
 > [!EXAMPLE]  https://embrace-autism.com/workplace-accommodations-for-autism-and-audhd/
 
+- [Neuroinclusion Success Plan Workbook](https://www.scotlink.org/wp-content/uploads/2025/04/Neuroinclusion-workbook-2025.pdf) – discussion prompts covering communication, meetings, feedback, task management and more
+- [ASAN AUNZ Self-Advocacy Toolkit](https://www.asan-aunz.org/wp-content/uploads/2024/11/asan_aunz_self_advocacy_toolkit_1_5_2024_print-1.pdf) – practical guidance for preparing conversations, meetings, emails and other forms of self-advocacy
+- https://www.hachette.co.uk/titles/niamh-garvey/the-autistic-guide-to-communicating-and-connecting/9781805012580
 #### Groupthink
 Lack of accommodation to different ways of thinking can contribute to [groupthink](https://www.atlassian.com/blog/teamwork/groupthink), which leads to poor decision-making.
 
@@ -968,34 +972,28 @@ part 1/3: [clear is kind](#clear-is-kind)
 ##### Anonymous feedback
 Anonymous feedback comes with structural limitations: you can't have a direct conversation with the person whose experience the feedback describes. It's also hard to resolve conflict if you don't know who to talk with.
 
-“People say you’re difficult” doesn’t explain what happened, or what change is expected. An unnamed group cannot substitute for that explanation. Anonymous information can be useful as a signal; anonymous allegations shouldn't automatically become conclusions.
-
-
-
+Anonymous information can be useful as a signal, but shouldn't automatically become conclusions.
 
  
 
-> Communication is not about speaking what we think. Communication is about ensuring others hear what we mean.
+> Communication is not about speaking what we think. Communication is about ensuring others hear what we mean. 
 
 When feedback is left to someone else to deliver, you can’t assume it reached the recipient or that it conveyed what you intended.
 
 
 
 ##### The invisible army
-> "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior.
+> "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior. (brene brown, dare to lead)
 
 *Feedback needs to support a conversation.* The person responsible for the assessment must be available to explain and discuss it.
 
-Using unnamed others to avoid owning a judgment is problematic informally, and substantially more consequential when built into systems that determine people’s careers.
+Using unnamed others to avoid owning a judgment is problematic informally, and substantially more consequential when built into systems that determine people’s careers. You'll almost involuntarily try to guess who it came from, which leads to generalized distrust.
 
 
 ##### Feedback and accountability
 Accountability means: *owning your mistakes, apologizing, and making amends*. 
 Anonymity can limit direct repair: you may be unable to ask the person what the experience cost them, apologize privately, or check with them whether things have improved. 
 
-The decision-maker is accountable for how they assess and use the feedback. A manager who uses feedback to make a consequential decision must explain why they found it persuasive, consider the recipient's response, and be willing to revise their assessment.
-
-They do not automatically need to reveal the reporter's identity. They do need to provide enough specificity for the recipient to understand and respond. If protecting the source limits what can be shared or checked, that limitation should also constrain the conclusions drawn from it.
 
 
 
@@ -1008,7 +1006,7 @@ A manager may still need to protect a less powerful person whose concern they ar
 
 The more power someone has to attach consequences to their criticism, the stronger the expectation that they own it, explain its basis, and remain available for questions.
 
-The same problem appears when decisions are communicated as *“it has been decided”* without anyone owning the reasoning or answering questions. (see [decisions without ownership](#logging-decisions))
+The same problem applies to [decisions without ownership](#logging-decisions): *“it has been decided”* without anyone owning the reasoning or answering questions. 
 
 ##### the direction of feedback matters
 
@@ -1017,12 +1015,12 @@ The same sentence can have a very different weight depending on who says it. A m
 
 can affect the employee's career. An employee saying the same thing to their manager may put **the employee's own career or relationship with the manager** at risk.
 
-That difference in power creates different responsibilities. Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case.
+Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case.
 
 
 
 ##### Responsibility of the messenger
-Relaying a vague, anonymous comment doesn’t let you off the hook. *“I’m just passing on what I heard”* may feel neutral, but choosing to repeat a judgment gives it an audience and, depending on your role, authority.
+*“I’m just passing on what I heard”* may feel neutral, but choosing to repeat a judgment gives it an audience and, depending on your role, authority.
 
 Before passing feedback on, ask what the recipient can reasonably do with it. See how many boxes it checks in [the effective feedback model](#feedback-checklists). If it doesn't, consider whether it needs to be said at all.
 
@@ -1047,7 +1045,7 @@ part 3/3: [high stakes feedback](#high-stakes-feedback)
 
 part 2/3: [feedback without ownership](#feedback-without-ownership)
 
-Not all feedback needs the same standard of evidence. An offhand suggestion from a colleague is different from feedback used to decide someone's performance rating, promotion, compensation, or continued employment. The greater the consequence, the stronger the need for specificity, context, and an opportunity to respond.
+Not all feedback needs the same standard of evidence. An offhand suggestion from a colleague is different from feedback with consequences. The greater the consequence, the stronger the need for specificity, context, and an opportunity to respond.
 
 ##### performance reviews
 
@@ -1088,8 +1086,6 @@ If you aren't allowed to understand, question, or respond to consequential criti
 > [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
 
 > [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It.](https://www.corporate-rebels.com/blog/annual-performance-reviews)
-
-> [!TIP] Peter Block, Peter Koestenbaum - Confronting Our Freedom (A good take on 360 reviews, anonymous surveys, and accountability)
 
 > [!TIP] Peter Block, Peter Koestenbaum - Confronting Our Freedom (A good take on 360 reviews, anonymous surveys, and accountability)
 
@@ -1290,6 +1286,12 @@ The key question is how much participants can influence the outcome. A planned w
 ### how to heated debates
 
 *Most of us aren't taught how to disagree well.*
+
+
+> [!INFO] Can conflict actually make our relationships stronger? (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/0iBQFU9NuiYOYa5s3ByZXR?si=6e54f47b478f4cc6)
+
+> [!TIP] Priya Parker - The Art of Fighting: The Transformative Power of Conflict
+
 #### conflict avoidance
 
 Avoiding conflict can bring immediate relief. We let something slide, agree before we're ready, or save our concerns for a private conversation with someone else. Sometimes we call this being kind. Sometimes we're afraid of damaging the relationship, looking difficult, or making things worse.
@@ -1341,11 +1343,7 @@ Circling back is a specific move rather than a vague intention: name what you di
 Be specific about what you did, make room for how it affected the other person, and follow through. You can apologise for how you handled a disagreement while still having a different view on the issue itself.
 
 This connects to [psychological safety](#feeling-safe-and-trusted)  too. Owning a mistake and repairing it can give people evidence that a difficult moment doesn't have to end the conversation. That evidence becomes stronger when your behaviour changes. An apology followed by the same pattern gives people a different lesson.
-#### Some useful resources
-
-> [!INFO] Can conflict actually make our relationships stronger? (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/0iBQFU9NuiYOYa5s3ByZXR?si=6e54f47b478f4cc6)
-
-> [!TIP] Priya Parker - The Art of Fighting: The Transformative Power of Conflict
+#### More useful resources
 
 > [!TIP] Patterson, Grenny, McMillan & Switzler - [Crucial Conversations: Tools for Talking When Stakes Are High](https://cruciallearning.com/books/crucial-conversations-book/)
 
@@ -1506,35 +1504,121 @@ The more creativity and innovation are required to achieve a goal, the more this
 
 ### motivation
 
-> *People are either motivated or they are not.* Unless we give motivated people something to believe in, they will motivate themselves to find a new job (simon sinek)
+> *Great companies don't hire skilled people and motivate them, they hire already motivated people and inspire them. People are either motivated or they are not. Unless you give motivated people something to believe in, something bigger than their job to work toward, they will motivate themselves to find a new job and you'll be stuck with whoever's left.* (simon sinek, start with why)
 
-> [!tip] Simon Sinek - start with why
+#### you can't motivate people
+*you can only build the place where already-motivated people stay that way.*
+
+"motivating the team" is usually described as something a leader *does to* people. It isn't. Nobody installs motivation in anyone. What a leader actually controls is the conditions — whether people have purpose, control, recognition, and a reason to trust each other — and then motivation is what shows up, or doesn't.
+
+When a team looks unmotivated, the question isn't "how do we motivate them?" but "what in here is draining people who arrived motivated?"
+
+#### intrinsic vs extrinsic motivation
 
 > [!tip] Daniel Pink - drive
 
-
-#### intrinsic vs extrinsic motivation
 *extrinsic: you do it for what you get. intrinsic: the doing is the point.*
 
-- **Intrinsic motivation** comes from within: doing something because it feels meaningful, interesting, enjoyable, or satisfying. A compelling purpose strengthens this by connecting work to a meaningful “why.”
+- **Intrinsic motivation** comes from within: doing something because it feels meaningful, interesting, enjoyable, or satisfying. A compelling purpose strengthens this by connecting work to a meaningful "why."
 - **Extrinsic motivation** comes from external rewards or pressures, such as pay, bonuses, praise, promotion, deadlines, or fear of punishment.
 
 Purpose tends to create more lasting commitment than rewards or pressure alone—especially in complex, creative work.
 
 People still need to be paid, and being paid unfairly is its own demotivator. The question isn't which is nobler, it's which one you're relying on to produce the behaviour — because they hold up under very different conditions.
 
+#### manipulation vs inspiration
+
+> [!tip] Simon Sinek - start with why
+
+*the same behaviour can be bought or inspired. only one of them compounds.*
+
+> There are only two ways to influence human behavior: you can manipulate it or you can inspire it.
+
+Manipulation isn't a slur here — it's a category. Sinek names six: **price, promotions, fear, aspirations, peer pressure, and novelty.** In a workplace they show up as pay bumps, bonuses and perks, the implied threat of a bad review or a layoff, "this will be great for your career," what everyone else on the team is doing, and a constant supply of shiny new projects.
+
+They work. That's the problem:
+
+> The danger of manipulations is that they work. And because manipulations work, they have become the norm.
+
+The catch is that they buy a transaction, not a relationship. Each use costs a little more than the last, and eventually the incentive becomes the reason people show up at all:
+
+> Bonuses, promotions, other carrots and even a few sticks can get people to work harder, for sure, but the gains are, like all manipulations, short-term. Over time, such tactics cost more money and increase stress for employee and employer alike, and eventually will become the main reason people show up for work every day. **That's not loyalty. That's the employee version of repeat business.**
+
+Someone who keeps showing up and keeps delivering may be committed — or may just be responding to an incentive that hasn't been withdrawn yet. You find out when the incentive stops, or when the cost of staying goes up.
+
+A useful test: *if I removed the reward or the pressure tomorrow, would this behaviour survive?*
+
+
 #### sense of purpose
 
-Emphasizing a sense of purpose is a key element of psychological safety. Motivating people by articulating a compelling purpose is a well-established leadership task. Leaders who remind people of why what they do matters help create the energy that carries them through challenging moments.
+Emphasizing a sense of purpose is a key element of psychological safety. Leaders who remind people of why what they do matters help create the energy that carries them through challenging moments — though per the section above, "reminding" is much weaker than letting people *see* it.
 
-> Believing a cause is important, and the cause should always be human & beyond themselves. When a company declares that its goal is to become a global leader or make the best products, those are selfish desires with no intended value beyond anyone than the company itself, and often not even everyone in the company - The cause should be bigger than the company.
+> When a company declares that its cause is to become a global leader or to become a household name or to make the best products, those are selfish desires with no intended value to anyone beyond the company itself (and often not even everyone in the company). Those causes can't inspire humans because those causes aren't causes. No one wakes up in the morning inspired to champion that. In other words, none of them is a cause bigger than the company.
+
+The second one is more productive, more loyal, and would likely turn down an easier, better-paid job to stay. The first one would leave for a small raise. Nothing about the task changed.
+
+> *"If you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea."*
 
 #### seeing your work makes a difference
+
+> [!tip] Simon Sinek - leaders eat last
+
 > Our bosses telling us how important our work is, is nowhere near as powerful as us getting to see it ourselves.
 
-When we are able to physically see the positive impact of the decisions we make, it inspires us. Actually seeing the people you help vs just looking at numbers & data can have a dramatic effect on motivation.
+The gap between how obvious this is and how rarely it's done:
+
+> Grant surveyed several thousand executives… only 1 percent of the executives said managers should bother showing employees that their work makes a difference.
+
+##### the flip side: abstraction
+
+> When we divorce ourselves from humanity through numerical abstraction, we are capable of inhuman behavior… The more abstract people become, the more capable we are of doing them harm.
+
+Scale, dashboards, headcount, "the business," "resources," and *"that's above my pay grade"* are all forms of the same distance. 
+
+
 
 > [!EXAMPLE] [reinventing organizations: listening to purpose](https://reinventingorganizationswiki.com/en/theory/listening-to-purpose/)
+
+#### recognition and control
+
+> [!tip] Simon Sinek - leaders eat last
+
+**Recognition**: Being criticized is *better* for engagement than being ignored, because at least someone has acknowledged you exist. Neglect is worse than harshness. (Which is not an argument for harshness; the third number is the one to aim at. 
+
+> It is not the demands of the job that cause the most stress, but the degree of control workers feel they have throughout their day. The studies also found that the effort required by a job is not in itself stressful, but rather the imbalance between the effort we give and the reward we feel. Put simply: less control, more stress.
+#### measuring what you value
+
+> [!tip] Simon Sinek - start with why
+
+*what gets measured gets done — so be careful what you measure, because it will happen.*
+
+If the thing you claim to value has no measure attached, the thing that *does* have a measure will quietly win. Find a way to measure the value, not just the output.
+
+#### commitment vs compliance
+
+> [!EXAMPLE] https://psychsafety.com/accountability/
+
+_Doing what was asked tells you something about behaviour. It tells you less about whether someone believes in what they're doing._
+
+**Compliance** means meeting an expectation: following a rule, carrying out an instruction, or doing what is required.
+
+**Commitment** means choosing to support a purpose or undertaking, and taking responsibility for your contribution to it.
+
+
+
+##### creating the conditions for commitment
+
+- **Explain the purpose.** What matters here, who benefits, and why is this worth doing? And state it as something people can act on — *"For values or guiding principles to be truly effective they have to be verbs. It's not 'integrity,' it's 'always do the right thing.'"* Nouns on a wall can't be built into a system, an incentive, or an expectation. *"A little more innovation today if you would please, Bob."*
+    
+- **Invite influence while it is possible.** Asking for input after everything is settled gives people little opportunity to shape the outcome.
+    
+- **Be honest about constraints.** Say what is required, what is open, and who makes the decision.
+    
+- **Match responsibility with authority.** People need room to make the choices they will be held responsible for. Responsibility without control is the shape of the job that makes people ill.
+    
+- **Make commitments concrete.** What can each person realistically take on? What support do they need? When should the agreement be revisited?
+
+- **Let people see the result.** Close the loop so they can see what their work did, rather than being told it mattered.
 
 ---
 
@@ -1563,6 +1647,45 @@ Stable teams can provide continuity and established relationships. Teaming lets 
 ---
 
 ## other things
+
+<!-- learnings/cross team connectors.md -->
+
+### cross team connectors
+
+[]()*the people who make the seams between teams work — and why organizations keep under-valuing them.*
+
+These are often individuals whose knowledge spans across many different domains. This breadth of knowledge can be used to connect the right people with more depth in a single topic.
+
+They're often the ones who don't fit into a narrowly shaped box, and whose job descriptions may be hard to define. (it's hard to reduce "glue between teams" to a single measurable number)
+
+The benefits also show up with some delay, and the person who "just talks with people and things move to a better direction" may not get much credit for it.
+
+> We know true collaboration happened when the idea can no longer be traced to one person.
+
+In an environment that doesn't support them, they may be seen as unfocused, or as spending too much time on exploratory topics — because the cost of the role is obvious immediately and the payoff isn't.
+
+##### the two halves of shared consciousness
+
+McChrystal's Task Force rebuilt itself on two things, and connectors are the second:
+
+- **transparency** — everyone can see the whole picture (their daily O&I brief, the open floor). See [free flow of information](#free-flow-of-information).
+- **strong lateral ties** — relationships *between* teams, built deliberately through embedding and liaison programs.
+
+> What on the surface seemed like an inefficient use of time in fact laid the foundation for our adaptability.
+
+You can't attribute the outcome to the connector, because the whole point is that the outcome emerged from a network rather than a person. The measurable thing is the cost; the value shows up as things that didn't go wrong and decisions that didn't take three weeks.
+
+##### what this asks of a lead
+
+- Staff it deliberately, with someone who has standing — not with whoever is between things.
+- Protect the slack. A connector with no unstructured time is just a person in two backlogs.
+- Judge the role on the seams, not on individual output. Ask the *other* teams whether it's working.
+- Expect a lag, and say so up front, so the delay doesn't get read as failure.
+
+
+> [!EXAMPLE] [the "wired differently" problem: why adhd and polymathy are the same cognitive gift](https://medium.com/@matthewbunce/the-wired-differently-problem-why-adhd-and-polymathy-are-the-same-cognitive-gift-224dc107eee7)
+
+---
 
 <!-- learnings/free flow of information.md -->
 
@@ -1687,6 +1810,11 @@ This is why growing a team too large will slow everything down. It also reduces 
 
 > The typical response to slow progress is to add more and more people to the teams.
 
+#### the culture of busyness
+> _‘Psychological safety is definitely important to me, but if I ask people to speak up, I’ve no time to deal with what they say.’_
+
+> [!EXAMPLE]  [spaciousness](https://www.meganreitz.com/spaciousness)
+
 ---
 
 <!-- learnings/bad advice books.md -->
@@ -1741,15 +1869,17 @@ Alternatives:
 
 my recent [reading list](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b259?v=314d1f512d894da2916a46ebef5310cd), books that seemed most useful are in the <3 category
 
-**toolkits**
+#### toolkits
 > [!EXAMPLE] [sociocracy 3.0](https://sociocracy30.org/) (a toolkit for how people work and make decisions together)
 
 > [!EXAMPLE] [reinventingorganizationswiki.com](https://reinventingorganizationswiki.com/en/) (a reference library for self-managing organizations)
 
+> [!EXAMPLE] https://explore.psychologicalsafety.com
+#### books
 
 **Psychological safety**
 - The Fearless Organization (Amy Edmondson)
-- explore.psychologicalsafety.com
+
 
 **Collaboration**
 - Teaming (Amy Edmondson)
@@ -1760,6 +1890,9 @@ my recent [reading list](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b2
 - Say What You Mean (Oren Jay Sofer)
 - Crucial Conversations
 - You're Not Listening (Kate Murphy)
+
+**Conflict**
+- The Art of Fighting (Priya Parker)
 
 **Creativity**
 - Creativity (Mihaly Csikszentmihalyi)

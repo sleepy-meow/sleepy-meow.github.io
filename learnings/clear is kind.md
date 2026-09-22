@@ -11,6 +11,15 @@ The test isn’t whether the conversation starts out vague, but whether the pers
 > Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind. (Brene Brown - Dare to Lead)
 
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
+
+Here's the definition of [bullshit](https://jbaron.org/journal/15/15923a/jdm15923a.html):
+
+> .. To specifically refer to statements produced without particular concern for truth, clarity, or meaning, (distinguishing "bullshit" from a deliberate, manipulative lie intended to subvert the truth).
+
+corporate bullshit: a semantically empty and often confusing style of communication in organizational contexts that leverages abstruse corporate buzzwords and jargon in a functionally misleading way. At best, corporate bullshit can sometimes seem harmless. At worst, it can disrupt organizational and employee effectiveness in numerous ways including obstructing clear communication
+
+
+
 # What is feedback?
 
 The word *feedback* is often used for almost any reaction to someone’s work or behaviour. Here, developmental feedback means information offered to help someone understand their work or behaviour, its effects, and what they might continue or change.
@@ -41,12 +50,8 @@ Other conversations have legitimate purposes of their own. Someone raising a con
 
 
 
-%%
-And here's the definition of [bullshit](https://jbaron.org/journal/15/15923a/jdm15923a.html):
 
-> .. To specifically refer to statements produced without particular concern for truth, clarity, or meaning, (distinguishing "bullshit" from a deliberate, manipulative lie intended to subvert the truth).
 
-%%
 
 
 

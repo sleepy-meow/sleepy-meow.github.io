@@ -126,9 +126,16 @@
           "done": true
         },
         {
+          "name": "start with the users",
+          "path": "learnings/start with the users.md",
+          "tags": [],
+          "done": true
+        },
+        {
           "name": "cognitive accessibility",
           "path": "learnings/cognitive accessibility.md",
           "tags": [],
+          "draft": true,
           "done": true
         }
       ]
@@ -191,8 +198,8 @@
           "done": true
         },
         {
-          "name": "how to heated debates",
-          "path": "learnings/how to heated debates.md",
+          "name": "conflict avoidance",
+          "path": "learnings/conflict avoidance.md",
           "tags": [],
           "done": true
         }
@@ -239,7 +246,7 @@
       "files": [
         {
           "name": "cross team connectors",
-          "path": "learnings/cross team connectors.md",
+          "path": "maybe add/cross team connectors.md",
           "tags": [],
           "done": true
         },

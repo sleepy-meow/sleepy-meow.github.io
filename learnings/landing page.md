@@ -5,9 +5,10 @@ A small collection of learnings about *culture, collaboration, and about what cr
 Many of these ideas and practical tools are useful for anyone who wants to make their environment a little clearer, safer, and easier to work in. 
 
 Pick one from the sidebar to start reading!
-
+%%
 > [!WARNING] This page is still wip
 
+%%
 
 %%
 > [!INFO] TARGET AUDIENCE (small teams and people who may not necessarily be leads themselves)

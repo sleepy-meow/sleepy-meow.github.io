@@ -5,8 +5,6 @@
 
 > [!TIP] Priya Parker - The Art of Fighting: The Transformative Power of Conflict
 
-# conflict avoidance
-
 Avoiding conflict can bring immediate relief. We let something slide, agree before we're ready, or save our concerns for a private conversation with someone else. Sometimes we call this being kind. Sometimes we're afraid of damaging the relationship, looking difficult, or making things worse.
 
 > Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. (Brene Brown - Dare to Lead)

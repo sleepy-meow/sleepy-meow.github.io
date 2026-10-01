@@ -20,32 +20,31 @@ Purpose tends to create more lasting commitment than rewards or pressure alone�
 
 People still need to be paid, and being paid unfairly is its own demotivator. The question isn't which is nobler, it's which one you're relying on to produce the behaviour — because they hold up under very different conditions.
 
+Over-emphasizing extrinsic rewards can also backfire - and reduce intrinsic motivation.
+
 # manipulation vs inspiration
 
 > [!tip] Simon Sinek - start with why
 
-*the same behaviour can be bought or inspired. only one of them compounds.*
-
 > There are only two ways to influence human behavior: you can manipulate it or you can inspire it.
 
-Manipulation isn't a slur here — it's a category. Sinek names six: **price, promotions, fear, aspirations, peer pressure, and novelty.** In a workplace they show up as pay bumps, bonuses and perks, the implied threat of a bad review or a layoff, "this will be great for your career," what everyone else on the team is doing, and a constant supply of shiny new projects.
-
-They work. That's the problem:
+Manipulation isn't a slur here, but a category. Sinek names six: **price, promotions, fear, aspirations, peer pressure, and novelty.** In a workplace they show up as pay bumps, bonuses and perks, the implied threat of a bad review or a layoff, "this will be great for your career," what everyone else on the team is doing, and a constant supply of shiny new projects.
 
 > The danger of manipulations is that they work. And because manipulations work, they have become the norm.
+## Identifying persuasion
+We don't always realize when manipulation is happening, it may be easy to conclude from the outside that the person is making an informed decision to sell their soul. 
 
-The catch is that they buy a transaction, not a relationship. Each use costs a little more than the last, and eventually the incentive becomes the reason people show up at all:
+Resilience to manipulation starts from simply learning about different patterns that they frequently take. This book has a lot of examples and patterns that can be seen frequently in advertisements and by salespeople. 
 
-> Bonuses, promotions, other carrots and even a few sticks can get people to work harder, for sure, but the gains are, like all manipulations, short-term. Over time, such tactics cost more money and increase stress for employee and employer alike, and eventually will become the main reason people show up for work every day. **That's not loyalty. That's the employee version of repeat business.**
+> [!tip] Robert Cialdini - Influence
 
-Someone who keeps showing up and keeps delivering may be committed — or may just be responding to an incentive that hasn't been withdrawn yet. You find out when the incentive stops, or when the cost of staying goes up.
+Also, useful wikipedia pages: [Persuasion](https://en.wikipedia.org/wiki/Persuasion), [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
 
-A useful test: *if I removed the reward or the pressure tomorrow, would this behaviour survive?*
+These things don't automatically imply bad intent, but recognizing them gives the opportunity to pause and ask yourself "what's really happening here?" (or for example "is this time pressure real and who does it really serve?")
+
 
 
 # sense of purpose
-
-Emphasizing a sense of purpose is a key element of psychological safety. Leaders who remind people of why what they do matters help create the energy that carries them through challenging moments — though per the section above, "reminding" is much weaker than letting people *see* it.
 
 > When a company declares that its cause is to become a global leader or to become a household name or to make the best products, those are selfish desires with no intended value to anyone beyond the company itself (and often not even everyone in the company). Those causes can't inspire humans because those causes aren't causes. No one wakes up in the morning inspired to champion that. In other words, none of them is a cause bigger than the company.
 
@@ -86,6 +85,8 @@ Scale, dashboards, headcount, "the business," "resources," and *"that's above my
 **Recognition**: Being criticized is *better* for engagement than being ignored, because at least someone has acknowledged you exist. Neglect is worse than harshness. (Which is not an argument for harshness; the third number is the one to aim at. 
 
 > It is not the demands of the job that cause the most stress, but the degree of control workers feel they have throughout their day. The studies also found that the effort required by a job is not in itself stressful, but rather the imbalance between the effort we give and the reward we feel. Put simply: less control, more stress.
+
+%%
 # measuring what you value
 
 > [!tip] Simon Sinek - start with why
@@ -93,19 +94,21 @@ Scale, dashboards, headcount, "the business," "resources," and *"that's above my
 *what gets measured gets done — so be careful what you measure, because it will happen.*
 
 If the thing you claim to value has no measure attached, the thing that *does* have a measure will quietly win. Find a way to measure the value, not just the output.
-
+%%
 # commitment vs compliance
 
 > [!EXAMPLE] https://psychsafety.com/accountability/
 
+%%
 _Doing what was asked tells you something about behaviour. It tells you less about whether someone believes in what they're doing._
 
 **Compliance** means meeting an expectation: following a rule, carrying out an instruction, or doing what is required.
 
-**Commitment** means choosing to support a purpose or undertaking, and taking responsibility for your contribution to it.
+**Commitment** means choosing to support a purpose or undertaking, and taking responsibility for your contribution to it.%%
 
+> [!TIP] peter block & peter koestenbaum - confronting our freedom
 
-
+%%
 ## creating the conditions for commitment
 
 - **Explain the purpose.** What matters here, who benefits, and why is this worth doing? And state it as something people can act on — *"For values or guiding principles to be truly effective they have to be verbs. It's not 'integrity,' it's 'always do the right thing.'"* Nouns on a wall can't be built into a system, an incentive, or an expectation. *"A little more innovation today if you would please, Bob."*
@@ -120,3 +123,4 @@ _Doing what was asked tells you something about behaviour. It tells you less abo
 
 - **Let people see the result.** Close the loop so they can see what their work did, rather than being told it mattered.
     
+%%

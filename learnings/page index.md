@@ -1,15 +1,14 @@
 #index
 # start here
 [[introduction]] !!
-[[how to come up with big ideas]] !!
-
+[[how to come up with big ideas]] !! ?
+[[hope is not an emotion]] !!
 
 # culture
 [[how to nurture a culture]] !! ?
 [[why to have a culture memo]] !! ?
 [[universal human needs]] !! ?
-
-
+[[diversity of thought]] !! ?
 # psychological safety
 [[feeling safe and trusted]] !!
 [[how to psychological safety]] !!
@@ -48,7 +47,7 @@
 [[leadership approaches]] !!
 [[motivation]] !!
 %%[[courage is contagious]] !! ?%%
-[[confronting our freedom]] !! ?
+%%[[confronting our freedom]] !!%%
 [[rigid teams vs teaming]] !!
 
 # other things

@@ -23,33 +23,8 @@ Hope happens when..
 
 > [!EXAMPLE] documentary: [brene brown - the call to courage](https://www.netflix.com/fi-en/title/81010166)
 
-> [!TIP] brene brown - dare to lead
-
-*example 1*
-You hear about a concern in 1:1 conversations, but for some reason it's not discussed in bigger meetings. So you raise your hand and say it out loud. Soon after, you hear someone else say *"i kinda feel the same way".* 
-
-*example 2*
-You hear about someone taking a big risk, like founding a company, or starting some innovative project, and suddenly think to yourself *"maybe i can do it too"*
-
-*example 3*
-You get burned out and speak openly about it. This lowers the bar for others to speak about it too.
-
-# The counter argument: psychological bravery
-
-> [!EXAMPLE] article: [psychological bravery](psychsafety.com/psychological-bravery/)
-
-The stakes of speaking up are higher for some than others.
-
-> So yes, the risk is there, and the need for courage is real. But when we demand “psychological bravery” instead of fostering psychological safety, we shift responsibility back to individuals instead of the collective work of reducing the risks.
-
-Psychological safety isn’t just about reframing – the real-life consequences of speaking up can be life changing. Every day people lose their jobs, careers, or liberty as a result of speaking up, especially against power. To call that a matter of “psychological bravery” is to imply that not speaking up in the face of such risks is cowardice.
 
 > if there are people who care, there is always hope
-
-
-# providing cover from above
-> "Courage comes from above. Our confidence to do what's right is determined by how trusted we feel by our leaders."
-
 
 
 

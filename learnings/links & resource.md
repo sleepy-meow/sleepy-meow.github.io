@@ -8,6 +8,11 @@ my recent [reading list](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b2
 > [!EXAMPLE] [reinventingorganizationswiki.com](https://reinventingorganizationswiki.com/en/) (a reference library for self-managing organizations)
 
 > [!EXAMPLE] https://explore.psychologicalsafety.com
+
+> [!EXAMPLE] [corporate rebels - bucket list](https://www.corporate-rebels.com/bucketlist)
+
+
+
 # books
 
 **Psychological safety**

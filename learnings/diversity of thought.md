@@ -1,0 +1,2 @@
+- don't only hire people who all think the same way
+- we are biased to do this

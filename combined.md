@@ -10,8 +10,6 @@ Many of these ideas and practical tools are useful for anyone who wants to make 
 
 Pick one from the sidebar to start reading!
 
-> [!WARNING] This page is still wip
-
 ---
 
 ## contents
@@ -31,7 +29,7 @@ Pick one from the sidebar to start reading!
   - [how to make decisions](#how-to-make-decisions)
   - [logging decisions](#logging-decisions)
   - [developer user experience](#developer-user-experience)
-  - [cognitive accessibility](#cognitive-accessibility)
+  - [start with the users](#start-with-the-users)
 - **feedback**
   - [feedback checklists](#feedback-checklists)
   - [clear is kind](#clear-is-kind)
@@ -41,14 +39,13 @@ Pick one from the sidebar to start reading!
   - [how to ask the right questions](#how-to-ask-the-right-questions)
   - [empathy misses](#empathy-misses)
   - [emergent facilitation](#emergent-facilitation)
-  - [how to heated debates](#how-to-heated-debates)
+  - [conflict avoidance](#conflict-avoidance)
 - **leadership**
   - [responsibilities of a lead](#responsibilities-of-a-lead)
   - [leadership approaches](#leadership-approaches)
   - [motivation](#motivation)
   - [rigid teams vs teaming](#rigid-teams-vs-teaming)
 - **other things**
-  - [cross team connectors](#cross-team-connectors)
   - [free flow of information](#free-flow-of-information)
   - [some pitfalls](#some-pitfalls)
   - [bad advice books](#bad-advice-books)
@@ -76,46 +73,69 @@ Most of these skills aren’t exclusive to any job title, or even limited to the
 
 ### how to come up with big ideas
 
-> *Imagine an artist struggling with a repetitive task. A programmer knows what could help, but doesn't know the problem exists. Someone on another team has already solved something similar.* 
-> 
-> *Between them, they might have everything they need. Whether anything comes of it depends on whether those pieces ever meet.*
+_Imagine an artist struggling with a repetitive task. A programmer knows what could help, but doesn’t know the problem exists. Someone on another team has already solved something similar._
 
-It's easy to look at a team that isn't producing new ideas and assume it needs more creative people. But how would we know? The people already there may be noticing problems they don't mention, carrying knowledge around in their heads nobody knows to ask for, or holding back ideas because they don’t feel it’s their place to mention them.
+_Between them, they might have everything they need. Whether anything comes of it depends on whether those pieces ever meet._
 
-Some of that potential only becomes visible when people can compare what they know. A half-formed thought gives someone else something to build on. A question exposes an assumption. A small experiment tells us whether the connection is useful.
+It’s easy to look at a team that isn’t producing new ideas and assume it needs more creative people. But how would we know? The people already there may be noticing problems they don’t mention, carrying knowledge nobody knows to ask about, or holding back ideas because they don’t feel it’s their place to contribute.
 
-This makes the way we work together part of the creative process. Who gets to speak, what information reaches them, and what happens when they question something all affect which ideas get a chance to develop.
+Looking for creative people is only part of the picture. We also need to look at what happens to their contributions. Who notices a useful observation? Who helps develop an unfamiliar idea? What gets dismissed before anyone has had a chance to understand it?
 
-> "we never throw an idea away since you never know if someone else might need it"
-> (Art Fry, the 3M scientist who co-invented the post-it note)
+Contributing to an idea does not always mean proposing the solution. It might mean noticing a problem, showing someone how the work happens, remembering a similar attempt, asking a question that changes the direction, or testing whether an improvement actually helps. 
 
-##### Innovation frequently happens between disciplines. 
-An unexpected connection might begin with seeing how another team or discipline works, hearing someone describe a frustration, or finding out why a decision was made.
+This makes the way we work together part of the creative process. Who gets to contribute, what information reaches them, and what happens when they question something all affect which ideas get a chance to develop.
 
-This is why [free flow of information](#free-flow-of-information) matters. People need enough context to notice where their knowledge could help, including outside their own work. As teams grow, keeping those connections alive takes more deliberate effort.
+##### great ideas come from networks, not individuals
 
-> We can only think smarter if others in the room speak their minds
+Having different kinds of expertise is not the same as being able to use them together. People need opportunities to explain what they are seeing, ask questions about each other’s work, and discover where their knowledge could help.
 
-“This might be a stupid question, but…” can be followed by something useful. It can also be the point where someone decides to stay quiet. If every contribution has to arrive polished and defensible, we miss the ideas that needed someone else's perspective before they could make sense.
+An unexpected connection might begin with hearing someone describe a frustration, finding out why a decision was made, or simply watching someone work. They may have become used to a workaround, or have no reason to suspect that something difficult for them would be straightforward for someone else to improve. Watching the work gives both people something concrete to explore together.
 
+This is why free flow of information matters. Sharing only what someone needs to complete their assigned task can hide the context that would let them suggest a better approach. People need enough understanding of the wider work to notice where they could help. As teams grow, keeping those connections alive takes more deliberate effort.
 
-[Feeling safe enough to speak](#feeling-safe-and-trusted) and [making it easy to contribute](#how-to-lower-the-bar-for-participation) give people a chance to build on each other's thinking while it's still taking shape.
+##### ideas need room to be unfinished
+
+“This might be a stupid question, but…” can be followed by something useful. It can also be the point where someone decides to stay quiet.
+
+If every contribution has to arrive polished and defensible, we miss the ideas that needed someone else’s perspective before they could make sense. A group can spend so much effort making its thinking look competent that it leaves too little room to discover where that thinking is wrong.
+
+A half-formed thought gives someone else something to build on. A question can expose an assumption. An admission of uncertainty can make room for someone with relevant experience to help.
+
+Feeling safe enough to speak and making it easy to contribute give people a chance to build on each other’s thinking while it is still taking shape. That does not mean lowering the standard of the finished work. It means not requiring every contribution to be finished work.
 
 ##### ideas need iteration
 
-Once an idea is out in the open, it needs questions. What problem would this solve? What are we assuming? What does someone closer to the work see that others don't?
+Once an idea is out in the open, it needs questions. What problem would this solve? What are we assuming? What does someone closer to the work see that others don’t? Has anyone already tried something similar?
 
-This takes [good questions](#how-to-ask-the-right-questions), honest feedback, and a willingness to rethink our own thinking. Then we need to try something small enough to learn from if it doesn't work, and share our learnings.
+Welcoming an idea does not mean agreeing with it. It means giving it a fair chance to be understood and improved. This takes good questions, honest feedback, and a willingness to rethink our own thinking.
+
+Then choose a small way to test it. Before trying something, agree on what you hope to learn. What would suggest that the idea helps? What would make you change direction? Keep the experiment small enough to limit the cost of being wrong, but useful enough to inform the next decision.
+
+In the opening example, that might mean trying a small script on a few assets rather than building a complete tool. Or sketching a different workflow with the artist before writing any code.
+
+Afterwards, share what happened—including what did not work and what remains uncertain. That gives the next person something to build on instead of having to repeat the same experiment.
 
 An environment that welcomes ideas also needs to help people improve them.
 
-> The gardener cannot actually “grow” tomatoes, squash or beans - she can only foster an environment in which the plants do so.
+##### creating the conditions
 
-All the ingredients for great ideas may already be in the room, just distributed between different people. We can't guarantee that the next conversation will produce a breakthrough, but we can build an environment where they have a better chance of finding each other.
+> The gardener cannot actually “grow” tomatoes, squash, or beans—she can only foster an environment in which the plants do so.
 
-> [!EXAMPLE] [reversing assumptions technique](https://thinkjarcollective.com/tools/reversing-assumptions-technique)
+Creating those conditions is practical work: making knowledge accessible, inviting questions, and giving people time and support to explore useful possibilities. Encouragement alone does not make room in someone’s workload.
 
-> [!EXAMPLE] [constraints fuel creativity](https://52weeksofux.com/post/358515571/constraints-fuel-creativity)
+All the ingredients for a useful idea may already be there, just distributed between different people. We cannot guarantee that the next conversation will produce a breakthrough, but we can make it easier for those pieces to meet. Exploring one small problem together is a place to start.
+
+##### resources
+
+###### further reading
+- **[_Teaming_ — Amy Edmondson](https://www.library.hbs.edu/working-knowledge/the-importance-of-teaming?utm_source=chatgpt.com).** How people combine their knowledge and learn while working together, including across changing teams. 
+- **[_Right Kind of Wrong_ — Amy Edmondson](https://www.exed.hbs.edu/blog/framing-failure-for-learning-innovation?utm_source=chatgpt.com).** How to distinguish useful experiments from avoidable mistakes, keep risks proportionate, and learn from the results.
+- **[_Team of Teams_ — Stanley McChrystal](https://www.mcchrystalgroup.com/insights/detail/2022/10/12/how-to-be-a-Great-Team-Leader?utm_source=chatgpt.com).** Sharing context across teams and creating conditions in which people can act on what they know. 
+
+###### techniques and prompts
+
+- **[Reversing assumptions](https://thinkjarcollective.com/tools/reversing-assumptions-technique?utm_source=chatgpt.com)** — List the assumptions behind an approach, reverse them, and explore what would have to change for the alternatives to work.
+- **[Constraints fuel creativity](https://52weeksofux.com/post/358515571/constraints-fuel-creativity?utm_source=chatgpt.com)** — A short design essay on using constraints as a starting point for exploring alternatives.
 
 ---
 
@@ -132,7 +152,7 @@ All the ingredients for great ideas may already be in the room, just distributed
 > [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 
 ##### What a safe environment looks like
-People can speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't require profound courage or encouragement. 
+People speak their mind without thinking too much about it, and engaging in meaningful dialogue doesn't need profound courage or encouragement. 
 
 Speaking up is received with appreciation and curiosity. There's plenty of debate, questions, admitting mistakes early, half-formed ideas and suggestions, challenging each others thinking, and disagreeing openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person.
 
@@ -148,14 +168,18 @@ It's hard for anyone to do their best work when they're afraid.
 
 > _Fear inhibits learning_, drawing resources away from working memory and the ability to process new information. This makes analytical thinking, creative insight, and problem-solving more difficult. 
 
-Psychological safety is essential for communicating, collaborating, experimenting, ensuring the well-being of others, sharing information, asking for help, and a bunch of other things.
-
-In other words, *low psychological safety gets in the way of nearly every aspect of getting actual work done*. It's also hard to be healthy, trusting, or feel you belong while marinating in cortisol.
+Psychological safety is essential for communicating, collaborating, experimenting, ensuring the well-being of others, sharing information, asking for help, and a bunch of other things. *i.e. it can get in the way of nearly every aspect of getting work done*. 
 
 #### What causes the fear
+Leaders have a significant influence on psychological safety, but it's also influenced by the structures, systems, incentives, pressures, history, culture, neurodiversities and experiences that people have and observe.
+
 > *Hierarchy.. or, more specifically, the fear it creates when not handled well.. reduces psychological safety*. 
 
 *Leaders have the biggest impact on psychological safety*, and it is their responsibility to create a climate where voice is welcomed. Power can cause leaders to become overly obsessed with outcomes and control, inadvertently ramping up people's fear.
+
+Power gradients are the single most important thing to address with respect to psychological safety, and often the most difficult, because people in power rarely want to dismantle the power structures that they’re standing on.
+
+
 ##### Predictability
 Psychological safety depends partly on accumulated evidence about how interpersonal risks are received. 
 
@@ -211,6 +235,11 @@ Telling someone who is afraid to simply try harder to focus, is like trying to s
 Just like a climate (or a house with a gas leak), we tend to get acclimatized to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe. But when you're in it, it's easy to get stuck. 
 
 
+
+
+Another danger we come across with measurement is survey fatigue, where employees are endlessly surveyed about any and all aspects of their work experience, and the related phenomenon, survey theatre, where despite these near-constant requests to complete yet more engagement surveys, very little seems to change as a result. In these cases, the surveys are performative – they serve to provide the appearance of “doing employee engagement” or “consulting staff” without taking on any of the hard work of actually changing things for the better.  When survey metrics replace actual dialogue, measurement has become part of the problem. 
+
+https://psychsafety.com/a-team-is-only-as-safe-as-the-least-safe-person/
 
 
 
@@ -684,7 +713,7 @@ Some useful questions
 - *What are we actually trying to solve here?*
 
 #### example: daily team updates
-Suppose we want people to keep up to date what their teammates are working on.
+Suppose we want to keep up to date what teammates are working on.
 
 **Option 1: a bot asks “what is everyone working on?” in the team channel each day, with updates collected in a thread.**
 The prompt removes the need to remember to post. But responding means pausing work, recalling progress, deciding what matters, and composing an update, even when nothing has changed since yesterday. 
@@ -694,9 +723,9 @@ Readers have work to do too. The first person to post sees an empty thread. To l
 **Option 2: a dedicated channel, with updates when something changes.**
 People can catch up and post in one visit at a convenient time. The continuous history includes everyone’s latest updates, even for the first person checking that morning. There is no need to wait for replies to a new daily thread.
 
-The agreement is that an update remains current until replaced, so unchanged work doesn’t need another report. Discussion stays beneath each post. This reduces duplicate writing, repeat visits, and the effort of piecing together information across daily threads. 
+Unchanged work doesn’t need another report. Discussion stays beneath each post. This reduces duplicate writing, repeat visits, and the effort of piecing together information across daily threads. 
 
-Small things like these add up over time, and we tend to often vastly underestimate the scale of recurring interruptions that affect many people. 
+Small things like these add up over time, and we often vastly underestimate the scale of recurring interruptions that affect many people. 
 #### the cost of interrupted work
 *Spending 50% on one project and 50% on another does not add up to 100%.*
 
@@ -707,14 +736,9 @@ On average, 9-23 minutes is lost each time context switching. Our brains cannot 
 > [!EXAMPLE] [context switching - how to reduce it and achieve flow state](https://www.taskade.com/blog/reduce-context-switching)
 
 *"some people are just better at multitasking"*
-Self-perception of being good at multitasking or getting more done while multitasking is frequently inaccurate. Multitasking is mentally and physically stressful for everyone to the point that multitasking is used in laboratory experiments to study stressful environments.
+Self-perception of being good at multitasking or getting more done while multitasking is often inaccurate. Multitasking is mentally and physically stressful for everyone to the point that multitasking is used in laboratory experiments to study stressful environments.
 
-The distance between contexts also matters. This is why an artist solving a technical issue will expend more energy than a programmer who is already in a technical problem solving mindset.
-
-
-> [!EXAMPLE] research paper: [The Cost of Interrupted Work: More Speed and Stress](https://ics.uci.edu/~gmark/chi08-mark.pdf)
-
-This is also why it's a good idea to have breaks in between meetings. Running from one meeting to the next without any space in between may feel productive, but whether you're actually present at the beginning and end of the meeting is another question.
+The distance between contexts matters. An artist solving a technical issue will expend more energy than a programmer who is already in a technical problem solving mindset.
 
 #### understanding UX helps us make better decisions
 
@@ -723,6 +747,22 @@ Understanding UX gives us a better basis for choosing tools and ways of working,
 This is where [UX maturity](https://www.nngroup.com/articles/ux-maturity-model/) becomes relevant. An organization can have people who understand these issues, yet make decisions without using their knowledge. Greater maturity means giving that understanding (and evidence from the people doing the work) a consistent role in priorities, design choices, and evaluation.
 
 The principles don’t tell us which option is always best. They help us notice the trade-offs, test our assumptions, and make more informed decisions.
+
+##### user centered design
+An iterative approach that involves users throughout the design process, ensuring a product reflects their real needs, goals, and context—not just the design team’s assumptions.
+
+It's basically *a continuous learning cycle*:
+
+1. Learn about users—their goals, context, needs, and difficulties.
+2. Design based on that understanding.
+3. Test with users and observe what works.
+4. Refine the design using what you learned.
+5. Repeat as users, needs, and circumstances change.
+
+The goal isn’t to understand users once—it’s to keep replacing assumptions with evidence throughout the product’s life.
+
+##### user task flows
+High-level task flows reveal dependencies and bottlenecks that may otherwise be too abstract to communicate
 
 
 > [!TIP] [Designing the User Experience of Game Development Tools](https://uxofgametools.com/) (the best book ever on this topic, very condensed and practical advice)
@@ -738,84 +778,166 @@ The principles don’t tell us which option is always best. They help us notice 
 
 ---
 
-<!-- learnings/cognitive accessibility.md -->
+<!-- learnings/start with the users.md -->
 
-### cognitive accessibility
+### start with the users
 
-> “No single way of working, from where or when we work to how we communicate, is optimal for all of us. Implementing flexibility at the core of policies and practices can be a game changer for your teams’ efficiency.”
+*a collection of bite sized tech art learnings*
 
-Our brains work in different ways, and what may seem trivial to one person may be very draining for someone else. This isn't a deficiency, just that people have different strengths, and accommodating them increases the amount of divergent thinking, which in turn, leads to more innovation.
+> “You’ve got to start with the customer experience and work back toward the technology - not the other way around.” -Steve Jobs
 
-> [!EXAMPLE]  https://embrace-autism.com/autistic-and-adhd-traits/
+> [!SUCCESS] Defining user experience
+> User experience refers to how a user interacts with and operates a product, system, or service, including perceptions of utility, ease of use, and efficiency.
+> <img src="pasted%20images/Pasted%20image%2020260827141054.png" alt="Pasted image 20260827141054.png" width="314">
 
-> [!EXAMPLE]  https://embrace-autism.com/workplace-accommodations-for-autism-and-audhd/
 
-- [Neuroinclusion Success Plan Workbook](https://www.scotlink.org/wp-content/uploads/2025/04/Neuroinclusion-workbook-2025.pdf) – discussion prompts covering communication, meetings, feedback, task management and more
-- [ASAN AUNZ Self-Advocacy Toolkit](https://www.asan-aunz.org/wp-content/uploads/2024/11/asan_aunz_self_advocacy_toolkit_1_5_2024_print-1.pdf) – practical guidance for preparing conversations, meetings, emails and other forms of self-advocacy
-- https://www.hachette.co.uk/titles/niamh-garvey/the-autistic-guide-to-communicating-and-connecting/9781805012580
-#### Groupthink
-Lack of accommodation to different ways of thinking can contribute to [groupthink](https://www.atlassian.com/blog/teamwork/groupthink), which leads to poor decision-making.
+> [!SUCCESS] reducing the cognitive load
+> A good rule of thumb is to ask yourself: does this change reduce the cognitive load for the whole group as a whole (in the long run). 
 
-#### recognizing individual strengths
-**Associative thinking** is the skill of connecting ideas, memories, or concepts that don’t seem related at first glance. It’s the essence of creativity, making it possible to see patterns, develop unique solutions, and bring fresh ideas into any field.
+> [!SUCCESS] iterative design
+> Frequent, small iterations reduce the need for significant course corrections.
+> 
+> analyze the situation → design 1+ focused improvements → evaluate impact on user experience
+> 
+> the goal of one iteration is to learn something out of it.![Pasted image 20260827141154.png](pasted%20images/Pasted%20image%2020260827141154.png)
+> 
+> The typical steps of iterative design in user interfaces:
+ >    1. Create an initial interface design
+ >    2. Present the design to several test users
+ >    3. Note any problems had by the test user
+ >    4. Refine interface to account for/fix the problems
+>     1. Repeat steps 2-4 until user interface problems are resolved
 
-> [!EXAMPLE] article: [associative thinking and creative potential](https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749)
+> [!SUCCESS]  learning from mistakes
+> postmortems, decision logs, etc. help identify repeating patterns over time.
 
-**Hyperfocus on genuinely interesting problems**. Long, deep, uninterrupted stretches on something that has hooked the interest — often producing in a day what a scattered week wouldn't.
-**Crisis performance**. Urgency and high stakes supply the stimulation that ordinary work doesn't. Many people with ADHD are notably calm and decisive when everything's on fire, while others freeze.
-**Divergent thinking and idea generation.** Weaker filtering means more remote associations surface. Valuable in early-stage ideation, naming, design, strategy — the messy front end where the "obvious" answer is the enemy.
-**Pattern-spotting across domains**. A wide, magpie-ish base of half-absorbed knowledge means noticing that this problem is structurally the same as one from a completely unrelated field.
-**Tolerance for ambiguity and change**. Novelty is rewarding rather than threatening. Reorgs, pivots, and undefined briefs that destabilize others can be energizing.
-**Willingness to question the process**. Low tolerance for pointless friction leads to "why do we do it this way?" — sometimes annoying, often the origin of a real improvement.
-**Directness and low tact-filtering**. Genuinely useful in cultures that want candor: the thing nobody's saying often gets said. (Double-edged — it can land badly, and the same trait produces interruptions.)
-**Empathy for the struggling**. Many have a long personal history of being the one who's behind, and become unusually good at noticing when a colleague is drowning and quietly not making it worse.
-**Urgency and bias to action**. Prototypes get built while others are still scoping. Momentum, at the cost of polish.
-**Recovery from setbacks**. Frequent small failures build a durable working relationship with being wrong — useful in any team that actually needs to learn rather than look right.
-#### Unhelpful approaches
-> [!EXAMPLE] article: [ADHD, Accountability, and Shame: Why "Just Try Harder" Never Works](https://adhdreimagined.substack.com/p/adhd-accountability-and-shame-why)
+> "the minute you encourage someone to use a piece of technology, you are inherently responsible for it" (reid hoffman, masters of scale)
 
-- **“This works for me, so it should work for you.”** Assuming your own experience is a reliable guide to someone else’s effort, attention, or support needs.
-    
-- **Confusing fairness with identical treatment.** Requiring everyone to use the same working methods, even when different approaches could meet the same expectations.
-    
-- **Judging contribution by communication style.** Treating quick answers, frequent speaking, or visible confidence as the main signs of competence and engagement.
-    
-- **Expecting everyone to think on the spot.** Making meetings and spontaneous debate the only opportunities to contribute, without time to prepare or respond afterward.
-    
-- **Imposing a preferred productivity system.** Insisting on one way to plan, take notes, or organize tasks without checking whether it helps the person using it.
-    
-- **Leaving expectations implicit.** Relying on unwritten rules, vague requests, or competing “urgent” priorities, then blaming people for interpreting them differently.
-    
-- **Turning difficulties into character judgments.** Reading a missed detail as carelessness, a request for clarity as resistance, or a need for quiet as lack of team spirit.
-    
-- **Focusing feedback only on friction.** Spending every conversation on what someone finds difficult while overlooking their contributions and where their strengths could be better used.
-    
-- **Assigning strengths based on a label.** Assuming someone must be creative, analytical, good in a crisis, or detail-oriented because of a diagnosis.
-    
-- **Turning a strength into a permanent expectation.** Relying on someone’s ability to handle emergencies or become deeply absorbed in work as their everyday operating mode.
-    
-- **Making support conditional on exceptional performance.** Expecting someone to demonstrate a special talent or consistently outperform others to justify flexibility.
-    
-- **Deciding what helps without asking.** Removing responsibilities, prescribing accommodations, or narrowing someone’s role without involving them.
-    
-- **Treating an adjustment as a finished solution.** Assuming that something which helped once will work for every task, environment, or stage of someone’s life.
+> [!SUCCESS] common reasons why users didn’t read the manual
+> - not knowing know it exists
+> - it doesn’t exist
+> - it’s difficult to find / navigate to
+> - it’s hard to understand
+> - it contains a lot of irrelevant information to the user
 
-#### Flexibility
+> [!SUCCESS]  lowering the barrier to contribute
+> the lower the barrier is to extend a tool, the more people can help improve & customize it
 
-> [!EXAMPLE] [unlocking the power of neurodiversity in game development](https://news.ubisoft.com/en-us/article/4MdbqYqnJ4Mk2PGD5hjdYf/gdc-2023-unlocking-the-power-of-neurodiversity-in-game-development)
+> [!SUCCESS]  estimating return on investment
+> basic version: Time/energy saved each occurrence *x* Number of users *x* Frequency *x* Future benefits
+> Vs
+> Development time (including the time that users don’t have the fix) *+* Future maintenance & support time *+* time it takes to adopt & learn 
+> 
+> example: 5 minutes saved *x* 4 times a day *x* 35 users
+>   = 11.7 hours / day, or 29 days / month, or *350 days / year*
+> 
+> (Other factors like cognitive load and context switching are harder to quantify but relevant)
+> 
+> these calculations often end up looking like this:
+> 
+>  <img src="pasted%20images/Pasted%20image%2020260827141326.png" alt="Pasted image 20260827141326.png" width="296">
+> Caveat: creative work of artists / human cognition can not be reduced to a single number, and oversimplifying any complex topic can have unintended consequences
 
-> [!EXAMPLE] [Beyond Compliance_A User-Autonomy Framework for Inclusive and Customizable Web Accessibility.pdf](attachment:704d9525-a9b2-4cc3-a82e-32e9fd7eb5bc:Beyond_Compliance_A_User-Autonomy_Framework_for_Inclusive_and_Customizable_Web_Accessibility.pdf)
+> [!SUCCESS] the hierarchy of mental loads
+> - High: cognitive tasks (thinking, remembering)
+> - Medium: visual processing
+> - Low: physical actions (clicking, typing)
+> 
+> More interactions are not inherently negative if they lower cognitive load.
 
-#### Tools
-> [!EXAMPLE] [neurodiversity and ux - essential resources for cognitive accessibility](https://stephaniewalter.design/blog/neurodiversity-and-ux-essential-resources-for-cognitive-accessibility/)
+> [!SUCCESS] reducing distractions
+> context switching - around 9-23 minutes (or more) can be lost each time you switch your attention from one topic to another before regaining full focus.
+> 
+> it’s often possible to still “feel” like you’re doing something useful, but in the end get nothing done.
+> 
+> severity depends on the type of distraction (and [contexts you’re switching between](https://ics.uci.edu/~gmark/chi08-mark.pdf)), for example making art → figuring out why a tool doesn’t work is quite high.
 
-> [!EXAMPLE] [how to design for neurodiversity - inclusive content and ux](https://www.interaction-design.org/master-classes/how-to-design-for-neurodiversity-inclusive-content-and-ux)
-    
-#### simulator games
 
-> [!EXAMPLE] [adhd dinosaur](https://wild-babou.itch.io/adhd) (A short game where you play a dinosaur with severe ADHD, but none of the NPCs relate.)
+> [!SUCCESS] Features vs goals
+> More features do not always make a better tool, adding more features increases complexity exponentially.
+> 
+> ![Pasted image 20260827141400.png](pasted%20images/Pasted%20image%2020260827141400.png)
+> every additional feature needs to be developed & maintained, and istime away from other things
 
-> [!EXAMPLE] [a game that simulates how it is to have adhd](https://wild-babou.itch.io/adhd)
+> [!SUCCESS] Finding the right balance
+> maintaining balance between user, developer, and stakeholder requirements.
+> ![Pasted image 20260827141415.png](pasted%20images/Pasted%20image%2020260827141415.png)
+
+> [!SUCCESS] user testing
+> Testing early and frequently reduces the likelihood of developing unused or irrelevant features.
+
+> [!SUCCESS] “we’re evaluating the tool, not the user”
+> ^ important to say out loud before user testing  
+> users often blame themselves for not understanding how to use a tool.
+
+> [!SUCCESS] user testing & analogy to code reviews
+> Without review, user interfaces and documentation can become difficult to understand.
+> 
+> Reviewing ensures clarity for others.
+
+> “if the user can’t find it, it doesn’t exist”
+
+> [!SUCCESS] prototypes
+> validating early without writing complex code or setting a new workflow into stone.
+> 
+> - paper prototypes
+	> - [what are wizard of oz prototypes?](https://www.interaction-design.org/literature/topics/wizard-of-oz-prototypes)
+	> - [using paper prototyping as a tool for participatory design](https://www.paulolyslager.com/paper-prototyping-tool-participatory-design-research/)
+> - interactive prototypes
+> 	- [protopie](https://www.protopie.io/download)
+> - vibe coding
+> 	- great for building scrappy prototypes simply to answer the question "would this idea be useful?"
+
+> [!SUCCESS] the importance of watching users work
+> _**what people say they do vs what they actually do is often quite different**_
+> 
+> metrics and focus groups don’t replace actually sitting down with the users watching them work.
+> 
+> it’s totally normal that during development of a tool we become blind to our own design in some way.
+> 
+> <img src="pasted%20images/Pasted%20image%2020260827141517.png" alt="Pasted image 20260827141517.png" width="464">
+> this is also totally normal, the reason to sit next to the user when they are testing the tool is to have the chance to ask them to explain why.
+
+> [!SUCCESS] Dogfooding
+> There's value in getting personally annoyed by annoying workflows.
+> 
+> Skipping this step leaves room for missing big fundamental problems in the design. There’s also often lots of stuff that people won’t mention / don’t realize could be easily fixed or automated entirely.
+> 
+> When replacing existing tools, using older tools provides a baseline for comparison.
+
+> _“No single way of working, from where or when we work to how we communicate, is optimal for all of us. Implementing flexibility at the core of policies and practices can be a game changer for your teams’ efficiency.” ([blog post from ubisoft](https://news.ubisoft.com/en-us/article/4MdbqYqnJ4Mk2PGD5hjdYf/gdc-2023-unlocking-the-power-of-neurodiversity-in-game-development))_
+
+> [!SUCCESS] digging for the root cause
+> Initial feedback may represent symptoms rather than underlying causes.
+> - 5 whys
+
+> [!SUCCESS] prioritization
+> sometimes need to choose to let some fires burn - it’s easy to get caught up with lots of small things and miss the one thing that really matters.
+
+> [!SUCCESS] Enabling people to make informed decisions
+> a guide that enables people to make informed decisions will often outlive any tool or complex process. a good guide can also complement and reduce the overall complexity needed.
+> 
+> a guide can also be about a generic topic that isn’t explained well enough elsewhere (like this page i guess)
+
+> [!SUCCESS] do one thing really well
+> a simple tool is easier to maintain
+
+
+> [!SUCCESS] getting buy-in
+> We end up adopting inefficient workflows or forget to update them when they stop serving their purpose. In the land of tech art the technology side of things is often easy, it's getting everyone onboard to change the way they're used to working that's the real challenge.
+>
+> One approach would be to spend months behind the scenes developing a tool or planning a change, and then presenting it to the team as "here you have it, we're going to use this whether you want it or not".
+> 
+> The other approach, which has worked quite well for tech art improvements, is to present ideas as deliberately scrappy looking prototypes. Most of them will be discarded, but when you find something valuable to improve, people will tell you about it. 
+
+###### Resources
+> [!TIP] Reid Hoffman - Masters of Scale
+
+> [!TIP]  Designing the User Experience of Game Development Tools - David Lightbown. (A practical approach to observing how people work, understanding their goals, and testing improvements to their tools.)
+
+> [!EXAMPLE] [10 usability heuristics for user interface design](https://www.nngroup.com/articles/ten-usability-heuristics/)  
+
+> [!EXAMPLE] [https://growth.design/psychology](https://growth.design/psychology)
 
 ---
 
@@ -886,78 +1008,114 @@ Would your assessment come as no surprise to others familiar with the situation?
 
 ### clear is kind
 
-*Good feedback is specific, actionable, contextual, and open to dialogue.*
+*Good feedback is specific, usable, contextual, and open to dialogue.*
 
 > Clear is kind. Unclear is unkind. 
 
-An observation, a concern, or a sense that something isn’t working can open a conversation. The person raising it doesn’t need all the details or a ready-made solution.
+A concern does not have to arrive fully formed. _Something isn’t working_ can be a legitimate place to begin. The person raising it does not need a complete diagnosis or a ready-made solution.
 
+But if that concern is going to be used to assess someone, ask them to change, or hold them accountable, it has to become clearer. The person raising it needs to help identify what they observed, why it matters, and what improvement would look like.
 
-
-The test isn’t whether the conversation starts out vague, but whether the person giving it is willing to examine it and help make it clear. What isn’t fair is requiring someone to improve while leaving them to guess what improvement means.
+The problem is not that a conversation begins vaguely. The problem is when a vague impression hardens into a judgment while the person receiving it is left to guess what it means.
 
 > Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind. (Brene Brown - Dare to Lead)
 
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
+
 #### What is feedback?
+The word *feedback* is often used for almost any reaction to someone’s work or behaviour. Developmental feedback means information offered to help someone understand their work or behaviour, its effects, and what they might continue or change.
 
-The word *feedback* is often used for almost any reaction to someone’s work or behaviour. Here, developmental feedback means information offered to help someone understand their work or behaviour, its effects, and what they might continue or change.
+Several other kinds of messages may appear in a feedback conversation, but they are not interchangeable:
 
-Other kinds of messages can contribute to feedback, but aren’t automatically feedback on their own:
+**An observation** describes what you noticed:
+*“You spoke three times during the meeting.”*
+**An interpretation** assigns meaning or motive:
+*“You wanted to dominate the discussion.”*
+**An impact** describes what happened as a result: 
+*“We didn’t hear from two people who had relevant information.”*
+**A preference** expresses what you personally favour:
+*“I prefer shorter updates.”*
+**An expectation** describes a standard someone is being asked to meet:
+*“Project updates should identify the current blocker.”*
+**A request or instruction** asks for an action:
+*“Send the revised draft by Friday.”*
+**Venting** expresses frustration:
+*“I’m so tired of having this conversation.”*
+**A personal judgment** labels someone:
+*“You’re difficult.”*
 
-- **Observations** describes what you noticed: “You spoke three times during the meeting.”
-- **Interpretations** assign meaning or motive: “You wanted to dominate the discussion.”
-- **Preferences** express what you like: “I prefer shorter updates.”
-- **Requests or instructions** ask for an action: “Send the draft by Friday.”
-- **Venting** expresses frustration: “I’m so tired of having this conversation.”
-- **Personal judgments** label someone: “You’re difficult.”
+Any of these might have a legitimate place in a conversation. An observation can help establish what happened. An interpretation can be offered as a possibility to examine. A preference can open a discussion about expectations. A request can make the desired next step clear.
 
-Their role depends on the context and how they are used. An observation can help explain an impact. A preference can open a discussion about expectations. But calling something feedback does not turn an assumption into evidence, a preference into a requirement, or an insult into guidance.
+But calling something _feedback_ does not turn an assumption into evidence, a preference into a requirement, or an insult into guidance.
 
-Feedback aimed at improvement needs to give the recipient something they can understand and work with, while leaving room for their context and response.
+Feedback aimed at improvement needs to give the recipient something they can understand and work with, while leaving room for their context and response. **Usable feedback does not have to prescribe the solution.** It gives the recipient enough information to understand the concern, examine the interpretation, and take a meaningful next step.
 
-Other conversations have legitimate purposes of their own. Someone raising a concern, describing harm, or setting a boundary does not need to turn their experience into a development opportunity for the person they are addressing.
-
-
-
-
-
-
-
-
-
-
-
-
-
+Other conversations have legitimate purposes of their own. Someone raising a concern, describing harm, or setting a boundary does not have to turn their experience into a development opportunity for the person they are addressing.
 
 
-##### feedback needs context
-Good feedback also separates what happened from the story we tell ourselves about why it happened.
 
-_"You missed three meetings"_ is an observation.
+#### What makes feedback bullshit?
+Bullshit is not necessarily a deliberate lie. In this context, it is language that sounds meaningful or authoritative without being anchored in enough truth, clarity, or substance to examine.
 
-_"You don't care about the team"_ is an interpretation.
+Feedback starts to become bullshit when it makes a consequential claim about someone but cannot answer basic questions:
 
-The further feedback moves from observable behaviour toward inferred motives, personality, or character, the easier it becomes to mistake interpretation for fact.
+- What happened?
+- What led you to that conclusion?
+- What effect did it have?
+- What expectation or standard is being applied?
+- What would improvement look like?
 
-Someone missing meetings might be disengaged. They might also be overloaded, confused about expectations, dealing with conflicting priorities, or operating under constraints you don't know about. The behaviour may still need to change, but understanding it requires curiosity about context rather than certainty about character.
+Statements such as _“you lack leadership qualities,” “you focus on the wrong things,” “you have poor communication skills,”_ or _“you need to be more positive”_ may point to a real concern. They can begin a conversation. They are not sufficient as its conclusion.
 
-Struggles don't necessarily reveal an absence of ability or commitment, often they reveal the presence of adversity.
+When the person giving the feedback cannot (or will not) make the claim more concrete, the language performs the appearance of feedback without doing the work of feedback.
 
-Good feedback therefore stays as close as possible to what can actually be observed, explains the impact, and leaves room to understand the context.
 
-#### vague feedback and shame
-Feedback needs enough concrete detail for the person to understand what is being assessed and discuss it.
 
-Without specifics, you may find yourself filling in the blanks. Instead of asking _"what should I do differently?"_, you may start asking *"what is wrong with me?"*, which can lead to hiding, defensiveness, and rumination rather than curiosity, repair, and learning.
 
-*“After Tuesday’s meeting, two people understood the deadline as Friday and another understood it as next week. Can we look at how the deadline was communicated?”*
 
-This identifies a specific misunderstanding without assuming what caused it. By comparison, _"you have poor communication skills and need to get better at communicating”_ makes a broad judgment about your ability without explaining what needs to change.
+#### Separate observation from interpretation
+Good feedback separates what happened from the story we tell ourselves about why it happened.
 
-Clear feedback gives you something to understand, discuss, and work on. The next question is who takes responsibility for making that conversation possible.
+_“You missed the last three project meetings”_ is an observation.
 
+_“You don’t care about the team”_ is an interpretation.
+
+Interpretations are not forbidden. They simply need to be presented as interpretations rather than established facts. For example:
+
+> “When you missed those meetings without letting us know, I started to wonder whether this project was still a priority for you. Can you help me understand what happened?”
+
+This makes the interpretation visible while leaving room for it to be corrected.
+
+The further feedback moves from observable behaviour toward inferred motives, personality, or character, the easier it becomes to mistake an explanation for a fact.
+
+Someone missing meetings might be disengaged. They might also be overloaded, unclear about which priority takes precedence, dealing with conflicting responsibilities, or operating under constraints you do not know about. The behaviour may still need to change, but understanding why it happened helps identify what change or support is actually needed.
+
+**Understanding context is not the same as excusing impact.** It makes accountability more accurate.
+
+Difficulty can reflect a gap in skill or commitment. It can also reflect unclear expectations, competing priorities, missing information, inadequate support, or adversity outside the observer’s view. Good feedback therefore anchors itself in what can be observed, explains the impact, and stays curious about the explanation.
+
+#### Vague feedback and shame
+Feedback needs enough concrete detail for the person to understand what is being assessed, check whether the account is accurate, and discuss what needs to change.
+
+**Specific feedback localises the problem. Vague feedback can turn a problem in the work into a judgment about the person.**
+
+Without specifics, you may find yourself filling in the blanks. Instead of asking _“What should I do differently?”_, you may start asking _“What is wrong with me?”_ That can lead to hiding, defensiveness, and rumination rather than curiosity, repair, and learning.
+
+Compare these two examples:
+
+> “After Tuesday’s meeting, two people understood the deadline as Friday and another understood it as next week. Can we look at how the deadline was communicated?”
+
+This identifies a particular misunderstanding without assuming what caused it. It gives both people something they can examine.
+
+By comparison:
+
+> “You have poor communication skills and need to get better at communicating.”
+
+This makes a broad judgment about someone’s ability without explaining what happened, what standard was not met, or what they should do differently.
+
+Clear feedback gives the recipient something to understand, question, repair, and practise. It also makes it possible to examine whether the expectations themselves are clear and reasonable.
+
+The next question is who takes responsibility for making that conversation possible.
 
 
 part 2/3: [feedback without ownership](#feedback-without-ownership)
@@ -1045,7 +1203,7 @@ part 3/3: [high stakes feedback](#high-stakes-feedback)
 
 part 2/3: [feedback without ownership](#feedback-without-ownership)
 
-Not all feedback needs the same standard of evidence. An offhand suggestion from a colleague is different from feedback with consequences. The greater the consequence, the stronger the need for specificity, context, and an opportunity to respond.
+Not all feedback needs the same standard of evidence, but the greater the consequence, the stronger the need for specificity, context, and an opportunity to respond.
 
 ##### performance reviews
 
@@ -1281,9 +1439,9 @@ The key question is how much participants can influence the outcome. A planned w
 
 ---
 
-<!-- learnings/how to heated debates.md -->
+<!-- learnings/conflict avoidance.md -->
 
-### how to heated debates
+### conflict avoidance
 
 *Most of us aren't taught how to disagree well.*
 
@@ -1291,8 +1449,6 @@ The key question is how much participants can influence the outcome. A planned w
 > [!INFO] Can conflict actually make our relationships stronger? (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/0iBQFU9NuiYOYa5s3ByZXR?si=6e54f47b478f4cc6)
 
 > [!TIP] Priya Parker - The Art of Fighting: The Transformative Power of Conflict
-
-#### conflict avoidance
 
 Avoiding conflict can bring immediate relief. We let something slide, agree before we're ready, or save our concerns for a private conversation with someone else. Sometimes we call this being kind. Sometimes we're afraid of damaging the relationship, looking difficult, or making things worse.
 
@@ -1647,45 +1803,6 @@ Stable teams can provide continuity and established relationships. Teaming lets 
 ---
 
 ## other things
-
-<!-- learnings/cross team connectors.md -->
-
-### cross team connectors
-
-[]()*the people who make the seams between teams work — and why organizations keep under-valuing them.*
-
-These are often individuals whose knowledge spans across many different domains. This breadth of knowledge can be used to connect the right people with more depth in a single topic.
-
-They're often the ones who don't fit into a narrowly shaped box, and whose job descriptions may be hard to define. (it's hard to reduce "glue between teams" to a single measurable number)
-
-The benefits also show up with some delay, and the person who "just talks with people and things move to a better direction" may not get much credit for it.
-
-> We know true collaboration happened when the idea can no longer be traced to one person.
-
-In an environment that doesn't support them, they may be seen as unfocused, or as spending too much time on exploratory topics — because the cost of the role is obvious immediately and the payoff isn't.
-
-##### the two halves of shared consciousness
-
-McChrystal's Task Force rebuilt itself on two things, and connectors are the second:
-
-- **transparency** — everyone can see the whole picture (their daily O&I brief, the open floor). See [free flow of information](#free-flow-of-information).
-- **strong lateral ties** — relationships *between* teams, built deliberately through embedding and liaison programs.
-
-> What on the surface seemed like an inefficient use of time in fact laid the foundation for our adaptability.
-
-You can't attribute the outcome to the connector, because the whole point is that the outcome emerged from a network rather than a person. The measurable thing is the cost; the value shows up as things that didn't go wrong and decisions that didn't take three weeks.
-
-##### what this asks of a lead
-
-- Staff it deliberately, with someone who has standing — not with whoever is between things.
-- Protect the slack. A connector with no unstructured time is just a person in two backlogs.
-- Judge the role on the seams, not on individual output. Ask the *other* teams whether it's working.
-- Expect a lag, and say so up front, so the delay doesn't get read as failure.
-
-
-> [!EXAMPLE] [the "wired differently" problem: why adhd and polymathy are the same cognitive gift](https://medium.com/@matthewbunce/the-wired-differently-problem-why-adhd-and-polymathy-are-the-same-cognitive-gift-224dc107eee7)
-
----
 
 <!-- learnings/free flow of information.md -->
 

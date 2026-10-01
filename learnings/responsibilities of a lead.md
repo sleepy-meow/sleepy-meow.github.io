@@ -19,6 +19,11 @@ Leaders are responsible for creating an environment where people feel safe to sp
 
 ---
 
+**Creating conversations**
+
+
+---
+
 **Providing cover from above**
 People are more willing to take responsibility and make difficult decisions when they know their leaders trust them and will support them.
 > The responsibility of a leader is to provide cover from above for their people who are working below. When the people feel that they have the control to do what's right, even if it sometimes means breaking the rules, then they will more likely do the right thing. Courage comes from above. Our confidence to do what's right is determined by how trusted we feel by our leaders. 

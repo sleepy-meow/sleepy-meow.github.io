@@ -90,7 +90,7 @@
         },
         {
           "name": "how to question your own thinking",
-          "path": "wip/how to question your own thinking.md",
+          "path": "learnings/how to question your own thinking.md",
           "tags": [],
           "draft": true,
           "done": true
@@ -224,13 +224,6 @@
           "name": "motivation",
           "path": "learnings/motivation.md",
           "tags": [],
-          "done": true
-        },
-        {
-          "name": "confronting our freedom",
-          "path": "wip/confronting our freedom.md",
-          "tags": [],
-          "draft": true,
           "done": true
         },
         {

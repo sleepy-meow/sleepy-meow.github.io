@@ -6,6 +6,7 @@ Some good books on this topic:
 
 > [!TIP] nassim nicholas taleb - the black swan
 
+also read books you disagree with. 
 
 # cognitive biases
 Learning about cognitive biases can help identify where our own reasoning might need another look (not just finding labels for what everyone else gets wrong). Here are some that have seemed worth writing down to not forget about them:

@@ -4,9 +4,7 @@ _Between them, they might have everything they need. Whether anything comes of i
 
 It’s easy to look at a team that isn’t producing new ideas and assume it needs more creative people. But how would we know? The people already there may be noticing problems they don’t mention, carrying knowledge nobody knows to ask about, or holding back ideas because they don’t feel it’s their place to contribute.
 
-Looking for creative people is only part of the picture. We also need to look at what happens to their contributions. Who notices a useful observation? Who helps develop an unfamiliar idea? What gets dismissed before anyone has had a chance to understand it?
-
-Contributing to an idea does not always mean proposing the solution. It might mean noticing a problem, showing someone how the work happens, remembering a similar attempt, asking a question that changes the direction, or testing whether an improvement actually helps. 
+Looking for creative people is only part of the picture. We also need to look at what happens to their contributions. This does not always mean proposing the solution. It might mean noticing a problem, showing someone how the work happens, remembering a similar attempt, asking a question that changes the direction, or testing whether an improvement actually helps. 
 
 This makes the way we work together part of the creative process. Who gets to contribute, what information reaches them, and what happens when they question something all affect which ideas get a chance to develop.
 
@@ -14,12 +12,11 @@ This makes the way we work together part of the creative process. Who gets to co
 
 Having different kinds of expertise is not the same as being able to use them together. People need opportunities to explain what they are seeing, ask questions about each other’s work, and discover where their knowledge could help.
 
-An unexpected connection might begin with hearing someone describe a frustration, finding out why a decision was made, or simply watching someone work. They may have become used to a workaround, or have no reason to suspect that something difficult for them would be straightforward for someone else to improve. Watching the work gives both people something concrete to explore together.
+An unexpected connection might begin with hearing someone describe a frustration, finding out why a decision was made, or simply watching someone work. They may have become used to a workaround, or have no reason to suspect that something difficult for them would be straightforward for someone else to improve. 
 
-This is why free flow of information matters. Sharing only what someone needs to complete their assigned task can hide the context that would let them suggest a better approach. People need enough understanding of the wider work to notice where they could help. As teams grow, keeping those connections alive takes more deliberate effort.
+This is why free flow of information matters. Sharing only what someone needs to complete an assigned task can hide the context that would let them suggest a better approach. People need enough understanding of the wider work to notice where they could help. 
 
 ## ideas need room to be unfinished
-
 “This might be a stupid question, but…” can be followed by something useful. It can also be the point where someone decides to stay quiet.
 
 If every contribution has to arrive polished and defensible, we miss the ideas that needed someone else’s perspective before they could make sense. A group can spend so much effort making its thinking look competent that it leaves too little room to discover where that thinking is wrong.

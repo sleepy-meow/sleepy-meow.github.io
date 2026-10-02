@@ -14,6 +14,13 @@
           "name": "how to come up with big ideas",
           "path": "learnings/how to come up with big ideas.md",
           "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "hope is not an emotion",
+          "path": "learnings/hope is not an emotion.md",
+          "tags": [],
           "done": true
         }
       ]
@@ -38,6 +45,13 @@
         {
           "name": "universal human needs",
           "path": "wip/universal human needs.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "diversity of thought",
+          "path": "learnings/diversity of thought.md",
           "tags": [],
           "draft": true,
           "done": true
@@ -97,7 +111,7 @@
         },
         {
           "name": "group flow",
-          "path": "wip/group flow.md",
+          "path": "learnings/group flow.md",
           "tags": [],
           "draft": true,
           "done": true

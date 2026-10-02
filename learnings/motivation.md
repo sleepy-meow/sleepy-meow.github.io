@@ -1,8 +1,10 @@
-> *Great companies don't hire skilled people and motivate them, they hire already motivated people and inspire them. People are either motivated or they are not. Unless you give motivated people something to believe in, something bigger than their job to work toward, they will motivate themselves to find a new job and you'll be stuck with whoever's left.* (simon sinek, start with why)
+> *People are either motivated or they are not. Unless you give motivated people something to believe in, something bigger than their job to work toward, they will motivate themselves to find a new job and you'll be stuck with whoever's left.* (simon sinek, start with why)
 
+
+%%
 # you can't motivate people
 *you can only build the place where already-motivated people stay that way.*
-
+%%
 "motivating the team" is usually described as something a leader *does to* people. It isn't. Nobody installs motivation in anyone. What a leader actually controls is the conditions — whether people have purpose, control, recognition, and a reason to trust each other — and then motivation is what shows up, or doesn't.
 
 When a team looks unmotivated, the question isn't "how do we motivate them?" but "what in here is draining people who arrived motivated?"
@@ -22,6 +24,24 @@ People still need to be paid, and being paid unfairly is its own demotivator. Th
 
 Over-emphasizing extrinsic rewards can also backfire - and reduce intrinsic motivation.
 
+# flow statte
+
+_“The flow state is an optimal state of intrinsic motivation, where the person is fully immersed in what they are doing. The flow state amplifies performance, accelerates learning, and heightens creativity.”_
+
+**Conditions of flow:**
+- knowing what to do
+- knowing how to do it
+- knowing how well you are doing
+- knowing where to go
+- room for risk (it’s ok fail & experiment)
+- confidence in skills & challenges
+- freedom from distractions
+
+
+![[Pasted image 20260827141138.png|315]]
+
+
+%%
 # manipulation vs inspiration
 
 > [!tip] Simon Sinek - start with why
@@ -42,7 +62,7 @@ Also, useful wikipedia pages: [Persuasion](https://en.wikipedia.org/wiki/Persuas
 
 These things don't automatically imply bad intent, but recognizing them gives the opportunity to pause and ask yourself "what's really happening here?" (or for example "is this time pressure real and who does it really serve?")
 
-
+%%
 
 # sense of purpose
 

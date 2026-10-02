@@ -1,7 +1,7 @@
 #index
 # start here
 [[introduction]] !!
-[[how to come up with big ideas]] !! ?
+[[how to come up with big ideas]] !!
 [[hope is not an emotion]] !!
 
 # culture

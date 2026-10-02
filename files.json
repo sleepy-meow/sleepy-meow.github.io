@@ -15,12 +15,6 @@
           "path": "learnings/how to come up with big ideas.md",
           "tags": [],
           "done": true
-        },
-        {
-          "name": "hope is not an emotion",
-          "path": "learnings/hope is not an emotion.md",
-          "tags": [],
-          "done": true
         }
       ]
     },
@@ -250,6 +244,12 @@
     {
       "name": "other things",
       "files": [
+        {
+          "name": "hope is not an emotion",
+          "path": "learnings/hope is not an emotion.md",
+          "tags": [],
+          "done": true
+        },
         {
           "name": "cross team connectors",
           "path": "maybe add/cross team connectors.md",

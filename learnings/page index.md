@@ -2,7 +2,7 @@
 # start here
 [[introduction]] !!
 [[how to come up with big ideas]] !!
-[[hope is not an emotion]] !!
+
 
 # culture
 [[how to nurture a culture]] !! ?
@@ -51,6 +51,7 @@
 [[rigid teams vs teaming]] !!
 
 # other things
+[[hope is not an emotion]] !!
 [[cross team connectors]] !! ?
 [[free flow of information]] !!
 [[some pitfalls]] !!

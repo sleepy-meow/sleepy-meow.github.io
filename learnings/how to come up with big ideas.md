@@ -2,7 +2,7 @@ _Imagine an artist struggling with a repetitive task. A programmer knows what co
 
 _Between them, they might have everything they need. Whether anything comes of it depends on whether those pieces ever meet._
 
-It’s easy to look at a team that isn’t producing new ideas and assume it needs more creative people. But how would we know? The people already there may be noticing problems they don’t mention, carrying knowledge nobody knows to ask about, or holding back ideas because they don’t feel it’s their place to contribute.
+It’s easy to look at a team that isn’t producing new ideas and assume it needs more creative people. But how would we know? The people already there may be walking around with knowledge nobody knows to ask about, or holding back ideas because they don’t feel it’s their place to contribute.
 
 Looking for creative people is only part of the picture. We also need to look at what happens to their contributions. This does not always mean proposing the solution. It might mean noticing a problem, showing someone how the work happens, remembering a similar attempt, asking a question that changes the direction, or testing whether an improvement actually helps. 
 

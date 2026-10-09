@@ -7,7 +7,11 @@ Using the swiss cheese analogy again, if everyone has the same life experiences 
 ![[Pasted image 20260820092041.png|384]]
 
 # groupthink
-Another thing that can happen when a group thinks too much the same way, is groupthink. It occurs when the desire for harmony or conformity in the group results in irrational or dysfunctional decision-making.
+Another thing that can happen when a group thinks too much the same way, is groupthink. It occurs when the desire for harmony or conformity in the group resulting in irrational or dysfunctional decision-making.
 
-Warning signs & how to avoid it:
-> [!EXAMPLE]  [how to avoid groupthink on your team](https://www.atlassian.com/blog/teamwork/groupthink)
+For a great depiction of what this can look like, check out the first episode the tv show Pluribus :) If it feels too much like "another day at the office", the link below may come in useful:
+
+> [!EXAMPLE]  [how to avoid groupthink on your team](https://www.atlassian.com/blog/teamwork/groupthink) (Warning signs & how to avoid it)
+
+
+# designing for diverse audiences

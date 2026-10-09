@@ -62,8 +62,6 @@ workflows that may have been fine for a small team don't necessarily work for a 
 
 > [!EXAMPLE]  [spaciousness](https://www.meganreitz.com/spaciousness)
 
-## the peter principle
-As a company grows, people get promoted past their abilities.
 
 %%
 # the 2 pizza rule

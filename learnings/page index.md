@@ -8,7 +8,6 @@
 [[how to nurture a culture]] !! ?
 [[why to have a culture memo]] !! ?
 [[universal human needs]] !! ?
-[[diversity of thought]] !! ?
 # psychological safety
 [[feeling safe and trusted]] !!
 [[how to psychological safety]] !!
@@ -20,6 +19,7 @@
 [[how to fail]] !!
 [[how to question your own thinking]] !! ?
 [[group flow]] !! ?
+[[diversity of thought]] !!
 # ways of working
 [[how to make decisions]] !!
 [[logging decisions]] !!

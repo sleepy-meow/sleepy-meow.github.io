@@ -41,13 +41,6 @@
           "tags": [],
           "draft": true,
           "done": true
-        },
-        {
-          "name": "diversity of thought",
-          "path": "learnings/diversity of thought.md",
-          "tags": [],
-          "draft": true,
-          "done": true
         }
       ]
     },
@@ -107,6 +100,12 @@
           "path": "learnings/group flow.md",
           "tags": [],
           "draft": true,
+          "done": true
+        },
+        {
+          "name": "diversity of thought",
+          "path": "learnings/diversity of thought.md",
+          "tags": [],
           "done": true
         }
       ]

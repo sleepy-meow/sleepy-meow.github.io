@@ -4,12 +4,6 @@
 
 > [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 
-## What a safe environment looks like
-Speaking up is received with appreciation and curiosity, and engaging in meaningful dialogue doesn't require profound courage or encouragement. There's plenty of debate, questions, admitting mistakes early, half-formed ideas and suggestions, challenging each others thinking, and disagreeing openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person.
-
-
-## Red flags of an unsafe environment
-Everyone is just very "nice", potentially controversial topics are avoided or met with silence, the same few people talk all the time in meetings, reaching fast consensus with no dissent. Concerns come up in the hallway instead of meetings. Bad news gets watered down upwards. People seem to be walking around on eggshells, but it's not necessarily obvious where the fear is coming from.
 # Why it matters
 It's hard for anyone to do their best work when they're afraid.
 ![[Pasted image 20260908202819.png|426]]
@@ -20,6 +14,14 @@ It's hard for anyone to do their best work when they're afraid.
 Psychological safety is essential for communicating, collaborating, experimenting, ensuring the well-being of others, sharing information, asking for help, and a bunch of other things. *i.e. it can get in the way of nearly every aspect of getting work done*. 
 
 > No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple. (brene brown, the call to courage)
+
+## What a safe environment looks like
+Speaking up is received with appreciation and curiosity, and engaging in meaningful dialogue doesn't require profound courage or encouragement. There's plenty of debate, questions, admitting mistakes early, half-formed ideas and suggestions, challenging each others thinking, and disagreeing openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person.
+
+
+## Red flags of an unsafe environment
+Everyone is just very "nice", potentially controversial topics are avoided or met with silence, the same few people talk all the time in meetings, reaching fast consensus with no dissent. Concerns come up in the hallway instead of meetings. Bad news gets watered down upwards. People seem to be walking around on eggshells, but it's not necessarily obvious where the fear is coming from.
+
 # What causes the fear
 Leaders have a significant influence on psychological safety, but it's also influenced by the structures, systems, incentives, pressures, history, culture, neurodiversities and experiences that people have and observe.
 

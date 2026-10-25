@@ -2,9 +2,9 @@
 
  Psychological safety: *a team climate in which people feel safe to speak their mind without fear of being thrown under the bus.*
 
-> [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
-
 # Why it matters
+> No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple. (brene brown, the call to courage)
+
 It's hard for anyone to do their best work when they're afraid.
 ![[Pasted image 20260908202819.png|426]]
 
@@ -12,8 +12,6 @@ It's hard for anyone to do their best work when they're afraid.
 > _Fear inhibits learning_, drawing resources away from working memory and the ability to process new information. This makes analytical thinking, creative insight, and problem-solving more difficult. 
 
 Psychological safety is essential for communicating, collaborating, experimenting, ensuring the well-being of others, sharing information, asking for help, and a bunch of other things. *i.e. it can get in the way of nearly every aspect of getting work done*. 
-
-> No vulnerability, no creativity. No tolerance for failure, no innovation. It's that simple. (brene brown, the call to courage)
 
 ## What a safe environment looks like
 Speaking up is received with appreciation and curiosity, and engaging in meaningful dialogue doesn't require profound courage or encouragement. There's plenty of debate, questions, admitting mistakes early, half-formed ideas and suggestions, challenging each others thinking, and disagreeing openly. Bad news travels up fast, leaders listen and the speaker feels genuinely heard. Feedback is about the work, not the person.
@@ -67,17 +65,11 @@ Edmondson talks about four different zones:
 
 The danger here is to mix up the comfort zone and anxiety zone, interpreting the lack of progress as complacency.
 
-Telling someone who is afraid to simply try harder to focus, is like trying to smooth rough waters with a flat iron. It will only make it worse. 
-
-> [!EXAMPLE] video: [alan watts - the mind is a vicious cycle](https://www.youtube.com/watch?v=FAl9hw2nyzw) (if you're in the anxiety zone, watching this may also help)
-
-
+Telling someone who is afraid to simply try harder to focus, is like trying to smooth rough waters with a flat iron. It will only make it worse.
 
 # Acclimatizing to the danger
 
- ![[Pasted image 20260905025238.png|346]]
-
-Just like a house with a gas leak, it's easy to get used to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe, but it can be hard to recognize from within. 
+Just like a house with a gas leak, it's easy to get used to bad conditions and stop registering them. Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe, but it can be hard to recognize from the inside. 
 %%
 # Leaders want to feel safe too
 
@@ -86,6 +78,7 @@ Just like a house with a gas leak, it's easy to get used to bad conditions and s
 I feel like this underweights how asking *"are you okay?"* may take a lot more courage than the other way around (depending on whether it's an one-off bad day or not). Caring about a leader does not create an equal responsibility for managing their behavior.
 %%
 # Resources & further reading
+> [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 
 > [!EXAMPLE] [a team is only as safe as the least safe person](https://psychsafety.com/a-team-is-only-as-safe-as-the-least-safe-person/)
 

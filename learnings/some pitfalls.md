@@ -42,8 +42,8 @@ The unconscious cognitive bias to continue with the original plan despite of cha
 
 %%
 
-## ways of working
-workflows that may have been fine for a small team don't necessarily work for a larger team. Growing a team too large will slow everything down. It also reduces psychological safety.
+## lines of communication
+workflows that may have been fine for a small team don't necessarily scale for a larger team. Growing a team too large will slow everything down, and also reduces psychological safety.
 
 > Adding more people to a team increases the communication overhead exponentially
 

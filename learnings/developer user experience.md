@@ -1,19 +1,27 @@
 *UX + ways of working*
 
 Most of us understand the value of ux in the products we build. But an often overlooked aspect is how those same principles can be applied to finding optimal ways of working and internal tooling.
+
+# why does it matter?
+When a project evolves, things get more complex, more people join and iteration speed slowly creeps up. It's easy to miss when you're just focused on making stuff, and to think *"we ain't got no time to look at all the time we're wasting"*.
+
+But these things add up, a lot. One person wasting 10 minutes each day does not sound like much, but when multiplied by everyone affected, over the course of a year, they can add up to somewhat unnerving numbers. 
+
+The typical response to slow progress is to add more and more people to the teams (or more bureaucracy), which in turn creates additional overhead. *Optimizing workflows makes it easier for teams to stay smaller.* 
 # ways of working have a user experience
 
 A tool, a meeting, a handoff, or a process can either make that work easier, or require people to remember unwritten rules, search for information, repeat themselves, and work around obstacles.
 
 The same questions we ask about a user interface apply here: Is it clear what to do next? Can people find what they need? Do they know what happened after taking action? Can they recover from a mistake?
 
-[Usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) provide useful prompts for noticing this friction. A request that disappears without acknowledgment is a visibility problem. A workflow that depends on remembering instructions from a meeting places a burden on memory. A temporary process with no way to revisit it leaves people stuck.
+[Usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) give useful prompts for noticing this friction. A request that disappears without acknowledgment is a visibility problem. A workflow that depends on remembering instructions from a meeting places a burden on memory. A temporary process with no way to revisit it leaves people stuck.
 
 Some useful questions
 - *How does this impact the cognitive load of individuals and the team overall, in the long run?*
 - *How does this scale? (and does it need to)*
 - *What are we actually trying to solve here?*
 
+%%
 # example: daily team updates
 Suppose we want to keep up to date what teammates are working on.
 
@@ -28,8 +36,11 @@ People can catch up and post in one visit at a convenient time. The continuous h
 Unchanged work doesn’t need another report. Discussion stays beneath each post. This reduces duplicate writing, repeat visits, and the effort of piecing together information across daily threads. 
 
 Small things like these add up over time, and we often vastly underestimate the scale of recurring interruptions that affect many people. 
+%%
 # the cost of interrupted work
 *Spending 50% on one project and 50% on another does not add up to 100%.*
+
+We often vastly underestimate the scale of recurring interruptions that affect many people. 
 
 On average, 9-23 minutes is lost each time context switching. Our brains cannot actually focus on two things at the same time, but rapidly switch between the two.
 
@@ -38,13 +49,13 @@ On average, 9-23 minutes is lost each time context switching. Our brains cannot 
 > [!EXAMPLE] [context switching - how to reduce it and achieve flow state](https://www.taskade.com/blog/reduce-context-switching)
 
 *"some people are just better at multitasking"*
-Self-perception of being good at multitasking or getting more done while multitasking is often inaccurate. Multitasking is mentally and physically stressful for everyone to the point that multitasking is used in laboratory experiments to study stressful environments.
+Multitasking is mentally and physically stressful for everyone to the point that multitasking is used in laboratory experiments to study stressful environments.
 
-The distance between contexts matters. An artist solving a technical issue will expend more energy than a programmer who is already in a technical problem solving mindset.
+The distance between contexts matters as well. An artist solving a technical issue will expend more energy than a programmer who is already in a technical problem solving mindset.
 
 # understanding UX helps us make better decisions
 
-Understanding UX gives us a better basis for choosing tools and ways of working, and helps us ask better questions before committing to a solution. 
+Understanding UX gives us a better basis for choosing tools and ways of working, and helps us ask better questions before committing to a solution. A common misunderstanding is that ux is just relevant for ui design, but it can really be applied to almost any kind of work. 
 
 This is where [UX maturity](https://www.nngroup.com/articles/ux-maturity-model/) becomes relevant. An organization can have people who understand these issues, yet make decisions without using their knowledge. Greater maturity means giving that understanding (and evidence from the people doing the work) a consistent role in priorities, design choices, and evaluation.
 

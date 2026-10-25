@@ -1,6 +1,6 @@
-_Imagine an artist struggling with a repetitive task. A programmer knows what could help, but doesn’t know the problem exists. Someone on another team has already solved something similar._
+%%_Imagine an artist struggling with a repetitive task. A programmer knows what could help, but doesn’t know the problem exists. Someone on another team has already solved something similar._
 
-_Between them, they might have everything they need. Whether anything comes of it depends on whether those pieces ever meet._
+_Between them, they might have everything they need. Whether anything comes of it depends on whether those pieces ever meet._%%
 
 It’s easy to look at a team that isn’t producing new ideas and assume it needs more creative people. But how would we know? The people already there may be walking around with knowledge nobody knows to ask about, or holding back ideas because they don’t feel it’s their place to contribute.
 

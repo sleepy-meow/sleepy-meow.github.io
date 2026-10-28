@@ -9,10 +9,13 @@ The more successful / large a company becomes, the more pressure there is for pr
 
 > [!EXAMPLE] article: [The fat cat syndrome prevents innovation and opens the door for disruption](https://medium.com/@arnoldbeekes/the-fat-cat-syndrome-prevents-innovation-and-opens-the-door-for-disruption-9a37643d38a4)
 
-## inadequate structural guardrails
-They are easiest to put them in place *before* they are actually needed. 
+# leaving structure implicit
+Simply calling an organization flat isn't enough. After a certain size (if nothing is done about it), hierarchies tend to emerge, and when left undefined, they will just be informal and hidden out of sight. 
 
-> [!TIP] Kim Nordström - Up Down Up (many useful things, including before founding a company)
+# inadequate structural guardrails
+The trick is to put them in place *before* they are actually needed. It may feel comfortable in the moment to avoid an awkward discussion, but it can be 100x more uncomfortable later down the road.
+
+> [!TIP] Kim Nordström - Up Down Up (many useful tips for awkward conversation topics, including before founding a company)
 
 > [!TIP] Eric Ries - Incorruptible (practical things aimed more at established companies, good thoughts on why the timing matters)
 
@@ -30,7 +33,7 @@ The unconscious cognitive bias to continue with the original plan despite of cha
 
 
 
-## Culture transfer rate
+# Culture transfer rate
 
 
 > Johan Kristiansson, former CEO at Starbreeze during the years 2004-2011 said that during the years when they created the games Riddick and the Darkness, **they grew on average 15-20% per year**. “We managed our growth carefully to make sure we didn’t interrupt the core of our teams. I believe that 20-25% is the maximum that a company can manage to grow in employees every year.
@@ -42,7 +45,7 @@ The unconscious cognitive bias to continue with the original plan despite of cha
 
 %%
 
-## lines of communication
+# lines of communication
 workflows that may have been fine for a small team don't necessarily scale for a larger team. Growing a team too large will slow everything down, and also reduces psychological safety.
 
 > Adding more people to a team increases the communication overhead exponentially
@@ -57,7 +60,7 @@ workflows that may have been fine for a small team don't necessarily scale for a
 > [!EXAMPLE] article: [dunbar's number, psychological safety and team size](https://psychsafety.com/psychological-safety-82-dunbars-number-and-team-size/)
 
 
-# the culture of busyness
+# a culture of busyness
 > _‘Psychological safety is definitely important to me, but if I ask people to speak up, I’ve no time to deal with what they say.’_
 
 > [!EXAMPLE]  [spaciousness](https://www.meganreitz.com/spaciousness)

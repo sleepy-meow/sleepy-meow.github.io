@@ -1,15 +1,24 @@
 *some practical tips*
 
-> [!EXAMPLE] [top 10 ways to foster psychological safety](https://psychsafety.com/top-10-ways-to-foster-psychological-safety-in-the-workplace/)
+# The top 10 things
+1. Levelling power gradients
+2. Establishing shared norms
+3. Effective listening and giving space
+4. Responding positively when someone speaks up
+5. Rewarding speaking up
+6. Framing work as experiments
+7. Practising retrospectives and futurespectives
+8. Addressing persistent problematic behaviour
+9. Embracing differences
+10. Accepting human error as normal
 
+> [!EXAMPLE] [top 10 ways to foster psychological safety](https://psychsafety.com/top-10-ways-to-foster-psychological-safety-in-the-workplace/) (more details here)
 
+# Other things to do
 > [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
 
-
-
-
-## simple things anyone can do
-A few simple phrases can make a workplace feel more psychologically safe (Acknowledging that you are a fallible human being gives others permission to do the same.)
+# simple things anyone can do
+Acknowledging that you are a fallible human being gives others permission to do the same:
 
 _I don't know._  
 _I need help._  
@@ -24,6 +33,7 @@ _What are your concerns?_
 
 Small acts like these make openness easier for everyone else.
 
+
 ## Useful things for leads
 > **The most useful thing a leader can do for psychological safety is make it demonstrably safe and worthwhile to tell them something they may not want to hear.**
 
@@ -31,12 +41,12 @@ Small acts like these make openness easier for everyone else.
     The most important moment is the first response to a concern, disagreement, mistake, or ask for help. Thank the person, stay curious, and understand what they are seeing before evaluating whether they are right.
     
 2. **Protect the messenger.**
-    Make sure speaking up does not lead to retaliation or reputational harm. This includes intervening when the retaliation comes from peers or other leaders.
+    Make sure speaking up does not lead to bad things.
     
-3. **Follow through and close the loop.**  
+3. **Follow up.**  
     Explain what will happen next, who owns the issue, and what was ultimately decided. Even when no action is taken, a clear and respectful explanation shows that speaking was worthwhile.
     
-4. **Admit mistakes and repair their consequences.**  
+4. **Admit mistakes and repair the consequences.**  
     Say when you were wrong, handled something badly, or lacked important information. Repair may also require correcting the record, restoring an opportunity, apologizing publicly, or changing a decision, not merely expressing regret.
     
 5. **Invite disagreement before decisions are final.**  
@@ -65,12 +75,10 @@ Small acts like these make openness easier for everyone else.
 
 ## Useful things if you're not a lead
 1. **Speak up when you safely can.**  
-    Raising an awkward point (i.e. being the village idiot) gives others permission to do the same. One voice often makes the second easier.
-    
-    Pro tip: even a genuinely silly question can lower the bar for others to ask other things as well.
+    Being the 'village idiot' also gives others permission to do the same.
 
 1. **Be the second voice.**  
-    When someone raises a concern, back them: “I noticed that too.” A small show of support can break the impression that they are alone.
+    When someone raises a concern, back them up: “I noticed that too.” A small show of support can break the impression that they are alone.
     
 2. **Don't leave the messenger alone afterwards.**  
     Check in with them, support them publicly where you can, and reinforce that raising the issue was worthwhile (especially if they face negative consequences).
@@ -84,17 +92,8 @@ Small acts like these make openness easier for everyone else.
 5. **Move things into the light.**  
     Bring important discussions back to public channels and document decisions where affected people can see them.
     
-6. **Keep your own log.**  
-    Record important decisions and reasoning. It makes your thinking easier to follow and provides a factual record if problems emerge later.
-    
 7. **Build lateral connections.**  
     Maintain relationships across teams so information has more than one route to travel.
-    
-8. **Compare notes, then raise it together.**  
-    Check recurring concerns with others who are affected. If the pattern is shared, raise it together through a co-signed message, joint meeting, or explicit support for whoever speaks.
-
-Courage is contagious. The first person breaks the impression that everyone else is comfortable or agrees. The second turns an isolated risk into a shared position. Each voice makes the next one a little easier. What spreads is not fearlessness, but evidence that speaking is possible and that you might not have to stand alone.
-
 
 
 

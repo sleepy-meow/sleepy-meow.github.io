@@ -15,3 +15,8 @@ For a cool example of what this can look like, check out the tv show *Pluribus, 
 
 
 # designing for diverse audiences
+
+
+# culture fit
+
+> [!EXAMPLE] [the problem with culture fit](https://drvictoriaverlezza.substack.com/p/the-problem-with-culture-fit-how)

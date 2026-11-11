@@ -1,4 +1,6 @@
 There are many ways to understand leadership, and what a lead is responsible for depends partly on the context and the goal. This is the picture I’ve pieced together so far on what seems to matter most for creating the conditions that help people think, create, and solve problems together.
+
+*Note: all of these responsibilities can also be shared.* 
 ## Fundamental requirements
 
 **Empathy**

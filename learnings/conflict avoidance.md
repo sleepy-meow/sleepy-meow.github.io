@@ -23,7 +23,7 @@ This connects to [[feeling safe and trusted#Predictability|predictability and ps
 The evidence has limits, though. Being able to argue about pineapple on pizza tells you something about the group, but it doesn't establish that questioning a leader's decision is safe. Small, real disagreements about everyday work provide opportunities to build that confidence: suggesting a different approach, questioning an estimate, or pointing out a concern.%%
 
 Over time, constructive responses can support a useful cycle: feeling safer makes it easier to disagree, and handling disagreement well gives people more reason to feel safe.
-# cultural differences
+# cultural / personal differences
 
 People can have different ideas about what respectful disagreement looks like. For one person, openly challenging an idea signals interest and engagement. For another, the same exchange can feel embarrassing or damaging to the relationship. Erin Meyer explores this in the culture map.
 
@@ -37,6 +37,9 @@ A few differences are worth paying attention to:
 
 
 It helps to make the team's expectations explicit: how we raise objections, how we invite quieter perspectives, and how we respond when someone challenges a decision. Give people several ways to contribute, including time to think, written input, and smaller conversations.
+
+# personal differences
+The level of directness also depends on individual preferences, and on your relationship with them. Friends who have known each other for many years might hurl the most brutally honest criticism without either one thinking much of it. 
 
 # screwing up and trying again
 Sometimes a conversation just ends up being a train wreck. Even when we know what a good conversation looks like, we get defensive, interrupt, make assumptions, or say something sharper than we intended. This is totally normal. What people remember is usually the repair, not the mistake.
@@ -109,7 +112,7 @@ The invitation only works if you're willing to hear a different explanation.
    The signs usually show up in your body before they show up in your argument: hot face, tight chest, dry mouth, arms folded. Later, you'll notice you're interrupting, repeating yourself, or rehearsing your reply. Either way, pause. “I'm getting wound up and I'm not listening well. Can we take ten minutes and come back?” Four counts in, hold for four, four out, hold for four, until you can think again. Agree when to return so the pause doesn't become avoidance — and so the ten minutes don't turn into the meeting after the meeting.
 
 6. **Agree on what happens next.**  
-   What is settled, what is still disputed, and what would help resolve it? That might be more information, a small experiment, or a decision by the person responsible. Be clear about who will do what and when you'll follow up. See [[how to make decisions]] and [[logging decisions]].
+   What is settled, what is still disputed, and what would help resolve it? That might be more information, a small experiment, or a decision by the person responsible. Be clear about who will do what and when you'll follow up. See [[making decisions]] and [[logging decisions]].
 
 # useful things to remember
 

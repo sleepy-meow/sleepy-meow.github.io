@@ -21,7 +21,7 @@
 [[group flow]] !! ?
 [[diversity of thought]] !!
 # ways of working
-[[how to make decisions]] !!
+[[making decisions]] !!
 [[logging decisions]] !!
 
 [[developer user experience]] !!

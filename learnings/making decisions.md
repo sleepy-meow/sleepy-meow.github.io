@@ -1,6 +1,6 @@
 *A simple process for distributed decision making*
 
-There are many ways to make decisions, and different situations call for different approaches. During an emergency, for example, a designated lead may need to make a quick call with limited consultation (and explain their reasoning to those affected once the emergency has passed). The advice process is useful when there is time to seek input and people close to the work have the authority to act on it.
+There are many ways to make decisions, and different situations call for different approaches. During an emergency, for example, you may need to make a quick call with limited consultation (and explain their reasoning to those affected once the emergency has passed). The advice process is useful when there is time to seek input and people close to the work have the authority to act on it.
 # the advice process
 People closest to a problem often have useful knowledge about how to solve it. But they may not see every consequence, constraint, or connection to someone else’s work.
 

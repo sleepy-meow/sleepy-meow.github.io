@@ -1,0 +1,58 @@
+#index
+# start here
+[[introduction]] !!
+[[how to come up with big ideas]] !!
+
+# culture
+[[how to nurture a culture]] !! ?
+[[why to write down your principles]] !! ?
+
+# psychological safety
+[[feeling safe and trusted]] !!
+[[how to psychological safety]] !!
+[[how to lower the bar for participation]] !!
+[[why not to shoot the messenger]] !!
+
+# learning & thinking
+[[a learning mindset]] !!
+[[how to fail]] !!
+[[how to question your own thinking]] !!
+[[group flow]] !!
+[[diversity of thought]] !!
+# ways of working
+[[making decisions]] !!
+[[logging decisions]] !!
+
+[[developer user experience]] !!
+[[start with the users]] !!
+[[cognitive accessibility]] !! ?
+
+# feedback
+[[feedback checklists]] !!
+[[clear is kind]] !!
+[[feedback without ownership]] !!
+[[high stakes feedback]] !!
+
+# other conversations
+[[how to ask the right questions]] !!
+[[empathy misses]] !!
+
+[[emergent facilitation]] !!
+[[active listening]] !! ?
+[[conflict avoidance]] !!
+
+# leadership
+[[leadership responsibilities]] !!
+[[leadership approaches]] !!
+[[motivation]] !!
+[[rigid teams vs teaming]] !!
+
+# other things
+[[hope is not an emotion]] !!
+[[cross team connectors]] !! ?
+[[free flow of information]] !!
+[[some pitfalls]] !!
+[[founding a company]] !! ?
+
+[[bad advice books]] !!
+[[links & resource]] !!

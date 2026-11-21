@@ -1,0 +1,1736 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Sleepy Meow</title>
+<meta name="color-scheme" content="dark light" />
+
+<!-- Markdown rendering + sanitisation + syntax highlighting (CDN) -->
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+<link id="hl-dark" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/atom-one-dark.min.css" media="all" />
+<link id="hl-light" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/atom-one-light.min.css" media="not all" />
+<script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/highlight.min.js"></script>
+
+<!-- Inter — the text font configured in the source Obsidian vault.
+     Archivo — headings only (variable weight axis). -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400..700&family=Inter:wght@400;500;600;700&display=swap" />
+
+<style>
+  /* ───────────────────────────────────────────────────────
+     Deep-plum base, violet links, teal quotes, one warm note
+     for emphasis. Dark is the default; light follows the OS
+     preference. Every colour in the page comes from a token
+     here — there is no bare hex below this block.
+     ────────────────────────────────────────────────────── */
+  :root {
+    /* surfaces, darkest → lightest */
+    --bg:             #1e1d1c;  /* page background            */
+    --sidebar:        #1a171d;  /* nav background             */
+    --bg-soft:        #121014;  /* table header               */
+    --code-bg:        #150e26;  /* code                       */
+    --panel:          #2d2a27;  /* inputs, hover              */
+    --border:         #383838;  /* dividing lines             */
+
+    /* text, brightest → faintest */
+    --heading:        #bfbbb7;  /* h1–h6 + the page title     */
+    --text:           #aeaba7;  /* body                       */
+    --muted:          #a69a88;  /* secondary                  */
+    --faint:          #786d58;  /* tertiary                   */
+
+    /* accents */
+    --accent:         #ffffff;  /* links                      */
+    --accent-hover:   #c3b3ff;
+    --ring:           rgba(168, 146, 240, .28);  /* focus ring */
+    --quote:          #c99f6f;  /* quote text + its left bar  */
+    --emph:           #cbad8b;  /* **bold** and *italic*      */
+    --orange:         #e0ab7c;  /* **bold** inside a fence    */
+    --pink:           #e08fb4;  /* "!!!" pages in the nav     */
+    --highlight:      rgba(232, 190, 106, .30);
+
+    /* sidebar chrome */
+    --nav:            #7d7870;  /* idle nav link              */
+    --nav-heading:    #dbbe9e;  /* folder titles, WIP toggle  */
+    --nav-draft:      #6a6280;  /* "?" drafts                 */
+    --nav-wip:        #67607d;  /* WIP toggle label           */
+    --nav-active:     #66635f;  /* selected item background   */
+    --nav-active-dim: #221a3a;  /* selected "?" draft         */
+    --nav-active-tx:  #beaf9f;  /* selected item text         */
+    --nav-active-tx-dim: #9990b0;
+
+    --radius:         8px;
+    --radius-s:       4px;
+    --sidebar-w:      290px;
+
+    /* Headings: a slightly condensed grotesque against the Inter body. */
+    --font-heading:   "Archivo", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+
+    /* The single hue used when monochrome mode is on (set from the "<" panel). */
+    --mono-h:         210;
+  }
+  /* Light palette. The toggle (or the OS, when nothing was chosen) stamps
+     data-theme on <html> before the first paint. */
+  :root[data-theme="light"] {
+      --bg:             #fdfcff;
+      --sidebar:        #f4f1fa;
+      --bg-soft:        #f4f1fa;
+      --code-bg:        #f4f1fa;
+      --panel:          #ffffff;
+      --border:         #e6e0f2;
+
+      --heading:        #2b2438;
+      --text:           #2b2438;
+      --muted:          #6b6280;
+      --faint:          #9b93ad;
+
+      --accent:         #6b46d6;
+      --accent-hover:   #5231b5;
+      --ring:           rgba(107, 70, 214, .22);
+      --quote:          #26787f;
+      --emph:           #9a5d24;
+      --orange:         #9a5d24;
+      --pink:           #b04a78;
+      --highlight:      rgba(232, 190, 106, .50);
+
+      --nav:            #4c4460;
+      --nav-heading:    #7a7290;
+      --nav-draft:      #948bab;
+      --nav-wip:        #625b75;
+      --nav-active:     #ddd2f8;
+      --nav-active-dim: #ece7f6;
+      --nav-active-tx:  #2b2438;
+      --nav-active-tx-dim: #7d7594;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font: 17px/1.5 "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, Helvetica, Arial, sans-serif;
+    /* Match Obsidian's rendering: default (subpixel) smoothing reads heavier
+       than forced grayscale antialiasing, plus proper kerning/ligatures. */
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+    min-height: 100vh;
+  }
+
+  /* ---------- Sidebar (fixed: stays put while content scrolls) ---------- */
+  #sidebar {
+    width: var(--sidebar-w);
+    background: var(--sidebar);
+    border-right: 1px solid var(--border);
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;          /* the note list scrolls, not the whole aside */
+    padding: 22px 12px 0;
+  }
+  /* Only this middle band scrolls, so search and the WIP switch stay put at
+     the bottom however long the note list gets. min-height:0 lets a flex
+     child shrink below its content and actually overflow. */
+  #sidebar-scroll { flex: 1 1 auto; min-height: 0; overflow-y: auto; }
+  #sidebar-foot {
+    flex: 0 0 auto;
+    margin-top: 10px;
+    padding: 12px 0 18px;
+    border-top: 1px solid var(--border);
+  }
+  .brand {
+    display: flex; align-items: center; gap: 9px;
+    font-size: 1.05rem; font-weight: 700; letter-spacing: .2px;
+    color: var(--text);
+    text-decoration: none; cursor: pointer;
+    padding: 4px 10px 18px;
+  }
+  .brand:hover { color: var(--accent); }
+  .brand .brand-icon {
+    width: 30px; height: 30px; border-radius: var(--radius-s);
+    flex: 0 0 auto; object-fit: cover;
+    filter: grayscale(1);
+  }
+  #search {
+    width: 100%; padding: 8px 12px; margin-bottom: 10px;
+    background: var(--panel); color: var(--text);
+    border: 1px solid var(--border); border-radius: var(--radius);
+    font-size: .88rem; outline: none;
+    transition: border-color .12s, box-shadow .12s;
+  }
+  #search:focus { border-color: var(--accent); box-shadow: 0 0 0 2px var(--ring); }
+
+  /* "Show WIP pages" switch — hides the "?" drafts from the nav by default. */
+  .wip-toggle {
+    display: flex; align-items: center; gap: 8px;
+    padding: 2px 10px 0; cursor: pointer; user-select: none;
+    font-size: .72rem; text-transform: uppercase; letter-spacing: .08em;
+    font-weight: 700; color: var(--nav-wip);
+    transition: color .12s;
+  }
+  .wip-toggle:hover { color: var(--muted); }
+  .wip-toggle input, .tp-toggle input { position: absolute; opacity: 0; width: 0; height: 0; }
+  .wip-switch {
+    position: relative; flex: 0 0 auto;
+    width: 26px; height: 15px; border-radius: 999px;
+    background: var(--panel); border: 1px solid var(--border);
+    transition: background .14s, border-color .14s;
+  }
+  .wip-switch::after {
+    content: ""; position: absolute; top: 2px; left: 2px;
+    width: 9px; height: 9px; border-radius: 50%;
+    background: var(--nav-wip); transition: transform .14s, background .14s;
+  }
+  .wip-toggle input:checked + .wip-switch, .tp-toggle input:checked + .wip-switch {
+    background: var(--nav-active); border-color: var(--nav-active);
+  }
+  .wip-toggle input:checked + .wip-switch::after,
+  .tp-toggle input:checked + .wip-switch::after {
+    transform: translateX(11px); background: var(--nav-active-tx);
+  }
+  .wip-toggle input:focus-visible + .wip-switch,
+  .tp-toggle input:focus-visible + .wip-switch { box-shadow: 0 0 0 2px var(--ring); }
+
+  .folder { margin-bottom: 12px; }
+  .folder > .folder-title {
+    font-size: .72rem; text-transform: uppercase; letter-spacing: .08em;
+    color: var(--nav-heading); font-weight: 700;
+    padding: 6px 10px; display: flex; align-items: center; gap: 7px;
+  }
+  .folder-title::before { content: "▸"; font-size: .7em; opacity: .7; }
+  nav a {
+    display: block; text-decoration: none; color: var(--nav);
+    padding: 5px 10px 5px 22px; border-radius: var(--radius-s);
+    font-size: .9rem; transition: background .12s, color .12s;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  nav a:hover { background: var(--panel); color: var(--text); }
+  /* Pages marked "!!!" in the page index — highlights, called out in pink. */
+  nav a.star { color: var(--pink); }
+  nav a.star:hover { color: var(--pink); }
+  /* Pages marked "?" in the page index — grey, whatever else they're marked.
+     Listed after .star so the "?" wins, and before .active so a selected
+     draft still highlights normally. */
+  nav a.draft { color: var(--nav-draft); }
+  nav a.draft:hover { color: var(--muted); }
+  nav a.active {
+    background: var(--nav-active);
+    color: var(--nav-active-tx); font-weight: 500;
+  }
+  /* A selected "?" draft keeps the muted look: darker blue, dimmer text. */
+  nav a.draft.active {
+    background: var(--nav-active-dim);
+    color: var(--nav-active-tx-dim);
+  }
+  /* ---------- Main ---------- */
+
+  main {
+    margin-left: var(--sidebar-w);
+    display: flex;
+    justify-content: center;
+    padding: 56px 48px 45vh;   /* generous bottom space, like Obsidian */
+  }
+  /* Landing page: top-aligned, but offset a bit further down the window. */
+  body.is-welcome main {
+    padding-top: 16vh;
+  }
+  #content {
+    width: 100%;
+    max-width: 40rem;
+  }
+  .welcome { color: var(--muted); }
+  .welcome h1 { color: var(--text); }
+
+  /* ---------- Rendered markdown ---------- */
+  /* Note headings, the page title and callout titles share the heading face.
+     The sidebar stays on the body font — its labels are chrome, not content. */
+  .md h1, .md h2, .md h3, .md h4, .md h5, .md h6,
+  .md .page-title, .md .callout-title {
+    font-family: var(--font-heading);
+  }
+  .md h1, .md h2, .md h3, .md h4, .md h5, .md h6 {
+    line-height: 1.3; margin: 2.3em 0 1.0em;
+  }
+  /* The note's own headings all sit at 500 — size alone carries the hierarchy.
+     Notes write their sections as "# ", so those are real <h1>s; only the
+     generated page title above them stays at 700. */
+  .md h1 { font-size: 1.7rem; font-weight: 500; color: var(--heading); }
+  /* Only the page title (and a note's very first element) hugs the top. */
+  .md .page-title, .md > :first-child { margin-top: 0; }
+  .md .page-title { color: var(--heading); font-weight: 700; font-size: 2rem;
+                    padding: .5em 0 0; margin-bottom: 20px; }
+  .md .page-title + * { margin-top: .2em; }
+  /* The notes are written with lowercase headings. Capitalise the first
+     letter on screen, so the markdown in the vault stays as authored. The
+     page title comes from the filename, so it is left exactly as named. */
+  .md h1::first-letter, .md h2::first-letter, .md h3::first-letter,
+  .md h4::first-letter, .md h5::first-letter, .md h6::first-letter {
+    text-transform: uppercase;
+  }
+  .md .page-title::first-letter { text-transform: none; }
+  .md h2 { font-size: 1.5rem; font-weight: 500; color: var(--heading); }
+  .md h3 { font-size: 1.2rem; font-weight: 500; color: var(--heading); }
+  .md h4 { font-size: 1.1rem; font-weight: 500; color: var(--heading); }
+  .md h5 { font-size: 1rem;   font-weight: 500; color: var(--heading); }
+  .md h6 { font-size: .9rem;  font-weight: 500; color: var(--heading); }
+  .md p, .md li { color: var(--text); }
+  .md strong { color: var(--emph); font-weight: 700; }
+  .md em { color: var(--emph); }
+  .md a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+  .md a:hover { color: var(--accent-hover); }
+  /* Bold/italic inside a link should keep the link colour, not the strong/em colour. */
+  .md a strong, .md a em { color: inherit; }
+  /* Wikilink whose target isn't published — show muted, not as a dead link. */
+  .md .wikilink-missing { color: var(--muted); border-bottom: 1px dashed var(--faint); }
+
+  /* ---------- Callouts (Obsidian-style) ---------- */
+  .md .callout {
+    --cl: 217;
+    /* --cs scales every saturation below, so the hues keep their relative
+       strengths. Callouts are muted by default; the warning family opts
+       back up to full colour so it still carries urgency. */
+    --cs: .22;
+    /* Slightly more bottom padding: the title's line-height pads the top
+       optically, so equal values read as bottom-tight. */
+    margin: 1.2em 0; padding: .55em 1em .8em;
+    border-radius: var(--radius);
+    background: hsl(var(--cl) calc(70% * var(--cs)) 50% / .1);
+    border: 1px solid hsl(var(--cl) calc(70% * var(--cs)) 50% / .22);
+    font-style: normal;
+  }
+  .md .callout[data-callout="warning"],
+  .md .callout[data-callout="caution"],
+  .md .callout[data-callout="attention"] { --cs: 1; }
+  .md .callout-title {
+    display: flex; align-items: center; gap: .5em;
+    font-weight: 700; color: hsl(var(--cl) calc(75% * var(--cs)) 68%);
+  }
+  .md .callout-title .dim-paren {
+    font-weight: 400; color: hsl(var(--cl) calc(45% * var(--cs)) 55%);
+  }
+  .md .callout-icon { width: 1.1em; height: 1.1em; flex: 0 0 auto; }
+  .md .callout-body { margin-top: .4em; }
+  .md .callout-body > :first-child { margin-top: 0; }
+  .md .callout-body > :last-child { margin-bottom: 0; }
+  /* Links inside a callout read as body text — only the underline marks them. */
+  .md .callout a:not(.tag),
+  .md .callout a:not(.tag):hover { color: inherit; }
+  [data-theme="light"] .md .callout {
+    background: hsl(var(--cl) calc(65% * var(--cs)) 48% / .08);
+    border-color: hsl(var(--cl) calc(60% * var(--cs)) 45% / .25); }
+  [data-theme="light"] .md .callout-title { color: hsl(var(--cl) calc(60% * var(--cs)) 40%); }
+  [data-theme="light"] .md .callout-title .dim-paren { color: hsl(var(--cl) calc(35% * var(--cs)) 32%); }
+  .md hr { border: none; border-top: 1px solid var(--border); margin: 2em 0; }
+  .md blockquote {
+    margin: 1.2em 0; padding: .1em 0 .1em .6em;
+    border-left: 3px solid var(--quote);
+    color: var(--quote); font-style: italic;
+  }
+  /* Inner paragraphs inherit the quote colour and don't add big vertical gaps. */
+  .md blockquote p, .md blockquote li,
+  .md blockquote strong, .md blockquote em { color: var(--quote); }
+  .md blockquote > :first-child { margin-top: 0; }
+  .md blockquote > :last-child { margin-bottom: 0; }
+  /* "(author, book)" trailing a quote sits a shade back from the quote. */
+  .md blockquote .dim-paren { color: var(--muted); }
+  .md code {
+    background: var(--code-bg); padding: .15em .4em;
+    border-radius: var(--radius-s); font-size: .88em;
+    font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  .md pre {
+    background: var(--code-bg); border: 1px solid var(--border);
+    padding: 16px; border-radius: var(--radius);
+  }
+  .md pre code {
+    background: none; padding: 0;
+    white-space: pre-wrap; overflow-wrap: anywhere;
+  }
+  /* **bold** and "1." list markers inside a fence (markdown isn't parsed
+     there) → orange. */
+  .md pre .code-strong, .md pre .code-strong *,
+  .md pre .code-num { color: var(--orange); }
+  .md table { border-collapse: collapse; width: 100%; margin: 1.2em 0; }
+  .md th, .md td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+  .md th { background: var(--bg-soft); }
+  .md img {
+    max-width: 100%; border-radius: var(--radius-s);
+    box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
+    display: block; margin: 1.2em auto; height: auto;
+  }
+  .md mark {
+    background: var(--highlight);
+    color: inherit; padding: .05em .15em; border-radius: 2px;
+  }
+  .md ul, .md ol { padding-left: 1.4em; }
+  .md li { margin: .3em 0; }
+
+  /* ---------- Tags (Obsidian-style pills) ---------- */
+  /* Each tag carries its own hue via the --th custom property (set in JS). */
+  .md a.tag,
+  .tag-list .tag {
+    --th: 215;
+    display: inline-flex; align-items: center; gap: .3em;
+    font-size: .8em; line-height: 1.2; font-weight: 500;
+    padding: .15em .65em; border-radius: 999px;
+    background: hsl(var(--th) 70% 60% / .16);
+    color: hsl(var(--th) 65% 72%);
+    text-decoration: none; border: none; cursor: pointer;
+    white-space: nowrap; vertical-align: baseline;
+    font-family: inherit;
+  }
+  .md a.tag:hover,
+  .tag-list .tag:hover { background: hsl(var(--th) 70% 60% / .3); }
+  .tag-list .tag.active { background: hsl(var(--th) 65% 55%); color: #fff; }
+  [data-theme="light"] .md a.tag,
+  [data-theme="light"] .tag-list .tag {
+    background: hsl(var(--th) 65% 50% / .14);
+    color: hsl(var(--th) 60% 38%);
+  }
+  [data-theme="light"] .md a.tag:hover,
+  [data-theme="light"] .tag-list .tag:hover { background: hsl(var(--th) 65% 50% / .26); }
+  /* Inline tags inside a note are grayscale (sidebar keeps per-tag colour),
+     with a little breathing room above/below the tag row. */
+  .md a.tag {
+    margin: .7em 0;
+    background: hsl(0 0% 55% / .16);
+    color: var(--muted);
+  }
+  .md a.tag:hover { background: hsl(0 0% 60% / .3); color: var(--text); }
+  [data-theme="light"] .md a.tag { background: hsl(0 0% 45% / .12); color: var(--muted); }
+  [data-theme="light"] .md a.tag:hover { background: hsl(0 0% 45% / .22); color: var(--text); }
+  .tag-count { opacity: .55; font-size: .85em; font-variant-numeric: tabular-nums; }
+
+  /* Monochrome mode: callouts and sidebar tags carry their own hue as an
+     inline style, so folding them into the single hue needs !important. */
+  .mono .md .callout { --cl: var(--mono-h) !important; }
+  .mono .md a.tag,
+  .mono .tag-list .tag { --th: var(--mono-h) !important; }
+
+  /* Tags pane under the note list in the sidebar */
+  #tags { margin-top: 18px; padding-top: 14px; padding-bottom: 8px;
+          border-top: 1px solid var(--border); }
+  #tags .folder-title { cursor: default; }
+  .tag-list { display: flex; flex-wrap: wrap; gap: 6px; padding: 4px 10px 0; }
+
+  /* ---------- Mobile ---------- */
+  #menu-toggle {
+    display: none; position: fixed; top: 14px; left: 14px; z-index: 30;
+    background: var(--panel); color: var(--text); border: 1px solid var(--border);
+    border-radius: 9px; padding: 8px 12px; font-size: 1rem; cursor: pointer;
+  }
+  #backdrop { display: none; }
+
+  /* Dark / light toggle, top right. Shows the scheme you would switch to. */
+  #scheme-toggle {
+    position: fixed; top: 14px; right: 14px; z-index: 30;
+    display: flex; align-items: center; justify-content: center;
+    width: 34px; height: 34px; padding: 0; cursor: pointer;
+    background: var(--panel); color: var(--nav-heading);
+    border: 1px solid var(--border); border-radius: 9px;
+    transition: color .12s, border-color .12s;
+  }
+  #scheme-toggle:hover { color: var(--text); border-color: var(--nav-heading); }
+  #scheme-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  #scheme-toggle svg { width: 17px; height: 17px; }
+  #scheme-toggle .icon-sun { display: none; }
+  :root[data-theme="dark"] #scheme-toggle .icon-sun { display: block; }
+  :root[data-theme="dark"] #scheme-toggle .icon-moon { display: none; }
+  @media (max-width: 820px) {
+    #menu-toggle { display: block; }
+    #sidebar {
+      position: fixed; z-index: 25; left: 0; top: 0;
+      transform: translateX(-100%); transition: transform .22s ease;
+      box-shadow: 0 0 40px rgba(0,0,0,.5);
+    }
+    body.nav-open #sidebar { transform: translateX(0); }
+    body.nav-open #backdrop {
+      display: block; position: fixed; inset: 0; z-index: 20;
+      background: rgba(0,0,0,.5);
+    }
+    main { margin-left: 0; padding: 70px 22px 40vh; }
+  }
+
+
+  /* ---------- Theme control panel (hidden; toggle with "<") ---------- */
+  #theme-panel {
+    position: fixed; top: 0; right: 0; z-index: 40;
+    width: min(310px, 90vw); height: 100vh; overflow-y: auto;
+    background: var(--sidebar); border-left: 1px solid var(--border);
+    transform: translateX(101%); transition: transform .2s ease;
+    box-shadow: -10px 0 34px rgba(0, 0, 0, .38);
+    font-size: .85rem; color: var(--text);
+  }
+  body.theme-open #theme-panel { transform: translateX(0); }
+  .tp-head {
+    position: sticky; top: 0; z-index: 1;
+    background: var(--sidebar); border-bottom: 1px solid var(--border);
+    padding: 16px 16px 12px;
+  }
+  .tp-title {
+    display: flex; align-items: baseline; gap: 8px;
+    font-size: .95rem; font-weight: 700;
+  }
+  .tp-mode {
+    font-size: .68rem; font-weight: 700; letter-spacing: .08em;
+    text-transform: uppercase; color: var(--nav-heading);
+  }
+  .tp-close {
+    margin-left: auto; background: none; border: none; cursor: pointer;
+    color: var(--nav-heading); font-size: 1.1rem; line-height: 1; padding: 0 2px;
+  }
+  .tp-close:hover { color: var(--text); }
+  .tp-actions { display: flex; gap: 6px; margin-top: 12px; }
+  .tp-btn {
+    flex: 1; padding: 6px 8px; cursor: pointer;
+    background: var(--panel); color: var(--text);
+    border: 1px solid var(--border); border-radius: var(--radius-s);
+    font: inherit; font-size: .78rem;
+    transition: background .12s, border-color .12s, color .12s;
+  }
+  .tp-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .tp-btn.primary { background: var(--nav-active); color: var(--nav-active-tx); }
+  .tp-btn.primary:hover { border-color: var(--accent); color: var(--nav-active-tx); }
+  .tp-btn.primary[data-dirty="0"] { opacity: .55; }
+  .tp-body { padding: 4px 16px 28px; }
+  .tp-group {
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .08em;
+    font-weight: 700; color: var(--nav-heading);
+    margin: 16px 0 4px;
+  }
+  .tp-row { display: flex; align-items: center; gap: 8px; padding: 3px 0; }
+  .tp-row .tp-label {
+    flex: 1; min-width: 0; color: var(--nav);
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  /* Alpha checkerboard, behind any colour that can be translucent. */
+  .tp-checker {
+    background-image:
+      linear-gradient(45deg, var(--border) 25%, transparent 25%, transparent 75%, var(--border) 75%),
+      linear-gradient(45deg, var(--border) 25%, transparent 25%, transparent 75%, var(--border) 75%);
+    background-size: 8px 8px;
+    background-position: 0 0, 4px 4px;
+  }
+  .tp-swatch {
+    position: relative; flex: 0 0 auto; width: 28px; height: 22px;
+    padding: 0; cursor: pointer; overflow: hidden;
+    border: 1px solid var(--border); border-radius: var(--radius-s);
+  }
+  .tp-swatch > span { position: absolute; inset: 0; }
+  .tp-swatch:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  /* Firefox-devtools-style picker: saturation/value square + hue + alpha. */
+  .tp-picker { padding: 10px 0 6px; }
+  .tp-picker[hidden] { display: none; }
+  .tp-sv {
+    position: relative; height: 130px; border-radius: var(--radius-s);
+    cursor: crosshair; touch-action: none;
+  }
+  .tp-track {
+    position: relative; height: 12px; margin-top: 10px;
+    border-radius: 999px; cursor: pointer; touch-action: none; overflow: hidden;
+  }
+  .tp-hue {
+    background: linear-gradient(to right, #f00 0%, #ff0 17%, #0f0 33%,
+                                          #0ff 50%, #00f 67%, #f0f 83%, #f00 100%);
+  }
+  .tp-alpha-fill { position: absolute; inset: 0; }
+  .tp-sv:focus-visible, .tp-track:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .tp-dot {
+    position: absolute; width: 12px; height: 12px; border-radius: 50%;
+    border: 2px solid #fff; box-shadow: 0 0 0 1px rgba(0, 0, 0, .5);
+    transform: translate(-50%, -50%); pointer-events: none;
+  }
+  .tp-track .tp-dot { top: 50%; }
+  .tp-row input[type="text"] {
+    flex: 0 0 auto; width: 94px; padding: 4px 6px;
+    background: var(--panel); color: var(--text);
+    border: 1px solid var(--border); border-radius: var(--radius-s);
+    font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: .74rem; outline: none;
+  }
+  .tp-row input[type="text"]:focus { border-color: var(--accent); }
+  .tp-note { margin-top: 18px; color: var(--faint); font-size: .74rem; line-height: 1.5; }
+
+  /* ---------- Monochrome: one hue for the whole page ---------- */
+  .tp-toggle {
+    display: flex; align-items: center; gap: 8px; padding: 4px 0;
+    cursor: pointer; user-select: none; color: var(--nav);
+    transition: color .12s;
+  }
+  .tp-toggle:hover { color: var(--text); }
+  .tp-deg {
+    margin-left: auto; font-variant-numeric: tabular-nums;
+    font-size: .74rem; color: var(--faint);
+  }
+  .tp-mono .tp-track { margin-top: 8px; transition: opacity .14s; }
+  .tp-mono[data-on="0"] .tp-track { opacity: .4; }
+  .tp-mono .tp-note { margin-top: 8px; }
+</style>
+<script>
+/* ── Theme control panel ────────────────────────────────────────────────
+   Hidden by default; press "<" to open it (Esc or the × closes). Edits
+   apply live as inline custom properties on <html>, which beat the :root
+   palette in the stylesheet. "Save" persists them to localStorage, per
+   colour scheme, and they are re-applied here before first paint so there
+   is no flash of the default palette on reload.
+   ──────────────────────────────────────────────────────────────────── */
+(function () {
+  var GROUPS = [
+    ['Surfaces', [
+      ['--bg',            'Page'],
+      ['--sidebar',       'Sidebar'],
+      ['--bg-soft',       'Table header'],
+      ['--code-bg',       'Code'],
+      ['--panel',         'Inputs / hover'],
+      ['--border',        'Borders']
+    ]],
+    ['Text', [
+      ['--heading',       'Headings'],
+      ['--text',          'Body'],
+      ['--muted',         'Muted'],
+      ['--faint',         'Faint']
+    ]],
+    ['Accents', [
+      ['--accent',        'Links'],
+      ['--accent-hover',  'Links (hover)'],
+      ['--quote',         'Quotes'],
+      ['--emph',          'Bold / italic'],
+      ['--orange',        'Bold in code'],
+      ['--pink',          '"!!!" pages']
+    ]],
+    ['Sidebar', [
+      ['--nav',                'Link'],
+      ['--nav-heading',        'Headings'],
+      ['--nav-wip',            'WIP toggle'],
+      ['--nav-draft',          'Drafts'],
+      ['--nav-active',         'Selected bg'],
+      ['--nav-active-dim',     'Selected bg (draft)'],
+      ['--nav-active-tx',      'Selected text'],
+      ['--nav-active-tx-dim',  'Selected text (draft)']
+    ]],
+    ['Translucent', [
+      ['--highlight',     '==highlight=='],
+      ['--ring',          'Focus ring']
+    ]]
+  ];
+
+  var ALL = [];
+  GROUPS.forEach(function (g) {
+    g[1].forEach(function (row) { ALL.push(row[0]); });
+  });
+
+  /* ---------- colour maths ---------- */
+
+  function clamp01(n) { return n < 0 ? 0 : n > 1 ? 1 : n; }
+
+  function hsvToRgb(h, s, v) {
+    h = ((h % 360) + 360) % 360 / 60;
+    var c = v * s, x = c * (1 - Math.abs(h % 2 - 1)), m = v - c;
+    var r = [c, x, 0, 0, x, c][Math.floor(h)];
+    var g = [x, c, c, x, 0, 0][Math.floor(h)];
+    var b = [0, 0, x, c, c, x][Math.floor(h)];
+    return [Math.round((r + m) * 255), Math.round((g + m) * 255), Math.round((b + m) * 255)];
+  }
+
+  function rgbToHsv(r, g, b) {
+    r /= 255; g /= 255; b /= 255;
+    var max = Math.max(r, g, b), min = Math.min(r, g, b), d = max - min, h = 0;
+    if (d) {
+      if (max === r) h = ((g - b) / d + (g < b ? 6 : 0));
+      else if (max === g) h = (b - r) / d + 2;
+      else h = (r - g) / d + 4;
+      h *= 60;
+    }
+    return { h: h, s: max ? d / max : 0, v: max };
+  }
+
+  var probe = null;
+  function resolve(str) {
+    // Anything the regexes miss (named colours, hsl(), colour functions)
+    // goes through the browser, which hands back an rgb()/rgba() string.
+    if (!document.body) return null;   // called before first paint
+    if (!probe) {
+      probe = document.createElement('span');
+      probe.style.cssText = 'position:absolute;left:-9999px;width:0;height:0';
+      document.body.appendChild(probe);
+    }
+    probe.style.color = '';
+    probe.style.color = str;
+    if (!probe.style.color) return null;
+    return getComputedStyle(probe).color;
+  }
+
+  function parseColor(str) {
+    if (!str) return null;
+    str = String(str).trim();
+    var m = /^#([0-9a-f]{3,8})$/i.exec(str);
+    if (m) {
+      var h = m[1], p;
+      if (h.length === 3 || h.length === 4) {
+        p = h.split('').map(function (c) { return parseInt(c + c, 16); });
+      } else if (h.length === 6 || h.length === 8) {
+        p = h.match(/../g).map(function (c) { return parseInt(c, 16); });
+      } else return null;
+      var hsv = rgbToHsv(p[0], p[1], p[2]);
+      hsv.a = p.length === 4 ? p[3] / 255 : 1;
+      return hsv;
+    }
+    m = /^rgba?\(([^)]+)\)$/i.exec(str);
+    if (!m) {
+      var resolved = str === 'transparent' ? 'rgba(0, 0, 0, 0)' : resolve(str);
+      if (!resolved || resolved === str) return null;
+      return parseColor(resolved);
+    }
+    var parts = m[1].split(/[,\/]/).map(function (x) { return x.trim(); });
+    if (parts.length === 1) parts = m[1].trim().split(/\s+/);
+    var n = parts.map(parseFloat);
+    if (n.length < 3 || n.some(isNaN)) return null;
+    var out = rgbToHsv(n[0], n[1], n[2]);
+    out.a = n.length > 3 ? clamp01(/%$/.test(parts[3]) ? n[3] / 100 : n[3]) : 1;
+    return out;
+  }
+
+  function formatColor(c) {
+    var rgb = hsvToRgb(c.h, c.s, c.v);
+    if (c.a >= 1) {
+      return '#' + rgb.map(function (v) {
+        return ('0' + v.toString(16)).slice(-2);
+      }).join('');
+    }
+    return 'rgba(' + rgb[0] + ', ' + rgb[1] + ', ' + rgb[2] + ', ' +
+           (Math.round(c.a * 1000) / 1000) + ')';
+  }
+
+  function cssColor(c) {
+    var rgb = hsvToRgb(c.h, c.s, c.v);
+    return 'rgba(' + rgb.join(', ') + ', ' + c.a + ')';
+  }
+
+  // Compare through one normaliser, so "#A892F0" and "#a892f0" match.
+  function sameColor(a, b) {
+    var pa = parseColor(a), pb = parseColor(b);
+    if (!pa || !pb) return a === b;
+    return formatColor(pa) === formatColor(pb);
+  }
+
+  /* ---------- state ---------- */
+
+  var root = document.documentElement;
+  var mq = window.matchMedia('(prefers-color-scheme: light)');
+
+  /* The colour scheme. An explicit choice from the toggle wins over the OS,
+     and is stamped on <html> before the first paint — so the stylesheet only
+     asks "which theme is on", never "what does the OS prefer". */
+  var SCHEME_KEY = 'color-scheme-choice';
+  function storedScheme() {
+    try {
+      var v = localStorage.getItem(SCHEME_KEY);
+      return v === 'light' || v === 'dark' ? v : null;
+    } catch { return null; }
+  }
+  function stampScheme(s) {
+    root.dataset.theme = s;
+    root.style.colorScheme = s;               // scrollbars, form controls
+    var d = document.getElementById('hl-dark'), l = document.getElementById('hl-light');
+    if (d) d.media = s === 'dark' ? 'all' : 'not all';
+    if (l) l.media = s === 'light' ? 'all' : 'not all';
+  }
+
+  var DEFAULTS = {};
+  var saved = {};
+  var current = {};
+  // Monochrome: a filter over the palette rather than a set of overrides —
+  // every colour keeps its saturation and brightness but is forced onto one hue.
+  var MONO_OFF = { on: false, h: 210 };
+  var savedMono = Object.assign({}, MONO_OFF);
+  var mono = Object.assign({}, MONO_OFF);
+
+  function mode() { return root.dataset.theme === 'light' ? 'light' : 'dark'; }
+  function storeKey() { return 'theme-overrides-' + mode(); }
+  function monoKey() { return 'theme-mono-' + mode(); }
+
+  function loadSaved() {
+    try { return JSON.parse(localStorage.getItem(storeKey())) || {}; }
+    catch { return {}; }
+  }
+
+  function loadMono() {
+    try {
+      var m = JSON.parse(localStorage.getItem(monoKey()));
+      if (!m || typeof m.h !== 'number') return Object.assign({}, MONO_OFF);
+      return { on: !!m.on, h: ((m.h % 360) + 360) % 360 };
+    } catch { return Object.assign({}, MONO_OFF); }
+  }
+
+  /* Read the stylesheet's own values, with any inline overrides lifted
+     first so we never capture an override as if it were the default. */
+  function captureDefaults() {
+    ALL.forEach(function (n) { root.style.removeProperty(n); });
+    var cs = getComputedStyle(root);
+    ALL.forEach(function (n) { DEFAULTS[n] = cs.getPropertyValue(n).trim(); });
+  }
+
+  /* What a token actually paints as: the edited value (or the stylesheet's),
+     re-hued when monochrome is on. Neutral greys have no hue to move, so they
+     are left alone and stay the scheme's neutrals. */
+  function effective(name) {
+    var v = current[name] || DEFAULTS[name] || '';
+    if (!mono.on || !v) return v;
+    var c = parseColor(v);
+    if (!c || !c.s) return v;
+    return formatColor({ h: mono.h, s: c.s, v: c.v, a: c.a });
+  }
+
+  function apply() {
+    ALL.forEach(function (n) {
+      var v = effective(n);
+      if (v && v !== DEFAULTS[n]) root.style.setProperty(n, v);
+      else root.style.removeProperty(n);
+    });
+    root.style.setProperty('--mono-h', mono.h);
+    root.classList.toggle('mono', mono.on);
+  }
+
+  function isDirty() {
+    return JSON.stringify(current) !== JSON.stringify(saved) ||
+           mono.on !== savedMono.on || (mono.on && mono.h !== savedMono.h);
+  }
+
+  // Run before the body paints.
+  stampScheme(storedScheme() || (mq.matches ? 'light' : 'dark'));
+  captureDefaults();
+  saved = loadSaved();
+  current = Object.assign({}, saved);
+  savedMono = loadMono();
+  mono = Object.assign({}, savedMono);
+  apply();
+
+  /* ---------- panel ---------- */
+
+  var panel, rows = {}, saveBtn, modeLabel, openPicker = null, monoUI = null;
+
+  function valueOf(name) { return current[name] || DEFAULTS[name] || ''; }
+
+  function set(name, value) {
+    if (!value || sameColor(value, DEFAULTS[name])) delete current[name];
+    else current[name] = value;
+    apply();
+    syncInputs();
+  }
+
+  function syncInputs() {
+    ALL.forEach(function (n) {
+      var row = rows[n];
+      if (!row) return;
+      var v = valueOf(n);
+      if (document.activeElement !== row.text) row.text.value = v;
+      row.fill.style.background = v;
+      if (row.picker && !row.picker.hidden) paintPicker(row, parseColor(v));
+    });
+    if (monoUI) {
+      monoUI.box.dataset.on = mono.on ? '1' : '0';
+      monoUI.check.checked = mono.on;
+      monoUI.dot.style.left = (mono.h / 360 * 100) + '%';
+      monoUI.deg.textContent = Math.round(mono.h) + '°';
+    }
+    if (saveBtn) saveBtn.dataset.dirty = isDirty() ? '1' : '0';
+    if (modeLabel) modeLabel.textContent = mode();
+  }
+
+  function setMono(next) {
+    mono = { on: !!next.on, h: ((next.h % 360) + 360) % 360 };
+    apply();
+    syncInputs();
+  }
+
+  /* ---------- the picker ---------- */
+
+  function drag(el, onMove) {
+    function at(e) {
+      var r = el.getBoundingClientRect();
+      return {
+        x: clamp01((e.clientX - r.left) / r.width),
+        y: clamp01((e.clientY - r.top) / r.height)
+      };
+    }
+    el.addEventListener('pointerdown', function (e) {
+      e.preventDefault();
+      el.focus();
+      el.setPointerCapture(e.pointerId);
+      onMove(at(e));
+      function move(ev) { onMove(at(ev)); }
+      function up() {
+        el.removeEventListener('pointermove', move);
+        el.removeEventListener('pointerup', up);
+        el.removeEventListener('pointercancel', up);
+      }
+      el.addEventListener('pointermove', move);
+      el.addEventListener('pointerup', up);
+      el.addEventListener('pointercancel', up);
+    });
+  }
+
+  // Arrow keys on a slider: Shift for a coarse step.
+  function keys(el, fn) {
+    el.addEventListener('keydown', function (e) {
+      var d = { ArrowLeft: [-1, 0], ArrowRight: [1, 0], ArrowUp: [0, -1], ArrowDown: [0, 1] }[e.key];
+      if (!d) return;
+      e.preventDefault();
+      fn(d[0], d[1], e.shiftKey ? 10 : 1);
+    });
+  }
+
+  function paintPicker(row, c) {
+    if (!c) return;
+    row.hsva = c;
+    var pure = 'hsl(' + c.h + ', 100%, 50%)';
+    row.sv.style.background =
+      'linear-gradient(to top, #000, rgba(0,0,0,0)), ' +
+      'linear-gradient(to right, #fff, rgba(255,255,255,0)), ' + pure;
+    row.svDot.style.left = (c.s * 100) + '%';
+    row.svDot.style.top = ((1 - c.v) * 100) + '%';
+    row.hueDot.style.left = (c.h / 360 * 100) + '%';
+    row.alphaFill.style.background =
+      'linear-gradient(to right, rgba(0,0,0,0), ' + cssColor({ h: c.h, s: c.s, v: c.v, a: 1 }) + ')';
+    row.alphaDot.style.left = (c.a * 100) + '%';
+  }
+
+  function buildPicker(row, name) {
+    var box = document.createElement('div');
+    box.className = 'tp-picker';
+    box.hidden = true;
+    box.innerHTML =
+      '<div class="tp-sv" tabindex="0" role="slider" aria-label="Saturation and brightness">' +
+        '<div class="tp-dot"></div></div>' +
+      '<div class="tp-track tp-hue" tabindex="0" role="slider" aria-label="Hue">' +
+        '<div class="tp-dot"></div></div>' +
+      '<div class="tp-track tp-alpha tp-checker" tabindex="0" role="slider" aria-label="Opacity">' +
+        '<div class="tp-alpha-fill"></div><div class="tp-dot"></div></div>';
+
+    row.picker = box;
+    row.sv = box.querySelector('.tp-sv');
+    row.svDot = row.sv.querySelector('.tp-dot');
+    var hue = box.querySelector('.tp-hue');
+    row.hueDot = hue.querySelector('.tp-dot');
+    var alpha = box.querySelector('.tp-alpha');
+    row.alphaFill = alpha.querySelector('.tp-alpha-fill');
+    row.alphaDot = alpha.querySelector('.tp-dot');
+
+    function push(next) {
+      row.hsva = next;
+      set(name, formatColor(next));
+      paintPicker(row, next);
+    }
+    function cur() { return row.hsva || parseColor(valueOf(name)) || { h: 0, s: 0, v: 0, a: 1 }; }
+
+    drag(row.sv, function (p) {
+      var c = cur();
+      push({ h: c.h, s: p.x, v: 1 - p.y, a: c.a });
+    });
+    drag(hue, function (p) {
+      var c = cur();
+      push({ h: p.x * 360, s: c.s, v: c.v, a: c.a });
+    });
+    drag(alpha, function (p) {
+      var c = cur();
+      push({ h: c.h, s: c.s, v: c.v, a: p.x });
+    });
+
+    keys(row.sv, function (dx, dy, step) {
+      var c = cur();
+      push({ h: c.h, s: clamp01(c.s + dx * step / 100), v: clamp01(c.v - dy * step / 100), a: c.a });
+    });
+    keys(hue, function (dx, dy, step) {
+      var c = cur();
+      push({ h: (c.h + (dx + dy) * step + 360) % 360, s: c.s, v: c.v, a: c.a });
+    });
+    keys(alpha, function (dx, dy, step) {
+      var c = cur();
+      push({ h: c.h, s: c.s, v: c.v, a: clamp01(c.a + (dx - dy) * step / 100) });
+    });
+
+    return box;
+  }
+
+  function togglePicker(row) {
+    var wasOpen = openPicker === row;
+    if (openPicker) openPicker.picker.hidden = true;
+    openPicker = null;
+    if (wasOpen) return;
+    row.picker.hidden = false;
+    openPicker = row;
+    paintPicker(row, parseColor(valueOf(row.name)));
+    row.picker.scrollIntoView({ block: 'nearest' });
+  }
+
+  /* The monochrome block: a switch plus its own hue track, above the palette
+     it filters. Dragging the track turns the switch on, so the slider always
+     does what it looks like it does. */
+  function buildMono() {
+    var box = document.createElement('div');
+    box.className = 'tp-mono';
+    box.dataset.on = mono.on ? '1' : '0';
+    box.innerHTML =
+      '<label class="tp-toggle">' +
+        '<input type="checkbox" autocomplete="off" />' +
+        '<span class="wip-switch" aria-hidden="true"></span>' +
+        '<span>Single hue</span><span class="tp-deg"></span>' +
+      '</label>' +
+      '<div class="tp-track tp-hue" tabindex="0" role="slider" aria-label="Monochrome hue" ' +
+           'aria-valuemin="0" aria-valuemax="359"><div class="tp-dot"></div></div>' +
+      '<p class="tp-note">Forces every colour onto one hue, keeping its ' +
+      'saturation and brightness. Neutral greys stay grey.</p>';
+
+    var track = box.querySelector('.tp-track');
+    monoUI = {
+      box: box,
+      check: box.querySelector('input'),
+      dot: track.querySelector('.tp-dot'),
+      deg: box.querySelector('.tp-deg')
+    };
+
+    monoUI.check.addEventListener('change', function () {
+      setMono({ on: monoUI.check.checked, h: mono.h });
+    });
+    drag(track, function (p) { setMono({ on: true, h: p.x * 360 }); });
+    keys(track, function (dx, dy, step) {
+      setMono({ on: true, h: mono.h + (dx + dy) * step });
+    });
+
+    return box;
+  }
+
+  function build() {
+    panel = document.createElement('aside');
+    panel.id = 'theme-panel';
+
+    var head = document.createElement('div');
+    head.className = 'tp-head';
+    head.innerHTML =
+      '<div class="tp-title">Theme' +
+      '<span class="tp-mode"></span>' +
+      '<button class="tp-close" type="button" aria-label="Close">×</button></div>' +
+      '<div class="tp-actions">' +
+      '<button class="tp-btn primary" type="button" data-act="save" data-dirty="0">Save</button>' +
+      '<button class="tp-btn" type="button" data-act="reset">Reset</button>' +
+      '<button class="tp-btn" type="button" data-act="copy">Copy CSS</button>' +
+      '</div>';
+    panel.appendChild(head);
+    modeLabel = head.querySelector('.tp-mode');
+    saveBtn = head.querySelector('[data-act="save"]');
+
+    var body = document.createElement('div');
+    body.className = 'tp-body';
+
+    var monoHead = document.createElement('div');
+    monoHead.className = 'tp-group';
+    monoHead.textContent = 'Monochrome';
+    body.appendChild(monoHead);
+    body.appendChild(buildMono());
+
+    GROUPS.forEach(function (g) {
+      var h = document.createElement('div');
+      h.className = 'tp-group';
+      h.textContent = g[0];
+      body.appendChild(h);
+
+      g[1].forEach(function (def) {
+        var name = def[0], label = def[1];
+        var row = { name: name };
+
+        var el = document.createElement('div');
+        el.className = 'tp-row';
+
+        var lab = document.createElement('span');
+        lab.className = 'tp-label';
+        lab.textContent = label;
+        lab.title = name;
+        el.appendChild(lab);
+
+        var swatch = document.createElement('button');
+        swatch.type = 'button';
+        swatch.className = 'tp-swatch tp-checker';
+        swatch.setAttribute('aria-label', label + ' colour');
+        row.fill = document.createElement('span');
+        swatch.appendChild(row.fill);
+        swatch.addEventListener('click', function () { togglePicker(row); });
+        el.appendChild(swatch);
+
+        row.text = document.createElement('input');
+        row.text.type = 'text';
+        row.text.spellcheck = false;
+        row.text.setAttribute('aria-label', label + ' value');
+        row.text.addEventListener('change', function () {
+          var v = row.text.value.trim();
+          var parsed = parseColor(v);
+          if (parsed) row.hsva = parsed;
+          set(name, parsed ? formatColor(parsed) : v);
+        });
+        el.appendChild(row.text);
+
+        body.appendChild(el);
+        body.appendChild(buildPicker(row, name));
+        rows[name] = row;
+      });
+    });
+
+    var note = document.createElement('p');
+    note.className = 'tp-note';
+    note.textContent = 'Saved per colour scheme, in this browser only. ' +
+      '"Copy CSS" gives you the block to paste into index.html to make it permanent.';
+    body.appendChild(note);
+
+    panel.appendChild(body);
+    document.body.appendChild(panel);
+
+    head.addEventListener('click', function (e) {
+      var btn = e.target.closest('button');
+      if (!btn) return;
+      if (btn.classList.contains('tp-close')) return close();
+      var act = btn.dataset.act;
+      if (act === 'save') {
+        try {
+          localStorage.setItem(storeKey(), JSON.stringify(current));
+          localStorage.setItem(monoKey(), JSON.stringify(mono));
+        } catch {}
+        saved = Object.assign({}, current);
+        savedMono = Object.assign({}, mono);
+        syncInputs();
+        btn.textContent = 'Saved';
+        setTimeout(function () { btn.textContent = 'Save'; }, 1200);
+      } else if (act === 'reset') {
+        current = {};
+        mono = Object.assign({}, MONO_OFF);
+        apply();
+        syncInputs();
+      } else if (act === 'copy') {
+        copyCss(btn);
+      }
+    });
+
+    var toggle = document.getElementById('scheme-toggle');
+    if (toggle) {
+      toggle.addEventListener('click', function () {
+        setScheme(mode() === 'dark' ? 'light' : 'dark');
+      });
+    }
+    labelSchemeButton();
+
+    syncInputs();
+  }
+
+  function copyCss(btn) {
+    // Emit what the page actually paints, so a monochrome palette pastes in
+    // as plain colours rather than needing the filter to be reproduced.
+    var names = ALL.filter(function (n) { return effective(n) !== DEFAULTS[n]; });
+    var pad = 0;
+    names.forEach(function (n) { pad = Math.max(pad, n.length); });
+    var lines = names.map(function (n) {
+      return '  ' + (n + ':').padEnd(pad + 2) + ' ' + effective(n) + ';';
+    });
+    var css = !names.length
+      ? '/* no overrides — the palette matches index.html */'
+      : mode() === 'light'
+        ? ':root[data-theme="light"] {\n' + lines.join('\n') + '\n}'
+        : ':root {\n' + lines.join('\n') + '\n}';
+    var done = function (ok) {
+      btn.textContent = ok ? 'Copied' : 'Copy failed';
+      setTimeout(function () { btn.textContent = 'Copy CSS'; }, 1400);
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(css).then(function () { done(true); },
+                                              function () { done(false); });
+    } else { done(false); }
+  }
+
+  function open() { document.body.classList.add('theme-open'); }
+  function close() { document.body.classList.remove('theme-open'); }
+  function isOpen() { return document.body.classList.contains('theme-open'); }
+
+  function inField(el) {
+    return !!el && (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA' ||
+                    el.tagName === 'SELECT' || el.isContentEditable);
+  }
+
+  document.addEventListener('keydown', function (e) {
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    if (e.key === 'Escape' && isOpen()) {
+      // A open colour picker swallows the first Esc; the panel takes the next.
+      if (openPicker) togglePicker(openPicker); else close();
+      return;
+    }
+    // Don't hijack "<" while the search box (or a panel field) has focus.
+    if (inField(e.target)) return;
+    if (e.key === '<') {
+      e.preventDefault();
+      isOpen() ? close() : open();
+    }
+  });
+
+  // Each scheme keeps its own overrides, so a swap re-reads the defaults
+  // underneath and the saved edits on top of them.
+  function reloadForScheme() {
+    captureDefaults();
+    saved = loadSaved();
+    current = Object.assign({}, saved);
+    savedMono = loadMono();
+    mono = Object.assign({}, savedMono);
+    apply();
+    syncInputs();
+    labelSchemeButton();
+  }
+
+  function labelSchemeButton() {
+    var btn = document.getElementById('scheme-toggle');
+    if (!btn) return;
+    var next = mode() === 'dark' ? 'light' : 'dark';
+    btn.setAttribute('aria-label', 'Switch to ' + next + ' mode');
+    btn.title = 'Switch to ' + next + ' mode';
+  }
+
+  function setScheme(s) {
+    try { localStorage.setItem(SCHEME_KEY, s); } catch {}
+    stampScheme(s);
+    reloadForScheme();
+  }
+
+  // The OS can flip while the page is open. It only gets a say when the
+  // toggle has not been used — an explicit choice outranks it.
+  mq.addEventListener('change', function () {
+    if (storedScheme()) return;
+    stampScheme(mq.matches ? 'light' : 'dark');
+    reloadForScheme();
+  });
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', build);
+  } else { build(); }
+})();
+</script>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "ee9728f62b6641968a4b3dc3ac272fd5"}'></script><!-- End Cloudflare Web Analytics -->
+</head>
+<body>
+  <button id="menu-toggle" aria-label="Toggle menu">☰</button>
+  <button id="scheme-toggle" type="button" aria-label="Switch colour scheme">
+    <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+         stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="4"/>
+      <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/>
+    </svg>
+    <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+         stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/>
+    </svg>
+  </button>
+  <div id="backdrop"></div>
+
+  <aside id="sidebar">
+    <a class="brand" href="#"><img class="brand-icon" src="icon.png" alt="" /><span id="brand-title">Sleepy Meow</span></a>
+    <div id="sidebar-scroll">
+      <nav id="nav"></nav>
+      <div id="tags"></div>
+    </div>
+    <div id="sidebar-foot">
+      <input id="search" type="search" placeholder="Search notes…" autocomplete="off" />
+      <label class="wip-toggle">
+        <input id="wip-check" type="checkbox" autocomplete="off" />
+        <span class="wip-switch" aria-hidden="true"></span>
+        <span>Show very WIP pages</span>
+      </label>
+    </div>
+  </aside>
+
+  <main>
+    <article id="content" class="md">
+      <div class="welcome">
+        <h1>Loading…</h1>
+      </div>
+    </article>
+  </main>
+
+<script>
+const nav      = document.getElementById('nav');
+const content  = document.getElementById('content');
+const search   = document.getElementById('search');
+const wipCheck = document.getElementById('wip-check');
+const body     = document.body;
+let manifest   = { folders: [] };
+// WIP ("?") pages start hidden; the sidebar switch reveals them, and the
+// choice is remembered across reloads (storage can be unavailable — ignore).
+const WIP_KEY  = 'sleepy-meow:show-wip';
+let showWip    = false;
+try { showWip = localStorage.getItem(WIP_KEY) === '1'; } catch {}
+
+// Deterministic hue (0–359) per tag name, so each tag gets its own colour.
+function tagHue(t) {
+  let h = 0;
+  for (let i = 0; i < t.length; i++) h = (h * 31 + t.charCodeAt(i)) >>> 0;
+  return h % 360;
+}
+
+// Resolve an Obsidian wikilink target to a note path from the manifest.
+function resolveNote(target) {
+  const key = target.trim().toLowerCase().replace(/\.md$/, '');
+  for (const folder of manifest.folders)
+    for (const f of folder.files)
+      if (f.name.toLowerCase() === key) return f.path;
+  return null;
+}
+
+// A note's hash route is its file name slugified — "#some-note" — with the
+// folder and extension dropped, since note names are unique across the vault.
+function slugFor(path) {
+  return path.split('/').pop()
+    .replace(/\.md$/i, '')
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}]+/gu, '-')   // spaces, "&", punctuation → one dash
+    .replace(/^-+|-+$/g, '');
+}
+
+// The reverse: find the note a hash route points at. Slugifying the route too
+// means the old links ("#learnings/some note.md") still resolve.
+function pathForSlug(slug) {
+  const key = slugFor(slug);
+  for (const folder of manifest.folders)
+    for (const f of folder.files)
+      if (slugFor(f.path) === key) return f.path;
+  return slug;   // not in the manifest — try it as a path anyway
+}
+
+marked.setOptions({
+  breaks: true,   /* Obsidian treats a single newline as a line break */
+  gfm: true
+});
+
+// Obsidian callout types → { hue, lucide-style icon path(s), default label }.
+// Icons are 24×24 lucide paths drawn inside a shared <svg>.
+const CALLOUT_ICONS = {
+  pencil: '<path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/>',
+  info:   '<circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/>',
+  flame:  '<path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5Z"/>',
+  check:  '<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="m9 11 3 3L22 4"/>',
+  help:   '<circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/>',
+  warn:   '<path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4M12 17h.01"/>',
+  x:      '<circle cx="12" cy="12" r="10"/><path d="m15 9-6 6M9 9l6 6"/>',
+  zap:    '<path d="M13 2 3 14h9l-1 8 10-12h-9l1-8Z"/>',
+  bug:    '<path d="m8 2 1.88 1.88M14.12 3.88 16 2M9 7.13v-1a3.003 3.003 0 1 1 6 0v1"/><path d="M12 20c-3.3 0-6-2.7-6-6v-3a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v3c0 3.3-2.7 6-6 6ZM12 20v-9M6.53 9C4.6 8.8 3 7.1 3 5M6 13H2M3 21c0-2.1 1.7-3.9 3.8-4M20.97 5c0 2.1-1.6 3.8-3.5 4M22 13h-4M17.2 17c2.1.1 3.8 1.9 3.8 4"/>',
+  list:   '<path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/>',
+  quote:  '<path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V20c0 1 0 1 1 1Z"/><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1Z"/>',
+  clipboard:'<rect width="8" height="4" x="8" y="2" rx="1"/><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/>',
+  book:   '<path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"/>',
+  phones: '<path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3"/>',
+  link:   '<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>',
+};
+const CALLOUTS = {
+  note:      { hue: 217, icon: 'pencil',    label: 'Note' },
+  abstract:  { hue: 168, icon: 'clipboard', label: 'Abstract' },
+  summary:   { hue: 168, icon: 'clipboard', label: 'Summary' },
+  tldr:      { hue: 168, icon: 'clipboard', label: 'Tldr' },
+  info:      { hue: 217, icon: 'phones',    label: 'Info' },
+  todo:      { hue: 217, icon: 'check',     label: 'Todo' },
+  tip:       { hue: 168, icon: 'book',      label: 'Tip' },
+  hint:      { hue: 168, icon: 'flame',     label: 'Hint' },
+  important: { hue: 168, icon: 'flame',     label: 'Important' },
+  success:   { hue: 135, icon: 'check',     label: 'Success' },
+  check:     { hue: 135, icon: 'check',     label: 'Check' },
+  done:      { hue: 135, icon: 'check',     label: 'Done' },
+  question:  { hue: 41,  icon: 'help',      label: 'Question' },
+  help:      { hue: 41,  icon: 'help',      label: 'Help' },
+  faq:       { hue: 41,  icon: 'help',      label: 'FAQ' },
+  warning:   { hue: 33,  icon: 'warn',      label: 'Warning' },
+  caution:   { hue: 33,  icon: 'warn',      label: 'Caution' },
+  attention: { hue: 33,  icon: 'warn',      label: 'Attention' },
+  failure:   { hue: 2,   icon: 'x',         label: 'Failure' },
+  fail:      { hue: 2,   icon: 'x',         label: 'Fail' },
+  missing:   { hue: 2,   icon: 'x',         label: 'Missing' },
+  danger:    { hue: 2,   icon: 'zap',       label: 'Danger' },
+  error:     { hue: 2,   icon: 'zap',       label: 'Error' },
+  bug:       { hue: 2,   icon: 'bug',       label: 'Bug' },
+  example:   { hue: 267, icon: 'link',      label: 'Example' },
+  quote:     { hue: 220, icon: 'quote',     label: 'Quote' },
+  cite:      { hue: 220, icon: 'quote',     label: 'Quote' },
+};
+// A "(…)" aside is a source or a side note — chapter, author, book — so in
+// callout titles and quotes it reads dimmer than the text around it. Tags are
+// matched first by the alternation so parentheses inside an href are left
+// alone.
+function dimParens(html) {
+  return html.replace(/(<[^>]+>)|(\([^()]*\))/g,
+    (m, tag, paren) => tag || '<span class="dim-paren">' + paren + '</span>');
+}
+
+function calloutIconSvg(name) {
+  return '<svg class="callout-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" ' +
+    'stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+    (CALLOUT_ICONS[name] || CALLOUT_ICONS.pencil) + '</svg>';
+}
+
+// Markdown isn't parsed inside a code fence, so **bold** and numbered-list
+// markers stay literal there. Colour both orange (and drop the asterisks).
+function styleCodeText(block) {
+  block.innerHTML = block.innerHTML
+    .replace(/^([ \t]*)(\d+\.)/gm, '$1<span class="code-num">$2</span>')
+    .replace(/\*\*([^*][\s\S]*?)\*\*/g, '<span class="code-strong">$1</span>');
+}
+
+// Obsidian-style ==highlight== → <mark>highlight</mark>
+//        and inline #tags → clickable tag pills.
+marked.use({ extensions: [
+{
+  // Obsidian callout: a blockquote opening with [!type] (optional title).
+  name: 'callout',
+  level: 'block',
+  start(src) {
+    const m = /(^|\n)[ \t]*>[ \t]*\[!/i.exec(src);
+    return m ? m.index + m[1].length : undefined;
+  },
+  tokenizer(src) {
+    const m = /^[ \t]*>[ \t]*\[!(\w+)\][+-]?[ \t]*([^\n]*)(?:\n|$)((?:[ \t]*>[^\n]*(?:\n|$))*)/.exec(src);
+    if (!m) return;
+    const body = m[3].replace(/^[ \t]*>[ \t]?/gm, '').replace(/\s+$/, '');
+    const title = m[2].trim();
+    const token = {
+      type: 'callout', raw: m[0],
+      kind: m[1].toLowerCase(), title, tokens: [],
+      // Titles carry markdown too — links, bold, wikilinks.
+      titleTokens: title ? this.lexer.inlineTokens(title) : null,
+    };
+    this.lexer.blockTokens(body, token.tokens);
+    return token;
+  },
+  renderer(token) {
+    const meta = CALLOUTS[token.kind] || CALLOUTS.note;
+    const titleText = token.titleTokens
+      ? dimParens(this.parser.parseInline(token.titleTokens))
+      : meta.label;
+    const body = this.parser.parse(token.tokens);
+    return '<div class="callout" data-callout="' + token.kind + '" style="--cl:' + meta.hue + '">' +
+      '<div class="callout-title">' + calloutIconSvg(meta.icon) +
+      '<span>' + titleText + '</span></div>' +
+      (body ? '<div class="callout-body">' + body + '</div>' : '') +
+      '</div>';
+  }
+},
+{
+  name: 'mark',
+  level: 'inline',
+  start(src) { return src.indexOf('=='); },
+  tokenizer(src) {
+    const m = /^==(?=\S)([\s\S]*?\S)==/.exec(src);
+    if (m) return {
+      type: 'mark',
+      raw: m[0],
+      tokens: this.lexer.inlineTokens(m[1])
+    };
+  },
+  renderer(token) { return '<mark>' + this.parser.parseInline(token.tokens) + '</mark>'; }
+},
+{
+  name: 'tag',
+  level: 'inline',
+  // A tag is "#name" at the start of inline text or right after whitespace.
+  start(src) {
+    const m = /(?:^|\s)#[A-Za-z]/.exec(src);
+    if (!m) return;
+    return m.index + (m[0][0] === '#' ? 0 : 1); // point at the '#'
+  },
+  tokenizer(src) {
+    const m = /^#([A-Za-z][\w/-]*)/.exec(src);
+    if (m) return { type: 'tag', raw: m[0], tag: m[1] };
+  },
+  renderer(token) {
+    const safe = token.tag.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+    return '<a href="#" class="tag" data-tag="' + safe + '" style="--th:' +
+      tagHue(token.tag) + '">#' + safe + '</a>';
+  }
+},
+{
+  // Obsidian image embed: ![[file.png]] or ![[file.png|width]]
+  name: 'wikiembed',
+  level: 'inline',
+  start(src) { const i = src.indexOf('!\[\['); return i < 0 ? undefined : i; },
+  tokenizer(src) {
+    const m = /^!\[\[([^\]|]+?)(?:\|([^\]]+))?\]\]/.exec(src);
+    if (m) return { type: 'wikiembed', raw: m[0], file: m[1].trim(), opt: (m[2] || '').trim() };
+  },
+  renderer(token) {
+    const src = 'pasted images/' + token.file;
+    const alt = token.file.replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+    const w = /^\d+$/.test(token.opt) ? ' width="' + token.opt + '"' : '';
+    return '<img src="' + encodeURI(src) + '" alt="' + alt + '"' + w + ' />';
+  }
+},
+{
+  // Obsidian note link: [[note]] or [[note|alias]] (heading part ignored).
+  name: 'wikilink',
+  level: 'inline',
+  start(src) { const i = src.indexOf('\[\['); return i < 0 ? undefined : i; },
+  tokenizer(src) {
+    const m = /^\[\[([^\]|#]+?)(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]/.exec(src);
+    if (m) return { type: 'wikilink', raw: m[0], target: m[1].trim(), alias: (m[2] || '').trim() };
+  },
+  renderer(token) {
+    const text = (token.alias || token.target).replace(/&/g, '&amp;').replace(/</g, '&lt;');
+    const path = resolveNote(token.target);
+    if (path) return '<a href="#' + encodeURIComponent(slugFor(path)) + '">' + text + '</a>';
+    return '<span class="wikilink-missing">' + text + '</span>';
+  }
+}
+]});
+
+// Quotes carry their source in "(author, book)" — dim it like a callout
+// subtitle. Callouts are their own token type, so they're untouched here.
+marked.use({ renderer: {
+  blockquote(quote) { return '<blockquote>' + dimParens(quote) + '</blockquote>\n'; }
+} });
+
+// Strip Obsidian comments: %%inline or multi-line%%, and an unclosed %%
+// that comments out everything to the end of the note.
+function stripComments(md) {
+  return md.replace(/%%[\s\S]*?%%/g, '').replace(/%%[\s\S]*$/, '');
+}
+
+function closeNav() { body.classList.remove('nav-open'); }
+document.getElementById('menu-toggle').onclick = () => body.classList.toggle('nav-open');
+document.getElementById('backdrop').onclick = closeNav;
+
+function buildNav(folders) {
+  nav.innerHTML = '';
+  folders.forEach(folder => {
+    const wrap = document.createElement('div');
+    wrap.className = 'folder';
+    const t = document.createElement('div');
+    t.className = 'folder-title';
+    t.textContent = folder.name;
+    wrap.appendChild(t);
+    folder.files.forEach(file => {
+      const a = document.createElement('a');
+      a.href = '#' + encodeURIComponent(slugFor(file.path));
+      a.textContent = file.name;
+      a.dataset.path = file.path;
+      if (file.draft) a.classList.add('draft');
+      if (file.star) a.classList.add('star');
+      a.dataset.tags = (file.tags || []).join(' ');
+      a.dataset.search = (folder.name + ' ' + file.name + ' ' + a.dataset.tags).toLowerCase();
+      wrap.appendChild(a);
+    });
+    nav.appendChild(wrap);
+  });
+}
+
+function setActive(path) {
+  document.querySelectorAll('nav a').forEach(a =>
+    a.classList.toggle('active', a.dataset.path === path));
+  // The active note is exempt from the WIP filter, so re-run it here.
+  applyFilter();
+}
+
+function titleFor(path) {
+  for (const folder of manifest.folders)
+    for (const file of folder.files)
+      if (file.path === path) return file.name;
+  // Fallback: derive from the filename.
+  const base = path.split('/').pop().replace(/\.md$/i, '');
+  return base.replace(/[-_]/g, ' ').trim();
+}
+
+async function loadFile(path) {
+  setActive(path);
+  closeNav();
+  body.classList.remove('is-welcome');
+  content.innerHTML = '<div class="welcome"><h1>Loading…</h1></div>';
+  try {
+    const res = await fetch(encodeURI(path), { cache: 'no-cache' });
+    if (!res.ok) throw new Error(res.status);
+    const raw = await res.text();
+    const title = titleFor(path);
+    document.title = title + ' · ' + (manifest.title || 'Notes');
+    const heading = '<h1 class="page-title">' +
+      title.replace(/&/g, '&amp;').replace(/</g, '&lt;') + '</h1>';
+    const html = heading + DOMPurify.sanitize(marked.parse(stripComments(raw)));
+    content.innerHTML = html;
+    // Fences in these notes hold prose, not code, so only highlight the ones
+    // that explicitly name a language — auto-detection colours random words.
+    content.querySelectorAll('pre code').forEach(b => {
+      if (/\blanguage-\S+/.test(b.className)) hljs.highlightElement(b);
+      styleCodeText(b);
+    });
+    // External links open in a new tab.
+    content.querySelectorAll('a[href^="http"]').forEach(a => {
+      a.target = '_blank'; a.rel = 'noopener noreferrer';
+    });
+    // Clicking a tag pill in a note filters the sidebar by that tag.
+    content.querySelectorAll('a.tag').forEach(a => {
+      a.addEventListener('click', e => { e.preventDefault(); selectTag(a.dataset.tag); });
+    });
+    window.scrollTo(0, 0);
+  } catch (e) {
+    content.innerHTML = '<div class="welcome"><h1>Couldn’t load that note</h1>' +
+      '<p>' + path + '</p></div>';
+  }
+}
+
+async function showWelcome() {
+  document.title = manifest.title || 'Notes';
+  setActive(null);
+  body.classList.add('is-welcome');
+  const titleHtml = '<h1>' +
+    (manifest.title || 'Notes').replace(/&/g, '&amp;').replace(/</g, '&lt;') + '</h1>';
+
+  // Prefer the landing note (landing page.md) if one was indexed.
+  if (manifest.landing) {
+    try {
+      const res = await fetch(encodeURI(manifest.landing), { cache: 'no-cache' });
+      if (res.ok) {
+        const raw = await res.text();
+        content.innerHTML = '<div class="welcome">' +
+          DOMPurify.sanitize(marked.parse(stripComments(raw))) + '</div>';
+        content.querySelectorAll('pre code').forEach(styleCodeText);
+        content.querySelectorAll('a[href^="http"]').forEach(a => {
+          a.target = '_blank'; a.rel = 'noopener noreferrer';
+        });
+        content.querySelectorAll('a.tag').forEach(a => {
+          a.addEventListener('click', e => { e.preventDefault(); selectTag(a.dataset.tag); });
+        });
+        return;
+      }
+    } catch {}
+  }
+
+  // Fallback: a generated summary line.
+  const count = manifest.folders.reduce((n, f) => n + f.files.length, 0);
+  content.innerHTML =
+    '<div class="welcome">' + titleHtml +
+    '<p>A small collection of ' + count + ' note' + (count === 1 ? '' : 's') +
+    '. Pick one from the sidebar to start reading.</p></div>';
+}
+
+const tagsPane = document.getElementById('tags');
+let activeTag = null;
+
+function buildTags(folders) {
+  const counts = new Map();
+  folders.forEach(f => f.files.forEach(file =>
+    (file.tags || []).forEach(t => counts.set(t, (counts.get(t) || 0) + 1))));
+  tagsPane.innerHTML = '';
+  if (!counts.size) { tagsPane.style.display = 'none'; return; }
+  tagsPane.style.display = '';
+
+  const title = document.createElement('div');
+  title.className = 'folder-title';
+  title.textContent = 'Tags';
+  tagsPane.appendChild(title);
+
+  const list = document.createElement('div');
+  list.className = 'tag-list';
+  [...counts.keys()].sort((a, b) => a.localeCompare(b)).forEach(t => {
+    const el = document.createElement('button');
+    el.type = 'button';
+    el.className = 'tag';
+    el.dataset.tag = t;
+    el.style.setProperty('--th', tagHue(t));
+    el.innerHTML = '#' + t.replace(/</g, '&lt;') +
+      '<span class="tag-count">' + counts.get(t) + '</span>';
+    el.onclick = () => toggleTag(t);
+    list.appendChild(el);
+  });
+  tagsPane.appendChild(list);
+}
+
+function applyFilter() {
+  const q = search.value.trim().toLowerCase();
+  document.querySelectorAll('nav a').forEach(a => {
+    const matchQ = !q || a.dataset.search.includes(q);
+    const matchTag = !activeTag || a.dataset.tags.split(' ').includes(activeTag);
+    // WIP ("?") pages are hidden unless the toggle is on — but the note you're
+    // currently reading always stays listed, however you arrived at it.
+    const matchWip = showWip || !a.classList.contains('draft') ||
+                     a.classList.contains('active');
+    a.style.display = matchQ && matchTag && matchWip ? '' : 'none';
+  });
+  document.querySelectorAll('#nav .folder').forEach(f => {
+    const anyVisible = [...f.querySelectorAll('a')].some(a => a.style.display !== 'none');
+    f.style.display = anyVisible ? '' : 'none';
+  });
+  document.querySelectorAll('#tags .tag').forEach(el =>
+    el.classList.toggle('active', el.dataset.tag === activeTag));
+}
+
+// Toggle a tag from the sidebar pane.
+function toggleTag(t) {
+  activeTag = (activeTag === t) ? null : t;
+  applyFilter();
+}
+
+// Select a tag from within a note (always filters to it).
+function selectTag(t) {
+  activeTag = t;
+  applyFilter();
+  if (window.matchMedia('(max-width: 820px)').matches) body.classList.add('nav-open');
+  const scroller = document.getElementById('sidebar-scroll');
+  scroller.scrollTo({ top: scroller.scrollHeight });
+}
+
+search.addEventListener('input', applyFilter);
+wipCheck.addEventListener('change', () => {
+  showWip = wipCheck.checked;
+  try { localStorage.setItem(WIP_KEY, showWip ? '1' : '0'); } catch {}
+  applyFilter();
+});
+
+function route() {
+  const slug = decodeURIComponent(location.hash.slice(1));
+  if (!slug) { showWelcome(); return; }
+  const path = pathForSlug(slug);
+  // Rewrite old folder-qualified links to the short form, in place.
+  const canon = encodeURIComponent(slugFor(path));
+  if (location.hash.slice(1) !== canon) history.replaceState(null, '', '#' + canon);
+  loadFile(path);
+}
+window.addEventListener('hashchange', route);
+
+// Re-read the manifest when the tab regains focus, so changes made by the
+// sync (renames, new/removed notes, reordering) show up without a reload.
+async function refreshManifest() {
+  try {
+    const res = await fetch('files.json', { cache: 'no-cache' });
+    const next = await res.json();
+    if (JSON.stringify(next) === JSON.stringify(manifest)) return;
+    manifest = next;
+    document.title = manifest.title || 'Notes';
+    document.getElementById('brand-title').textContent = manifest.title || 'Notes';
+    buildNav(manifest.folders);
+    buildTags(manifest.folders);
+    applyFilter();
+    const slug = decodeURIComponent(location.hash.slice(1));
+    setActive(slug ? pathForSlug(slug) : null);
+  } catch {}
+}
+window.addEventListener('focus', refreshManifest);
+
+(async function init() {
+  try {
+    const res = await fetch('files.json', { cache: 'no-cache' });
+    manifest = await res.json();
+  } catch {
+    content.innerHTML = '<div class="welcome"><h1>No manifest found</h1>' +
+      '<p>Run <code>python3 build-index.py</code> to generate <code>files.json</code>.</p></div>';
+    return;
+  }
+  document.title = manifest.title || 'Notes';
+  document.getElementById('brand-title').textContent = manifest.title || 'Notes';
+  // Reflect the remembered choice (and override any browser form restore).
+  wipCheck.checked = showWip;
+  buildNav(manifest.folders);
+  buildTags(manifest.folders);
+  applyFilter();
+  route();
+})();
+</script>
+</body>
+</html>

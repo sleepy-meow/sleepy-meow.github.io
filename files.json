@@ -1,0 +1,285 @@
+{
+  "title": "learnings.team",
+  "folders": [
+    {
+      "name": "start here",
+      "files": [
+        {
+          "name": "introduction",
+          "path": "learnings/introduction.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to come up with big ideas",
+          "path": "learnings/how to come up with big ideas.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "culture",
+      "files": [
+        {
+          "name": "how to nurture a culture",
+          "path": "wip/how to nurture a culture.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "why to write down your principles",
+          "path": "wip/why to write down your principles.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "psychological safety",
+      "files": [
+        {
+          "name": "feeling safe and trusted",
+          "path": "learnings/feeling safe and trusted.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to psychological safety",
+          "path": "learnings/how to psychological safety.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to lower the bar for participation",
+          "path": "learnings/how to lower the bar for participation.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "why not to shoot the messenger",
+          "path": "learnings/why not to shoot the messenger.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "learning & thinking",
+      "files": [
+        {
+          "name": "a learning mindset",
+          "path": "learnings/a learning mindset.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to fail",
+          "path": "learnings/how to fail.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "how to question your own thinking",
+          "path": "learnings/how to question your own thinking.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "group flow",
+          "path": "learnings/group flow.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "diversity of thought",
+          "path": "learnings/diversity of thought.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "ways of working",
+      "files": [
+        {
+          "name": "making decisions",
+          "path": "learnings/making decisions.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "logging decisions",
+          "path": "learnings/logging decisions.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "developer user experience",
+          "path": "learnings/developer user experience.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "start with the users",
+          "path": "learnings/start with the users.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "cognitive accessibility",
+          "path": "learnings/cognitive accessibility.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "feedback",
+      "files": [
+        {
+          "name": "feedback checklists",
+          "path": "learnings/feedback checklists.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "clear is kind",
+          "path": "learnings/clear is kind.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "feedback without ownership",
+          "path": "learnings/feedback without ownership.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "high stakes feedback",
+          "path": "learnings/high stakes feedback.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "other conversations",
+      "files": [
+        {
+          "name": "how to ask the right questions",
+          "path": "learnings/how to ask the right questions.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "empathy misses",
+          "path": "learnings/empathy misses.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "emergent facilitation",
+          "path": "learnings/emergent facilitation.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "active listening",
+          "path": "maybe add/active listening.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "conflict avoidance",
+          "path": "learnings/conflict avoidance.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "leadership",
+      "files": [
+        {
+          "name": "leadership responsibilities",
+          "path": "learnings/leadership responsibilities.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "leadership approaches",
+          "path": "learnings/leadership approaches.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "motivation",
+          "path": "learnings/motivation.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "rigid teams vs teaming",
+          "path": "learnings/rigid teams vs teaming.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    },
+    {
+      "name": "other things",
+      "files": [
+        {
+          "name": "hope is not an emotion",
+          "path": "learnings/hope is not an emotion.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "cross team connectors",
+          "path": "maybe add/cross team connectors.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "free flow of information",
+          "path": "learnings/free flow of information.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "some pitfalls",
+          "path": "learnings/some pitfalls.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "founding a company",
+          "path": "learnings/founding a company.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "bad advice books",
+          "path": "learnings/bad advice books.md",
+          "tags": [],
+          "done": true
+        },
+        {
+          "name": "links & resource",
+          "path": "learnings/links & resource.md",
+          "tags": [],
+          "done": true
+        }
+      ]
+    }
+  ],
+  "landing": "learnings/landing page.md"
+}

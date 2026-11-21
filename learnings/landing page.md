@@ -1,0 +1,44 @@
+> *"If you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea."*
+
+A small collection of learnings about *culture, collaboration, and about what creative environments need to thrive*. 
+
+Many of these ideas and practical tools are useful for anyone who wants to make their environment a little clearer, safer, and easier to work in. 
+
+Pick one from the sidebar to start reading!
+%%
+> [!WARNING] This page is still wip
+
+%%
+
+%%
+> [!INFO] TARGET AUDIENCE (small teams and people who may not necessarily be leads themselves)
+
+> [!INFO] SOURCES (learnings are mostly based on [this list of books & research papers](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b259?v=314d1f512d894da2916a46ebef5310cd&assetsVersion=23.13.20260627.0555&clientBuildTarget=clientExperimental))
+
+
+
+
+
+
+> [!WARNING] this page is still wip
+
+> [!SUCCESS] this page is fine for the time being
+
+
+The main topics:
+
+*Feedback & communication* - How to give useful feedback, talk about problems, and make it easier for people to understand each other.
+
+*Psychological safety & culture* - What helps people speak up, ask questions, disagree, experiment, and learn.
+
+*Decision-making & alignment* - Ways to make decisions clearer, involve the right people, and reduce confusion about why things happen.
+
+*Learning & improvement* - How teams learn from mistakes, share knowledge, and continuously improve the way they work.
+
+*Practical tools* - Simple frameworks and techniques you can try in your own team.
+
+
+https://sleepy-meow.github.io
+http://localhost:8000/#
+
+%%

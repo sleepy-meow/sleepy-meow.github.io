@@ -35,6 +35,9 @@ Just passing anonymous feedback on may feel neutral, but choosing to repeat a ju
 
 Before passing feedback on, ask what the recipient can reasonably do with it. See how many boxes it checks in [[feedback checklists|the effective feedback model]]. If it doesn't, consider whether it needs to be said at all.
 
+## Diffusion of responsibility / the bystander effect
+When several people share a concern, each [tends to assume someone else will raise it](https://en.wikipedia.org/wiki/Diffusion_of_responsibility), or already has. Anonymity makes this more likely: feedback without a name has no owner, so nobody explains it, follows up, or checks whether anything changed.  
+Responsibility also thins out as feedback travels. One person writes it, another collects it, a third passes it on. Each step feels neutral, and at the end nobody owns the judgment.  
 
 # links
 

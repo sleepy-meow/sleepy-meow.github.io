@@ -1,4 +1,4 @@
-part 1/3: [[clear is kind]]
+part 1: [[clear is kind]]
 ## Anonymous feedback
 Anonymous feedback comes with structural limitations: you can't have a direct conversation with the person whose experience the feedback describes. It's also hard to resolve conflict if you don't know who to talk with.
 

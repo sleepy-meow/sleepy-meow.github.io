@@ -99,4 +99,4 @@ Clear feedback gives the recipient something to understand, question, repair, an
 The next question is who takes responsibility for making that conversation possible.
 
 
-part 2/3: [[feedback without ownership]]
+part 2: [[feedback without ownership]]

@@ -4,14 +4,6 @@ Anonymous feedback comes with structural limitations: you can't have a direct co
 
 Anonymous information can be useful as a signal, but shouldn't automatically become conclusions.
 
-
-> If you're criticizing from a place where you're not also putting yourself on the line, I'm not interested in what you have to say. (brene brown, dare to lead)
-
-%% 
-
-> Communication is not about speaking what we think. Communication is about ensuring others hear what we mean. 
-%%
-
 When feedback is left to someone else to deliver, you can’t assume it reached the recipient or that it conveyed what you intended.
 
 
@@ -20,13 +12,6 @@ When feedback is left to someone else to deliver, you can’t assume it reached 
 
 *Feedback needs to support a conversation.* The person responsible for the assessment must be available to explain and discuss it.
 
-Using unnamed others to avoid owning a judgment is problematic informally, and substantially more consequential when built into systems that determine people’s careers (a nice rant about this can be found in the book "confronting our freedom"). You'll almost involuntarily try to guess who it came from, which leads to generalized distrust.
-%%
-# The cheap seats
-> The third thing I learned has turned into a mandate by which I live: If you are not in the arena getting your ass kicked on occasion, I'm not interested in or open to your feedback. There are a million cheap seats in the world today filled with people who will never be brave with their lives but who will spend every ounce of energy they have hurling advice and judgment at those who dare greatly. Their only contributions are criticism, cynicism, and fearmongering.
-
-%%
-
 ## Feedback and accountability
 Accountability means: *owning your mistakes, apologizing, and making amends*. 
 Anonymity can limit direct repair: you may be unable to ask the person what the experience cost them, apologize privately, or check with them whether things have improved. 
@@ -34,36 +19,28 @@ Anonymity can limit direct repair: you may be unable to ask the person what the 
 ## the direction of feedback matters
 *The case for anonymity depends partly on who needs protection from whom.*
 
-Anonymous upwards feedback can be useful as a signal that would otherwise never arrive at all. Someone reporting concerns about a person who controls their review, opportunities, or employment has a clear reason to fear consequences. When the reporter holds that power over the recipient, the same justification is much weaker. Discomfort with explaining or defending criticism is not the same as needing protection from retaliation.
+Anonymous upwards feedback can be useful as a signal that would otherwise never arrive at all. Someone reporting concerns about a person who controls their review, opportunities, or employment has a clear reason to fear consequences. 
 
-A manager may still need to protect a less powerful person whose concern they are relaying. But when the criticism comes from the manager themselves, or from more senior leadership, anonymity can shield the people exercising authority from having to answer for their judgments.
+When the person giving feedback holds more power than the recipient, the case for anonymity is much weaker. They have little to fear, and the recipient loses the chance to ask questions.
 
 > "good leaders should aspire to have their fingerprints all over hard decisions" (mike monteiro, ruined by design)
 
-The more power someone has to attach consequences to their criticism, the stronger the expectation that they own it, explain its basis, and remain available for questions.
-
-The same problem applies to [[logging decisions#decisions without ownership|decisions without ownership]]: *“it has been decided”* without anyone owning the reasoning or answering questions. 
+The same problem applies to [[logging decisions#decisions without ownership|decisions without ownership]]: when something 'has been decided' without anyone owning the reasoning or answering questions. 
 
 
 Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case. Having more to lose in a situation can get in the way of communicating clearly.
 
 ## Responsibility of the messenger
-*“I’m just passing on what I heard”* may feel neutral, but choosing to repeat a judgment gives it an audience and, depending on your role, authority.
+Just passing anonymous feedback on may feel neutral, but choosing to repeat a judgment gives it an audience and, depending on your role, authority.
 
 Before passing feedback on, ask what the recipient can reasonably do with it. See how many boxes it checks in [[feedback checklists|the effective feedback model]]. If it doesn't, consider whether it needs to be said at all.
 
-%%
-*When the source is not disclosed, you take responsibility for the feedback you choose to deliver.* The recipient cannot discuss it directly with the person who raised it, so you need to answer for its basis, acknowledge what remains uncertain, and be willing to reconsider it in light of their response. “I can’t tell you who said it” cannot also mean “I don’t have to explain or discuss it.”%%
 
-%%
-# talking about people
-> Talking about people is unkind. (Brene brown, dare to lead)
+# links
 
-> The gossip taboo benefits the powerful.
-> 
-> Gossip can of course be used to destroy or disparage unhelpfully and recklessly. But what is labeled "gossiping" can also be a process of people pooling information that fragmented go nowhere and pooled together can change things. (Priya parker, The art of fighting)
-
-%%
+> [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
 
 
-part 3/3: [[high stakes feedback]]
+> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It.](https://www.corporate-rebels.com/blog/annual-performance-reviews)
+
+> [!TIP] Peter Block, Peter Koestenbaum - Confronting Our Freedom (A good take on 360 reviews, anonymous surveys, and accountability)

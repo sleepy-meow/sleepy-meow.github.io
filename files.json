@@ -1,5 +1,5 @@
 {
-  "title": "learnings.team",
+  "title": "learnings",
   "folders": [
     {
       "name": "start here",
@@ -130,12 +130,6 @@
         {
           "name": "feedback without ownership",
           "path": "learnings/feedback without ownership.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "high stakes feedback",
-          "path": "learnings/high stakes feedback.md",
           "tags": [],
           "done": true
         }

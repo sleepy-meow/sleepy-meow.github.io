@@ -30,14 +30,8 @@ There is a limit to the advice to let hurtful comments go: when someone uses the
 
 You can reject a comment as a verdict on your worth and still need to challenge its role in a decision. Asking for examples, questioning an interpretation, or correcting the record is part of responding to an assessment.
 
-If you aren't allowed to understand, question, or respond to consequential criticism, the problem is also how power is being exercised.
-
 
 ## further reading
 
-> [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
 
-> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It.](https://www.corporate-rebels.com/blog/annual-performance-reviews)
-
-> [!TIP] Peter Block, Peter Koestenbaum - Confronting Our Freedom (A good take on 360 reviews, anonymous surveys, and accountability)
 

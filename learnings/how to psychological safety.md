@@ -14,8 +14,6 @@
 
 > [!EXAMPLE] [top 10 ways to foster psychological safety](https://psychsafety.com/top-10-ways-to-foster-psychological-safety-in-the-workplace/) (more details here)
 
-(No amount of team building exercises can make up for the things above being ignored.)
-
 # Other things to do
 > [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
 
@@ -45,13 +43,13 @@ Small acts like these make openness easier for everyone else.
     Explain what will happen next, who owns the issue, and what was ultimately decided. Even when no action is taken, a clear and respectful explanation shows that speaking was worthwhile.
     
 4. **Admit mistakes and repair the consequences.**  
-    Say when you were wrong, handled something badly, or lacked important information. Repair may also require correcting the record, restoring an opportunity, apologizing publicly, or changing a decision, not merely expressing regret.
+    Say when you were wrong, handled something badly, or lacked important information, and fix what can be fixed.
     
 5. **Invite disagreement before decisions are final.**  
     Ask specific questions such as, “What are we overlooking?” or “What would make this fail?” Make space for less senior and less outspoken people before the most powerful voices shape the discussion.
     
 6. **Clarify expectations, priorities, constraints, and decision rights.**  
-    People should know what outcome matters, what “good enough” looks like, what is open for discussion, and who will make the final call. When priorities change, say so explicitly rather than judging people against a new standard later.
+    People should know what outcome matters, what “good enough” looks like, what is open for discussion, and who will make the final call. When priorities change, say so explicitly.
     
 7. **Treat mistakes and bad news as information first.**  
     Begin by understanding what happened, what the person knew at the time, and what conditions contributed to it. Recognize well-designed experiments that produce useful learning, even when they don’t achieve the intended result. Accountability still matters, but learning should come before blame. 

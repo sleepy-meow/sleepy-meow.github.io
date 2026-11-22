@@ -64,31 +64,15 @@ Edmondson talks about four different zones:
 
 The danger here is to mix up the comfort zone and anxiety zone, interpreting the lack of progress as complacency.
 
-Telling someone who is afraid to simply try harder to focus, is like trying to smooth rough waters with a flat iron. It will only make it worse.
-
-# Acclimatizing
-> Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe.
-
-When a climate changes slowly over time, it can be easy to get used to and stop registering it. 
-
 # Leaders want to feel safe too
 
 >  Leaders want to feel safe too. every single person wants to feel like they are valued by the others in the group. So when our boss comes down hard on us and we don't know the reason, it is equally our responsibility to express concern for their wellbeing. (simon sinek, leaders eat last)
 
-Caring about a leader does not create an equal responsibility for managing their behavior though. When a boss *"comes down hard on us and we don't know the reason"*, it lowers psychological safety, which means asking *"are you okay"* can sometimes take a hell of a lot more courage than the other way around.
 
 # psychological safety on a larger scale
 A "team climate" is not an isolated bubble, but affected by the organization around it (and by the broader environment, etc.) 
 
 > [!EXAMPLE]  [the organisational fabric of psychological safety](https://psychsafety.com/the-organisational-fabric-of-psychological-safety/)
-
-Different teams with highly different levels of safety can also cause friction: candour might get misread, and since [a team is only as safe as the least safe person](https://psychsafety.com/a-team-is-only-as-safe-as-the-least-safe-person/), members of the high-safety team often become guarded in cross-team meetings once candour is punished there. When the people you happen to interact with do feel genuinely safe (and even encourage speaking up), you might end up in a situation where you've simply not gotten the memo.
-
-
-%%
-An interesting point that came up in amy edmondsons book:
-> Psychological safety is lower in countries with greater power distance. 
-%%
 
 # Links
 > [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)

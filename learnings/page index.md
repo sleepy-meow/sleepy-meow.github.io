@@ -26,7 +26,6 @@
 [[feedback checklists]] !!
 [[clear is kind]] !!
 [[feedback without ownership]] !!
-[[high stakes feedback]] !!
 
 # other conversations
 [[how to ask the right questions]] !!

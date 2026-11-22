@@ -1,14 +1,13 @@
 *..and better alternatives*
 # rachel botsman - how to trust and be trusted
-This short audiobook seems to miss this point entirely:
+This short audiobook seems to miss this point:
 
 > [!EXAMPLE] [the difference between trust and psychological safety](https://psychsafety.com/the-difference-between-trust-and-psychological-safety/)
 
-..and covers a broad set of topics without considering the impact of psychological safety at all. 
-
+while covering a broad set of topics without addressing the impact of psychological safety (and things relevant to it). 
 
 Alternatives:
-- **david desteno - the truth about trust** (For a better take on the topic of trust)
+- **david desteno - the truth about trust**
 
 
 # 5 dysfunctions of a team
@@ -20,15 +19,12 @@ The clearest red flag vibes came up in the sequel which is more focused on pract
 > 
 > You should also encourage, or even require, that team members keep any reference material or collateral from the session on their desks back at work, rather than in a drawer or on a bookshelf. This increases the likelihood that they'll refer to it later, and that others will ask them about it.
 
-
 > [!EXAMPLE] relevant article: [forced vulnerability](https://psychsafety.com/forced-vulnerability/)
 
 
 Not every conflict, accountability or coordination failure originates in an absence of interpersonal trust. The book largely ignores the role of structures: incentives, power asymmetry, workload, who actually holds decision rights.
 
-It also reads like an advertisement for the myers briggs personality test, which is [widely regarded as pseudoscience](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Accuracy_and_validity). This may have made more sense when the book was published (2002 was around the peak hype).
-
-
+It also reads like an advertisement for the myers briggs personality test, which is [widely regarded as pseudoscience](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Accuracy_and_validity). This may have made more sense when the book was published though (2002 was around the peak hype).
 
 Alternatives:
 - **amy edmondson - the fearless organization.** Edmondson's psychological safety work is useful contrast, since she treats safety as a property of the team's climate that leaders and structure largely produce, rather than a disposition individuals need to muster.
@@ -46,7 +42,7 @@ The book is most convincing when it describes attention as something industries 
 
 
 Alternatives:
-- **Chris Hayes’s _The Siren’s Call_** develops the systemic argument more carefully: attention is not merely a personal capacity to protect, but a scarce social resource being actively extracted and sold.
+- **Chris Hayes’s _The Siren’s Call_** develops the systemic argument more carefully: attention is not just a personal capacity to protect, but a scarce social resource being actively extracted and sold.
 
 
 

@@ -1,14 +1,15 @@
 *Good feedback is specific, actionable, contextual, and open to dialogue.*
 
 > Clear is kind. Unclear is unkind. 
+> 
+> Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. 
+> 
+> Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind. (Brene Brown - Dare to Lead)
 
 An observation, a concern, or a sense that something isn’t working can open a conversation. The person raising it doesn’t need all the details or a ready-made solution.
 
 The test isn’t whether the conversation starts out vague, but whether the person giving it is willing to examine it and help make it clear. What isn’t fair is requiring someone to improve while leaving them to guess what improvement means.
 
-> Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. 
-> 
-> Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind. (Brene Brown - Dare to Lead)
 
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
 
@@ -51,8 +52,6 @@ Feedback starts to become bullshit when it makes a consequential claim about som
 - What expectation or standard is being applied?
 - What would improvement look like?
 
-Statements such as _“you focus on the wrong things,” “you have poor communication skills,”_ or _“you need to be more positive”_ may point to a real concern, but are not sufficient as a conclusion.
-
 When the person giving the feedback can't make the claim more concrete, the language performs the appearance of feedback without doing the work of feedback.
 
 # Separate observation from interpretation
@@ -91,7 +90,7 @@ This identifies a particular misunderstanding without assuming what caused it. I
 
 By comparison:
 
-> “Your communication skills are bad and need to get better at communicating.”
+> “You need to get better at communicating.”
 
 This makes a broad judgment about someone’s ability without explaining what happened, what standard was not met, or what they should do differently.
 

@@ -1,4 +1,4 @@
-# learnings-
+# learnings.team
 
 <!-- learnings/landing page.md -->
 
@@ -21,7 +21,7 @@ Pick one from the sidebar to start reading!
   - [feeling safe and trusted](#feeling-safe-and-trusted)
   - [how to psychological safety](#how-to-psychological-safety)
   - [how to lower the bar for participation](#how-to-lower-the-bar-for-participation)
-  - [why not to shoot the messenger](#why-not-to-shoot-the-messenger)
+  - [why to thank the messenger](#why-to-thank-the-messenger)
 - **learning & thinking**
   - [a learning mindset](#a-learning-mindset)
   - [how to fail](#how-to-fail)
@@ -29,22 +29,19 @@ Pick one from the sidebar to start reading!
   - [group flow](#group-flow)
   - [diversity of thought](#diversity-of-thought)
 - **ways of working**
-  - [making decisions](#making-decisions)
+  - [a decison making process](#a-decison-making-process)
   - [logging decisions](#logging-decisions)
   - [developer user experience](#developer-user-experience)
-  - [start with the users](#start-with-the-users)
 - **feedback**
   - [feedback checklists](#feedback-checklists)
   - [clear is kind](#clear-is-kind)
   - [feedback without ownership](#feedback-without-ownership)
-  - [high stakes feedback](#high-stakes-feedback)
 - **other conversations**
   - [how to ask the right questions](#how-to-ask-the-right-questions)
   - [empathy misses](#empathy-misses)
   - [emergent facilitation](#emergent-facilitation)
   - [conflict avoidance](#conflict-avoidance)
 - **leadership**
-  - [leadership responsibilities](#leadership-responsibilities)
   - [leadership approaches](#leadership-approaches)
   - [motivation](#motivation)
   - [rigid teams vs teaming](#rigid-teams-vs-teaming)
@@ -186,29 +183,20 @@ Edmondson talks about four different zones:
 
 The danger here is to mix up the comfort zone and anxiety zone, interpreting the lack of progress as complacency.
 
-Telling someone who is afraid to simply try harder to focus, is like trying to smooth rough waters with a flat iron. It will only make it worse.
-
-#### Acclimatizing
-> Very few of us would voluntarily seek to work in an environment where we don't feel psychologically safe.
-
-When a climate changes slowly over time, it can be easy to get used to and stop registering it. 
-
 #### Leaders want to feel safe too
 
 >  Leaders want to feel safe too. every single person wants to feel like they are valued by the others in the group. So when our boss comes down hard on us and we don't know the reason, it is equally our responsibility to express concern for their wellbeing. (simon sinek, leaders eat last)
 
-Caring about a leader does not create an equal responsibility for managing their behavior though. When a boss *"comes down hard on us and we don't know the reason"*, it lowers psychological safety, which means asking *"are you okay"* can sometimes take a hell of a lot more courage than the other way around.
 
 #### psychological safety on a larger scale
-An interesting point that came up in amy edmondsons book:
-> Psychological safety is lower in countries with greater power distance. 
+A "team climate" is not an isolated bubble, but affected by the organization around it (and by the broader environment, etc.) 
 
-A "team climate" is not exactly isolated, but affected by the organization around it, and by the broader environment, etc. but it can work the opposite way around too.
+> [!EXAMPLE]  [the organisational fabric of psychological safety](https://psychsafety.com/the-organisational-fabric-of-psychological-safety/)
 
 #### Links
 > [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 
-> [!EXAMPLE] [a team is only as safe as the least safe person](https://psychsafety.com/a-team-is-only-as-safe-as-the-least-safe-person/)
+
 
 > [!EXAMPLE] [explore.psychsafety.com](https://explore.psychsafety.com/) (a cool network diagram to demonstrate the actual complexity of the topic) 
 
@@ -237,8 +225,6 @@ A "team climate" is not exactly isolated, but affected by the organization aroun
 10. Accepting human error as normal
 
 > [!EXAMPLE] [top 10 ways to foster psychological safety](https://psychsafety.com/top-10-ways-to-foster-psychological-safety-in-the-workplace/) (more details here)
-
-(No amount of team building exercises can make up for the things above being ignored.)
 
 #### Other things to do
 > [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
@@ -269,13 +255,13 @@ Small acts like these make openness easier for everyone else.
     Explain what will happen next, who owns the issue, and what was ultimately decided. Even when no action is taken, a clear and respectful explanation shows that speaking was worthwhile.
     
 4. **Admit mistakes and repair the consequences.**  
-    Say when you were wrong, handled something badly, or lacked important information. Repair may also require correcting the record, restoring an opportunity, apologizing publicly, or changing a decision, not merely expressing regret.
+    Say when you were wrong, handled something badly, or lacked important information, and fix what can be fixed.
     
 5. **Invite disagreement before decisions are final.**  
     Ask specific questions such as, “What are we overlooking?” or “What would make this fail?” Make space for less senior and less outspoken people before the most powerful voices shape the discussion.
     
 6. **Clarify expectations, priorities, constraints, and decision rights.**  
-    People should know what outcome matters, what “good enough” looks like, what is open for discussion, and who will make the final call. When priorities change, say so explicitly rather than judging people against a new standard later.
+    People should know what outcome matters, what “good enough” looks like, what is open for discussion, and who will make the final call. When priorities change, say so explicitly.
     
 7. **Treat mistakes and bad news as information first.**  
     Begin by understanding what happened, what the person knew at the time, and what conditions contributed to it. Recognize well-designed experiments that produce useful learning, even when they don’t achieve the intended result. Accountability still matters, but learning should come before blame. 
@@ -418,16 +404,16 @@ Silence already wins unless you actively counter it. So the first way to keep th
 
 ---
 
-<!-- learnings/why not to shoot the messenger.md -->
+<!-- learnings/why to thank the messenger.md -->
 
-### why not to shoot the messenger
+### why to thank the messenger
 
 > the primary result of responding to failures in a negative way is that you don't hear about them.
 
-A teammate raises a concern but finds themselves in a situation like this:
+If a teammate raises a concern but finds themselves in a situation like this..
 ![Pasted image 20260813060053.png](pasted%20images/Pasted%20image%2020260813060053.png)
 
-This mainly teaches everyone who witnesses it that it's not safe to disagree with the boss, causing self-censoring and making presentations paint a pretty picture of things while below deck the engine room is flooding.
+..it mainly teaches everyone who witnesses it that it's not safe to disagree with the boss, causing self-censoring and making presentations paint a pretty picture of things while below deck the engine room is flooding.
 
 > Many organizational leaders genuinely believe that "no news" means that things are going well. What many people do not realize is that motivation by fear is indeed highly effective - effective at creating the illusion that goals are being achieved. (amy edmondson, the fearless organization)
 
@@ -646,10 +632,9 @@ Using the swiss cheese analogy again, if everyone has the same life experiences 
 #### groupthink
 Another thing that can happen when a group thinks too much the same way, is groupthink. It occurs when the desire for harmony or conformity in the group resulting in irrational or dysfunctional decision-making.
 
-For a cool example of what this can look like, check out the tv show *Pluribus, season 1 episode 1*. If it feels too much like "another day at the office", the link below may be useful:
-
 > [!EXAMPLE]  [how to avoid groupthink on your team](https://www.atlassian.com/blog/teamwork/groupthink) (Warning signs & how to avoid it)
 
+(the tv show *Pluribus, season 1 episode 1* is a really good depiction of this)
 
 #### designing for diverse audiences
 
@@ -662,9 +647,9 @@ For a cool example of what this can look like, check out the tv show *Pluribus, 
 
 ## ways of working
 
-<!-- learnings/making decisions.md -->
+<!-- learnings/a decison making process.md -->
 
-### making decisions
+### a decison making process
 
 *A simple process for distributed decision making*
 
@@ -726,17 +711,11 @@ Advice must be taken seriously, but it's only advice. Advice does not give someo
 - Accountability for decision-making. Similarly to the [invisible army in feedback](#feedback-without-ownership), saying "it has been decided" can be a way to obscure responsibility
 > [!EXAMPLE] [monkeys, bananas and ladder experiment: obeying absurd rules](https://psychologyfor.com/the-monkeys-bananas-and-ladder-experiment-obeying-absurd-rules/)
 ##### decisions without ownership
-Decisions can also arrive without anyone taking responsibility for them.:
+Decisions can also arrive without anyone taking responsibility for them. It's easy to say 'we've been asked to…' when relaying something we didn't decide.
 
-*“It has been decided…”*  
-*“The company wants…”*  
-*“I’m being told that…”*
-
-These phrases can leave the authority behind a decision unquestionable and its reasoning inaccessible. Who decided? What problem were they trying to solve? What constraints shaped the choice? Who can answer questions or consider information they may have missed?
+This can leave the authority behind a decision unquestionable and its reasoning inaccessible. Who decided? What problem were they trying to solve? What constraints shaped the choice? Who can answer questions or consider information they may have missed?
 
 A person communicating a decision may not have made it, and shouldn’t have to pretend otherwise. But there should still be a clear path to whoever is responsible. Collective decisions can have ownership too: a group can explain its reasoning and identify someone who will answer for it.
-
-
 
 Owning a decision doesn’t mean everyone must agree with it. It means making clear who made it, why, and how affected people can raise questions. A decision log helps preserve that context, but the person or group responsible must still be available to explain the decision.
 
@@ -792,7 +771,9 @@ Make it easy to contribute missing context or ask questions. Keep changes to the
 
 ### developer user experience
 
-*UX + ways of working*
+*UX + workflows*
+
+> “You’ve got to start with the customer experience and work back toward the technology - not the other way around.” -Steve Jobs
 
 Most of us understand the value of ux in the products we build. But an often overlooked aspect is how those same principles can be applied to finding optimal ways of working and internal tooling.
 
@@ -814,7 +795,6 @@ Some useful questions
 - *How does this impact the cognitive load of individuals and the team overall, in the long run?*
 - *How does this scale? (and does it need to)*
 - *What are we actually trying to solve here?*
-
 
 #### the cost of interrupted work
 *Spending 50% on one project and 50% on another does not add up to 100%.*
@@ -867,169 +847,6 @@ High-level task flows reveal dependencies and bottlenecks that may otherwise be 
 > [!EXAMPLE] [UX Crossfunctional Collaboration: Challenges and Strategies for Success](https://www.nngroup.com/articles/ux-collaboration-challenges/)
 
 > [!EXAMPLE] [Communication Practices for Increasing UX Maturity](https://www.nngroup.com/articles/communication-practices/)
-
----
-
-<!-- learnings/start with the users.md -->
-
-### start with the users
-
-*a collection of bite sized tech art learnings*
-
-> “You’ve got to start with the customer experience and work back toward the technology - not the other way around.” -Steve Jobs
-
-> [!SUCCESS] Defining user experience
-> User experience refers to how a user interacts with and operates a product, system, or service, including perceptions of utility, ease of use, and efficiency.
-> <img src="pasted%20images/Pasted%20image%2020260827141054.png" alt="Pasted image 20260827141054.png" width="314">
-
-
-> [!SUCCESS] reducing the cognitive load
-> A good rule of thumb is to ask yourself: does this change reduce the cognitive load for the whole group as a whole (in the long run). 
-
-> [!SUCCESS] iterative design
-> Frequent, small iterations reduce the need for significant course corrections.
-> 
-> analyze the situation → design 1+ focused improvements → evaluate impact on user experience
-> 
-> the goal of one iteration is to learn something out of it.![Pasted image 20260827141154.png](pasted%20images/Pasted%20image%2020260827141154.png)
-> 
-> The typical steps of iterative design in user interfaces:
- >    1. Create an initial interface design
- >    2. Present the design to several test users
- >    3. Note any problems had by the test user
- >    4. Refine interface to account for/fix the problems
->     1. Repeat steps 2-4 until user interface problems are resolved
-
-> [!SUCCESS]  learning from mistakes
-> postmortems, decision logs, etc. help identify repeating patterns over time.
-
-> "the minute you encourage someone to use a piece of technology, you are inherently responsible for it" (reid hoffman, masters of scale)
-
-> [!SUCCESS] common reasons why users didn’t read the manual
-> - not knowing know it exists
-> - it doesn’t exist
-> - it’s difficult to find / navigate to
-> - it’s hard to understand
-> - it contains a lot of irrelevant information to the user
-
-> [!SUCCESS]  lowering the barrier to contribute
-> the lower the barrier is to extend a tool, the more people can help improve & customize it
-
-> [!SUCCESS]  estimating return on investment
-> basic version: Time/energy saved each occurrence *x* Number of users *x* Frequency *x* Future benefits
-> Vs
-> Development time (including the time that users don’t have the fix) *+* Future maintenance & support time *+* time it takes to adopt & learn 
-> 
-> example: 5 minutes saved *x* 4 times a day *x* 35 users
->   = 11.7 hours / day, or 29 days / month, or *350 days / year*
-> 
-> (Other factors like cognitive load and context switching are harder to quantify but relevant)
-> 
-> these calculations often end up looking like this:
-> 
->  <img src="pasted%20images/Pasted%20image%2020260827141326.png" alt="Pasted image 20260827141326.png" width="296">
-> Caveat: creative work of artists / human cognition can not be reduced to a single number, and oversimplifying any complex topic can have unintended consequences
-
-> [!SUCCESS] the hierarchy of mental loads
-> - High: cognitive tasks (thinking, remembering)
-> - Medium: visual processing
-> - Low: physical actions (clicking, typing)
-> 
-> More interactions are not inherently negative if they lower cognitive load.
-
-> [!SUCCESS] reducing distractions
-> context switching - around 9-23 minutes (or more) can be lost each time you switch your attention from one topic to another before regaining full focus.
-> 
-> it’s often possible to still “feel” like you’re doing something useful, but in the end get nothing done.
-> 
-> severity depends on the type of distraction (and [contexts you’re switching between](https://ics.uci.edu/~gmark/chi08-mark.pdf)), for example making art → figuring out why a tool doesn’t work is quite high.
-
-
-> [!SUCCESS] Features vs goals
-> More features do not always make a better tool, adding more features increases complexity exponentially.
-> 
-> ![Pasted image 20260827141400.png](pasted%20images/Pasted%20image%2020260827141400.png)
-> every additional feature needs to be developed & maintained, and istime away from other things
-
-> [!SUCCESS] Finding the right balance
-> maintaining balance between user, developer, and stakeholder requirements.
-> ![Pasted image 20260827141415.png](pasted%20images/Pasted%20image%2020260827141415.png)
-
-> [!SUCCESS] user testing
-> Testing early and frequently reduces the likelihood of developing unused or irrelevant features.
-
-> [!SUCCESS] “we’re evaluating the tool, not the user”
-> ^ important to say out loud before user testing  
-> users often blame themselves for not understanding how to use a tool.
-
-> [!SUCCESS] user testing & analogy to code reviews
-> Without review, user interfaces and documentation can become difficult to understand.
-> 
-> Reviewing ensures clarity for others.
-
-> “if the user can’t find it, it doesn’t exist”
-
-> [!SUCCESS] prototypes
-> validating early without writing complex code or setting a new workflow into stone.
-> 
-> - paper prototypes
-	> - [what are wizard of oz prototypes?](https://www.interaction-design.org/literature/topics/wizard-of-oz-prototypes)
-	> - [using paper prototyping as a tool for participatory design](https://www.paulolyslager.com/paper-prototyping-tool-participatory-design-research/)
-> - interactive prototypes
-> 	- [protopie](https://www.protopie.io/download)
-> - vibe coding
-> 	- great for building scrappy prototypes simply to answer the question "would this idea be useful?"
-
-> [!SUCCESS] the importance of watching users work
-> _**what people say they do vs what they actually do is often quite different**_
-> 
-> metrics and focus groups don’t replace actually sitting down with the users watching them work.
-> 
-> it’s totally normal that during development of a tool we become blind to our own design in some way.
-> 
-> <img src="pasted%20images/Pasted%20image%2020260827141517.png" alt="Pasted image 20260827141517.png" width="464">
-> this is also totally normal, the reason to sit next to the user when they are testing the tool is to have the chance to ask them to explain why.
-
-> [!SUCCESS] Dogfooding
-> There's value in getting personally annoyed by annoying workflows.
-> 
-> Skipping this step leaves room for missing big fundamental problems in the design. There’s also often lots of stuff that people won’t mention / don’t realize could be easily fixed or automated entirely.
-> 
-> When replacing existing tools, using older tools provides a baseline for comparison.
-
-> _“No single way of working, from where or when we work to how we communicate, is optimal for all of us. Implementing flexibility at the core of policies and practices can be a game changer for your teams’ efficiency.” ([blog post from ubisoft](https://news.ubisoft.com/en-us/article/4MdbqYqnJ4Mk2PGD5hjdYf/gdc-2023-unlocking-the-power-of-neurodiversity-in-game-development))_
-
-> [!SUCCESS] digging for the root cause
-> Initial feedback may represent symptoms rather than underlying causes.
-> - 5 whys
-
-> [!SUCCESS] prioritization
-> sometimes need to choose to let some fires burn - it’s easy to get caught up with lots of small things and miss the one thing that really matters.
-
-> [!SUCCESS] Enabling people to make informed decisions
-> a guide that enables people to make informed decisions will often outlive any tool or complex process. a good guide can also complement and reduce the overall complexity needed.
-> 
-> a guide can also be about a generic topic that isn’t explained well enough elsewhere (like this page i guess)
-
-> [!SUCCESS] do one thing really well
-> a simple tool is easier to maintain
-
-
-> [!SUCCESS] getting buy-in
-> We end up adopting inefficient workflows or forget to update them when they stop serving their purpose. In the land of tech art the technology side of things is often easy, it's getting everyone onboard to change the way they're used to working that's the real challenge.
->
-> One approach would be to spend months behind the scenes developing a tool or planning a change, and then presenting it to the team as "here you have it, we're going to use this whether you want it or not".
-> 
-> The other approach, which has worked quite well for tech art improvements, is to present ideas as deliberately scrappy looking prototypes. Most of them will be discarded, but when you find something valuable to improve, people will tell you about it. 
-
-###### Resources
-> [!TIP] Reid Hoffman - Masters of Scale
-
-> [!TIP]  Designing the User Experience of Game Development Tools - David Lightbown. (A practical approach to observing how people work, understanding their goals, and testing improvements to their tools.)
-
-> [!EXAMPLE] [10 usability heuristics for user interface design](https://www.nngroup.com/articles/ten-usability-heuristics/)  
-
-> [!EXAMPLE] [https://growth.design/psychology](https://growth.design/psychology)
 
 ---
 
@@ -1103,14 +920,15 @@ Would your assessment come as no surprise to others familiar with the situation?
 *Good feedback is specific, actionable, contextual, and open to dialogue.*
 
 > Clear is kind. Unclear is unkind. 
+> 
+> Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. 
+> 
+> Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind. (Brene Brown - Dare to Lead)
 
 An observation, a concern, or a sense that something isn’t working can open a conversation. The person raising it doesn’t need all the details or a ready-made solution.
 
 The test isn’t whether the conversation starts out vague, but whether the person giving it is willing to examine it and help make it clear. What isn’t fair is requiring someone to improve while leaving them to guess what improvement means.
 
-> Most of us avoid clarity because we tell ourselves that we're being kind, when what we're actually doing is being unkind and unfair. Feeding people half-truths or bullshit to make them feel better - which is almost always about making ourselves feel more comfortable - is unkind. 
-> 
-> Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind. (Brene Brown - Dare to Lead)
 
 > [!INFO] BS Disclaimers, Invisible Armies, and the Importance of the Words We Choose (The Curiosity Shop with Brené Brown and Adam Grant) [Podcast Episode](https://open.spotify.com/episode/11pvNbFqM2T5woIbFtFn7h?si=P3z90f1xQ8m272KRr5Kbpg&utm_source=copy-link)
 
@@ -1153,8 +971,6 @@ Feedback starts to become bullshit when it makes a consequential claim about som
 - What expectation or standard is being applied?
 - What would improvement look like?
 
-Statements such as _“you focus on the wrong things,” “you have poor communication skills,”_ or _“you need to be more positive”_ may point to a real concern, but are not sufficient as a conclusion.
-
 When the person giving the feedback can't make the claim more concrete, the language performs the appearance of feedback without doing the work of feedback.
 
 #### Separate observation from interpretation
@@ -1193,7 +1009,7 @@ This identifies a particular misunderstanding without assuming what caused it. I
 
 By comparison:
 
-> “Your communication skills are bad and need to get better at communicating.”
+> “You need to get better at communicating.”
 
 This makes a broad judgment about someone’s ability without explaining what happened, what standard was not met, or what they should do differently.
 
@@ -1216,22 +1032,13 @@ Anonymous feedback comes with structural limitations: you can't have a direct co
 
 Anonymous information can be useful as a signal, but shouldn't automatically become conclusions.
 
-
-> If you're criticizing from a place where you're not also putting yourself on the line, I'm not interested in what you have to say. (brene brown, dare to lead)
-
-
-
 When feedback is left to someone else to deliver, you can’t assume it reached the recipient or that it conveyed what you intended.
-
 
 
 ##### The invisible army
 > "We don't want to change course," or "We don't like the direction you're taking the project." Voicing and owning our concern is brave. Pretending that we represent a lot of folks when we don't is cheap-seat behavior. (brene brown, dare to lead)
 
 *Feedback needs to support a conversation.* The person responsible for the assessment must be available to explain and discuss it.
-
-Using unnamed others to avoid owning a judgment is problematic informally, and substantially more consequential when built into systems that determine people’s careers (a nice rant about this can be found in the book "confronting our freedom"). You'll almost involuntarily try to guess who it came from, which leads to generalized distrust.
-
 
 ##### Feedback and accountability
 Accountability means: *owning your mistakes, apologizing, and making amends*. 
@@ -1240,86 +1047,26 @@ Anonymity can limit direct repair: you may be unable to ask the person what the 
 ##### the direction of feedback matters
 *The case for anonymity depends partly on who needs protection from whom.*
 
-Anonymous upwards feedback can be useful as a signal that would otherwise never arrive at all. Someone reporting concerns about a person who controls their review, opportunities, or employment has a clear reason to fear consequences. When the reporter holds that power over the recipient, the same justification is much weaker. Discomfort with explaining or defending criticism is not the same as needing protection from retaliation.
+Anonymous upwards feedback can be useful as a signal that would otherwise never arrive at all. Someone reporting concerns about a person who controls their review, opportunities, or employment has a clear reason to fear consequences. 
 
-A manager may still need to protect a less powerful person whose concern they are relaying. But when the criticism comes from the manager themselves, or from more senior leadership, anonymity can shield the people exercising authority from having to answer for their judgments.
+When the person giving feedback holds more power than the recipient, the case for anonymity is much weaker. They have little to fear, and the recipient loses the chance to ask questions.
 
 > "good leaders should aspire to have their fingerprints all over hard decisions" (mike monteiro, ruined by design)
 
-The more power someone has to attach consequences to their criticism, the stronger the expectation that they own it, explain its basis, and remain available for questions.
-
-The same problem applies to [decisions without ownership](#logging-decisions): *“it has been decided”* without anyone owning the reasoning or answering questions. 
+The same problem applies to [decisions without ownership](#logging-decisions): when something 'has been decided' without anyone owning the reasoning or answering questions. 
 
 
 Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case. Having more to lose in a situation can get in the way of communicating clearly.
 
-
-
 ##### Responsibility of the messenger
-*“I’m just passing on what I heard”* may feel neutral, but choosing to repeat a judgment gives it an audience and, depending on your role, authority.
+Just passing anonymous feedback on may feel neutral, but choosing to repeat a judgment gives it an audience and, depending on your role, authority.
 
 Before passing feedback on, ask what the recipient can reasonably do with it. See how many boxes it checks in [the effective feedback model](#feedback-checklists). If it doesn't, consider whether it needs to be said at all.
 
-*When the source is not disclosed, you take responsibility for the feedback you choose to deliver.* The recipient cannot discuss it directly with the person who raised it, so you need to answer for its basis, acknowledge what remains uncertain, and be willing to reconsider it in light of their response. “I can’t tell you who said it” cannot also mean “I don’t have to explain or discuss it.”
 
-#### talking about people
-> Talking about people is unkind. (Brene brown, dare to lead)
-
-> The gossip taboo benefits the powerful.
-> 
-> Gossip can of course be used to destroy or disparage unhelpfully and recklessly. But what is labeled "gossiping" can also be a process of people pooling information that fragmented go nowhere and pooled together can change things. (Priya parker, The art of fighting)
-
-
-part 3/3: [high stakes feedback](#high-stakes-feedback)
-
----
-
-<!-- learnings/high stakes feedback.md -->
-
-### high stakes feedback
-
-part 2/3: [feedback without ownership](#feedback-without-ownership)
-
-Not all feedback needs the same standard of evidence, but the greater the consequence, the stronger the need for specificity, context, and an opportunity to respond.
-
-##### performance reviews
-
-> _“Early signs of gaps between results and plans must be viewed first as data - triggering analysis - before concluding that the gaps are obvious evidence of employee underperformance.”_ (amy edmondson, the fearless organization)
-
-A gap between expectations and results is a starting point for inquiry. Were the expectations clear? What was within the person's control? What part did priorities, resources, dependencies, or management decisions play?
-
-Performance reviews should bring together conversations that have already happened. If a concern was known earlier, saving it for the review denies the person a chance to understand and address it when it could have made a difference.
-
-New information can still emerge. The problem is treating it as a settled judgment before the person has had a meaningful chance to respond. Whether the source is anonymous or named, a fair assessment should make clear:
-
-- What happened, with enough concrete detail to understand the concern.
-- Which expectation was not met, and whether it had been communicated.
-- How the person's context and explanation were considered.
-- Who owns the assessment and how it affects the decision.
-- What improvement would look like, with what support and follow-up.
-
-“People say you need to communicate better” doesn't meet that standard. It leaves the recipient guessing about both the evidence and the remedy.
-
-##### you can't always drop things on the floor
-
-> Don't grab hurtful comments and pull them close to you by rereading them and ruminating on them. Don't play with them by rehearsing your badass comeback. And whatever you do, don't pull hatefulness close to your heart.
-> 
-> Cruelty is cheap, easy, and chickenshit. It doesn't deserve your energy or engagement. Just step over the comments and keep daring, always remembering that armor is too heavy a price to pay to engage with cheap-seat feedback.
-
-There is a limit to the advice to let hurtful comments go: when someone uses them to determine your rating, pay, or future at work, they have consequences whether or not you take them to heart.
-
-You can reject a comment as a verdict on your worth and still need to challenge its role in a decision. Asking for examples, questioning an interpretation, or correcting the record is part of responding to an assessment.
-
-If you aren't allowed to understand, question, or respond to consequential criticism, the problem is also how power is being exercised.
-
-
-##### further reading
+#### links
 
 > [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
-
-> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It.](https://www.corporate-rebels.com/blog/annual-performance-reviews)
-
-> [!TIP] Peter Block, Peter Koestenbaum - Confronting Our Freedom (A good take on 360 reviews, anonymous surveys, and accountability)
 
 ---
 
@@ -1482,9 +1229,11 @@ You don't change a group by handing it answers — you change it by **shifting t
 - **Scale to large, diverse groups** and to adaptive challenges where the answer can't be pre-scripted.
 
 #### examples
-**6 conversations** (Peter Block) — a sequence of six questions (invitation, possibility, ownership, dissent, commitment, gifts) that deliberately shifts a group out of blame and problem-solving and into accountability and belonging. Useful when you want the *quality* of the conversation to change, not just its topic. 
+**6 conversations** (Peter Block): a sequence of six questions (invitation, possibility, ownership, dissent, commitment, gifts) that deliberately shifts a group out of blame and problem-solving and into accountability and belonging. Useful when you want the *quality* of the conversation to change, not just its topic. 
 
-**open space** — a self-organising format where participants build the agenda around what they most care about and move freely between sessions. Useful when the issue is complex and urgent, energy and ownership matter, and you genuinely don't know the answer in advance. 
+**open space**: a self-organising format where participants build the agenda around what they most care about and move freely between sessions. Useful when the issue is complex and urgent, energy and ownership matter, and you genuinely don't know the answer in advance. 
+
+**Future Search**: a structured large-group planning method that brings diverse stakeholders together to explore their shared past, present, and desired future, then identify common ground and agree on practical next steps. Its agenda is predefined, while the ideas and actions come from participants.
 
 #### emergent vs. controlling the outcome
 The key question is how much participants can influence the outcome. A planned workshop can leave the answer open; an open discussion can still be steered toward a predetermined conclusion. Be explicit about what participants can shape, what is already decided, and who makes the final call. Destination-known methods ask _"do you agree?"_; emergent methods ask _"what should we even be asking?"_
@@ -1527,17 +1276,16 @@ The concern doesn't go away, though; it just changes form. Other people may read
 
 This also depends on how people respond. Making conflict easier requires both practice and repeated evidence that honesty will be treated with care. 
 
-
-
 #### normalising conflict
 
-Low-stakes disagreements give us somewhere to practise: making a case, hearing objections, changing our minds, and continuing to get along afterwards.
+Low-stakes disagreements gives an easier way to practise: making a case, hearing objections, changing our minds, and continuing to get along afterwards.
 
 They can also give us evidence that it's safe to disagree. _I challenged an idea, someone listened, and our relationship was still okay afterwards._ Repeated experiences like this can make disagreement feel less threatening. People watching the exchange get information too: they see what happens when someone offers a different view.
 
 This connects to [predictability and psychological safety](#feeling-safe-and-trusted). Each disagreement is an opportunity to demonstrate that honesty is welcome. How people respond shapes what others will feel able to say next.
 
 
+The evidence has limits, though. Being able to argue about pineapple on pizza tells you something about the group, but it doesn't establish that questioning a leader's decision is safe. Small, real disagreements about everyday work provide opportunities to build that confidence: suggesting a different approach, questioning an estimate, or pointing out a concern.
 
 Over time, constructive responses can support a useful cycle: feeling safer makes it easier to disagree, and handling disagreement well gives people more reason to feel safe.
 #### cultural / personal differences
@@ -1555,8 +1303,7 @@ A few differences are worth paying attention to:
 
 It helps to make the team's expectations explicit: how we raise objections, how we invite quieter perspectives, and how we respond when someone challenges a decision. Give people several ways to contribute, including time to think, written input, and smaller conversations.
 
-#### personal differences
-The level of directness also depends on individual preferences, and on your relationship with them. Friends who have known each other for many years might hurl the most brutally honest criticism without either one thinking much of it. 
+The level of directness also depends on individual preferences, and on the existing relationship. 
 
 #### screwing up and trying again
 Sometimes a conversation just ends up being a train wreck. Even when we know what a good conversation looks like, we get defensive, interrupt, make assumptions, or say something sharper than we intended. This is totally normal. What people remember is usually the repair, not the mistake.
@@ -1585,98 +1332,6 @@ Owning a mistake and repairing it can give people evidence that a difficult mome
 ---
 
 ## leadership
-
-<!-- learnings/leadership responsibilities.md -->
-
-### leadership responsibilities
-
-There are many ways to understand leadership, and what a lead is responsible for depends partly on the context and the goal. This is the picture I’ve pieced together so far on what seems to matter most for creating the conditions that help people think, create, and solve problems together.
-
-*Note: all of these responsibilities can also be shared.* [Self-management](https://reinventingorganizationswiki.com/en/theory/self-management/) doesn't mean these things can just be dropped on the floor, but that the responsibility is distributed across the team. 
-##### Fundamental requirements
-
-**Empathy**
-Leadership starts with genuine care and human connection. People are far more likely to trust and engage with leaders who see them as people, not simply as resources.
-> Daring leaders must care for and be connected to the people they lead.
-
----
-
-**Curiosity**
-Strong leaders stay curious, especially when situations are uncertain or uncomfortable. Asking questions instead of rushing to judgment creates space for better understanding and better decisions.
-> Curiosity is an irreducible component of courageous leadership.
-
-##### Responsibilities
-(this is also not a complete list by any means)
-
-**Psychological safety**
-Leaders are responsible for creating an environment where people feel safe to speak, contribute, learn, disagree, and make mistakes without fear.
-> Psychological safety is a vital leadership responsibility. It can make or break an employee's ability to contribute, to grow and learn, and to collaborate. 
-
----
-
-**Creating conversations**
-
-
----
-
-**Providing cover from above**
-People are more willing to take responsibility and make difficult decisions when they know their leaders trust them and will support them.
-> The responsibility of a leader is to provide cover from above for their people who are working below. When the people feel that they have the control to do what's right, even if it sometimes means breaking the rules, then they will more likely do the right thing. Courage comes from above. Our confidence to do what's right is determined by how trusted we feel by our leaders. 
-
----
-
-**Creating an environment where others can thrive**
-Leadership is often less about fixing people and more about creating the conditions that allow good people to perform at their best.
-> What too many leaders of organizations fail to appreciate is that it's not the people that are the problem. The people are fine. Rather, it's the environment in which the people operate that is the problem. 
-
----
-
-**Reducing cognitive load**
-Stress consumes attention and mental capacity. Creating stability and safety allows people to focus their energy on solving problems and doing meaningful work.
-> Cortisol… increases blood pressure and inflammatory responses and impairs cognitive ability. It's harder to concentrate on things outside the organization if we are stressed about what's going on inside. 
-
----
-
-**Finding potential in others**
-Leadership means seeing what people and systems could become, then investing the time and courage required to develop that potential.
-> I define a leader as anyone who takes responsibility for finding the potential in people and processes, and who has the courage to develop that potential._
-
----
-
-**Conflict resolution**
-Healthy teams address difficult issues directly. Avoiding uncomfortable conversations may feel polite in the moment, but over time it damages clarity, trust, and accountability.
-
----
-
-**Wellbeing of the team**
-Leadership is ultimately a responsibility for people. Results matter, but sustainable results come from leaders who protect and support the human beings producing them.
-> Leadership is about taking responsibility for lives and not numbers.  
-
----
-
-**Providing context and direction**
-Leaders give people a clear sense of where they are going and why. With direction and protection in place, teams can take ownership of how to accomplish the mission.
-> Leadership requires two things: a vision of the world that does not yet exist and the ability to communicate it. 
-
----
-
-**Producing more leaders**
-The strongest leaders do not make themselves indispensable. They develop the confidence, judgment, and leadership capacity of the people around them.
-> The goal of leadership is to produce more leaders, not followers.
-
-.. for one simple reason: the alternative simply doesn't scale very well (more about this here: [free flow of information](#free-flow-of-information))
-
----
-
-**Staying humble**
-Power can gradually distance leaders from the experiences of the people around them. Humility, self-restraint, and deliberate connection help leaders maintain empathy and perspective.
-
----
-
-**Holding the space**
-Leadership sometimes means resisting the urge to immediately solve, judge, or control a situation. Instead, the leader creates enough safety and space for others to think, speak honestly, and work through difficult issues.
-
----
 
 <!-- learnings/leadership approaches.md -->
 
@@ -1747,7 +1402,7 @@ The more creativity and innovation are required to achieve a goal, the more this
 
 
 
-"motivating the team" is usually described as something a leader *does to* people. It isn't. Nobody installs motivation in anyone. What a leader actually controls is the conditions — whether people have purpose, control, recognition, and a reason to trust each other — and then motivation is what shows up, or doesn't.
+"motivating the team" is usually described as something a leader *does to* people. It isn't. Nobody installs motivation in anyone. What a leader actually controls is the conditions, whether people have purpose, control, recognition, and a reason to trust each other, and then motivation is what shows up, or doesn't.
 
 When a team looks unmotivated, the question isn't "how do we motivate them?" but "what in here is draining people who arrived motivated?"
 
@@ -1808,8 +1463,6 @@ The gap between how obvious this is and how rarely it's done:
 > When we divorce ourselves from humanity through numerical abstraction, we are capable of inhuman behavior… The more abstract people become, the more capable we are of doing them harm.
 
 Scale, dashboards, headcount, "the business," "resources," and *"that's above my pay grade"* are all forms of the same distance. 
-
-
 
 > [!EXAMPLE] [reinventing organizations: listening to purpose](https://reinventingorganizationswiki.com/en/theory/listening-to-purpose/)
 
@@ -1886,8 +1539,6 @@ Hope is a function of struggle—we develop hope not during the easy or comforta
 
 ### free flow of information
 
-> “Give away everything you know, and more will come back to you. – If you give away everything, you are left with nothing. This forces you to look, to be aware, to replenish.” -paul arden
-
 Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. This boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
 
 Some other benefits include:
@@ -1895,6 +1546,10 @@ Some other benefits include:
 - **decision speed** - raw data is useful, curated data is slow and loses context
 - **innovation through unexpected connections** - Ideas often emerge when information from one domain meets a person working in another. 
 - **accountability** - Transparency makes it easier for people to hold themselves and each other accountable, because actions and reasoning are visible.
+
+> Free flow of information is a fundamental prerequisite for self-managing organizations.
+
+
 #### A team of teams
 In the book Team of Teams, stanley mcchrystal argues how one of the limiting factors of hierarchical communication and decision making structures is individual brain capacity.
 
@@ -1960,11 +1615,14 @@ The more successful / large a company becomes, the more pressure there is for pr
 
 > [!EXAMPLE] article: [The fat cat syndrome prevents innovation and opens the door for disruption](https://medium.com/@arnoldbeekes/the-fat-cat-syndrome-prevents-innovation-and-opens-the-door-for-disruption-9a37643d38a4)
 
-#### leaving structure implicit
-Simply calling an organization flat isn't enough. After a certain size (and other factors), hierarchies tend to emerge, and when left undefined, they will just be informal and hidden out of sight. 
-
-#### inadequate structural guardrails
+#### processes != bureaucracy
+A common misconception is that processes and bureaucracy are the same thing, but they are closer to opposites. A process is a decision made once so it doesn’t have to be made again. Bureaucracy is what remains when the steps outlive their purpose. To tell them apart, keep asking what problem each step solves, and delete any step where no one has an answer.
+<img src="Pasted%20image%2020261121091346.png" alt="Pasted image 20261121091346.png" width="374">
+Processes also differ in what they do to autonomy. Some support it, set the goal and the boundaries, then get out of the way. Others dictate the steps and the approvals, moving judgment from the person doing the work to the person signing off. The first kind makes it safe to decide, and the second makes it unnecessary to think.
+#### missing structural guardrails
 The trick is to put them in place *before* they are actually needed. It may feel comfortable in the moment to avoid an awkward discussion, but it can be 100x more uncomfortable later down the road.
+
+It's easy to conclude that it's too early to worry about these things, until one day it's too late. 
 
 > [!TIP] Kim Nordström - Up Down Up (many useful tips for awkward conversation topics, including before founding a company)
 
@@ -1980,17 +1638,22 @@ The unconscious cognitive bias to continue with the original plan despite of cha
 > The typical response to slow progress is to add more and more people to the teams.
 
 > We often think we can hire better and faster than we actually can. You need to create clear principles and Ways of Working around recruitment and hiring, and more importantly, constantly work with the teams so they don’t aim to “solve problems by throwing more people on them”.
-
-
-
 #### Culture transfer rate
-
+People will generally just work in the way they have previously done, simply because that's what they know. Learning and unlearning things takes time.
 
 > Johan Kristiansson, former CEO at Starbreeze during the years 2004-2011 said that during the years when they created the games Riddick and the Darkness, **they grew on average 15-20% per year**. “We managed our growth carefully to make sure we didn’t interrupt the core of our teams. I believe that 20-25% is the maximum that a company can manage to grow in employees every year.
 
-> It takes time to train people, to get to know each other, to find relationships and build trust in the teams and so on”.
 
 
+
+
+
+#### the vision getting blurry
+Even the most crystal clear projects can get muddled over time, to the point where nobody remembers the original point anymore. Simply following a vision is also different than actually understanding it. 
+
+When things become unclear, there may be pressure to keep running without knowing whether you’re running in the right direction, but it's worth pausing an figuring out where to go.
+
+(if you look up "top 10 reasons why projects fail", this comes up in the top 3 in almost every one of them)
 
 #### lines of communication
 workflows that may have been fine for a small team don't necessarily scale for a larger team. Growing a team too large will slow everything down, and also reduces psychological safety.
@@ -2019,6 +1682,16 @@ workflows that may have been fine for a small team don't necessarily scale for a
 ### bad advice books
 
 *..and better alternatives*
+#### rachel botsman - how to trust and be trusted
+This short audiobook seems to miss this point entirely:
+
+> [!EXAMPLE] [the difference between trust and psychological safety](https://psychsafety.com/the-difference-between-trust-and-psychological-safety/)
+
+..and covers a broad set of topics without considering the impact of psychological safety at all. 
+
+
+Alternatives:
+- **david desteno - the truth about trust** (For a better take on the topic of trust)
 
 
 #### 5 dysfunctions of a team
@@ -2036,10 +1709,7 @@ The clearest red flag vibes came up in the sequel which is more focused on pract
 
 Not every conflict, accountability or coordination failure originates in an absence of interpersonal trust. The book largely ignores the role of structures: incentives, power asymmetry, workload, who actually holds decision rights.
 
-It also reads like an advertisement for the myers briggs personality test, which is [widely regarded as pseudoscience](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Accuracy_and_validity). This may have made more sense when the book was published (2002 was around the peak hype), but this doesn't deserve the same weight in the modern day.
-
-
-
+It also reads like an advertisement for the myers briggs personality test, which is [widely regarded as pseudoscience](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Accuracy_and_validity). This may have made more sense when the book was published (2002 was around the peak hype).
 
 
 

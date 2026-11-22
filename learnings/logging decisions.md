@@ -7,13 +7,9 @@
 - Accountability for decision-making. Similarly to the [[feedback without ownership|invisible army in feedback]], saying "it has been decided" can be a way to obscure responsibility
 > [!EXAMPLE] [monkeys, bananas and ladder experiment: obeying absurd rules](https://psychologyfor.com/the-monkeys-bananas-and-ladder-experiment-obeying-absurd-rules/)
 ## decisions without ownership
-Decisions can also arrive without anyone taking responsibility for them.:
+Decisions can also arrive without anyone taking responsibility for them. It's easy to say 'we've been asked to…' when relaying something we didn't decide.
 
-*“It has been decided…”*  
-*“The company wants…”*  
-*“I’m being told that…”*
-
-These phrases can leave the authority behind a decision unquestionable and its reasoning inaccessible. Who decided? What problem were they trying to solve? What constraints shaped the choice? Who can answer questions or consider information they may have missed?
+This can leave the authority behind a decision unquestionable and its reasoning inaccessible. Who decided? What problem were they trying to solve? What constraints shaped the choice? Who can answer questions or consider information they may have missed?
 
 A person communicating a decision may not have made it, and shouldn’t have to pretend otherwise. But there should still be a clear path to whoever is responsible. Collective decisions can have ownership too: a group can explain its reasoning and identify someone who will answer for it.
 

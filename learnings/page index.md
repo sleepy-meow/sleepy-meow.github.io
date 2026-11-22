@@ -3,15 +3,12 @@
 [[introduction]] !!
 [[how to come up with big ideas]] !!
 
-# culture
-[[how to nurture a culture]] !! ?
-[[why to write down your principles]] !! ?
 
 # psychological safety
 [[feeling safe and trusted]] !!
 [[how to psychological safety]] !!
 [[how to lower the bar for participation]] !!
-[[why not to shoot the messenger]] !!
+[[why to thank the messenger]] !!
 
 # learning & thinking
 [[a learning mindset]] !!
@@ -20,12 +17,10 @@
 [[group flow]] !!
 [[diversity of thought]] !!
 # ways of working
-[[making decisions]] !!
+[[a decison making process]] !!
 [[logging decisions]] !!
-
 [[developer user experience]] !!
-[[start with the users]] !!
-[[cognitive accessibility]] !! ?
+[[start with the users]] !! ?
 
 # feedback
 [[feedback checklists]] !!
@@ -38,21 +33,17 @@
 [[empathy misses]] !!
 
 [[emergent facilitation]] !!
-[[active listening]] !! ?
 [[conflict avoidance]] !!
 
 # leadership
-[[leadership responsibilities]] !!
 [[leadership approaches]] !!
 [[motivation]] !!
 [[rigid teams vs teaming]] !!
 
 # other things
 [[hope is not an emotion]] !!
-[[cross team connectors]] !! ?
 [[free flow of information]] !!
 [[some pitfalls]] !!
-[[founding a company]] !! ?
 
 [[bad advice books]] !!
 [[links & resource]] !!

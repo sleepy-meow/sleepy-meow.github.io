@@ -9,9 +9,11 @@ You don't change a group by handing it answers — you change it by **shifting t
 - **Scale to large, diverse groups** and to adaptive challenges where the answer can't be pre-scripted.
 
 # examples
-**6 conversations** (Peter Block) — a sequence of six questions (invitation, possibility, ownership, dissent, commitment, gifts) that deliberately shifts a group out of blame and problem-solving and into accountability and belonging. Useful when you want the *quality* of the conversation to change, not just its topic. 
+**6 conversations** (Peter Block): a sequence of six questions (invitation, possibility, ownership, dissent, commitment, gifts) that deliberately shifts a group out of blame and problem-solving and into accountability and belonging. Useful when you want the *quality* of the conversation to change, not just its topic. 
 
-**open space** — a self-organising format where participants build the agenda around what they most care about and move freely between sessions. Useful when the issue is complex and urgent, energy and ownership matter, and you genuinely don't know the answer in advance. 
+**open space**: a self-organising format where participants build the agenda around what they most care about and move freely between sessions. Useful when the issue is complex and urgent, energy and ownership matter, and you genuinely don't know the answer in advance. 
+
+**Future Search**: a structured large-group planning method that brings diverse stakeholders together to explore their shared past, present, and desired future, then identify common ground and agree on practical next steps. Its agenda is predefined, while the ideas and actions come from participants.
 
 # emergent vs. controlling the outcome
 The key question is how much participants can influence the outcome. A planned workshop can leave the answer open; an open discussion can still be steered toward a predetermined conclusion. Be explicit about what participants can shape, what is already decided, and who makes the final call. Destination-known methods ask _"do you agree?"_; emergent methods ask _"what should we even be asking?"_
@@ -56,7 +58,7 @@ http://www.allancohen.com/
 # other links
 https://participedia.net/method/dynamic-facilitation
 
-
+Future Search
 %%
 
 

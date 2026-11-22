@@ -13,8 +13,6 @@ Anonymous information can be useful as a signal, but shouldn't automatically bec
 %%
 
 When feedback is left to someone else to deliver, you can’t assume it reached the recipient or that it conveyed what you intended.
-%%
-The question is not only whether the source is named, but whether someone takes responsibility for checking the information, explaining the judgment, and giving the person affected a meaningful opportunity to respond.%%
 
 
 ## The invisible army
@@ -49,22 +47,23 @@ The same problem applies to [[logging decisions#decisions without ownership|deci
 
 Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case. Having more to lose in a situation can get in the way of communicating clearly.
 
-%%
-The responsibility for investigating a concern belongs to the people handling it. If they use it to make a consequential judgment, they must be able to explain that judgment. The recipient should not have to do their work for them.%%
-
 ## Responsibility of the messenger
 *“I’m just passing on what I heard”* may feel neutral, but choosing to repeat a judgment gives it an audience and, depending on your role, authority.
 
 Before passing feedback on, ask what the recipient can reasonably do with it. See how many boxes it checks in [[feedback checklists|the effective feedback model]]. If it doesn't, consider whether it needs to be said at all.
 
-*When the source is not disclosed, you take responsibility for the feedback you choose to deliver.* The recipient cannot discuss it directly with the person who raised it, so you need to answer for its basis, acknowledge what remains uncertain, and be willing to reconsider it in light of their response. “I can’t tell you who said it” cannot also mean “I don’t have to explain or discuss it.”
+%%
+*When the source is not disclosed, you take responsibility for the feedback you choose to deliver.* The recipient cannot discuss it directly with the person who raised it, so you need to answer for its basis, acknowledge what remains uncertain, and be willing to reconsider it in light of their response. “I can’t tell you who said it” cannot also mean “I don’t have to explain or discuss it.”%%
 
+%%
 # talking about people
 > Talking about people is unkind. (Brene brown, dare to lead)
 
 > The gossip taboo benefits the powerful.
 > 
 > Gossip can of course be used to destroy or disparage unhelpfully and recklessly. But what is labeled "gossiping" can also be a process of people pooling information that fragmented go nowhere and pooled together can change things. (Priya parker, The art of fighting)
+
+%%
 
 
 part 3/3: [[high stakes feedback]]

@@ -78,15 +78,22 @@ When a climate changes slowly over time, it can be easy to get used to and stop 
 Caring about a leader does not create an equal responsibility for managing their behavior though. When a boss *"comes down hard on us and we don't know the reason"*, it lowers psychological safety, which means asking *"are you okay"* can sometimes take a hell of a lot more courage than the other way around.
 
 # psychological safety on a larger scale
+A "team climate" is not an isolated bubble, but affected by the organization around it (and by the broader environment, etc.) 
+
+> [!EXAMPLE]  [the organisational fabric of psychological safety](https://psychsafety.com/the-organisational-fabric-of-psychological-safety/)
+
+Different teams with highly different levels of safety can also cause friction: candour might get misread, and since [a team is only as safe as the least safe person](https://psychsafety.com/a-team-is-only-as-safe-as-the-least-safe-person/), members of the high-safety team often become guarded in cross-team meetings once candour is punished there. When the people you happen to interact with do feel genuinely safe (and even encourage speaking up), you might end up in a situation where you've simply not gotten the memo.
+
+
+%%
 An interesting point that came up in amy edmondsons book:
 > Psychological safety is lower in countries with greater power distance. 
-
-A "team climate" is not exactly isolated, but affected by the organization around it, and by the broader environment, etc. but it can work the opposite way around too.
+%%
 
 # Links
 > [!EXAMPLE] [The importance of psychological safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (the basics explained in 3 minutes)
 
-> [!EXAMPLE] [a team is only as safe as the least safe person](https://psychsafety.com/a-team-is-only-as-safe-as-the-least-safe-person/)
+
 
 > [!EXAMPLE] [explore.psychsafety.com](https://explore.psychsafety.com/) (a cool network diagram to demonstrate the actual complexity of the topic) 
 

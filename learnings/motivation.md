@@ -5,7 +5,7 @@
 # you can't motivate people
 *you can only build the place where already-motivated people stay that way.*
 %%
-"motivating the team" is usually described as something a leader *does to* people. It isn't. Nobody installs motivation in anyone. What a leader actually controls is the conditions — whether people have purpose, control, recognition, and a reason to trust each other — and then motivation is what shows up, or doesn't.
+"motivating the team" is usually described as something a leader *does to* people. It isn't. Nobody installs motivation in anyone. What a leader actually controls is the conditions, whether people have purpose, control, recognition, and a reason to trust each other, and then motivation is what shows up, or doesn't.
 
 When a team looks unmotivated, the question isn't "how do we motivate them?" but "what in here is draining people who arrived motivated?"
 
@@ -51,7 +51,7 @@ _“The flow state is an optimal state of intrinsic motivation, where the person
 Manipulation isn't a slur here, but a category. Sinek names six: **price, promotions, fear, aspirations, peer pressure, and novelty.** In a workplace they show up as pay bumps, bonuses and perks, the implied threat of a bad review or a layoff, "this will be great for your career," what everyone else on the team is doing, and a constant supply of shiny new projects.
 
 > The danger of manipulations is that they work. And because manipulations work, they have become the norm.
-## Identifying persuasion
+## persuasion
 We don't always realize when manipulation is happening, it may be easy to conclude from the outside that the person is making an informed decision to sell their soul. 
 
 Resilience to manipulation starts from simply learning about different patterns that they frequently take. This book has a lot of examples and patterns that can be seen frequently in advertisements and by salespeople. 
@@ -87,14 +87,6 @@ The gap between how obvious this is and how rarely it's done:
 > When we divorce ourselves from humanity through numerical abstraction, we are capable of inhuman behavior… The more abstract people become, the more capable we are of doing them harm.
 
 Scale, dashboards, headcount, "the business," "resources," and *"that's above my pay grade"* are all forms of the same distance. 
-
-%%The five rules he gives for fighting it:
-
-1. **Keep it real — bring people together.** "Trust is not formed through a screen, it is formed across a table."
-2. **Keep it manageable — Dunbar's ~150.** Past a certain size you can't keep relationships real, so care becomes abstract. You have to empower layers of people who genuinely know their own group. 
-3. **Meet the people you help.** As above.
-4. **Give them time, not just money.** Time and energy have absolute value — everyone has the same 24 hours — where money is an abstraction. And energy means *attention*: half-listening while on your phone spends the time without giving the energy. 
-5. **Be patient.** Trust can't be formed in a week. The good feeling after a great interview is dopamine, not trust.%%
 
 > [!EXAMPLE] [reinventing organizations: listening to purpose](https://reinventingorganizationswiki.com/en/theory/listening-to-purpose/)
 

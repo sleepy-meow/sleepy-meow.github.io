@@ -1,5 +1,3 @@
-> “Give away everything you know, and more will come back to you. – If you give away everything, you are left with nothing. This forces you to look, to be aware, to replenish.” -paul arden
-
 Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. This boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
 
 Some other benefits include:
@@ -7,6 +5,10 @@ Some other benefits include:
 - **decision speed** - raw data is useful, curated data is slow and loses context
 - **innovation through unexpected connections** - Ideas often emerge when information from one domain meets a person working in another. 
 - **accountability** - Transparency makes it easier for people to hold themselves and each other accountable, because actions and reasoning are visible.
+
+> Free flow of information is a fundamental prerequisite for self-managing organizations.
+
+
 # A team of teams
 In the book Team of Teams, stanley mcchrystal argues how one of the limiting factors of hierarchical communication and decision making structures is individual brain capacity.
 

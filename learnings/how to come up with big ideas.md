@@ -62,7 +62,3 @@ All the ingredients for a useful idea may already be there, just distributed bet
 - **[_Right Kind of Wrong_ — Amy Edmondson](https://www.exed.hbs.edu/blog/framing-failure-for-learning-innovation?utm_source=chatgpt.com).** How to distinguish useful experiments from avoidable mistakes, keep risks proportionate, and learn from the results.
 - **[_Team of Teams_ — Stanley McChrystal](https://www.mcchrystalgroup.com/insights/detail/2022/10/12/how-to-be-a-Great-Team-Leader?utm_source=chatgpt.com).** Sharing context across teams and creating conditions in which people can act on what they know. 
 
-### techniques and prompts
-
--  — List the assumptions behind an approach, reverse them, and explore what would have to change for the alternatives to work.
--  — A short design essay on using constraints as a starting point for exploring alternatives.

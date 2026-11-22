@@ -1,4 +1,6 @@
-*UX + ways of working*
+*UX + workflows*
+
+> “You’ve got to start with the customer experience and work back toward the technology - not the other way around.” -Steve Jobs
 
 Most of us understand the value of ux in the products we build. But an often overlooked aspect is how those same principles can be applied to finding optimal ways of working and internal tooling.
 
@@ -21,22 +23,6 @@ Some useful questions
 - *How does this scale? (and does it need to)*
 - *What are we actually trying to solve here?*
 
-%%
-# example: daily team updates
-Suppose we want to keep up to date what teammates are working on.
-
-**Option 1: a bot asks “what is everyone working on?” in the team channel each day, with updates collected in a thread.**
-The prompt removes the need to remember to post. But responding means pausing work, recalling progress, deciding what matters, and composing an update, even when nothing has changed since yesterday. 
-
-Readers have work to do too. The first person to post sees an empty thread. To learn what others are doing, they need to return as replies arrive and distinguish new information from what they’ve already read. Previous days’ threads become buried among unrelated messages. Following someone’s progress means finding several threads and mentally piecing their updates together.
-
-**Option 2: a dedicated channel, with updates when something changes.**
-People can catch up and post in one visit at a convenient time. The continuous history includes everyone’s latest updates, even for the first person checking that morning. There is no need to wait for replies to a new daily thread.
-
-Unchanged work doesn’t need another report. Discussion stays beneath each post. This reduces duplicate writing, repeat visits, and the effort of piecing together information across daily threads. 
-
-Small things like these add up over time, and we often vastly underestimate the scale of recurring interruptions that affect many people. 
-%%
 # the cost of interrupted work
 *Spending 50% on one project and 50% on another does not add up to 100%.*
 
@@ -128,7 +114,7 @@ To identify the root cause of a problem by asking **why** **5** times.
 
 
 # start with the users
-> “You’ve got to start with the customer experience and work back toward the technology - not the other way around.” -Steve Jobs
+
 # Defining user experience
 
 User experience refers to how a user interacts with and operates a product, system, or service, including perceptions of utility, ease of use, and efficiency.

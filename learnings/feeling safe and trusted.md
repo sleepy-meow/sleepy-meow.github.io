@@ -39,11 +39,9 @@ Psychological safety depends partly on accumulated evidence about how interperso
 
 
 # Why it's bad for business
-> A lack of psychological safety effectively prevents bad news from traveling upwards, creating an illusion of success that eventually turns into serious business failures. Yet many organizational leaders genuinely believe that "no news" means that things are going well. (amy edmondson)
+> _When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside._
 
 ![[Pasted image 20260908202757.png|356]]
-
-> _When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside._
 
 ## The things we can control
 Every organization faces two sets of dangers:

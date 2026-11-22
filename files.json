@@ -1,5 +1,5 @@
 {
-  "title": "lauras learnings",
+  "title": "learnings.team",
   "folders": [
     {
       "name": "start here",
@@ -14,25 +14,6 @@
           "name": "how to come up with big ideas",
           "path": "learnings/how to come up with big ideas.md",
           "tags": [],
-          "done": true
-        }
-      ]
-    },
-    {
-      "name": "culture",
-      "files": [
-        {
-          "name": "how to nurture a culture",
-          "path": "wip/how to nurture a culture.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        },
-        {
-          "name": "why to write down your principles",
-          "path": "wip/why to write down your principles.md",
-          "tags": [],
-          "draft": true,
           "done": true
         }
       ]
@@ -59,8 +40,8 @@
           "done": true
         },
         {
-          "name": "why not to shoot the messenger",
-          "path": "learnings/why not to shoot the messenger.md",
+          "name": "why to thank the messenger",
+          "path": "learnings/why to thank the messenger.md",
           "tags": [],
           "done": true
         }
@@ -105,8 +86,8 @@
       "name": "ways of working",
       "files": [
         {
-          "name": "making decisions",
-          "path": "learnings/making decisions.md",
+          "name": "a decison making process",
+          "path": "learnings/a decison making process.md",
           "tags": [],
           "done": true
         },
@@ -125,12 +106,6 @@
         {
           "name": "start with the users",
           "path": "learnings/start with the users.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "cognitive accessibility",
-          "path": "learnings/cognitive accessibility.md",
           "tags": [],
           "draft": true,
           "done": true
@@ -188,13 +163,6 @@
           "done": true
         },
         {
-          "name": "active listening",
-          "path": "maybe add/active listening.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        },
-        {
           "name": "conflict avoidance",
           "path": "learnings/conflict avoidance.md",
           "tags": [],
@@ -205,12 +173,6 @@
     {
       "name": "leadership",
       "files": [
-        {
-          "name": "leadership responsibilities",
-          "path": "learnings/leadership responsibilities.md",
-          "tags": [],
-          "done": true
-        },
         {
           "name": "leadership approaches",
           "path": "learnings/leadership approaches.md",
@@ -241,13 +203,6 @@
           "done": true
         },
         {
-          "name": "cross team connectors",
-          "path": "maybe add/cross team connectors.md",
-          "tags": [],
-          "draft": true,
-          "done": true
-        },
-        {
           "name": "free flow of information",
           "path": "learnings/free flow of information.md",
           "tags": [],
@@ -257,13 +212,6 @@
           "name": "some pitfalls",
           "path": "learnings/some pitfalls.md",
           "tags": [],
-          "done": true
-        },
-        {
-          "name": "founding a company",
-          "path": "learnings/founding a company.md",
-          "tags": [],
-          "draft": true,
           "done": true
         },
         {

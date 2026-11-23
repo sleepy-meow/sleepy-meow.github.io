@@ -1,5 +1,5 @@
 {
-  "title": "learnings",
+  "title": "learnings.team",
   "folders": [
     {
       "name": "start here",
@@ -66,12 +66,14 @@
           "name": "how to question your own thinking",
           "path": "learnings/how to question your own thinking.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {
           "name": "group flow",
           "path": "learnings/group flow.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {
@@ -148,6 +150,7 @@
           "name": "empathy misses",
           "path": "learnings/empathy misses.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {
@@ -165,17 +168,11 @@
       ]
     },
     {
-      "name": "leadership",
+      "name": "breaking down silos",
       "files": [
         {
-          "name": "leadership approaches",
-          "path": "learnings/leadership approaches.md",
-          "tags": [],
-          "done": true
-        },
-        {
-          "name": "motivation",
-          "path": "learnings/motivation.md",
+          "name": "free flow of information",
+          "path": "learnings/free flow of information.md",
           "tags": [],
           "done": true
         },
@@ -194,11 +191,19 @@
           "name": "hope is not an emotion",
           "path": "learnings/hope is not an emotion.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {
-          "name": "free flow of information",
-          "path": "learnings/free flow of information.md",
+          "name": "leadership approaches",
+          "path": "learnings/leadership approaches.md",
+          "tags": [],
+          "draft": true,
+          "done": true
+        },
+        {
+          "name": "motivation",
+          "path": "learnings/motivation.md",
           "tags": [],
           "done": true
         },
@@ -212,6 +217,7 @@
           "name": "bad advice books",
           "path": "learnings/bad advice books.md",
           "tags": [],
+          "draft": true,
           "done": true
         },
         {

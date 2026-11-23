@@ -22,6 +22,9 @@ The aim is to provide enough protection for people to explore, without making ex
 
 Failing well means being thoughtful about what we try, limiting the potential downside, and using what we learn to decide what to do next.
 
+# resources
+
+> [!TIP] amy edmondson - the right kind of wrong: the science of failing well
 
 > [!EXAMPLE] video: [It doesn’t matter if you fail. It matters *how* you fail](https://www.youtube.com/watch?v=Gb9tjnJWu5g)
 

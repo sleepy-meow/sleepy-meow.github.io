@@ -30,7 +30,7 @@ Learnings only become organizational when they are shared. Without this step you
 
 %%
 
-
+%%
 # Learning together
 > “Give away everything you know, and more will come back to you. – If you give away everything, you are left with nothing. This forces you to look, to be aware, to replenish.” (paul arden)
 
@@ -41,3 +41,20 @@ But individual learning doesn’t automatically become organizational learning. 
 The question then becomes not just _“what did we learn?”_, but _“what will we do differently, and who else could benefit from knowing?”_
 
 > [!EXAMPLE] article: [amy edmondson - todays leaders must think like scientists](https://amycedmondson.com/todays-leaders-must-learn-to-think-like-scientists/)
+
+%%
+# organizing to execute vs organizing to learn
+(from amy edmondson: teaming)
+
+| Management Approach         | Organizing to Execute                                                             | Organizing to Learn                  |
+| --------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
+| Hiring                      | Conformers, rule followers.                                                       | Problem solvers, experimenters.      |
+| Training                    | Learning before doing.                                                            | Learning from doing.                 |
+| Measuring performance       | Did YOU do it right?                                                              | Did WE learn?                        |
+| Structuring work            | Separate expertise.                                                               | Integrate expertise.                 |
+| Employee discretion allowed | Choose among options.                                                             | Experiment through trial and error.  |
+| Empowerment means           | Employees can deviate from the script if special circumstances make it necessary. | There is no script. Improvise!       |
+| Process goal                | Drive out variance.                                                               | Use variance to analyze and improve. |
+| Watercooler conversation    | About the weather                                                                 | About the work                       |
+| Business goal               | Make money now.                                                                   | Make money later.                    |
+| Works when                  | Path forward is clear.                                                            | Path forward is not clear.           |

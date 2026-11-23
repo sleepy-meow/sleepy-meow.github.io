@@ -13,8 +13,8 @@
 # learning & thinking
 [[a learning mindset]] !!
 [[how to fail]] !!
-[[how to question your own thinking]] !!
-[[group flow]] !!
+[[how to question your own thinking]] !! ?
+[[group flow]] !! ?
 [[diversity of thought]] !!
 # ways of working
 [[a decison making process]] !!
@@ -29,20 +29,20 @@
 
 # other conversations
 [[how to ask the right questions]] !!
-[[empathy misses]] !!
+[[empathy misses]] !! ?
 
 [[emergent facilitation]] !!
 [[conflict avoidance]] !!
 
-# leadership
-[[leadership approaches]] !!
-[[motivation]] !!
+# breaking down silos
+[[free flow of information]] !!
 [[rigid teams vs teaming]] !!
 
 # other things
-[[hope is not an emotion]] !!
-[[free flow of information]] !!
+[[hope is not an emotion]] !! ?
+[[leadership approaches]] !! ?
+[[motivation]] !!
 [[some pitfalls]] !!
 
-[[bad advice books]] !!
+[[bad advice books]] !! ?
 [[links & resource]] !!

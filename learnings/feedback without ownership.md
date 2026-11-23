@@ -28,7 +28,7 @@ When the person giving feedback holds more power than the recipient, the case fo
 The same problem applies to [[logging decisions#decisions without ownership|decisions without ownership]]: when something 'has been decided' without anyone owning the reasoning or answering questions. 
 
 
-Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case. Having more to lose in a situation can get in the way of communicating clearly.
+Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case. Having more to lose in a situation [[feeling safe and trusted|can get in the way of communicating clearly]].
 
 ## Responsibility of the messenger
 Just passing anonymous feedback on may feel neutral, but choosing to repeat a judgment gives it an audience and, depending on your role, authority.
@@ -37,12 +37,11 @@ Before passing feedback on, ask what the recipient can reasonably do with it. Se
 
 ## Diffusion of responsibility / the bystander effect
 When several people share a concern, each [tends to assume someone else will raise it](https://en.wikipedia.org/wiki/Diffusion_of_responsibility), or already has. Anonymity makes this more likely: feedback without a name has no owner, so nobody explains it, follows up, or checks whether anything changed.  
-Responsibility also thins out as feedback travels. One person writes it, another collects it, a third passes it on. Each step feels neutral, and at the end nobody owns the judgment.  
+Responsibility also thins out as feedback travels. One person writes it, another collects it, a third passes it on. Each step feels neutral, but at the end nobody owns the judgment, and the feedback received is the result of a telephone game.
 
-# links
+# Links
 
 > [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
-
 
 > [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It.](https://www.corporate-rebels.com/blog/annual-performance-reviews)
 

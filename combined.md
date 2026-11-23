@@ -25,8 +25,6 @@ Pick one from the sidebar to start reading!
 - **learning & thinking**
   - [a learning mindset](#a-learning-mindset)
   - [how to fail](#how-to-fail)
-  - [how to question your own thinking](#how-to-question-your-own-thinking)
-  - [group flow](#group-flow)
   - [diversity of thought](#diversity-of-thought)
 - **ways of working**
   - [a decison making process](#a-decison-making-process)
@@ -38,18 +36,14 @@ Pick one from the sidebar to start reading!
   - [feedback without ownership](#feedback-without-ownership)
 - **other conversations**
   - [how to ask the right questions](#how-to-ask-the-right-questions)
-  - [empathy misses](#empathy-misses)
   - [emergent facilitation](#emergent-facilitation)
   - [conflict avoidance](#conflict-avoidance)
-- **leadership**
-  - [leadership approaches](#leadership-approaches)
-  - [motivation](#motivation)
+- **breaking down silos**
+  - [free flow of information](#free-flow-of-information)
   - [rigid teams vs teaming](#rigid-teams-vs-teaming)
 - **other things**
-  - [hope is not an emotion](#hope-is-not-an-emotion)
-  - [free flow of information](#free-flow-of-information)
+  - [motivation](#motivation)
   - [some pitfalls](#some-pitfalls)
-  - [bad advice books](#bad-advice-books)
   - [links & resource](#links-resource)
 
 ---
@@ -158,11 +152,9 @@ Psychological safety depends partly on accumulated evidence about how interperso
 
 
 #### Why it's bad for business
-> A lack of psychological safety effectively prevents bad news from traveling upwards, creating an illusion of success that eventually turns into serious business failures. Yet many organizational leaders genuinely believe that "no news" means that things are going well. (amy edmondson)
+> _When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside._
 
 <img src="pasted%20images/Pasted%20image%2020260908202757.png" alt="Pasted image 20260908202757.png" width="356">
-
-> _When the people have to manage dangers from inside the organization, the organization itself becomes less able to face the dangers from outside._
 
 ##### The things we can control
 Every organization faces two sets of dangers:
@@ -302,6 +294,40 @@ Small acts like these make openness easier for everyone else.
     
 7. **Build lateral connections.**  
     Maintain relationships across teams so information has more than one route to travel.
+
+
+
+#### reframing the boss
+The more creativity and innovation are required to achieve a goal, the more this reframe is needed:
+
+| dimension                | default frame                                                        | reframe                                                                                                      |
+| ------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| the boss has…            | the answers                                                          | direction to set — but not all the answers (the work is uncertain)                                           |
+| the boss's job           | to give orders / direct                                              | to set direction, then invite input to clarify and improve it, and create conditions for continuous learning |
+| stance toward the work   | to assess whether orders were executed well (judge)                  | to enable excellence through learning                                                                        |
+| others (non-bosses) are… | subordinates, expected to do as they're told                         | valued contributors — people with crucial knowledge and insight                                              |
+| why people speak up      | they don't — fear is sensible; think carefully about what you reveal | because it improves decision-making and execution                                                            |
+| result                   | interpersonal fear is rational → silence                             | psychological safety becomes necessary → voice                                                               |
+
+---
+
+> [!tip] brene brown - dare to lead
+
+**armored vs daring leadership**
+
+| Armored                                                          | Daring                                                                    |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Driving Perfectionism and Fostering Fear of Failure              | Modeling and Encouraging Healthy Striving, Empathy, and Self-Compassion   |
+| Working from Scarcity (withholding recognition)                  | Practicing Gratitude and Celebrating Milestones and Victories             |
+| Being a Knower and Being Right                                   | Being a Learner and Getting It Right                                      |
+| Hiding Behind Cynicism (sarcasm)                                 | Modeling Clarity, Kindness, and Hope                                      |
+| Using Criticism as Self-Protection ("invisible army," nostalgia) | Making Contributions and Taking Risks                                     |
+| Using Power Over                                                 | Using Power With, Power To, and Power Within                              |
+| Leading for Compliance and Control                               | Cultivating Commitment and Shared Purpose                                 |
+| Weaponizing Fear and Uncertainty                                 | Acknowledging, Naming, and Normalizing Collective Fear and Uncertainty    |
+| Tolerating Discrimination and a "Fitting-In" Culture             | Cultivating a Culture of Belonging, Inclusivity, and Diverse Perspectives |
+| Zigzagging and Avoiding                                          | Talking Straight and Taking Action                                        |
+| Leading from Hurt                                                | Leading from Heart                                                        |
 
 ---
 
@@ -471,6 +497,22 @@ The question then becomes not just _“what did we learn?”_, but _“what will
 
 > [!EXAMPLE] article: [amy edmondson - todays leaders must think like scientists](https://amycedmondson.com/todays-leaders-must-learn-to-think-like-scientists/)
 
+#### organizing to execute vs organizing to learn
+(from amy edmondson: teaming)
+
+| Management Approach         | Organizing to Execute                                                             | Organizing to Learn                  |
+| --------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
+| Hiring                      | Conformers, rule followers.                                                       | Problem solvers, experimenters.      |
+| Training                    | Learning before doing.                                                            | Learning from doing.                 |
+| Measuring performance       | Did YOU do it right?                                                              | Did WE learn?                        |
+| Structuring work            | Separate expertise.                                                               | Integrate expertise.                 |
+| Employee discretion allowed | Choose among options.                                                             | Experiment through trial and error.  |
+| Empowerment means           | Employees can deviate from the script if special circumstances make it necessary. | There is no script. Improvise!       |
+| Process goal                | Drive out variance.                                                               | Use variance to analyze and improve. |
+| Watercooler conversation    | About the weather                                                                 | About the work                       |
+| Business goal               | Make money now.                                                                   | Make money later.                    |
+| Works when                  | Path forward is clear.                                                            | Path forward is not clear.           |
+
 ---
 
 <!-- learnings/how to fail.md -->
@@ -507,116 +549,6 @@ Failing well means being thoughtful about what we try, limiting the potential do
 > [!EXAMPLE] podcast: [how to succeed at failing ](https://freakonomics.com/podcast-tag/how-to-succeed-at-failing/)
 
 > [!EXAMPLE] video: [Sidney Dekker: Learning from mistakes: No-blame management and accountable teams.](https://www.youtube.com/watch?v=5SsFOwtCYzY)
-
----
-
-<!-- learnings/how to question your own thinking.md -->
-
-### how to question your own thinking
-
-An explanation can make perfect sense to us and still be missing something important. Questioning our thinking means asking: What am I assuming? What else could explain this? What would make me change my mind?
-
-Some good books on this topic:
-
-> [!TIP] adam grant - think again
-
-> [!TIP] nassim nicholas taleb - the black swan
-
-also read books you disagree with. 
-
-#### cognitive biases
-Learning about cognitive biases can help identify where our own reasoning might need another look (not just finding labels for what everyone else gets wrong). Here are some that have seemed worth writing down to not forget about them:
-
-**curse of knowledge** - occurs when a person who has specialized knowledge assumes that others share in that knowledge
-
-**fundamental attribution error** - when something goes wrong, we blame the person, not the situation.
-
-**motive attribution asymmetry** - overattributing bad intent to others.
-
-**groupthink** - Occurs within a group of people in which the desire for harmony or conformity in the group results in an irrational or dysfunctional decision-making outcome.
-[symptoms & preventative measures](https://www.atlassian.com/blog/teamwork/groupthink)
-
-**pluralistic ignorance** - A phenomenon in which people mistakenly believe that others predominantly hold an opinion different from their own.
-
-**shared information bias** - the tendency to spend more time discussing information that all members are already familiar with vs information that only some members are aware of. 
-
-**anchoring bias** - the first opinion stated in a meeting influences others perception
-
-**escalation of commitment** - when a person or group facing increasingly negative outcomes from a decision nevertheless continue the behavior instead of altering course.
-
-**information overload** - “the difficulty in understanding an issue and effectively making decisions when one has too much information about it, and is generally associated with the excessive quantity of daily information.”
-
-**social proof** - the assumption that the surrounding people possess more knowledge about the current situation.
-
-**diffusion of responsibility** - i.e. the bystander effect
-
-**authority bias** - an assumption that a fancy title comes with enhanced brain capacity
-
-**illusory truth effect** - the tendency to believe false information to be correct after repeated exposure.
-
-**confirmation bias** - the tendency to search for, interpret, favor and recall information in a way that confirms or supports one's prior beliefs or values
-
-**response bias** - a wide range of tendencies for participants to respond inaccurately or falsely to questions, and can have a large impact on the validity of questionnaires or surveys.
-
-**automation bias** - i.e. "computer says no".
-
-**bias blind spot**
-It’s easier to spot biases in the decision making of others than our own
-related: [dunning-kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) & [illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
-
-#### resources
-- cognitive biases [wiki](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
-- anti-patterns [wiki](https://en.wikipedia.org/wiki/Anti-pattern)
-- fallacies [wiki](https://en.wikipedia.org/wiki/List_of_fallacies)
-- social phenomena [wiki]
-- [cognitive bias codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
-
-Caveat: Not all biases have equally strong research behind them (research often comes from some kind of catastrophic failure).
-
-#### cognitive biases & AI
-LLMs are also equally susceptible to biases as humans, and can act as a feedback loop.
-
----
-
-<!-- learnings/group flow.md -->
-
-### group flow
-
-*Group flow is the shared, energized state where a team becomes so absorbed in a task together that ideas and actions click effortlessly, the group performs at its peak, and members lose track of self and time.*
-
-
-
-##### Examples:
-
-**A jazz ensemble improvising**
-musicians riffing off each other, no one leading, the music seeming to play itself
-**A sports team "in the zone"**
-a basketball team on a fast break where passes land without anyone looking, everyone anticipating the next move.
-**A surgical or emergency team working a crisis**
-in tight, wordless coordination, each person moving as the situation demands.
-
-
-
-##### conditions of group flow
-**Shared horizon**
-a clear, team-level common goal, which is internalized by all members of the team
-**Ownership**
-ability to take meaningful responsibility for a piece of the whole 
-**Autonomy**
-the absence of coercion (move, adapt, improvise without needing permission)
-
-
-Other things that make group flow likely to emerge:
-**Constant communication**
-when everyone is fully engaged and deep listening, when focused on the natural progress emerging from members’ work, not on meeting a deadline set by management.
-**Equal participation**
-when all participants play an equal role in the collective creation of the final performance.
-
-> [!EXAMPLE] wikipedia: [flow (psychology)](<https://en.wikipedia.org/wiki/Flow_(psychology)>)
-
-> [!EXAMPLE] article: [Flow at Workplace — How to incorporate an environment which is conducive to Flow](https://medium.com/@arjunvijeth/flow-at-workplace-how-organization-could-incorporate-an-environment-which-is-conducive-to-flow-80e7788b66d3)
-
-> [!TIP] Daniel Coyle - Flourish
 
 ---
 
@@ -717,7 +649,7 @@ This can leave the authority behind a decision unquestionable and its reasoning 
 
 A person communicating a decision may not have made it, and shouldn’t have to pretend otherwise. But there should still be a clear path to whoever is responsible. Collective decisions can have ownership too: a group can explain its reasoning and identify someone who will answer for it.
 
-Owning a decision doesn’t mean everyone must agree with it. It means making clear who made it, why, and how affected people can raise questions. A decision log helps preserve that context, but the person or group responsible must still be available to explain the decision.
+Owning a decision doesn’t mean everyone must agree with it. It means making clear who made it, why, and how affected people can raise questions. A decision log helps preserve that context.
 
 #### what to document
 > Transparency doesn't mean sharing every detail. Transparency means providing the context for the decisions we make.
@@ -1018,7 +950,7 @@ Clear feedback gives the recipient something to understand, question, repair, an
 The next question is who takes responsibility for making that conversation possible.
 
 
-part 2/3: [feedback without ownership](#feedback-without-ownership)
+part 2: [feedback without ownership](#feedback-without-ownership)
 
 ---
 
@@ -1026,7 +958,7 @@ part 2/3: [feedback without ownership](#feedback-without-ownership)
 
 ### feedback without ownership
 
-part 1/3: [clear is kind](#clear-is-kind)
+part 1: [clear is kind](#clear-is-kind)
 ##### Anonymous feedback
 Anonymous feedback comes with structural limitations: you can't have a direct conversation with the person whose experience the feedback describes. It's also hard to resolve conflict if you don't know who to talk with.
 
@@ -1063,10 +995,18 @@ Just passing anonymous feedback on may feel neutral, but choosing to repeat a ju
 
 Before passing feedback on, ask what the recipient can reasonably do with it. See how many boxes it checks in [the effective feedback model](#feedback-checklists). If it doesn't, consider whether it needs to be said at all.
 
+##### Diffusion of responsibility / the bystander effect
+When several people share a concern, each [tends to assume someone else will raise it](https://en.wikipedia.org/wiki/Diffusion_of_responsibility), or already has. Anonymity makes this more likely: feedback without a name has no owner, so nobody explains it, follows up, or checks whether anything changed.  
+Responsibility also thins out as feedback travels. One person writes it, another collects it, a third passes it on. Each step feels neutral, and at the end nobody owns the judgment.  
 
 #### links
 
 > [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
+
+
+> [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It.](https://www.corporate-rebels.com/blog/annual-performance-reviews)
+
+> [!TIP] Peter Block, Peter Koestenbaum - Confronting Our Freedom (A good take on 360 reviews, anonymous surveys, and accountability)
 
 ---
 
@@ -1153,64 +1093,6 @@ too broad to engage — a "powerful question" (World Café) channels attention a
 **The double-barrelled / loaded question**
 *"Why are we still using this broken process, and who approved it?"*
 stacks multiple questions plus a buried accusation, so people answer the safest part or freeze.
-
----
-
-<!-- learnings/empathy misses.md -->
-
-### empathy misses
-
-> [!EXAMPLE] [Brene Brown - empathy misses](https://brenebrown.com/resources/empathy-misses-2/)
-
-#### Empathy
-I may not have had the exact same experience as you, but I know this struggle, and you are not alone. I get it, I feel with you, and I've been there.
-*"I see you"*
-*"I know what it's like down here. And you're not alone."*
-*"Oh, man, I've done that. It just sucks."*
-*"Me too. You're not alone."* 
-*"That must have been really hard"*
-*"You were really brave"*
-*"It's hard to stand up for what you believe in, thank you"*
-
-#### Empathy misses
-**Sympathy**
-Wow, that's bad, I feel so sorry for you. I don't know or understand what your experience is like, but I'll grant you that it looks pretty bad and I don't want to know. These things don't happen to me or people like me.
-*"I'm so sorry. You poor thing."*
-*"I can't imagine how hard this must be for you."* 
- *"Oh, it's bad, that looks terrible. So sorry."*
-*"Oh, you poor thing."*
-*"Aww, bless your poor heart."*
-
-**judgment**
-you should feel shame
-*"Oh, God, I'd just die."*
-
-**disappointment**
-you've let me down
-*"I just never expected that from you. When I think of you I don't think of you as the kind of person that gets that rating, I mean what happened?"*
-*"How did you let this happen? What were you thinking?"*
-
-**blaming**
-This feels terrible, who can we blame?
-*"Who is that guy? We'll kick his ass. Or report him!"*
-*"What were you thinking, why did you do that?"*
-*"how did you let this happen"*
-
-**minimizing & avoiding**
-wanting hard feelings to go away out of our own discomfort, refusing that someone is in pain and that they're hurting
-*"You know, it's not that bad. It cannot be that bad. You know you're awesome. You're amazing."*
-
-**one-upping**
-confusing the opportunity to connect through shared experiences with the opportunity to one up you
-whew, if you think that's bad
-hey that's nothing listen to what happened to me one time
-*"Oh, yeah? Me too. Listen to this."*
-
-**pushing back when speaking truth to power**
-*"I can't believe you said that to your boss"*
-*"we don't talk about this stuff with people"*
-
-**Advce / problem solving / fixing it**
 
 ---
 
@@ -1331,68 +1213,97 @@ Owning a mistake and repairing it can give people evidence that a difficult mome
 
 ---
 
-## leadership
+## breaking down silos
 
-<!-- learnings/leadership approaches.md -->
+<!-- learnings/free flow of information.md -->
 
-### leadership approaches
+### free flow of information
 
-*some interesting tables i've come across that compare different approaches*
+> Free flow of information is a fundamental prerequisite for self-managing organizations.
+
+Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. This boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
+
+Some other benefits include:
+- **decision quality** - pooling information across members leads to more optimal decisions
+- **decision speed** - raw data is useful, curated data is slow and loses context
+- **innovation through unexpected connections** - Ideas often emerge when information from one domain meets a person working in another. 
+- **accountability** - Transparency makes it easier for people to hold themselves and each other accountable, because actions and reasoning are visible.
+
+#### A team of teams
+In the book Team of Teams, stanley mcchrystal argues how one of the limiting factors of hierarchical communication and decision making structures is individual brain capacity.
+
+> Complex environments are, by definition, too complicated for any one person to grasp fully.
+
+Past a certain size no single team can hold the whole problem, so you split into many — and now individually excellent teams can still add up to a dysfunctional whole. ***Great teams that don't talk to each other aren't a great organization***; they're silos with good morale.
+
+> The most effective teams are those that can rapidly adapt to the ever-changing environment. 
+
+The ability to learn, adapt, and innovate is what sets successful teams apart from their competitors.
+
+> In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. Today organizations are too complex for management to do all the thinking.
+
+#### the solution: shared consciousness
+so instead of pushing decisions up, you push *understanding* down and out.
+
+- **Shared consciousness** — everyone holds a holistic picture of what the whole organization is doing and why, built through radically transparent communication
+- **Empowered execution** — once people share that picture, they can act without asking permission, because they can predict what the org would want. Distributed decision-making requires shared consciousness — empower people without context and they just fumble in the dark.
+- **Connectivity, not full connection** — you don't need everyone to know everyone, but you need enough cross-team relationships that *"if everyone knows a couple of people, there's likely a connection to every other team."
+
+> **To contend with complexity, everyone in the organization must see how everything works together.** They have to understand the interdependencies and how the organization operates as a whole. When people understand these things, they make good decisions, quicker.
+
+![Pasted image 20260627140901.png](pasted%20images/Pasted%20image%2020260627140901.png)
+
+> [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/) /  [key takeaways](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
+#### why this leads to more innovation
+Creativity generally involves crossing the boundaries of domains. 
+
+It happens through connecting ideas, memories, or concepts that don’t seem related at first glance. It’s the essence of creativity, making it possible to see patterns, develop unique solutions, and bring fresh ideas into any field.
+
+> [!EXAMPLE] article: [associative thinking and creative potential](https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749)
+
+> *individual observations and suggestions build on each other, taking new shape and creating new value, especially compared to what happens when individual feedback is collected separately*
 
 
+
+
+
+> [!EXAMPLE] [people, processes, technology and information](https://frederickvanbrabant.com/blog/2025-05-16-people-processes-technology-and-information/)
+
+
+
+##### shared information bias
+Whether all the participants have the same information available or not has a dramatic effect on decision making quality:
+> Teams systematically over-discuss information that everyone already knows and underweight information that is unique, privately held, or uncomfortable. Decades of research show that this effect is so strong that it routinely defeats the very purpose of teamwork: combining diverse knowledge into better decisions. ([source](https://medium.com/@damjangataric/ai-teams-and-the-common-information-effect-5dad5c78304f))
+
+<img src="pasted%20images/Pasted%20image%2020260910163235.png" alt="Pasted image 20260910163235.png" width="421">
 
 ---
 
-> [!tip] amy edmondson - teaming
+<!-- learnings/rigid teams vs teaming.md -->
 
-**organizing to execute vs organizing to learn**
+### rigid teams vs teaming
 
-| Management Approach         | Organizing to Execute                                                             | Organizing to Learn                  |
-| --------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ |
-| Hiring                      | Conformers, rule followers.                                                       | Problem solvers, experimenters.      |
-| Training                    | Learning before doing.                                                            | Learning from doing.                 |
-| Measuring performance       | Did YOU do it right?                                                              | Did WE learn?                        |
-| Structuring work            | Separate expertise.                                                               | Integrate expertise.                 |
-| Employee discretion allowed | Choose among options.                                                             | Experiment through trial and error.  |
-| Empowerment means           | Employees can deviate from the script if special circumstances make it necessary. | There is no script. Improvise!       |
-| Process goal                | Drive out variance.                                                               | Use variance to analyze and improve. |
-| Watercooler conversation    | About the weather                                                                 | About the work                       |
-| Business goal               | Make money now.                                                                   | Make money later.                    |
-| Works when                  | Path forward is clear.                                                            | Path forward is not clear.           |
+We often organize work by assembling a team with the skills we expect to need, then assigning it a problem. But in complex work, understanding the problem is part of the work itself. What we learn may change whose knowledge we need.
 
-**reframing the boss**
-The more creativity and innovation are required to achieve a goal, the more this reframe is needed:
+> Teaming in today's and tomorrow's world will be about learning. Old formulas for what a group should be, how it should be organized and run, will not work. One of these old formulas emphasizes group composition-find out what everyone's personal style and competence is and fit the parts together. The most obvious limitation to this formula is that the changing nature of complex tasks makes it difficult to decide ahead of time what personal style and competency set to measure. (amy edmondson, teaming)
 
-| dimension                | default frame                                                        | reframe                                                                                                      |
-| ------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| the boss has…            | the answers                                                          | direction to set — but not all the answers (the work is uncertain)                                           |
-| the boss's job           | to give orders / direct                                              | to set direction, then invite input to clarify and improve it, and create conditions for continuous learning |
-| stance toward the work   | to assess whether orders were executed well (judge)                  | to enable excellence through learning                                                                        |
-| others (non-bosses) are… | subordinates, expected to do as they're told                         | valued contributors — people with crucial knowledge and insight                                              |
-| why people speak up      | they don't — fear is sensible; think carefully about what you reveal | because it improves decision-making and execution                                                            |
-| result                   | interpersonal fear is rational → silence                             | psychological safety becomes necessary → voice                                                               |
+Amy Edmondson uses _teaming_ to shift attention from the structure of a team to the activity of working together: coordinating, sharing knowledge, and learning with the people needed for the task, even when they don’t normally work together. 
+
+> [!EXAMPLE] video: [amy edmondson on building high performing teams](https://www.youtube.com/watch?v=21iTX70R0V0)
+
+For example, an artist reports that publishing an asset takes too long. It initially looks like a tooling problem. A technical artist investigates and discovers that much of the delay comes from unclear review expectations. A programmer can improve part of the tool, but resolving the whole problem also requires the people reviewing and receiving the asset.
+
+The useful group emerges as the problem becomes clearer. If collaboration stops at the original team boundary, we may solve only the part that fits our existing responsibilities.
+
+Stable teams can provide continuity and established relationships. Teaming lets those teams reach beyond their boundaries when the work requires it. The aim is to make collaboration possible without reorganizing everyone each time a problem crosses the org chart.
+
+> [!tip] amy edmondson - teaming (a practical guide for collaboration and learning)
+
+> [!EXAMPLE] article: [how teams grow organically](https://frederickvanbrabant.com/blog/2025-08-22-how-teams-grow-organically/)
 
 ---
 
-> [!tip] brene brown - dare to lead
-
-**armored vs daring leadership**
-
-| Armored                                                          | Daring                                                                    |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Driving Perfectionism and Fostering Fear of Failure              | Modeling and Encouraging Healthy Striving, Empathy, and Self-Compassion   |
-| Working from Scarcity (withholding recognition)                  | Practicing Gratitude and Celebrating Milestones and Victories             |
-| Being a Knower and Being Right                                   | Being a Learner and Getting It Right                                      |
-| Hiding Behind Cynicism (sarcasm)                                 | Modeling Clarity, Kindness, and Hope                                      |
-| Using Criticism as Self-Protection ("invisible army," nostalgia) | Making Contributions and Taking Risks                                     |
-| Using Power Over                                                 | Using Power With, Power To, and Power Within                              |
-| Leading for Compliance and Control                               | Cultivating Commitment and Shared Purpose                                 |
-| Weaponizing Fear and Uncertainty                                 | Acknowledging, Naming, and Normalizing Collective Fear and Uncertainty    |
-| Tolerating Discrimination and a "Fitting-In" Culture             | Cultivating a Culture of Belonging, Inclusivity, and Diverse Perspectives |
-| Zigzagging and Avoiding                                          | Talking Straight and Taking Action                                        |
-| Leading from Hurt                                                | Leading from Heart                                                        |
-
----
+## other things
 
 <!-- learnings/motivation.md -->
 
@@ -1485,121 +1396,6 @@ Scale, dashboards, headcount, "the business," "resources," and *"that's above my
 
 ---
 
-<!-- learnings/rigid teams vs teaming.md -->
-
-### rigid teams vs teaming
-
-We often organize work by assembling a team with the skills we expect to need, then assigning it a problem. But in complex work, understanding the problem is part of the work itself. What we learn may change whose knowledge we need.
-
-> Teaming in today's and tomorrow's world will be about learning. Old formulas for what a group should be, how it should be organized and run, will not work. One of these old formulas emphasizes group composition-find out what everyone's personal style and competence is and fit the parts together. The most obvious limitation to this formula is that the changing nature of complex tasks makes it difficult to decide ahead of time what personal style and competency set to measure. (amy edmondson, teaming)
-
-Amy Edmondson uses _teaming_ to shift attention from the structure of a team to the activity of working together: coordinating, sharing knowledge, and learning with the people needed for the task, even when they don’t normally work together. 
-
-> [!EXAMPLE] video: [amy edmondson on building high performing teams](https://www.youtube.com/watch?v=21iTX70R0V0)
-
-For example, an artist reports that publishing an asset takes too long. It initially looks like a tooling problem. A technical artist investigates and discovers that much of the delay comes from unclear review expectations. A programmer can improve part of the tool, but resolving the whole problem also requires the people reviewing and receiving the asset.
-
-The useful group emerges as the problem becomes clearer. If collaboration stops at the original team boundary, we may solve only the part that fits our existing responsibilities.
-
-Stable teams can provide continuity and established relationships. Teaming lets those teams reach beyond their boundaries when the work requires it. The aim is to make collaboration possible without reorganizing everyone each time a problem crosses the org chart.
-
-> [!tip] amy edmondson - teaming (a practical guide for collaboration and learning)
-
-> [!EXAMPLE] article: [how teams grow organically](https://frederickvanbrabant.com/blog/2025-08-22-how-teams-grow-organically/)
-
----
-
-## other things
-
-<!-- learnings/hope is not an emotion.md -->
-
-### hope is not an emotion
-
-*..it's a thought process that can be learned.*
-
-Hope happens when..
-..we can set realistic goals *"I know where I want to go"*
-..we're able to achieve those goals, stay flexible and develop alternative routes *"I know how to get there, persistent, can tolerate disappointment and try again"*
-..we believe in ourselves *"I can do this"
-
-#### why it matters
-> We need hope like we need air, but it's not a warm, fuzzy emotion that fills us with a sense of possibility. Hope is a way of thinking, a cognitive process, a "trilogy of goals, pathways, and agency" (C. R. Snyder)
-
-Snyder's study found that hope had a bigger impact on academic success of students than their SAT scores.
-
-Hope is a function of struggle—we develop hope not during the easy or comfortable times, but through adversity and discomfort.
-
-> [!TIP] Brene Brown - Dare to Lead ("Modeling Clarity, Kindness, and Hope")
-
-> [!TIP] Lars Svendsen - A Philosophy of Hope
-
----
-
-<!-- learnings/free flow of information.md -->
-
-### free flow of information
-
-Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. This boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
-
-Some other benefits include:
-- **decision quality** - pooling information across members leads to more optimal decisions
-- **decision speed** - raw data is useful, curated data is slow and loses context
-- **innovation through unexpected connections** - Ideas often emerge when information from one domain meets a person working in another. 
-- **accountability** - Transparency makes it easier for people to hold themselves and each other accountable, because actions and reasoning are visible.
-
-> Free flow of information is a fundamental prerequisite for self-managing organizations.
-
-
-#### A team of teams
-In the book Team of Teams, stanley mcchrystal argues how one of the limiting factors of hierarchical communication and decision making structures is individual brain capacity.
-
-> Complex environments are, by definition, too complicated for any one person to grasp fully.
-
-Past a certain size no single team can hold the whole problem, so you split into many — and now individually excellent teams can still add up to a dysfunctional whole. ***Great teams that don't talk to each other aren't a great organization***; they're silos with good morale.
-
-> The most effective teams are those that can rapidly adapt to the ever-changing environment. 
-
-The ability to learn, adapt, and innovate is what sets successful teams apart from their competitors.
-
-> In the past employees in factories where given tasks which they learned to perform rote but they didn’t have to understand why. Management would do the thinking. Today organizations are too complex for management to do all the thinking.
-
-#### the solution: shared consciousness
-so instead of pushing decisions up, you push *understanding* down and out.
-
-- **Shared consciousness** — everyone holds a holistic picture of what the whole organization is doing and why, built through radically transparent communication
-- **Empowered execution** — once people share that picture, they can act without asking permission, because they can predict what the org would want. Distributed decision-making requires shared consciousness — empower people without context and they just fumble in the dark.
-- **Connectivity, not full connection** — you don't need everyone to know everyone, but you need enough cross-team relationships that *"if everyone knows a couple of people, there's likely a connection to every other team."
-
-> **To contend with complexity, everyone in the organization must see how everything works together.** They have to understand the interdependencies and how the organization operates as a whole. When people understand these things, they make good decisions, quicker.
-
-![Pasted image 20260627140901.png](pasted%20images/Pasted%20image%2020260627140901.png)
-
-> [!EXAMPLE] article: [book summary](https://readingraphics.com/book-summary-team-of-teams/) /  [key takeaways](https://beaugordon.medium.com/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)
-#### why this leads to more innovation
-Creativity generally involves crossing the boundaries of domains. 
-
-It happens through connecting ideas, memories, or concepts that don’t seem related at first glance. It’s the essence of creativity, making it possible to see patterns, develop unique solutions, and bring fresh ideas into any field.
-
-> [!EXAMPLE] article: [associative thinking and creative potential](https://medium.com/@aivaras.a.grauzinis/associative-thinking-and-creative-potential-1c0e51a2f749)
-
-> *individual observations and suggestions build on each other, taking new shape and creating new value, especially compared to what happens when individual feedback is collected separately*
-
-
-
-
-
-> [!EXAMPLE] [people, processes, technology and information](https://frederickvanbrabant.com/blog/2025-05-16-people-processes-technology-and-information/)
-
-
-
-##### shared information bias
-Whether all the participants have the same information available or not has a dramatic effect on decision making quality:
-> Teams systematically over-discuss information that everyone already knows and underweight information that is unique, privately held, or uncomfortable. Decades of research show that this effect is so strong that it routinely defeats the very purpose of teamwork: combining diverse knowledge into better decisions. ([source](https://medium.com/@damjangataric/ai-teams-and-the-common-information-effect-5dad5c78304f))
-
-<img src="pasted%20images/Pasted%20image%2020260910163235.png" alt="Pasted image 20260910163235.png" width="421">
-
----
-
 <!-- learnings/some pitfalls.md -->
 
 ### some pitfalls
@@ -1674,62 +1470,6 @@ workflows that may have been fine for a small team don't necessarily scale for a
 > _‘Psychological safety is definitely important to me, but if I ask people to speak up, I’ve no time to deal with what they say.’_
 
 > [!EXAMPLE]  [spaciousness](https://www.meganreitz.com/spaciousness)
-
----
-
-<!-- learnings/bad advice books.md -->
-
-### bad advice books
-
-*..and better alternatives*
-#### rachel botsman - how to trust and be trusted
-This short audiobook seems to miss this point entirely:
-
-> [!EXAMPLE] [the difference between trust and psychological safety](https://psychsafety.com/the-difference-between-trust-and-psychological-safety/)
-
-..and covers a broad set of topics without considering the impact of psychological safety at all. 
-
-
-Alternatives:
-- **david desteno - the truth about trust** (For a better take on the topic of trust)
-
-
-#### 5 dysfunctions of a team
-The clearest red flag vibes came up in the sequel which is more focused on practical applications of the first book:
-> When team members reveal aspects of their personal lives to their peers, they learn to get comfortable being open with them about other things. They begin to let down their guard about their strengths, weaknesses, opinions, and ideas.
-> And if this sounds manipulative, well, I guess it is. But in a good kind of way..
-
-> You can e-mail everyone a list of the team members' types. This is helpful because if they don't remember one another's profiles, they aren't going to be able to use them.
-> 
-> You should also encourage, or even require, that team members keep any reference material or collateral from the session on their desks back at work, rather than in a drawer or on a bookshelf. This increases the likelihood that they'll refer to it later, and that others will ask them about it.
-
-
-> [!EXAMPLE] relevant article: [forced vulnerability](https://psychsafety.com/forced-vulnerability/)
-
-
-Not every conflict, accountability or coordination failure originates in an absence of interpersonal trust. The book largely ignores the role of structures: incentives, power asymmetry, workload, who actually holds decision rights.
-
-It also reads like an advertisement for the myers briggs personality test, which is [widely regarded as pseudoscience](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Accuracy_and_validity). This may have made more sense when the book was published (2002 was around the peak hype).
-
-
-
-Alternatives:
-- **amy edmondson - the fearless organization.** Edmondson's psychological safety work is useful contrast, since she treats safety as a property of the team's climate that leaders and structure largely produce, rather than a disposition individuals need to muster.
-- **literally any book by brene brown.** for a better take on vulnerability
-- **Daniel Coyle - The culture code / the culture playbook** - two books, the second one full of great practical advice
-
-#### measure what matters
-OKRs can help make priorities visible and coordinate work. The problem begins when numerical targets are treated as a theory of motivation or a substitute for judgment. Metrics direct attention toward what can be counted, make difficult-to-measure work less visible and create incentives to optimize the measure rather than the underlying purpose. Alignment is not the same as motivation, and measurement is not the same as understanding.
-
-Alternatives:
-- **Daniel Pink – _Drive_** as an accessible introduction to autonomy, mastery and purpose.
-- **Simon Sinek – _Start With Why_** specifically for articulating purpose, not as a complete account of motivation, and some good points about the "what isn't measured won't be done" mindset.
-#### stolen focus
-The book is most convincing when it describes attention as something industries compete to capture. It is much weaker when it discusses ADHD. It moves too easily from differences in diagnosis or medication rates to causal stories about schools and culture, without establishing that the statistics are comparable. It also treats legitimate debates about prescribing as evidence for a much broader suspicion of medication.
-
-
-Alternatives:
-- **Chris Hayes’s _The Siren’s Call_** develops the systemic argument more carefully: attention is not merely a personal capacity to protect, but a scarce social resource being actively extracted and sold.
 
 ---
 

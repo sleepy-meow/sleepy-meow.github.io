@@ -1,5 +1,6 @@
 > Free flow of information is a fundamental prerequisite for self-managing organizations.
 
+%%
 Freely sharing information helps to build and maintain trust. It signals that people are treated as capable, trusted adults, which increases psychological safety. This boosts engagement, ownership, and intrinsic motivation, reduces single points of failure and reinventing the wheel.
 
 Some other benefits include:
@@ -7,13 +8,13 @@ Some other benefits include:
 - **decision speed** - raw data is useful, curated data is slow and loses context
 - **innovation through unexpected connections** - Ideas often emerge when information from one domain meets a person working in another. 
 - **accountability** - Transparency makes it easier for people to hold themselves and each other accountable, because actions and reasoning are visible.
-
+%%
 # A team of teams
 In the book Team of Teams, stanley mcchrystal argues how one of the limiting factors of hierarchical communication and decision making structures is individual brain capacity.
 
 > Complex environments are, by definition, too complicated for any one person to grasp fully.
 
-Past a certain size no single team can hold the whole problem, so you split into many — and now individually excellent teams can still add up to a dysfunctional whole. ***Great teams that don't talk to each other aren't a great organization***; they're silos with good morale.
+Past a certain size no single team can hold the whole problem, so you split into many, and now individually excellent teams can still add up to a dysfunctional whole. ***Great teams that don't talk to each other aren't a great organization***; they're silos with good morale.
 
 > The most effective teams are those that can rapidly adapt to the ever-changing environment. 
 
@@ -24,9 +25,9 @@ The ability to learn, adapt, and innovate is what sets successful teams apart fr
 # the solution: shared consciousness
 so instead of pushing decisions up, you push *understanding* down and out.
 
-- **Shared consciousness** — everyone holds a holistic picture of what the whole organization is doing and why, built through radically transparent communication
-- **Empowered execution** — once people share that picture, they can act without asking permission, because they can predict what the org would want. Distributed decision-making requires shared consciousness — empower people without context and they just fumble in the dark.
-- **Connectivity, not full connection** — you don't need everyone to know everyone, but you need enough cross-team relationships that *"if everyone knows a couple of people, there's likely a connection to every other team."
+- **Shared consciousness**: everyone holds a holistic picture of what the whole organization is doing and why, built through radically transparent communication
+- **Empowered execution**: once people share that picture, they can act without asking permission, because they can predict what the org would want. Distributed decision-making requires shared consciousness: empower people without context and they just fumble in the dark.
+- **Connectivity, not full connection**: you don't need everyone to know everyone, but you need enough cross-team relationships that *"if everyone knows a couple of people, there's likely a connection to every other team."
 
 > **To contend with complexity, everyone in the organization must see how everything works together.** They have to understand the interdependencies and how the organization operates as a whole. When people understand these things, they make good decisions, quicker.
 

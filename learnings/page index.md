@@ -26,6 +26,7 @@
 [[feedback checklists]] !!
 [[clear is kind]] !!
 [[feedback without ownership]] !!
+%%[[empathy misses]] !! %%
 
 # other conversations
 [[how to ask the right questions]] !!

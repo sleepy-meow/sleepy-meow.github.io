@@ -5,13 +5,15 @@ my recent [reading list](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b2
 # toolkits
 > [!EXAMPLE] [reinventingorganizationswiki.com](https://reinventingorganizationswiki.com/en/) (a reference library for self-managing organizations)
 
-> [!EXAMPLE] https://explore.psychologicalsafety.com
+> [!EXAMPLE] https://explore.psychologicalsafety.com (a nice network diagram to explore psychological safety related topics)
 
-> [!EXAMPLE] [corporate rebels - bucket list](https://www.corporate-rebels.com/bucketlist)
+> [!EXAMPLE] [Corporate Rebels – The 8 Trends](https://www.corporate-rebels.com/bucketlist/the-8-trends) (trends identified through research into 200+ progressive organizations, with practical examples, practices, and case studies.)
 
-> [!EXAMPLE] [sociocracy 3.0](https://sociocracy30.org/) (a toolkit for how people work and make decisions together)
+> [!EXAMPLE] [designed learning - checklists and worksheets](https://designedlearning.com/helpful-checklists-and-worksheets/) (A collection of practical checklists and worksheets designed to help plan, facilitate, and evaluate meetings, consulting engagements, and organizational change processes.)
 
+> [!EXAMPLE]  [sessionlab](https://www.sessionlab.com/library) / [facilitator.school](https://www.facilitator.school/templates) (a gazillion facilitation methods)
 
+> [!EXAMPLE] [brene brown guides & resources](https://brenebrown.com/resources/) (Guides, exercises, and other resources exploring vulnerability, courage, empathy, trust, and leadership.)
 
 # books
 
@@ -69,3 +71,8 @@ my recent [reading list](https://app.notion.com/p/2a491e943dcb80a1a775d55b8a96b2
 - Leaders Eat Last (Simon Sinek)
 - Strong Ground (Brené Brown)
 
+
+%%
+> [!EXAMPLE] [sociocracy 3.0](https://sociocracy30.org/) (a toolkit for how people work and make decisions together)
+
+%%

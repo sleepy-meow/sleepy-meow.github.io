@@ -1,3 +1,7 @@
+Empathy is about connecting with someone else's experience rather than trying to judge, minimize, or fix what they're feeling. It means being willing to sit with discomfort, listen without judgment, and acknowledge someone's emotions without needing to make things better. The goal isn't to find the right words or solve the problem, but to help the other person feel seen, heard, and less alone.
+
+
+
 > [!EXAMPLE] [Brene Brown - empathy misses](https://brenebrown.com/resources/empathy-misses-2/)
 
 # Empathy

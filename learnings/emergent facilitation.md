@@ -40,10 +40,12 @@ The key question is how much participants can influence the outcome. A planned w
 
 > [!EXAMPLE] [liberating structures](https://www.liberatingstructures.com/)
 
+> [!EXAMPLE] [future search](https://participedia.net/method/future-search)
 
 
-
-
+- [**Facilitator School – Glossary**](https://www.facilitator.school/glossary?utm_source=chatgpt.com) is more of a reference guide to facilitation concepts, frameworks, and techniques. It's useful for learning _what a method is, why it works, and when to use it_.
+    
+- [**SessionLab – Library**](https://www.sessionlab.com/library?utm_source=chatgpt.com) is more of a practical activity library. It's useful for finding _specific exercises to run in workshops or meetings_, often with instructions, timing, and group sizes.
 
 
 %%

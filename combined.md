@@ -202,49 +202,42 @@ A "team climate" is not an isolated bubble, but affected by the organization aro
 
 ### how to psychological safety
 
-*some practical tips*
+_Some practical things_
 
-#### The top 10 things
-1. Levelling power gradients
-2. Establishing shared norms
-3. Effective listening and giving space
-4. Responding positively when someone speaks up
-5. Rewarding speaking up
-6. Framing work as experiments
-7. Practising retrospectives and futurespectives
-8. Addressing persistent problematic behaviour
-9. Embracing differences
-10. Accepting human error as normal
+Psychological safety isn't something we can declare into existence. People learn whether it's safe to speak up from what happens when someone actually does.
 
-> [!EXAMPLE] [top 10 ways to foster psychological safety](https://psychsafety.com/top-10-ways-to-foster-psychological-safety-in-the-workplace/) (more details here)
+#### Useful practical resources
+> [!EXAMPLE] [top 10 ways to foster psychological safety](https://psychsafety.com/top-10-ways-to-foster-psychological-safety-in-the-workplace/) 
 
-#### Other things to do
-> [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/)
+> [!EXAMPLE] [a very long list of behaviors](https://psychsafety.com/psychological-safety-behaviours/) (psychsafety.org)
 
 > [!TIP] Daniel Coyle - the culture playbook (a long list of practical advice)
 #### simple things anyone can do
-Acknowledging that you are a fallible human being gives others permission to do the same, for example: _"I don't know"_, _"I need help"_, _"I made a mistake"_, _"I'm sorry"_
+Acknowledging that you are a fallible human being gives others permission to do the same, for example:
+_"I don't know"_
+_"I need help"_
+_"I made a mistake"_
+_"I'm sorry"_
 
  You can also signal interest and availability with questions like:
-
-_What can I do to help?_  
-_What are you up against?_  
-_What are your concerns?_
+ _"What can I do to help?"_
+ _"What are you up against?"_
+ _"What are your concerns?"_
 
 Small acts like these make openness easier for everyone else.
 
 
-##### Useful things for leads
+#### Useful things for leads
 > **The most useful thing a leader can do for psychological safety is make it demonstrably safe and worthwhile to tell them something they may not want to hear.**
 
 1. **Respond well when someone speaks up.**  
-    The most important moment is the first response to a concern, disagreement, mistake, or ask for help. Thank the person, stay curious, and understand what they are seeing before evaluating whether they are right.
+    Thank the person, stay curious, and understand what they are seeing before evaluating whether they are right.
     
 2. **Protect the messenger.**
-    Make sure speaking up does not lead to bad things.
+    Make sure speaking up does not lead to bad things later on.
     
 3. **Follow up.**  
-    Explain what will happen next, who owns the issue, and what was ultimately decided. Even when no action is taken, a clear and respectful explanation shows that speaking was worthwhile.
+    Even when no action is taken, a clear and respectful explanation shows that speaking was worth it.
     
 4. **Admit mistakes and repair the consequences.**  
     Say when you were wrong, handled something badly, or lacked important information, and fix what can be fixed.
@@ -256,7 +249,7 @@ Small acts like these make openness easier for everyone else.
     People should know what outcome matters, what “good enough” looks like, what is open for discussion, and who will make the final call. When priorities change, say so explicitly.
     
 7. **Treat mistakes and bad news as information first.**  
-    Begin by understanding what happened, what the person knew at the time, and what conditions contributed to it. Recognize well-designed experiments that produce useful learning, even when they don’t achieve the intended result. Accountability still matters, but learning should come before blame. 
+    Begin by understanding what happened, what the person knew at the time, and what conditions contributed to it. Recognize well-designed experiments that produce useful learning, even when they don’t achieve the intended result.
     
 8. **Apply standards consistently.**  
     Address bullying, interruption, contempt, and retaliation even when the person responsible is senior or highly valued. Distinguish good-faith mistakes from clear violations of agreed standards. People judge the real culture by what influential people are allowed to do. 
@@ -273,23 +266,23 @@ Small acts like these make openness easier for everyone else.
 12. **Make safety predictable through consistency.**  
     One good response cannot outweigh a long pattern of defensiveness or punishment. Repeatedly responding with curiosity, fairness, clarity, and follow-through is what turns isolated moments into a trustworthy team norm.
 
-##### Useful things if you're not a lead
+#### Useful things if you're not a lead
 1. **Speak up when you safely can.**  
     Being the 'village idiot' also gives others permission to do the same.
 
-1. **Be the second voice.**  
+2. **Be the second voice.**  
     When someone raises a concern, back them up: “I noticed that too.” A small show of support can break the impression that they are alone.
     
-2. **Don't leave the messenger alone afterwards.**  
+3. **Don't leave the messenger alone afterwards.**  
     Check in with them, support them publicly where you can, and reinforce that raising the issue was worthwhile.
     
-3. **Practice openness with peers.**  
+4. **Practice openness with peers.**  
     Share unfinished thoughts, ask unpolished questions, and admit uncertainty. It lowers the pressure to perform certainty.
     
-4. **Ask instead of assert.**  
+5. **Ask instead of assert.**  
     Questions often create more room for discussion than claims: “What am I missing?”, “What would make this fail?”, or “What are we actually trying to solve?”
     
-5. **Move things into the light.**  
+6. **Move things into the light.**  
     Bring important discussions back to public channels and document decisions where affected people can see them.
     
 7. **Build lateral connections.**  
@@ -308,10 +301,9 @@ The more creativity and innovation are required to achieve a goal, the more this
 | others (non-bosses) are… | subordinates, expected to do as they're told                         | valued contributors — people with crucial knowledge and insight                                              |
 | why people speak up      | they don't — fear is sensible; think carefully about what you reveal | because it improves decision-making and execution                                                            |
 | result                   | interpersonal fear is rational → silence                             | psychological safety becomes necessary → voice                                                               |
+(source: amy edmondson - the fearless organization)
 
 ---
-
-> [!tip] brene brown - dare to lead
 
 **armored vs daring leadership**
 
@@ -328,6 +320,7 @@ The more creativity and innovation are required to achieve a goal, the more this
 | Tolerating Discrimination and a "Fitting-In" Culture             | Cultivating a Culture of Belonging, Inclusivity, and Diverse Perspectives |
 | Zigzagging and Avoiding                                          | Talking Straight and Taking Action                                        |
 | Leading from Hurt                                                | Leading from Heart                                                        |
+(source: brene brown - dare to lead)
 
 ---
 
@@ -486,17 +479,6 @@ Questions cry out for answers; they create a vacuum that serves as a voice oppor
 
 
 
-#### Learning together
-> “Give away everything you know, and more will come back to you. – If you give away everything, you are left with nothing. This forces you to look, to be aware, to replenish.” (paul arden)
-
-A learning mindset shows up in how we work: asking questions, testing assumptions, seeking feedback, and changing our minds when we discover something new.
-
-But individual learning doesn’t automatically become organizational learning. We need to share what surprised us, what didn’t work, and what we would do differently, so others can build on it.
-
-The question then becomes not just _“what did we learn?”_, but _“what will we do differently, and who else could benefit from knowing?”_
-
-> [!EXAMPLE] article: [amy edmondson - todays leaders must think like scientists](https://amycedmondson.com/todays-leaders-must-learn-to-think-like-scientists/)
-
 #### organizing to execute vs organizing to learn
 (from amy edmondson: teaming)
 
@@ -543,6 +525,9 @@ The aim is to provide enough protection for people to explore, without making ex
 
 Failing well means being thoughtful about what we try, limiting the potential downside, and using what we learn to decide what to do next.
 
+#### resources
+
+> [!TIP] amy edmondson - the right kind of wrong: the science of failing well
 
 > [!EXAMPLE] video: [It doesn’t matter if you fail. It matters *how* you fail](https://www.youtube.com/watch?v=Gb9tjnJWu5g)
 
@@ -988,7 +973,7 @@ When the person giving feedback holds more power than the recipient, the case fo
 The same problem applies to [decisions without ownership](#logging-decisions): when something 'has been decided' without anyone owning the reasoning or answering questions. 
 
 
-Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case. Having more to lose in a situation can get in the way of communicating clearly.
+Giving downward feedback comes with a greater duty to be specific, evidence-based, actionable, and fair. People giving upward feedback may need protection from retaliation and room to describe an experience without presenting a polished case. Having more to lose in a situation [can get in the way of communicating clearly](#feeling-safe-and-trusted).
 
 ##### Responsibility of the messenger
 Just passing anonymous feedback on may feel neutral, but choosing to repeat a judgment gives it an audience and, depending on your role, authority.
@@ -997,12 +982,11 @@ Before passing feedback on, ask what the recipient can reasonably do with it. Se
 
 ##### Diffusion of responsibility / the bystander effect
 When several people share a concern, each [tends to assume someone else will raise it](https://en.wikipedia.org/wiki/Diffusion_of_responsibility), or already has. Anonymity makes this more likely: feedback without a name has no owner, so nobody explains it, follows up, or checks whether anything changed.  
-Responsibility also thins out as feedback travels. One person writes it, another collects it, a third passes it on. Each step feels neutral, and at the end nobody owns the judgment.  
+Responsibility also thins out as feedback travels. One person writes it, another collects it, a third passes it on. Each step feels neutral, but at the end nobody owns the judgment, and the feedback received is the result of a telephone game.
 
-#### links
+#### Links
 
 > [!EXAMPLE] [anonymous feedback can destroy psychological safety](https://tomgeraghty.co.uk/index.php/anonymous-feedback-can-destroy-your-team/)
-
 
 > [!EXAMPLE] article: [Ditch Annual Performance Reviews. Here's How Netflix Did It.](https://www.corporate-rebels.com/blog/annual-performance-reviews)
 
@@ -1400,61 +1384,15 @@ Scale, dashboards, headcount, "the business," "resources," and *"that's above my
 
 ### some pitfalls
 
-#### "this ship can never sink"
-
-> The state of mind one possesses when one becomes so successful, he/she disregards the inefficiencies and lost opportunities.
-
-The more successful / large a company becomes, the more pressure there is for protecting the status quo - masking underlying inefficiencies and even sabotaging new initiatives and innovations to protect jobs or position.
-
-
-> [!EXAMPLE] podcast episode: [worklife with adam grant: the creative power of misfits](https://www.ted.com/talks/worklife_with_adam_grant_the_creative_power_of_misfits)
-
-> [!EXAMPLE] article: [The fat cat syndrome prevents innovation and opens the door for disruption](https://medium.com/@arnoldbeekes/the-fat-cat-syndrome-prevents-innovation-and-opens-the-door-for-disruption-9a37643d38a4)
-
-#### processes != bureaucracy
-A common misconception is that processes and bureaucracy are the same thing, but they are closer to opposites. A process is a decision made once so it doesn’t have to be made again. Bureaucracy is what remains when the steps outlive their purpose. To tell them apart, keep asking what problem each step solves, and delete any step where no one has an answer.
-<img src="Pasted%20image%2020261121091346.png" alt="Pasted image 20261121091346.png" width="374">
-Processes also differ in what they do to autonomy. Some support it, set the goal and the boundaries, then get out of the way. Others dictate the steps and the approvals, moving judgment from the person doing the work to the person signing off. The first kind makes it safe to decide, and the second makes it unnecessary to think.
-#### missing structural guardrails
-The trick is to put them in place *before* they are actually needed. It may feel comfortable in the moment to avoid an awkward discussion, but it can be 100x more uncomfortable later down the road.
-
-It's easy to conclude that it's too early to worry about these things, until one day it's too late. 
-
-> [!TIP] Kim Nordström - Up Down Up (many useful tips for awkward conversation topics, including before founding a company)
-
-> [!TIP] Eric Ries - Incorruptible (practical things aimed more at established companies, good thoughts on why the timing matters)
-
-#### plan continuation bias
-*i.e. sunk cost fallacy*
-The unconscious cognitive bias to continue with the original plan despite of changing conditions.
-
-> [!EXAMPLE] https://psychsafety.com/plan-continuation-bias/
-
-#### throwing people at the problem
-> The typical response to slow progress is to add more and more people to the teams.
-
-> We often think we can hire better and faster than we actually can. You need to create clear principles and Ways of Working around recruitment and hiring, and more importantly, constantly work with the teams so they don’t aim to “solve problems by throwing more people on them”.
-#### Culture transfer rate
-People will generally just work in the way they have previously done, simply because that's what they know. Learning and unlearning things takes time.
-
-> Johan Kristiansson, former CEO at Starbreeze during the years 2004-2011 said that during the years when they created the games Riddick and the Darkness, **they grew on average 15-20% per year**. “We managed our growth carefully to make sure we didn’t interrupt the core of our teams. I believe that 20-25% is the maximum that a company can manage to grow in employees every year.
-
-
-
-
-
-
 #### the vision getting blurry
 Even the most crystal clear projects can get muddled over time, to the point where nobody remembers the original point anymore. Simply following a vision is also different than actually understanding it. 
 
 When things become unclear, there may be pressure to keep running without knowing whether you’re running in the right direction, but it's worth pausing an figuring out where to go.
 
-(if you look up "top 10 reasons why projects fail", this comes up in the top 3 in almost every one of them)
-
 #### lines of communication
-workflows that may have been fine for a small team don't necessarily scale for a larger team. Growing a team too large will slow everything down, and also reduces psychological safety.
+Workflows that may be fine for a small team don't necessarily scale for a larger team. Growing a team too fast can slow everything down, and also reduces psychological safety.
 
-> Adding more people to a team increases the communication overhead exponentially
+> Adding more people to a team increases the communication overhead ~~exponentially~~ quadratically
 
 ![Pasted image 20260627135045.png](pasted%20images/Pasted%20image%2020260627135045.png)
 
@@ -1469,7 +1407,46 @@ workflows that may have been fine for a small team don't necessarily scale for a
 #### a culture of busyness
 > _‘Psychological safety is definitely important to me, but if I ask people to speak up, I’ve no time to deal with what they say.’_
 
+Creativity requires space to think. Being busy all the time can often 'feel' productive, but in the end it's hard to be truly present when the day is filled with back to back meetings.
+
 > [!EXAMPLE]  [spaciousness](https://www.meganreitz.com/spaciousness)
+
+#### missing structural guardrails / leaving agreements implicit
+The trick is to put them in place *before* they are actually needed. It may feel comfortable in the moment to avoid an awkward discussion, but it can be 100x more uncomfortable later down the road. 
+
+It's easy to conclude that it's too early to worry about these things, until one day it's too late. Things like commitment level, IP ownership, exit expectations etc are cheap to talk about while everyone is aligned and nothing is at stake. Once it is needed, someone has something to lose, and you are negotiating instead of designing.
+
+> [!TIP] Kim Nordström - Up Down Up (many useful tips for awkward conversation topics, including before founding a company)
+
+> [!TIP] Eric Ries - Incorruptible (practical things aimed more at established companies, good thoughts on why the timing matters)
+
+
+#### "this ship can never sink"
+> The state of mind one possesses when one becomes so successful, he/she disregards the inefficiencies and lost opportunities.
+
+> [!EXAMPLE] podcast episode: [worklife with adam grant: the creative power of misfits](https://www.ted.com/talks/worklife_with_adam_grant_the_creative_power_of_misfits)
+
+> [!EXAMPLE] article: [The fat cat syndrome prevents innovation and opens the door for disruption](https://medium.com/@arnoldbeekes/the-fat-cat-syndrome-prevents-innovation-and-opens-the-door-for-disruption-9a37643d38a4)
+
+#### processes != bureaucracy
+A common misconception is that processes and bureaucracy are the same thing, but they are closer to opposites. A process is a decision made once so it doesn’t have to be made again. Bureaucracy is what remains when the steps outlive their purpose. To tell them apart, keep asking what problem each step solves, and delete any step where no one has an answer.
+<img src="Pasted%20image%2020261121091346.png" alt="Pasted image 20261121091346.png" width="374">
+Processes also differ in what they do to autonomy. Some support it, set the goal and the boundaries, then get out of the way. Others dictate the steps and the approvals, moving judgment from the person doing the work to the person signing off. The first kind makes it safe to decide, and the second makes it unnecessary to think.
+
+#### plan continuation bias
+*i.e. sunk cost fallacy*
+The unconscious cognitive bias to continue with the original plan despite of changing conditions.
+
+> [!EXAMPLE] https://psychsafety.com/plan-continuation-bias/
+
+#### throwing people at the problem
+> The typical response to slow progress is to add more and more people to the teams.
+
+> We often think we can hire better and faster than we actually can. You need to create clear principles and Ways of Working around recruitment and hiring, and more importantly, constantly work with the teams so they don’t aim to “solve problems by throwing more people on them”.
+#### Culture transfer rate
+> People will generally just work in the way they have previously done, simply because that's what they know. 
+
+Learning and unlearning ingrained habits takes time.
 
 ---
 

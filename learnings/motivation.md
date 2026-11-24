@@ -109,19 +109,12 @@ We can't demand commitment, but we can give people opportunities to understand a
 When someone is struggling to engage with their work:
 
 - Can they see what their work contributes to?
-    
 - Do they have enough influence over how they approach it?
-    
 - Can they use and develop their skills, and see themselves making progress?
-    
 - How much energy goes into dealing with unnecessary obstacles?
-    
 - What happens when they take initiative?
-    
 - Are their contributions noticed and valued?
-    
 - How much time do they actually spend on the parts of the work they find engaging?
-    
 
 We won't always be able to make work interesting or meaningful for everyone. But there's often quite a lot we can do to avoid making otherwise interesting work unnecessarily frustrating.
 

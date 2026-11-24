@@ -1,32 +1,43 @@
-> *People are either motivated or they are not. Unless you give motivated people something to believe in, something bigger than their job to work toward, they will motivate themselves to find a new job and you'll be stuck with whoever's left.* (simon sinek, start with why)
+# motivation
 
+> _People are either motivated or they are not. Unless you give motivated people something to believe in, they will motivate themselves to find a new job._ (simon sinek, start with why)
 
-%%
-# you can't motivate people
-*you can only build the place where already-motivated people stay that way.*
-%%
-"motivating the team" is usually described as something a leader *does to* people. It isn't. Nobody installs motivation in anyone. What a leader actually controls is the conditions, whether people have purpose, control, recognition, and a reason to trust each other, and then motivation is what shows up, or doesn't.
+_"Motivating the team" is often described as something a leader does to people._
 
-When a team looks unmotivated, the question isn't "how do we motivate them?" but "what in here is draining people who arrived motivated?"
+But much of what influences motivation lies in the everyday experience of doing the work: finding it interesting, having some influence over it, making progress, and seeing that it matters.
 
-# intrinsic vs extrinsic motivation
+When people seem unmotivated, it's worth getting curious about their experience of the work before concluding that they lack motivation.
 
-> [!tip] Daniel Pink - drive
+## intrinsic vs extrinsic motivation
 
-*extrinsic: you do it for what you get. intrinsic: the doing is the point.*
+- **Intrinsic motivation:** doing something because the activity itself is interesting, enjoyable, or satisfying.
+    
+- **Extrinsic motivation:** doing something for a separate outcome, such as pay, recognition, or avoiding negative consequences.
+    
 
-- **Intrinsic motivation** comes from within: doing something because it feels meaningful, interesting, enjoyable, or satisfying. A compelling purpose strengthens this by connecting work to a meaningful "why."
-- **Extrinsic motivation** comes from external rewards or pressures, such as pay, bonuses, praise, promotion, deadlines, or fear of punishment.
+Not all extrinsic motivation is about rewards and punishment. We may willingly do something we don't enjoy because we care about what it accomplishes.
 
-Purpose tends to create more lasting commitment than rewards or pressure alone—especially in complex, creative work.
+People also need to be paid fairly. Finding meaning in one's work doesn't make unfair compensation any less frustrating.
 
-People still need to be paid, and being paid unfairly is its own demotivator. The question isn't which is nobler, it's which one you're relying on to produce the behaviour — because they hold up under very different conditions.
+Relying too heavily on external rewards and pressure can undermine people's existing interest in the work.
 
-Over-emphasizing extrinsic rewards can also backfire - and reduce intrinsic motivation.
+## having some control over the work
 
-# flow statte
+> It is not the demands of the job that cause the most stress, but the degree of control workers feel they have throughout their day. The studies also found that the effort required by a job is not in itself stressful, but rather the imbalance between the effort we give and the reward we feel. Put simply: less control, more stress.
 
-_“The flow state is an optimal state of intrinsic motivation, where the person is fully immersed in what they are doing. The flow state amplifies performance, accelerates learning, and heightens creativity.”_
+There is a difference between being given a problem to solve and a series of instructions to follow. In creative work, figuring out how to approach a problem can be one of the most satisfying parts of solving it.
+
+Autonomy doesn't mean being left alone to figure everything out. Clear goals, useful constraints, information, and support can give us more meaningful control over our work.
+
+Sometimes processes introduced to help people get things done end up removing the very parts of the work they found engaging.
+
+## seeing ourselves make progress
+
+Part of what makes an activity satisfying is seeing ourselves getting somewhere: understanding something new, developing a skill, or seeing an idea gradually take shape.
+
+## flow
+
+> _“The flow state is an optimal state of intrinsic motivation, where the person is fully immersed in what they are doing. It amplifies performance, accelerates learning, and heightens creativity.”_
 
 **Conditions of flow:**
 - knowing what to do
@@ -40,99 +51,88 @@ _“The flow state is an optimal state of intrinsic motivation, where the person
 
 ![[Pasted image 20260827141138.png|315]]
 
+Someone may enjoy solving difficult problems but spend much of their day waiting for approvals, switching between tasks, or trying to establish what they're supposed to be solving.
 
+From this perspective, motivation is also a [developer user experience](#developer-user-experience) problem.
 %%
-# manipulation vs inspiration
+Some conditions that make flow more likely:
 
-> [!tip] Simon Sinek - start with why
-
-> There are only two ways to influence human behavior: you can manipulate it or you can inspire it.
-
-Manipulation isn't a slur here, but a category. Sinek names six: **price, promotions, fear, aspirations, peer pressure, and novelty.** In a workplace they show up as pay bumps, bonuses and perks, the implied threat of a bad review or a layoff, "this will be great for your career," what everyone else on the team is doing, and a constant supply of shiny new projects.
-
-> The danger of manipulations is that they work. And because manipulations work, they have become the norm.
-## persuasion
-We don't always realize when manipulation is happening, it may be easy to conclude from the outside that the person is making an informed decision to sell their soul. 
-
-Resilience to manipulation starts from simply learning about different patterns that they frequently take. This book has a lot of examples and patterns that can be seen frequently in advertisements and by salespeople. 
-
-> [!tip] Robert Cialdini - Influence
-
-Also, useful wikipedia pages: [Persuasion](https://en.wikipedia.org/wiki/Persuasion), [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
-
-These things don't automatically imply bad intent, but recognizing them gives the opportunity to pause and ask yourself "what's really happening here?" (or for example "is this time pressure real and who does it really serve?")
-
+- a clear enough goal to work toward
+- being able to tell how we're doing
+- a challenge that engages our skills without overwhelming us
+- uninterrupted time
+- room to experiment and adjust
 %%
+## seeing that our work makes a difference
 
-# sense of purpose
+> Our bosses telling us how important our work is, is nowhere near as powerful as us getting to see it ourselves. (simon sinek, leaders eat last)
 
-> When a company declares that its cause is to become a global leader or to become a household name or to make the best products, those are selfish desires with no intended value to anyone beyond the company itself (and often not even everyone in the company). Those causes can't inspire humans because those causes aren't causes. No one wakes up in the morning inspired to champion that. In other words, none of them is a cause bigger than the company.
+Actually seeing the people you help vs just looking at numbers and data can have a dramatic effect on motivation.
 
-The second one is more productive, more loyal, and would likely turn down an easier, better-paid job to stay. The first one would leave for a small raise. Nothing about the task changed.
+> When we are able to physically see the positive impact of the decisions we make, it inspires us.
 
-> *"If you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea."*
+Connecting people with the effects of their work serves both learning and motivation. This connection can easily get lost as organizations grow and work gets divided between teams.
 
-# seeing your work makes a difference
+Meaning doesn't require an ambitious company mission. Making a colleague's work easier, creating something beautiful, or solving an interesting problem can all be meaningful.
 
-> [!tip] Simon Sinek - leaders eat last
+## a sense of purpose
 
-> Our bosses telling us how important our work is, is nowhere near as powerful as us getting to see it ourselves.
+> _"If you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea."_
 
-The gap between how obvious this is and how rarely it's done:
+Understanding *why* we're doing something helps us make decisions when instructions run out or circumstances change.
 
-> Grant surveyed several thousand executives… only 1 percent of the executives said managers should bother showing employees that their work makes a difference.
+But communicating a purpose isn't the same as giving people a sense of purpose. People may understand the vision perfectly well without seeing how their work contributes to it.
 
-## the flip side: abstraction
+Being able to connect everyday decisions to a meaningful outcome is more useful than being periodically reminded of a mission statement.
 
-> When we divorce ourselves from humanity through numerical abstraction, we are capable of inhuman behavior… The more abstract people become, the more capable we are of doing them harm.
 
-Scale, dashboards, headcount, "the business," "resources," and *"that's above my pay grade"* are all forms of the same distance. 
+## recognition
 
-> [!EXAMPLE] [reinventing organizations: listening to purpose](https://reinventingorganizationswiki.com/en/theory/listening-to-purpose/)
+Recognition doesn't have to take the form of praise. Taking an interest in someone's thinking, asking about something they've learned, or building on their ideas also communicates that their contribution matters.
 
-# recognition and control
+This is another reason why [free flow of information](#free-flow-of-information) matters. People may be doing valuable work that others rarely get to see.
 
-> [!tip] Simon Sinek - leaders eat last
+Someone whose suggestions repeatedly go unanswered may gradually stop making them, without having stopped caring about the outcome.
 
-**Recognition**: Being criticized is *better* for engagement than being ignored, because at least someone has acknowledged you exist. Neglect is worse than harshness. (Which is not an argument for harshness; the third number is the one to aim at. 
+## commitment vs compliance
 
-> It is not the demands of the job that cause the most stress, but the degree of control workers feel they have throughout their day. The studies also found that the effort required by a job is not in itself stressful, but rather the imbalance between the effort we give and the reward we feel. Put simply: less control, more stress.
+Someone who understands and cares about the outcome may notice when a plan no longer serves its purpose, look for a better approach, or seek help from others.
 
-%%
-# measuring what you value
+Someone focused on fulfilling an instruction has less reason to do these things, particularly if deviating from it involves personal risk.
 
-> [!tip] Simon Sinek - start with why
+Compliance is useful when known procedures need to be followed reliably, but less so when the work requires learning, creativity, and independent judgment.
 
-*what gets measured gets done — so be careful what you measure, because it will happen.*
+We can't demand commitment, but we can give people opportunities to understand and influence what they're working toward.
 
-If the thing you claim to value has no measure attached, the thing that *does* have a measure will quietly win. Find a way to measure the value, not just the output.
-%%
-# commitment vs compliance
+## some useful questions
 
-> [!EXAMPLE] https://psychsafety.com/accountability/
+When someone is struggling to engage with their work:
 
-%%
-_Doing what was asked tells you something about behaviour. It tells you less about whether someone believes in what they're doing._
-
-**Compliance** means meeting an expectation: following a rule, carrying out an instruction, or doing what is required.
-
-**Commitment** means choosing to support a purpose or undertaking, and taking responsibility for your contribution to it.%%
-
-> [!TIP] peter block & peter koestenbaum - confronting our freedom
-
-%%
-## creating the conditions for commitment
-
-- **Explain the purpose.** What matters here, who benefits, and why is this worth doing? And state it as something people can act on — *"For values or guiding principles to be truly effective they have to be verbs. It's not 'integrity,' it's 'always do the right thing.'"* Nouns on a wall can't be built into a system, an incentive, or an expectation. *"A little more innovation today if you would please, Bob."*
+- Can they see what their work contributes to?
     
-- **Invite influence while it is possible.** Asking for input after everything is settled gives people little opportunity to shape the outcome.
+- Do they have enough influence over how they approach it?
     
-- **Be honest about constraints.** Say what is required, what is open, and who makes the decision.
+- Can they use and develop their skills, and see themselves making progress?
     
-- **Match responsibility with authority.** People need room to make the choices they will be held responsible for. Responsibility without control is the shape of the job that makes people ill.
+- How much energy goes into dealing with unnecessary obstacles?
     
-- **Make commitments concrete.** What can each person realistically take on? What support do they need? When should the agreement be revisited?
+- What happens when they take initiative?
+    
+- Are their contributions noticed and valued?
+    
+- How much time do they actually spend on the parts of the work they find engaging?
+    
 
-- **Let people see the result.** Close the loop so they can see what their work did, rather than being told it mattered.
+We won't always be able to make work interesting or meaningful for everyone. But there's often quite a lot we can do to avoid making otherwise interesting work unnecessarily frustrating.
+
+## resources
+
+- Daniel Pink — Drive
     
-%%
+- Mihaly Csikszentmihalyi — Flow
+    
+- Simon Sinek — Leaders Eat Last
+    
+- Peter Block & Peter Koestenbaum — Confronting Our Freedom
+    
+- [Accountability](https://psychsafety.com/accountability/)

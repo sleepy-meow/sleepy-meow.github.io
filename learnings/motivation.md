@@ -1,5 +1,3 @@
-# motivation
-
 > _People are either motivated or they are not. Unless you give motivated people something to believe in, they will motivate themselves to find a new job._ (simon sinek, start with why)
 
 _"Motivating the team" is often described as something a leader does to people._

@@ -1,10 +1,10 @@
-> _People are either motivated or they are not. Unless you give motivated people something to believe in, they will motivate themselves to find a new job._ (simon sinek, start with why)
-
 _"Motivating the team" is often described as something a leader does to people._
 
 But much of what influences motivation lies in the everyday experience of doing the work: finding it interesting, having some influence over it, making progress, and seeing that it matters.
 
 When people seem unmotivated, it's worth getting curious about their experience of the work before concluding that they lack motivation.
+
+> _People are either motivated or they are not. Unless you give motivated people something to believe in, they will motivate themselves to find a new job._ (simon sinek, start with why)
 
 ## intrinsic vs extrinsic motivation
 
@@ -28,10 +28,6 @@ There is a difference between being given a problem to solve and a series of ins
 Autonomy doesn't mean being left alone to figure everything out. Clear goals, useful constraints, information, and support can give us more meaningful control over our work.
 
 Sometimes processes introduced to help people get things done end up removing the very parts of the work they found engaging.
-
-## seeing ourselves make progress
-
-Part of what makes an activity satisfying is seeing ourselves getting somewhere: understanding something new, developing a skill, or seeing an idea gradually take shape.
 
 ## flow
 
